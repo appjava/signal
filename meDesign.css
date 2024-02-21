@@ -1,5 +1,11 @@
-
-		body {
+.premium {
+    position: relative;
+}
+.live {
+    height:fit-content;
+}
+		
+        body {
 			display: grid;
 			grid-template-columns: repeat(4, 180px);
 			gap: 30px;
@@ -16,7 +22,7 @@
 			border-radius: 9px;
 			text-align: center;
 			height: auto;
-			justify-content: space-between;
+			justify-content:center;
 			margin-bottom: 6px;
 		}
 		iframe {
