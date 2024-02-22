@@ -1,8 +1,23 @@
 .premium {
-    position: relative;
+    display: flex;
+	background: rgb(12, 12, 12);
+}
+.theater {
+    display: flex;
+	background: rgb(12, 12, 12);
+}
+.science {
+    display: flex;
+	background: rgb(12, 12, 12);
+}
+.sport {
+    display: flex;
+	background: rgb(12, 12, 12);
 }
 .live {
+	display: flex;
     height:fit-content;
+	background: rgb(12, 12, 12);
 }
 li:hover {
 	transform: scale(1.15,1.15);
@@ -12,14 +27,14 @@ li:hover {
 	transform: scale(1,1);
 	background-color: gray;
 }
-		
+
         body {
 			display: grid;
 			grid-template-columns: repeat(4, 180px);
-			column-gap: 30px;
+			column-gap: 24px;
 			row-gap: 15px;
 			justify-content: center;
-			margin-bottom: 60px;
+			margin-bottom: 9px;
 			margin-top: 12px;
 			background: black;
 			color: white;
@@ -41,7 +56,7 @@ li:hover {
 		}
 	    li {
 			margin: 0 auto;
-			padding: 0 10%;
+			padding: 0 15%;
 			width: fit-content;
 			border-radius: 6px;
 		}
