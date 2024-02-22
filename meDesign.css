@@ -4,11 +4,15 @@
 .live {
     height:fit-content;
 }
+li:hover {
+	transform: scale(1.5,1.5);
+}
 		
         body {
 			display: grid;
 			grid-template-columns: repeat(4, 180px);
-			gap: 30px;
+			column-gap: 30px;
+			row-gap: 15px;
 			justify-content: center;
 			margin-bottom: 60px;
 			margin-top: 12px;
@@ -29,7 +33,6 @@
 			list-style-type: none;
 			margin: 0;
 			padding: 0;
-			
 		}
 	    li {
 			margin: 0;
@@ -43,6 +46,10 @@
 			body {
 				grid-template-columns: repeat(2, 240px);
 			}
+			h3 {
+				font-size: 21px;
+			}
+
 		}
 		@media screen and (max-width: 600px){
 			body {
