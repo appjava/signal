@@ -5,7 +5,12 @@
     height:fit-content;
 }
 li:hover {
-	transform: scale(1.5,1.5);
+	transform: scale(1.15,1.15);
+	background-color: gray;
+}
+.live:hover {
+	transform: scale(1,1);
+	background-color: gray;
 }
 		
         body {
@@ -35,8 +40,10 @@ li:hover {
 			padding: 0;
 		}
 	    li {
-			margin: 0;
-			padding: 0;
+			margin: 0 auto;
+			padding: 0 10%;
+			width: fit-content;
+			border-radius: 6px;
 		}
 	    a {
 			text-decoration: none;
