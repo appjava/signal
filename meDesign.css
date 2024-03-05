@@ -98,7 +98,7 @@ iframe{
 				grid-template-columns: repeat(1, 240px);
 			}
 			.guide{
-				width: 420px;
-				margin-left: -90px;
+				width: 400px;
+				margin-left: -80px;
 			}
 		}
