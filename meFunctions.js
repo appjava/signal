@@ -10,6 +10,8 @@ const family = document.getElementById('family');
 const signature = document.getElementById('signature');
 const mundi = document.getElementById('mundi');
 const pop = document.getElementById('pop');
+const cx = document.getElementById('cx');
+
 
 //Show guide
 one.addEventListener('mouseover', function handleMouseOver() {
@@ -52,9 +54,11 @@ pop.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_pop"></iframe>`;
     guide.style.display = 'block';
 });
-
-
-
+cx.addEventListener('mouseover', function handleMouseOver() {
+    guide.innerHTML=``
+    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/cinemax_mexico"></iframe>`;
+    guide.style.display = 'block';
+});
 
 
 
