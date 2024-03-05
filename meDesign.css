@@ -68,7 +68,8 @@ li:hover {
 	border: 1px solid white;
 	display: none;
 	position:absolute;
-	bottom: 0;
+	top: 65%;
+	
 	right: 12px;
 	width: 680px;
 	height: 300px;
