@@ -16,47 +16,93 @@ const cx = document.getElementById('cx');
 //Show guide
 one.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_latinoamerica"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>ONE</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_latinoamerica"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 two.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_2_latinoamerica"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>TWO</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_2_latinoamerica"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 plus.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_plus"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>PLUS</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_plus"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 extreme.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_xtreme"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>EXTREME</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_xtreme"></iframe>
+    </fieldset>
+    `;
+    
     guide.style.display = 'block';
 });
 family.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_family_latinoamerica"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>FAMILY</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_family_latinoamerica"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 signature.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_signature_latinoamerica"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>SIGNATURE</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_signature_latinoamerica"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 mundi.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_mundi"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>MUNDI</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_mundi"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 pop.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/hbo_pop"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>POP</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/hbo_pop"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 cx.addEventListener('mouseover', function handleMouseOver() {
     guide.innerHTML=``
-    guide.innerHTML=`<iframe id="calender" src="https://www.gatotv.com/canal/cinemax_mexico"></iframe>`;
+    guide.innerHTML=`
+    <fieldset>
+    <legend>CX</legend>
+    <iframe id="calender" src="https://www.gatotv.com/canal/cinemax_mexico"></iframe>
+    </fieldset>
+    `;
     guide.style.display = 'block';
 });
 

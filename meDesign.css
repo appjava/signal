@@ -8,6 +8,7 @@ body {
 	margin-top: 12px;
 	background: black;
 	color: white;
+	font-family: serif;
 }
 div {
 	display: flex;
@@ -74,12 +75,19 @@ li:hover {
 	width: 800px;
 	height: 300px;
 }
-iframe{
+iframe, fieldset{
 	width: 100%;
 	vertical-align: middle;
 	height: 100%;
 	border-radius: 9px;
+	border: none;
 }
+legend{
+	margin: 3px auto;
+	padding: 3px;
+	
+}
+
 
 		@media screen and (max-width: 900px){
 			body {
