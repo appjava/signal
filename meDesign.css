@@ -71,7 +71,6 @@ li:hover {
 }
 .guide{
 	display: none;
-	border: 1px solid red;
 	width: 800px;
 	height: 300px;
 }
@@ -79,6 +78,7 @@ iframe{
 	width: 100%;
 	vertical-align: middle;
 	height: 100%;
+	border-radius: 9px;
 }
 
 		@media screen and (max-width: 900px){
