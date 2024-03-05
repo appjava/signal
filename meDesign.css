@@ -1,3 +1,45 @@
+body {
+	display: grid;
+	grid-template-columns: repeat(4, 180px);
+	column-gap: 24px;
+	row-gap: 15px;
+	justify-content: center;
+	margin-bottom: 9px;
+	margin-top: 12px;
+	background: black;
+	color: white;
+}
+div {
+	display: flex;
+	flex-direction: column;
+	border: 2px solid #212529;
+	border-radius: 9px;
+	text-align: center;
+	height: auto;
+	justify-content:center;
+	margin-bottom: 6px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	margin: 0 auto;
+	padding: 0 15%;
+	width: fit-content;
+	border-radius: 6px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 .premium {
     display: flex;
 	background: rgb(12, 12, 12);
@@ -27,67 +69,18 @@ li:hover {
 	transform: scale(1,1);
 	background-color: gray;
 }
-
-        body {
-			display: grid;
-			grid-template-columns: repeat(4, 180px);
-			column-gap: 24px;
-			row-gap: 15px;
-			justify-content: center;
-			margin-bottom: 9px;
-			margin-top: 12px;
-			background: black;
-			color: white;
-		}
-		div {
-			display: flex;
-			flex-direction: column;
-			border: 2px solid #212529;
-			border-radius: 9px;
-			text-align: center;
-			height: auto;
-			justify-content:center;
-			margin-bottom: 6px;
-		}
-	    ul {
-			list-style-type: none;
-			margin: 0;
-			padding: 0;
-		}
-	    li {
-			margin: 0 auto;
-			padding: 0 15%;
-			width: fit-content;
-			border-radius: 6px;
-		}
-	    a {
-			text-decoration: none;
-			color: white;
-		}
 .guide{
-	border: 1px solid white;
 	display: none;
-	position:absolute;
-	top: 65%;
-	
-	right: 12px;
-	width: 680px;
+	border: 1px solid red;
+	width: 800px;
 	height: 300px;
-	transform: scale(1, 1);
 }
 iframe{
-	width: 99%;
-	height: 300px;
-	
+	width: 100%;
+	vertical-align: middle;
+	height: 100%;
 }
-		@media screen and (max-width: 1200px){
-			.guide{
-				right: -45px;
-				width:600px;
-				transform: scale(0.8, 0.8);
-				}
 
-		}
 		@media screen and (max-width: 900px){
 			body {
 				grid-template-columns: repeat(2, 240px);
@@ -96,9 +89,7 @@ iframe{
 				font-size: 21px;
 			}
 			.guide{
-				right: 60px;
-				width:600px;
-				transform: scale(0.9, 0.9);
+				width: 500px;
 				}
 
 		}
@@ -107,8 +98,7 @@ iframe{
 				grid-template-columns: repeat(1, 240px);
 			}
 			.guide{
-			right: -30px;
-			width: 540px;
-			transform: scale(0.6, 0.6);
+				width: 420px;
+				margin-left: -90px;
 			}
 		}
