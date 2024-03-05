@@ -84,8 +84,23 @@ iframe, fieldset{
 }
 legend{
 	margin: 3px auto;
+	margin-top: -12px;
 	padding: 3px;
 	
+}
+.guia:hover{
+	cursor:help;
+}
+.close{
+	position: relative;
+	left: 48%;
+	top: 1.5%;
+	background-color: white;
+	color: black;
+	cursor:pointer;
+	padding: 1px 6px;
+	border-radius: 3px;
+	font-size: 12px;
 }
 
 @media screen and (max-width: 900px){

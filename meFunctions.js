@@ -14,9 +14,10 @@ const cx = document.getElementById('cx');
 
 
 //Show guide
-one.addEventListener('mouseover', function handleMouseOver() {
+one.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>ONE</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_latinoamerica"></iframe>
@@ -24,9 +25,10 @@ one.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-two.addEventListener('mouseover', function handleMouseOver() {
+two.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>TWO</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_2_latinoamerica"></iframe>
@@ -34,9 +36,10 @@ two.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-plus.addEventListener('mouseover', function handleMouseOver() {
+plus.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>PLUS</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_plus"></iframe>
@@ -44,20 +47,21 @@ plus.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-extreme.addEventListener('mouseover', function handleMouseOver() {
+extreme.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>EXTREME</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_xtreme"></iframe>
     </fieldset>
     `;
-    
     guide.style.display = 'block';
 });
-family.addEventListener('mouseover', function handleMouseOver() {
+family.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>FAMILY</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_family_latinoamerica"></iframe>
@@ -65,9 +69,10 @@ family.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-signature.addEventListener('mouseover', function handleMouseOver() {
+signature.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>SIGNATURE</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_signature_latinoamerica"></iframe>
@@ -75,9 +80,10 @@ signature.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-mundi.addEventListener('mouseover', function handleMouseOver() {
+mundi.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>MUNDI</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_mundi"></iframe>
@@ -85,9 +91,10 @@ mundi.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-pop.addEventListener('mouseover', function handleMouseOver() {
+pop.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>POP</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/hbo_pop"></iframe>
@@ -95,9 +102,10 @@ pop.addEventListener('mouseover', function handleMouseOver() {
     `;
     guide.style.display = 'block';
 });
-cx.addEventListener('mouseover', function handleMouseOver() {
+cx.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
+    <span class="close">X</span>
     <fieldset>
     <legend>CX</legend>
     <iframe id="calender" src="https://www.gatotv.com/canal/cinemax_mexico"></iframe>
@@ -107,12 +115,9 @@ cx.addEventListener('mouseover', function handleMouseOver() {
 });
 
 
-
 // Hide guide
-window.addEventListener('click', function handleMouseOut() {
+guide.addEventListener('click', () => {
     guide.style.display = 'none';
     guide.innerHTML=``;
 
-    // 👇️ if you used visibility property to hide the div
-    // hiddenDiv.style.visibility = 'hidden';
   });
