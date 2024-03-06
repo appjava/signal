@@ -108,7 +108,7 @@ cx.addEventListener('click', () => {
     <span class="close">X</span>
     <fieldset>
     <legend>CX</legend>
-    <iframe id="calender" src="https://www.gatotv.com/canal/cinemax_mexico"></iframe>
+    <iframe id="calender" src="https://www.gatotv.com/canal/cinemax_colombia"></iframe>
     </fieldset>
     `;
     guide.style.display = 'block';
