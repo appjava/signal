@@ -61,3 +61,5 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1,H2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1,Camera 4 (HomeSafe)
+rtsp://admin:ecohome1423@192.168.0.102:554/cam/realmonitor?channel=4&subtype=1
