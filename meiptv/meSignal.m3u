@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png",Caracol
+#EXTINF:-1 tvg-logo="",Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/CanalRCNTV.svg/372px-CanalRCNTV.svg.png",RCN TV
+#EXTINF:-1 tvg-logo="",RCN TV
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LOGO-TELEPACIFICO.png/320px-LOGO-TELEPACIFICO.png",Telepacífico
+#EXTINF:-1 tvg-logo="",Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/CanalUnoComoTu.svg/319px-CanalUnoComoTu.svg.png",Canal Uno
+#EXTINF:-1 tvg-logo="",Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/320px-Se%C3%B1al_Colombia_logo.svg.png",Señal Colombia
+#EXTINF:-1 tvg-logo="",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="",CNN Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
