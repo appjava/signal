@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" ,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol Ahora
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -7,6 +7,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,RCN TV
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,RCN Internacional
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,RCN Plus
@@ -25,3 +27,35 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 #EXTINF:-1,Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1,Blu Radio
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1,CableNoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1,Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,Canal Uno
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1,CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,CNN Español
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+#EXTINF:-1,Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1,DePelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1,DePelicula+
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1,Family Channel
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1,France24 Español
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1,MAX ANIME
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1,Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1,Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
