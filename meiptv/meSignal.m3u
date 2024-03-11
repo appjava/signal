@@ -1,110 +1,71 @@
 #EXTM3U
-# Playlist created by SMPlayer 23.6.0 (revisión 10157) 
-#EXTINF:0.933389,Caracol
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Caracol_Televisi%C3%B3n_logo_2023.png",Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:1.20002,RCN TV
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:CanalRCNTV.svg",RCN TV
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1,Telepacífico
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:LOGO-TELEPACIFICO.png",Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Canal Uno
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:CanalUnoComoTu.svg",Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:0,Señal Colombia
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:Se%C3%B1al_Colombia_logo.svg",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0,Caracol Ahora
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:1.20002,RCN Internacional
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1,RCN Plus
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,RCN Xtra
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,90Minutos Noticias
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1,CableNoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,TeleMedellín
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1,TeleAntioquia
-https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
-#EXTINF:-1,Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1,AgroTendencias
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1,Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,Red+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1,Blu Radio
-https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
-#EXTINF:-1,CNN Español
+#EXTINF:-1 tvg-logo="",CNN Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1,CGTN Español
+#EXTINF:-1 tvg-logo="",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,DW Español
+#EXTINF:-1 tvg-logo="",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,France24 Español
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1,Cosmovisión
-https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1,DePelicula
+#EXTINF:-1 tvg-logo="",DePelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1,DePelicula+
+#EXTINF:-1 tvg-logo="",DePelicula+
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1,Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1,Family Channel
-https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1,Antena3 Internacional
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1,MAX ANIME
+#EXTINF:-1 tvg-logo="",MAX ANIME
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,Platzi TV
-https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-logo="",AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-logo="",AMC
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-logo="",A&E
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1,LifeTime
+#EXTINF:-1 tvg-logo="",LifeTime
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1,Star
+#EXTINF:-1 tvg-logo="",Star
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1,Fx
+#EXTINF:-1 tvg-logo="",Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1,Sony Channel
+#EXTINF:-1 tvg-logo="",Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1,Paramount
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1,BLU channel
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-#EXTINF:-1,Sony Cine
+#EXTINF:-1 tvg-logo="",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1 tvg-logo="",Paramount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-logo="",BLU channel
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+#EXTINF:-1 tvg-logo="",Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Plus
+#EXTINF:-1 tvg-logo="",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 tvg-logo="",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Premier
+#EXTINF:-1 tvg-logo="",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1,MultiPremier
+#EXTINF:-1 tvg-logo="",MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1,Space
+#EXTINF:-1 tvg-logo="",Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1,Studio
+#EXTINF:-1 tvg-logo="",Studio
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="",TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1,TNT Series
+#EXTINF:-1 tvg-logo="",TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1,CartoonNetwork
+#EXTINF:-1 tvg-logo="",CartoonNetwork
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-logo="",Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,GarageTV
+#EXTINF:-1 tvg-logo="",GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Turbo
+#EXTINF:-1 tvg-logo="",Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,H2
+#EXTINF:-1 tvg-logo="",H2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
