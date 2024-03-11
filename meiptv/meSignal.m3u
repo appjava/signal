@@ -11,16 +11,8 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CNN Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,DePelicula
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1,DePelicula+
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1,AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1,AMC
@@ -39,8 +31,6 @@ http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Paramount
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1,BLU channel
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Plus
@@ -53,12 +43,14 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1,Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1,Studio
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1,TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1,DePelicula+
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1,MAX ANIME
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1,CartoonNetwork
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
