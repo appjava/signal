@@ -1,71 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Caracol
+#EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:-1 tvg-logo="",RCN TV
+#EXTINF:-1,RCN TV
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Telepacífico
+#EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Canal Uno
+#EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-logo="",Señal Colombia
+#EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CNN Español
+#EXTINF:-1,CNN Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CGTN Español
+#EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="",DW Español
+#EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="",DePelicula
+#EXTINF:-1,DePelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",DePelicula+
+#EXTINF:-1,DePelicula+
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",MAX ANIME
+#EXTINF:-1,MAX ANIME
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1 tvg-logo="",AXN
+#EXTINF:-1,AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 tvg-logo="",AMC
+#EXTINF:-1,AMC
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-logo="",A&E
+#EXTINF:-1,A&E
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 tvg-logo="",LifeTime
+#EXTINF:-1,LifeTime
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Star
+#EXTINF:-1,Star
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Fx
+#EXTINF:-1,Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Sony Channel
+#EXTINF:-1,Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Sony Cine
+#EXTINF:-1,Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Paramount
+#EXTINF:-1,Paramount
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1 tvg-logo="",BLU channel
+#EXTINF:-1,BLU channel
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-#EXTINF:-1 tvg-logo="",Golden
+#EXTINF:-1,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Golden Plus
+#EXTINF:-1,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Golden Edge
+#EXTINF:-1,Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Golden Premier
+#EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="",MultiPremier
+#EXTINF:-1,MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Space
+#EXTINF:-1,Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Studio
+#EXTINF:-1,Studio
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1 tvg-logo="",TNT
+#EXTINF:-1,TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1 tvg-logo="",TNT Series
+#EXTINF:-1,TNT Series
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CartoonNetwork
+#EXTINF:-1,CartoonNetwork
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1 tvg-logo="",GarageTV
+#EXTINF:-1,GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="",Turbo
+#EXTINF:-1,Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1 tvg-logo="",H2
+#EXTINF:-1,H2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
