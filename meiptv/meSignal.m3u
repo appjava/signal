@@ -20,8 +20,6 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1,AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1,CNN Español
-http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,AXN
@@ -58,8 +56,6 @@ http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1,Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1,Studio
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1,TNT
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,TNT Series
@@ -76,9 +72,5 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1,Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,H
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,H2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,A3Series
 http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
