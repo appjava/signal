@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Caracol
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,RCN TV
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,Telepacífico
