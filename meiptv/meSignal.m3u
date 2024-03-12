@@ -2,7 +2,7 @@
 #EXTINF:-1,Caracol
 #http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1,RCN TV
+#EXTINF:-1,RCN
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -62,5 +62,5 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1,H2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,Camera 4 (HomeSafe)
-rtsp://admin:ecohome1423@192.168.0.102:554/cam/realmonitor?channel=4&subtype=1
+#EXTINF:-1,A3Series
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
