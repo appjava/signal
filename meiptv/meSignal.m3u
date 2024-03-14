@@ -1,3 +1,4 @@
+#------------------------------------- TDT -----------------------------------------------#
 #EXTM3U
 #EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
@@ -11,6 +12,10 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Blu Radio
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1,CableNoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Caracol Ahora
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,90Minutos Noticias
@@ -27,21 +32,33 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1,Blu Radio
-https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
-#EXTINF:-1,CableNoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1,AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1,A3Series
-http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
-#EXTINF:-1,Antena3 Internacional
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,France24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1,RT
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1,Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8
+#EXTINF:-1,A3Series
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
+#EXTINF:-1,Antena3 Internacional
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1,A3Cine
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1,MAX ANIME
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1,ToonCast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1,Love Nature (ES)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
+#EXTINF:-1,RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#---------------------------------------------------------------#
