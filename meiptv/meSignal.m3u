@@ -39,11 +39,11 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1,Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1,Sony Cine
+#EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Paramount
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1,H6O 2
+#EXTINF:-1,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
@@ -55,7 +55,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Space
+#EXTINF:-1,Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1,Studio
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
@@ -69,7 +69,7 @@ http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1,MAX ANIME
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,CartoonNetwork
+#EXTINF:-1,Cartoon Network
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
@@ -81,7 +81,6 @@ http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1,BeinSport Xtra ESP
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live
 #EXTINF:-1,CBS Sports USA
 http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
 #EXTINF:-1,FOX Deportes USA
@@ -97,7 +96,7 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Ratuken CineEspañol
 https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Sony Comedia
+#EXTINF:-1,SonyComedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1,Love Nature (ES)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
