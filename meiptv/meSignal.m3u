@@ -31,13 +31,13 @@ http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1,A&E
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 tvg-id ="LifeTime" tvg-name="LifeTime" tvg-shift="-5",LifeTime
+#EXTINF:-1,LifeTime
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1,Star
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1,Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-id ="Sony Channel" tvg-name="Sony Channel" tvg-shift="-5",Sony Channel
+#EXTINF:-1,Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -81,7 +81,6 @@ http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1,BeinSport Xtra ESP
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live
 #EXTINF:-1,CBS Sports USA
 http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
 #EXTINF:-1,FOX Deportes USA
