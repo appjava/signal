@@ -37,7 +37,7 @@ http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1,Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Channel",Sony Channel
+#EXTINF:-1 tvg-name="Sony Channel" tvg-shift=-5,Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
