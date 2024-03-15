@@ -1,5 +1,5 @@
-#EXTM3U
 #------------------------------------- TDT -----------------------------------------------#
+#EXTINF:-1,<-------------- TDT ---------------------->
 #EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD
@@ -54,4 +54,67 @@ http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#---------------------------------------------------------------------
+#----------Source:https://www.tdtchannels.com/listas------------------
+#EXTINF:-1,Euro News
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1,Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1,Equipo Investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1,ANHQV
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1,NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,Classic Arts
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#--- Source:https://www.pluginsxbmc.com/2021/06/lista-iptv-de-los-canales-de-pluto-tv.html-------
+#EXTINF:-1,<-------------- Pluto TV --------------------->
+#EXTINF:-1,Smithsonian
+https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+#EXTINF:-1,Archivos Extraterrestres
+https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+#EXTINF:-1,Soccer Paramount
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1,Dazn Women's Soccer
+https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
+#EXTINF:-1,CSI
+https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:-1,NCIS
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+#EXTINF:-1,MacGyver
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1,Naturaleza
+https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+#EXTINF:-1,Animales
+https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+#EXTINF:-1,Encantador
+https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:-1,Velocidad
+https://r.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+#EXTINF:-1,Autos
+https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
+#EXTINF:-1,Coches Clásicos
+https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
+#EXTINF:-1,MotorVisión
+https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+#EXTINF:-1,Anime
+https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1,Anime Acción
+https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+#EXTINF:-1,Captain Tsubasa
+https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1,E-Sport
+https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
+#EXTINF:-1,Viajes
+https://r.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
+#EXTINF:-1,Hogar
+https://r.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
+#EXTINF:-1,Misterios
+https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 #-----------------------------------------------------------------#
