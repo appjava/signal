@@ -54,6 +54,26 @@ http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#---------------------------------------------------------------------
+#----------Source:https://www.tdtchannels.com/listas------------------
+#EXTINF:-1,Euro News
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1,Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1,Equipo Investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1,ANHQV
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1,NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1,NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,Classic Arts
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+
 #-----------------------------------------------------------------#
 #----------------------------ENTERTAINMENT---------------------------------#
 #EXTINF:-1,H&H 107
