@@ -140,8 +140,6 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1,Cinema 120
 http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1,????? 115
-#http://stream.flynetwifi.com:1935/live/mobile-115/playlist.m3u8
 #EXTINF:-1,Ratuken ActionMovies (ES)
 https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,Ratuken CineEspañol
