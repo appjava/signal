@@ -43,7 +43,6 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1,RT
 http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1,Enlace
-#https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8
 #EXTINF:-1,A3Series
 http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
