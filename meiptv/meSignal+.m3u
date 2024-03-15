@@ -189,56 +189,6 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1,Lego 526
 https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
 #---------------------------------------------------------------------------#
-#----------------------------SPORT------------------------------------------#
-#EXTINF:-1,BeinSport Xtra ESP
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
-#EXTINF:-1,CBS Sports USA
-http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
-#EXTINF:-1,FOX Deportes USA
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
-#EXTINF:-1,Fox Sport 10
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1,FOX Sport 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1,FOX Sport 3 108
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1,ESPN
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1,ESPN 2
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1,ESPN 3 121
-http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1,TNT Sport 143
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,TyC Sport 5
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1,ViX TUDN 357
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
-#EXTINF:-1,Sport ? 361
-https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
-#EXTINF:-1,ViX TUDN 2 364
-https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
-#EXTINF:-1,ViX TUDN 438
-https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
-#EXTINF:-1,Sport México 452
-https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
-#EXTINF:-1,Poker GO 426
-https://linear-426.frequency.stream/mt/studio/426/hls/master/playlist.m3u8
-#EXTINF:-1,Real Madrid TV 491
-https://linear-491.frequency.stream/mt/studio/491/hls/master/playlist.m3u8
-#EXTINF:-1,Vix Lo Mejor Liga Mex 569
-https://linear-569.frequency.stream/mt/studio/569/hls/master/playlist.m3u8
-#EXTINF:-1,Vix Lo Mejor Liga Mex2 570
-https://linear-570.frequency.stream/mt/studio/570/hls/master/playlist.m3u8
-#EXTINF:-1,Tigo Sport 556
-https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
-#EXTINF:-1,Redbull 534
-https://linear-534.frequency.stream/mt/studio/534/hls/master/playlist.m3u8
-#EXTINF:-1,Sport? Spa 535
-https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist.m3u8
-#EXTINF:-1,Billiard Tv
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#----------------------------------------------------------------------------#
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
