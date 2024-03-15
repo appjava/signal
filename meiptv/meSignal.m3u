@@ -1,5 +1,4 @@
 #------------------------------------- TDT -----------------------------------------------#
-#EXTINF:-1,<-------------- TDT ---------------------->
 #EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD
@@ -55,7 +54,6 @@ http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
 #---------------------------------------------------------------------
-#----------Source:https://www.tdtchannels.com/listas------------------
 #EXTINF:-1,Euro News
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1,Negocios TV
@@ -72,9 +70,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,Classic Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#--- Source:https://www.pluginsxbmc.com/2021/06/lista-iptv-de-los-canales-de-pluto-tv.html-------
-#EXTINF:-1,<-------------- Pluto TV --------------------->
 #EXTINF:-1,Pluto Smithsonian
 https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 #EXTINF:-1,Pluto Archivos Extraterrestres
