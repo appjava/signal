@@ -94,14 +94,6 @@ http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1,Comedy Central 1
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1,ION 432
-https://linear-432.frequency.stream/mt/studio/432/hls/master/playlist.m3u8
-#EXTINF:-1,ION Plus 433
-https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
-#EXTINF:-1,At Home 458
-https://linear-458.frequency.stream/mt/studio/458/hls/master/playlist.m3u8
-#EXTINF:-1,Bounce XL 462
-https://linear-462.frequency.stream/mt/studio/462/hls/master/playlist.m3u8
 #EXTINF:-1,Cinco 351
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #---------------------------------------------------------------------------#
@@ -140,18 +132,12 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1,Cinema 120
 http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1,Ratuken ActionMovies (ES)
-https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Ratuken CineEspañol
-https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1,SonyComedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1,SonyMovies
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,80&90 Rewind 456
-https://linear-456.frequency.stream/mt/studio/456/hls/master/playlist.m3u8
 #EXTINF:-1,Vix Cine Retro 562
 https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
 #EXTINF:-1,Moovi Mex 563
@@ -160,6 +146,8 @@ https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
 https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
 #EXTINF:-1,ViX Cine Club 559
 https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
+#EXTINF:-1,H6O
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 #---------------------------------------------------------------------------#
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
@@ -186,6 +174,8 @@ https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1,Lego 526
 https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
+#EXTINF:-1,Disney Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #---------------------------------------------------------------------------#
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
