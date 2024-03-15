@@ -52,15 +52,9 @@ http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,ToonCast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,Love Nature (ES)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#---------------------------------------------------------------#
+#-----------------------------------------------------------------#
 #-----------------------------CHANNELS----------------------------#
 #EXTINF:-1,Pasiones 14
 http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8
@@ -106,14 +100,16 @@ http://stream.flynetwifi.com:1935/live/mobile-131/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-132/playlist.m3u8
 #EXTINF:-1,Canal E 140
 http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
-#----------------------------------------------------------------#
-#------------------------------NEWS------------------------------#
+#--------------------------------------------------------------------------#
+#------------------------------NEWS----------------------------------------#
 #EXTINF:-1,CNN Español 61
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
 #EXTINF:-1,24h 100
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
-#-----------------------------------------------------------------#
-#----------------------------ENTERTAINMENT------------------------#
+#EXTINF:-1,CNN Mex 358
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#--------------------------------------------------------------------------#
+#----------------------------ENTERTAINMENT---------------------------------#
 #EXTINF:-1,H&H 107
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 #EXTINF:-1,Film&Arts 142
@@ -152,10 +148,24 @@ http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1,Comedy Central 1
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
-#------------------------------------------------------------------#
-#----------------------------MOV-----------------------------------#
+#EXTINF:-1,ION 432
+https://linear-432.frequency.stream/mt/studio/432/hls/master/playlist.m3u8
+#EXTINF:-1,ION Plus 433
+https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
+#EXTINF:-1,At Home 458
+https://linear-458.frequency.stream/mt/studio/458/hls/master/playlist.m3u8
+#EXTINF:-1,Bounce XL 462
+https://linear-462.frequency.stream/mt/studio/462/hls/master/playlist.m3u8
+#EXTINF:-1,Cinco 351
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#---------------------------------------------------------------------------#
+#----------------------------MOV--------------------------------------------#
 #EXTINF:-1,Paramount
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1,Golden 406
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1,Golden 408
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 #EXTINF:-1,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Plus
@@ -196,10 +206,24 @@ https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,80&90 Rewind 456
+https://linear-456.frequency.stream/mt/studio/456/hls/master/playlist.m3u8
+#EXTINF:-1,Vix Cine Retro 562
+https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
+#EXTINF:-1,Moovi Mex 563
+https://linear-563.frequency.stream/mt/studio/563/hls/master/playlist.m3u8
+#EXTINF:-1,Moovi2 Mex 564
+https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
+#EXTINF:-1,ViX Cine Club 559
+https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
 #---------------------------------------------------------------------------#
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1,MAX ANIME
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:-1,ToonCast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1,CartoonNetwork
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
@@ -214,8 +238,12 @@ http://stream.flynetwifi.com:1935/live/mobile-060/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8
 #EXTINF:-1,PinkFong 355
 https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
+#EXTINF:-1,BitMe 401
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+#EXTINF:-1,Lego 526
+https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
 #---------------------------------------------------------------------------#
-#----------------------------SPORT-----------------------------------------#
+#----------------------------SPORT------------------------------------------#
 #EXTINF:-1,BeinSport Xtra ESP
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1,CBS Sports USA
@@ -244,9 +272,27 @@ https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
 #EXTINF:-1,ViX TUDN 2 364
 https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+#EXTINF:-1,ViX TUDN 438
+https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
+#EXTINF:-1,Sport México 452
+https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
+#EXTINF:-1,Poker GO 426
+https://linear-426.frequency.stream/mt/studio/426/hls/master/playlist.m3u8
+#EXTINF:-1,Real Madrid TV 491
+https://linear-491.frequency.stream/mt/studio/491/hls/master/playlist.m3u8
+#EXTINF:-1,Vix Lo Mejor Liga Mex 569
+https://linear-569.frequency.stream/mt/studio/569/hls/master/playlist.m3u8
+#EXTINF:-1,Vix Lo Mejor Liga Mex2 570
+https://linear-570.frequency.stream/mt/studio/570/hls/master/playlist.m3u8
+#EXTINF:-1,Tigo Sport 556
+https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
+#EXTINF:-1,Redbull 534
+https://linear-534.frequency.stream/mt/studio/534/hls/master/playlist.m3u8
+#EXTINF:-1,Sport? Spa 535
+https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist.m3u8
 #EXTINF:-1,Billiard Tv
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#---------------------------------------------------------------------------#
+#----------------------------------------------------------------------------#
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
@@ -264,14 +310,24 @@ http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1,Gourmet G Channel 141
 http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#----------------------------------------------------------------#
-#----------------------------MUSIC-------------------------------#
+#EXTINF:-1,Love Nature (ES)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
+#EXTINF:-1,Nature Time 530
+https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
+#-----------------------------------------------------------------------------#
+#----------------------------MUSIC--------------------------------------------#
 #EXTINF:-1,Nick Music 39
 http://stream.flynetwifi.com:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1,Mtv 63
 http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8
-#------------------------------------------------------------------#
-
-#-------------------------x----------------------------------------#
-#EXTINF:-1,x 125
-#http://stream.flynetwifi.com:1935/live/mobile-125/playlist.m3u8
+#EXTINF:-1,TeleHit 417
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1,TeleHit Music 418
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1,TeleHit Music Plus 419
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
+#EXTINF:-1,Vevo 494
+https://linear-494.frequency.stream/mt/studio/494/hls/master/playlist.m3u8
+#EXTINF:-1,BandaMax 400
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#-----------------------------------------------------------------------------#
