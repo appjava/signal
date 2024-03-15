@@ -1,0 +1,85 @@
+#EXTM3U
+#----------------------------ENTERTAINMENT------------------------#
+#EXTINF:-1,H&H 107
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1,Film&Arts 142
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1,AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1,AMC
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1,A&E
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1,LifeTime
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1,Star
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1,Fx
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1,Sony Channel
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1,StarZ Edge 15
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1,TWD Fan Experience
+https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cops Esp
+https://rightsboosterltd-cops-1-co.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,MC 44
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1,Wagner
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1,Usa 59
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1,MasChic 146
+http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
+#EXTINF:-1,E 56
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1,Comedy Central 1
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#------------------------------------------------------------------#
+#----------------------------MOV-----------------------------------#
+#EXTINF:-1,Paramount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1,Golden
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1,MultiPremier
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1,Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1,Studio
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1,Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1,TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1,HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,Universal 64
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1,DePelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1,DePelicula+
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1,Cinema 120
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:-1,????? 115
+#http://stream.flynetwifi.com:1935/live/mobile-115/playlist.m3u8
+#EXTINF:-1,Ratuken ActionMovies (ES)
+https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ratuken CineEspañol
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,SonyComedia
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,SonyMovies
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1,SonyCine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#---------------------------------------------------------------------------#
