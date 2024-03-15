@@ -1,5 +1,5 @@
-#------------------------------------- TDT -----------------------------------------------#
 #EXTM3U
+#------------------------------------- TDT -----------------------------------------------#
 #EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD
@@ -52,12 +52,6 @@ http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,ToonCast
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,Love Nature (ES)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#---------------------------------------------------------------#
+#-----------------------------------------------------------------#
