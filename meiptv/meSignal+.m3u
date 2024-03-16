@@ -1,5 +1,4 @@
 #EXTM3U
-#------------------------------------- TDT -----------------------------------------------#
 #EXTINF:-1,<-------------- TDT ---------------------->
 #EXTINF:-1,Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
@@ -55,7 +54,7 @@ http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#---------------------------------------------------------------------
+
 #----------Source:https://www.tdtchannels.com/listas------------------
 #EXTINF:-1,Euro News
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
@@ -73,55 +72,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,Classic Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#EXTINF:-1,Pluto Smithsonian
-https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:-1,Pluto Archivos Extraterrestres
-https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-#EXTINF:-1,Pluto Soccer Paramount
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1,Pluto Dazn Women's Soccer
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:-1,Pluto CSI
-https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:-1,Pluto NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:-1,Pluto Hechizada
-https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1,Pluto MacGyver
-https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1,Pluto Naturaleza
-https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1,Pluto Animales
-https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1,Pluto Encantador
-https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:-1,Pluto Velocidad
-https://r.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:-1,Pluto Autos
-https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
-#EXTINF:-1,Pluto Coches Clásicos
-https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
-#EXTINF:-1,Pluto MotorVisión
-https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1,Pluto Anime
-https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1,Pluto Anime Acción
-https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1,Pluto Captain Tsubasa
-https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:-1,Pluto E-Sport
-https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:-1,Pluto Viajes
-https://r.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-#EXTINF:-1,Pluto Hogar
-https://r.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:-1,Pluto Misterios
-https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#-----------------------------------------------------------------#
-
-
-
 
 #----------------------------ENTERTAINMENT---------------------------------#
 #EXTINF:-1,H&H 107
@@ -164,7 +114,7 @@ http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1,Cinco 351
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#---------------------------------------------------------------------------#
+
 #----------------------------MOV--------------------------------------------#
 #EXTINF:-1,Paramount
 http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
@@ -216,7 +166,7 @@ https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
 https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
 #EXTINF:-1,H6O
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#---------------------------------------------------------------------------#
+
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
@@ -244,7 +194,7 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
 #EXTINF:-1,Disney Channel
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#---------------------------------------------------------------------------#
+
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8

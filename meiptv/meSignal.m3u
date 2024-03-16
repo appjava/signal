@@ -70,6 +70,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,Classic Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#---------------------------------------------------------------------
 #EXTINF:-1,Pluto Smithsonian
 https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 #EXTINF:-1,Pluto Archivos Extraterrestres
