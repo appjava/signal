@@ -219,6 +219,8 @@ http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1,AMC
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1,AMC (México)
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,A&E
 http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1,LifeTime
@@ -251,6 +253,8 @@ http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1,Cinco 351
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1,Alf
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 
 #----------------------------MOV--------------------------------------------#
 #EXTINF:-1,Paramount
@@ -345,6 +349,8 @@ http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,Animal Planet 68
 http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,Animal Planet (Colombia)
+http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1,Gourmet G Channel 141
