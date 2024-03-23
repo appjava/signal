@@ -4,7 +4,7 @@
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1,RCN
+#EXTINF:-1,RCN Internacional
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -20,8 +20,6 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,90Minutos Noticias
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1,RCN Internacional
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,TeleMedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 #EXTINF:-1,TeleAntioquia
@@ -34,6 +32,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Telecaribe
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+#EXTINF:-1,Canal 8
+https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1,Eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF::-1,Red+
@@ -177,6 +177,8 @@ https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
 https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
 #EXTINF:-1, Motorvision TV Pluto
 https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+#EXTINF:-1,GarageTV
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1, COPS Pluto
 https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 #EXTINF:-1, Misterios Medicos Pluto
@@ -339,8 +341,6 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,GarageTV
-https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1,Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1,History 58
