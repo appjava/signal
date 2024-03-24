@@ -68,8 +68,6 @@ http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1,Wagner
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1,Usa 59
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1,Alf
 https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
 
