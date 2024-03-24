@@ -20,10 +20,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-#EXTINF:-1,NASA Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1,NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #---------------------------------PlutoTV---------------------
 #EXTINF:-1, Pluto TV Retro Cartoons
@@ -112,8 +108,6 @@ https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,H6O
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
@@ -124,8 +118,6 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,Disney Channel
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
@@ -140,9 +132,3 @@ http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,Gourmet G Channel 141
-http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1,Love Nature (ES)
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
-#EXTINF:-1,Nature Time 530
-https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
