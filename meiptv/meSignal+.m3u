@@ -231,6 +231,8 @@ http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1,Star
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.78.22.97:8000/play/a02z/index.m3u8
 #EXTINF:-1,Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1,Sony Channel
@@ -287,6 +289,14 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.22.97:8000/play/a02f/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://181.78.22.97:8000/play/a02h/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://181.78.22.97:8000/play/a02i/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://181.78.22.97:8000/play/a02g/index.m3u8
 #EXTINF:-1,Universal 64
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1,DePelicula
@@ -339,6 +349,10 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
 #EXTINF:-1,Disney Channel
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1,Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1,Elementos
+http://archive.org/download/Peliculas-wii/Elementos.mp4
 
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
@@ -355,6 +369,8 @@ http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://181.78.22.97:8000/play/a02s/index.m3u8
 #EXTINF:-1,Gourmet G Channel 141
 http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 #EXTINF:-1,Love Nature (ES)

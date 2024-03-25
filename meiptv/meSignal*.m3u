@@ -60,6 +60,8 @@ http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1,Star
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.78.22.97:8000/play/a02z/index.m3u8
 #EXTINF:-1,Fx
 http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1,Sony Channel
@@ -100,6 +102,14 @@ http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.22.97:8000/play/a02f/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://181.78.22.97:8000/play/a02h/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://181.78.22.97:8000/play/a02i/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://181.78.22.97:8000/play/a02g/index.m3u8
 #EXTINF:-1,Universal 64
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1,SonyComedia
@@ -118,10 +128,16 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1,Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1,Elementos
+http://archive.org/download/Peliculas-wii/Elementos.mp4
 
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,DISCOVERY TLC
+http://181.78.22.97:8000/play/a020/index.m3u8
 #EXTINF:-1,Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1,History 58
@@ -132,3 +148,5 @@ http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://181.78.22.97:8000/play/a02s/index.m3u8
