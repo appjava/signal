@@ -22,7 +22,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-
+#EXTINF:-1,Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
 #---------------------------------PlutoTV---------------------
 #EXTINF:-1, Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
