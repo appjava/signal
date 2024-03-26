@@ -77,6 +77,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,Classic Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1,Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #---------------------------------PlutoTV---------------------
 #EXTINF:-1, Pluto TV Cine Estelar

@@ -90,6 +90,8 @@ https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Plus2
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
@@ -124,6 +126,14 @@ https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,Prometheus
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1,VolverAlFuturo3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1,Super Mario Bros. La pelicula
+https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1,Elementos
+http://archive.org/download/Peliculas-wii/Elementos.mp4
 
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
@@ -134,16 +144,15 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,Super Mario Bros. La pelicula
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-#EXTINF:-1,Elementos
-http://archive.org/download/Peliculas-wii/Elementos.mp4
+
 
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
 #EXTINF:-1,DISCOVERY TLC
 http://181.78.22.97:8000/play/a020/index.m3u8
+#EXTINF:-1,Discovery ID
+http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1,Turbo
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
 #EXTINF:-1,Turbo2
