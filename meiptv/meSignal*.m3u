@@ -173,9 +173,9 @@ http://181.78.22.97:8000/play/a02s/index.m3u8
 http://192.168.0.123:10140/La_pasion_de_cristo.mp4
 #http://192.168.100.140:8000/La_pasion_de_cristo.mp4
 #EXTINF:-1,BEN_HUR
-http://192.168.0.123:10140/BEN_HUR.webm
+http://192.168.0.123:10140/mp4/BEN_HUR.mp4
 #EXTINF:-1,JESUS
-http://192.168.0.123:10140/JESUS.webm
+http://192.168.0.123:10140/mov/JESUS.mov
 #EXTINF:-1,José-Los_sueños_del_faraón_1995
 http://192.168.0.123:10140/José-Los_sueños_del_faraón_1995.webm
 #EXTINF:-1,Super_Mario_Bros
