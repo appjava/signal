@@ -213,3 +213,29 @@ https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
 https://r.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
 #EXTINF:-1, Captain Tsubasa Pluto
 https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+
+#----------------------------DOCU--------------------------------------------#
+#EXTINF:-1,Discovery 6
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1,History 58
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,Histoty 2 157
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1,Animal Planet 68
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,NatGo 91
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+
+#EXTINF:-1,Pasion de Cristo
+http://192.168.0.123:10140/La_pasion_de_cristo.mp4
+#http://192.168.100.140:8000/La_pasion_de_cristo.mp4
+#EXTINF:-1,BEN_HUR
+http://192.168.0.123:10140/BEN_HUR.webm
+#EXTINF:-1,JESUS
+http://192.168.0.123:10140/JESUS.webm
+#EXTINF:-1,José-Los_sueños_del_faraón_1995
+http://192.168.0.123:10140/José-Los_sueños_del_faraón_1995.webm
+#EXTINF:-1,Super_Mario_Bros
+http://192.168.0.123:10140/Super_Mario_Bros.mp4
