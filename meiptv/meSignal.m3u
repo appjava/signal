@@ -247,3 +247,7 @@ http://192.168.0.123:10140/InsideOut2.mkv
 http://192.168.0.123:10140/InsideOut2.mp4
 #EXTINF:0,Intensamente2 Trailer
 http://192.168.0.123:10140/InsideOut2.wmv
+#EXTINF:-1,INtensamente2
+http://192.168.0.123:10140/InsideOut2.flv
+#EXTINF:-1,flv/INtensamente2
+http://192.168.0.123:10140/flv/InsideOut2.flv
