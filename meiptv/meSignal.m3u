@@ -228,22 +228,22 @@ http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1,NatGo 91
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 
-#EXTINF:-1,Pasion de Cristo
+#EXTINF:0,Pasion de Cristo
 http://192.168.0.123:10140/La_pasion_de_cristo.mp4
 #http://192.168.100.140:8000/La_pasion_de_cristo.mp4
-#EXTINF:-1,BEN_HUR
+#EXTINF:0,BEN_HUR
 http://192.168.0.123:10140/mp4/BEN_HUR.mp4
-#EXTINF:-1,JESUS
+#EXTINF:0,JESUS
 http://192.168.0.123:10140/mov/JESUS.mov
-#EXTINF:-1,José-Los_sueños_del_faraón_1995
+#EXTINF:0,José-Los_sueños_del_faraón_1995
 http://192.168.0.123:10140/José-Los_sueños_del_faraón_1995.webm
-#EXTINF:-1,Super_Mario_Bros
+#EXTINF:0,Super_Mario_Bros
 http://192.168.0.123:10140/Super_Mario_Bros.mp4
-#EXTINF:-1,Intensamente2 Trailer
+#EXTINF:0,Intensamente2 Trailer
 http://192.168.0.123:10140/InsideOut2.avi
-#EXTINF:-1,Intensamente2 Trailer
+#EXTINF:0,Intensamente2 Trailer
 http://192.168.0.123:10140/InsideOut2.mkv
-#EXTINF:-1,Intensamente2 Trailer
+#EXTINF:0,Intensamente2 Trailer
 http://192.168.0.123:10140/InsideOut2.mp4
-#EXTINF:-1,Intensamente2 Trailer
+#EXTINF:0,Intensamente2 Trailer
 http://192.168.0.123:10140/InsideOut2.wmv
