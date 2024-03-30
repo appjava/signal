@@ -127,14 +127,7 @@ https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,Prometheus
-https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
-#EXTINF:-1,VolverAlFuturo3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1,Super Mario Bros. La pelicula
-https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-#EXTINF:-1,Elementos
-http://archive.org/download/Peliculas-wii/Elementos.mp4
+
 
 #----------------------------Toon-------------------------------------------#
 #EXTINF:-1,DreamWorks 99
@@ -168,17 +161,3 @@ http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://181.78.22.97:8000/play/a02s/index.m3u8
-
-#EXTINF:-1,Pasion de Cristo
-http://192.168.0.123:10140/La_pasion_de_cristo.mp4
-#http://192.168.100.140:8000/La_pasion_de_cristo.mp4
-#EXTINF:-1,BEN_HUR
-http://192.168.0.123:10140/mp4/BEN_HUR.mp4
-#EXTINF:-1,JESUS
-http://192.168.0.123:10140/mov/JESUS.mov
-#EXTINF:-1,José-Los_sueños_del_faraón_1995
-http://192.168.0.123:10140/José-Los_sueños_del_faraón_1995.webm
-#EXTINF:-1,Super_Mario_Bros
-http://192.168.0.123:10140/Super_Mario_Bros.mp4
-#EXTINF:-1,Covenant
-http://192.168.0.123:10140/covenant.mp4
