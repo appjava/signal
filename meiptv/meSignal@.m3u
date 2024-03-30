@@ -4,7 +4,7 @@ https://dl.dropbox.com/s/thqec9w1pv0zkyw/TR14NGL3.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq076mP/recall.jpg",Total Recal (1990)
 https://dl.dropbox.com/scl/fi/qjbq1bmd6byh42qw7ooq5/T0T4LR3C4LL.mp4?rlkey=xoud1v7tf6i8t66y4ps5h3lmj
 
-#EXTINF:-1,Prometheus
+#EXTINF:-1 tvg-logo="https://scifind.com/wp-content/uploads/2012/02/PrometheusOneSheet.jpg",Prometheus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/a-2_20230202/A4.png",Alien: La Resurreccion (1997)
 https://archive.org/download/extra-4/EXTRA4.mkv
@@ -18,9 +18,9 @@ https://archive.org/download/aloctpsj/Lunes/aloctpsj.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwGcwwM/La-Maquina-del-Tiempo.jpg",La maquina del tiempo
 https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
 
-#EXTINF:-1,VolverAlFuturo3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",VolverAlFuturo3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1,Super Mario Bros. La pelicula
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-#EXTINF:-1,Elementos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",Elementos
 http://archive.org/download/Peliculas-wii/Elementos.mp4
