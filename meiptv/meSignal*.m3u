@@ -45,6 +45,8 @@ https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 #EXTINF:-1, The Walking Dead ESP
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 | The Big Bang Theory"  group-title="24/7",24/7 | The Big Bang Theory
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/158.ts
 
 #----------------------------ENTERTAINMENT---------------------------------#
 #EXTINF:-1,H&H 107
