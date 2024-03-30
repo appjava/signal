@@ -1,8 +1,11 @@
 #EXTM3U
+#---------------- FICTION --------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10BrFFp/TR14NGL3.jpg",El Triangulo
 https://dl.dropbox.com/s/thqec9w1pv0zkyw/TR14NGL3.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq076mP/recall.jpg",Total Recal (1990)
 https://dl.dropbox.com/scl/fi/qjbq1bmd6byh42qw7ooq5/T0T4LR3C4LL.mp4?rlkey=xoud1v7tf6i8t66y4ps5h3lmj
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmbwbGZ/Blade-Runner.jpg",Blade Runner
+https://archive.org/download/006_20200426/006.mkv
 
 #EXTINF:-1 tvg-logo="https://scifind.com/wp-content/uploads/2012/02/PrometheusOneSheet.jpg",Prometheus
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
@@ -18,9 +21,105 @@ https://archive.org/download/aloctpsj/Lunes/aloctpsj.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VwGcwwM/La-Maquina-del-Tiempo.jpg",La maquina del tiempo
 https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",VolverAlFuturo3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros. La pelicula
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",Elementos
 http://archive.org/download/Peliculas-wii/Elementos.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",Avatar (2009)
+https://archive.org/download/cuerpo_202301/cuerpo.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",Avatar 2:El sentido del Agua (2022)
+https://dl.dropbox.com/s/leatljtd0fdcxvn/avat4r2.mkv
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/1q6pKWj/infinit.jpg",Infinite (2021)
+https://dl.dropbox.com/s/lw4rsbv802l1sqr/1NF1N1T3.mp4
+
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",Back to the Future (1985)
+https://archive.org/download/mar_20230113/mar.mkv
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",Back to the Future Part II (1989)
+https://archive.org/download/mar2_20230113/mar2.mkv
+#EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",Back to the Future Part III (1990)
+https://archive.org/download/mar3_20230113/mar3.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",Hombres de Negro 1
+https://archive.org/download/hombres-de-negro_202108/Hombres%20De%20Negro.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",Hombres de Negro 2
+https://archive.org/download/hombres-de-negro-2_202108/Hombres%20de%20Negro%202.avi
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90DdoEStzeObs96fsYf4GG544iN.jpg",Hombres de Negro 3
+https://archive.org/download/hombres-de-negro-3_20210803/Hombres%20De%20Negro%203.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m9RG9gq/Los-juegos-del-hambre.jpg",Los Juegos del Hambre (2012)
+https://archive.org/download/051298000/051298_001.mp4
+#EXTINF:-1 tvg-logo="",Los Juegos del Hambre : En llamas (2013)
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/2.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVLTY7f/Los-juegos-del-hambre-Sinsajo-Parte-1.jpg",Los Juegos del Hambre : Sinsajo - Parte 1 (2014)
+https://archive.org/download/051298000/051298_0031.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ0GQZv/los-juegos-del-hambre-sinsajo-parte-2.jpg",Los Juegos del hambre: Sinsajo Parte 2 (2015)
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/4.mkv
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 : Correr o Morir
+https://archive.org/download/mz_20200505/Maze1/MZ.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",Maze Runner 2 : Prueba de fuego
+https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",Maze Runner 3 : La cura mortal
+https://archive.org/download/maz-3/MZ3/MAz3.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLHGPbh/ready.jpg",Ready Player One
+https://archive.org/download/carros_20210621/RPLY3T720.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky9g8Fn/Independence-Day.jpg",Día de la Independencia 
+http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpYJytc/reminiscencia.jpg",Reminiscencia (2021)
+https://archive.org/download/manguera_20210821_2347/R3m1n1s3nc3.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hfFRL2r/Terminator.jpg",El exterminador (1984)
+http://archive.org/download/5_20190713_201907/1.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMMhYFb/Terminator-2.jpg",Terminator 2: el juicio final (1991)
+http://archive.org/download/5_20190713_201907/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7XKY27f/Terminator3-Rebeliondelas-Maquinas.jpg",Terminator 3: La Rebelión de las Máquinas (2003)
+http://archive.org/download/5_20190713_201907/3.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hdy23gX/Terminator-4-Salvacion.jpg",Terminator 4: Salvación (2009)
+http://archive.org/download/5_20190713_201907/4.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RnC3Z5/Ternimator-5-Genesis.jpg",Terminator: Génesis (2015)
+http://archive.org/download/5_20190713_201907/5.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQQhzZP/DARKFAT.jpg",Terminator Dark Fate (2019)
+https://dl.dropbox.com/s/ttsg2n05j41pyl0/T3RMI%20D4RK%20F4T3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6pnKhf/Star-Wars-New-Hope-Original.jpg",Star Wars IV - New Hope (1977) Original
+https://dl.dropbox.com/s/rdf9wq7jbit6cno/Star%20Wars%20Episodio%20IV%20-%20Una%20nueva%20esperanza%20-%20Despecialized%20Edition%20%281977%29.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/6por_20221221/5por.png",Star Wars V - El Imperio Contrataca (1980) Original
+https://archive.org/download/sasi_20221228/sasi.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4PnFjM/Star-Wars-return-of-the-jedi.jpg",Star Wars VI - Return of Jedi (1983) Original
+https://dl.dropbox.com/s/pe0anvjtbyvy32g/Star%20Wars%20Episodio%20VI%20-%20El%20retorno%20del%20Jedi%20-%20Despecialized%20Edition%20%281983%29.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/ENDPOR/CAVPOR.png",Star Wars Caravana del valor: La Aventura De Los Ewoks (1984)
+https://archive.org/download/eave_20221226/EAVE.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/ENDPOR/ENDPOR.png",Star Wars Ewoks: La batalla por Endor (1985)
+https://archive.org/download/laba_20221226/LABA.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YcbTN0R/STAR-WARS-EPISODIO-1.jpg",STAR WARS EPISODIO 1
+https://archive.org/download/1_20200514_20200514_1337/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvMGNsc/STAR-WARS-EPISODIO-2.jpg",STAR WARS EPISODIO 2
+https://archive.org/download/1_20200514_20200514_1337/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fhMnTQ/STAR-WARS-EPISODIO-3.jpg",STAR WARS EPISODIO 3
+https://archive.org/download/3_20200514_20200514_1404/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMTT2jc/STAR-WARS-EPISODIO-4.jpg",STAR WARS EPISODIO 4
+https://archive.org/download/3_20200514_20200514_1404/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1pNn74/STAR-WARS-EPISODIO-5.jpg",STAR WARS EPISODIO 5
+https://archive.org/download/6_20200514_20200514/5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FC7kjW/STAR-WARS-EPISODIO-6.jpg",STAR WARS EPISODIO 6
+https://archive.org/download/6_20200514_20200514/6.mp4
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/9por_20221221/7por.png",Star Wars VII - El Despertar de la Fuerza (2015)
+https://archive.org/download/eld_20221225/eld.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/ropor/ropor.png",Rogue One: Una Historia de Star Wars (2016)
+https://archive.org/download/ro_20221225/ro.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/9por_20221221/8por.png",Star Wars VIII - Los Ultimos Jedi (2017)
+https://archive.org/download/est_20221225/est.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/hape_20221227/SOPOR.png",Han Solo: Una Historia de Star Wars (2018)
+https://archive.org/download/hape_20221227/HAPE.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/98zP4pB/Star-Wars-IX.jpg",Star Wars IX - El ascenso de skywalker (2019)
+https://archive.org/download/03elojoblindado/Tuesday-2/SW-AS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0JhQbT/Stargate.jpg",Stargate: la puerta del tiempo (1994)
+http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
