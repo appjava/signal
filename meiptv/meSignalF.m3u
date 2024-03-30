@@ -1,5 +1,5 @@
 #EXTM3U
-#---------------- FICTION --------------------------
+#--------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10BrFFp/TR14NGL3.jpg",El Triangulo
 https://dl.dropbox.com/s/thqec9w1pv0zkyw/TR14NGL3.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq076mP/recall.jpg",Total Recal (1990)
@@ -124,7 +124,6 @@ https://archive.org/download/03elojoblindado/Tuesday-2/SW-AS.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C0JhQbT/Stargate.jpg",Stargate: la puerta del tiempo (1994)
 http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
 
-#----------- Marvel -------------------
 #EXTINF:-1 tvg-logo="https://archive.org/download/ma17_20221231/ma5.png",El Increíble Hulk (2008)
 https://archive.org/download/00200_201909/00200.avi
 
@@ -173,3 +172,6 @@ https://dl.dropbox.com/s/whqyk0dve4mgi2l/SH4NGCH1.mp4
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/ma17_20221231/ma27.png",Eternals (2021)
 https://dl.dropbox.com/s/4khhh4sp17u5bio/3T3RN4LS.mp4
+
+
+
