@@ -1,10 +1,24 @@
 #EXTM3U
 #-------------- TDT ----------------------
-#EXTINF:-1,Caracol
+#EXTINF:-1,Caracol (720)
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:-1,Caracol HD
+#EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1,RCN Internacional
+#EXTINF:-1,CO | Caracol (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
+#EXTINF:-1,Caracol Ahora (1280)
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1,CO | CARACOL Ahora (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
+#EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
+#EXTINF:-1,CO | RCN (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/255.ts
+#EXTINF:-1,CO | NTN24 (640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
+#EXTINF:-1,CO | NTN24 2(640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
+#EXTINF:-1,RCN Internacional (720)
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -12,16 +26,26 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Blu Radio
-https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1,CO | SEÑAL COLOMBIA (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137877.ts
+
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,Caracol Ahora
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1,CO | Cable Noticias (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/253107.ts
+
 #EXTINF:-1,90Minutos Noticias
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
 #EXTINF:-1,TeleMedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+#EXTINF:-1,CO | Telemedellin (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/109.ts
+#EXTINF:-1,CO | TELEMEDELLIN (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/138047.ts
+#EXTINF:-1,CO | Telemedellin (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/146027.ts
+
 #EXTINF:-1,TeleAntioquia
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 #EXTINF:-1,Canal Capital
@@ -30,18 +54,20 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,CO | CANAL TRO (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137879.ts
 #EXTINF:-1,Telecaribe
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1,Eureka
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1,AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,CGTN ESPANOL (720)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/249.ts
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,France24
@@ -50,35 +76,17 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1,Enlace
 http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8
+
 #EXTINF:-1,A3Series
 http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1,Antena3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1,A3Cine
 http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
-#EXTINF:-1,Telemundo Internacional
-http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
-#EXTINF:-1,RCN Novelas
-http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-
-#EXTINF:-1,Euro News
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1,Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1,Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-#EXTINF:-1,NASA Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1,NASA Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1,Classic Arts
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1,Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
 
 #---------------------------------PlutoTV---------------------
 #EXTINF:-1, Pluto TV Cine Estelar
@@ -179,7 +187,7 @@ https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
 https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
 #EXTINF:-1, Motorvision TV Pluto
 https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1,GarageTV
+#EXTINF:-1, GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1, COPS Pluto
 https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
@@ -197,60 +205,26 @@ https://r.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 #EXTINF:-1, Misterios sin Resolver Pluto
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:-1, La Liga Premier | Paramount+ Pluto
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1, DAZN Women's Football Pluto
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:-1, Claro Sports Mexico Pluto
-https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
-#EXTINF:-1, Naruto Pluto
-https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1, Naruto Shippuden Pluto
-https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-#EXTINF:-1, Boruto: Naruto Next Generations Pluto
-https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
-#EXTINF:-1, Yu-Gi-Oh Pluto
-https://r.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:-1, Captain Tsubasa Pluto
-https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 
-#----------------------------DOCU--------------------------------------------#
-#EXTINF:-1,Discovery 6
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,History 58
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,Histoty 2 157
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,Animal Planet 68
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,NatGo 91
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 
-#EXTINF:0,Pasion de Cristo
-http://192.168.0.123:10140/La_pasion_de_cristo.mp4
-#http://192.168.100.140:8000/La_pasion_de_cristo.mp4
-#EXTINF:0,BEN_HUR
-http://192.168.0.123:10140/mp4/BEN_HUR.mp4
-#EXTINF:0,JESUS
-http://192.168.0.123:10140/mov/JESUS.mov
-#EXTINF:0,José-Los_sueños_del_faraón_1995
-http://192.168.0.123:10140/José-Los_sueños_del_faraón_1995.webm
-#EXTINF:0,Super_Mario_Bros
-http://192.168.0.123:10140/Super_Mario_Bros.mp4
-#EXTINF:0,Intensamente2 Trailer
-http://192.168.0.123:10140/InsideOut2.avi
-#EXTINF:0,Intensamente2 Trailer
-http://192.168.0.123:10140/InsideOut2.mkv
-#EXTINF:0,Intensamente2 Trailer
-http://192.168.0.123:10140/InsideOut2.mp4
-#EXTINF:0,Intensamente2 Trailer
-http://192.168.0.123:10140/InsideOut2.wmv
-#EXTINF:-1,INtensamente2
-http://192.168.0.123:10140/InsideOut2.flv
-#EXTINF:-1,flv/INtensamente2
-http://192.168.0.123:10140/flv/InsideOut2.flv
-
-#EXTINF:0,Alien Covenant
-http://192.168.0.123:10140/covenant.mp4
+#------------ 24/7
+#EXTINF:-1,24/7 | El Chavo del 8 (1918)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/150945.ts
+#EXTINF:-1,24/7 | 50 Clasicos de Disney (1440)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157508.ts
+#EXTINF:-1,24/7 | Don Gato y Su Pandilla (540)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157521.ts
+#EXTINF:-1,24/7 | El Conde Pátula (640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157524.ts
+#EXTINF:-1,24/7 | Los Picapiedras (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157539.ts
+#EXTINF:-1,24/7 | Pajaro Loco (640)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157542.ts
+#EXTINF:-1,24/7 | Cinema Disney Family HD (1440)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137001.ts
+#EXTINF:-1,24/7 | Cinema Disney Pixar (1280)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137097.ts
+#EXTINF:-1,24/7 | ALERTA AEROPUERTO (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
+#EXTINF:-1,24/7 | The Walking Dead (960)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137099.ts
