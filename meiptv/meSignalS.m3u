@@ -1,12 +1,5 @@
 #EXTM3U
-PELICULAS DEL MES DE SEPTIEMBRE 2023
 
-
-
-
-
-
-PELICULAS HASTA AGOSTO 2023
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHk3cvL/DONWORR.jpg",No te preocupes. Cariño (2022)
 https://dl.dropbox.com/scl/fi/vrllutr8m8soi19anc5io/D0NTW0RRY.mp4?rlkey=0iqqjnzidqbup3zha4mbuc7o5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBmkQ7k/island.png",Isla Siniestra (2010)
@@ -35,7 +28,7 @@ https://archive.org/download/tour_20200413/Respira.mkv
 https://archive.org/download/l-4-prof-3c-1a-2/chalancito/R3v3lacion3s.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PjSrbRT/Se-ales.jpg",Señales
 https://archive.org/download/dibujo_202004/dibujo/dibujo.mkv
-#EXTINF:-1,tvg-logo="https://archive.org/download/SIPOR/THEPOR.png",El Sexto Sentido (1999)
+#EXTINF:-1 tvg-logo="https://archive.org/download/SIPOR/THEPOR.png",El Sexto Sentido (1999)
 https://archive.org/download/els_20230115/els.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMZ2MtQ/Psicopata-Americano.jpg",Psicopata Americano (2000)
 https://archive.org/download/psycho_20200524/psycho.avi
@@ -59,7 +52,7 @@ https://archive.org/download/00300_20190920/00300.mkv
 https://dl.dropbox.com/s/880ncr8z4fz1wxi/h4ck3r.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/co-1_20221227/CO3.png",Inferno (2016)
 https://archive.org/download/ge_20230103/GE.mkv
-#EXTINF:-1,tvg-logo="https://archive.org/download/dpor_20230103/dpor.png",dracula de bran stocker
+#EXTINF:-1 tvg-logo="https://archive.org/download/dpor_20230103/dpor.png",dracula de bran stocker
 https://archive.org/download/dru_20230103/dru.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/cupe_20221124/curpo.png",Curdled obsesionada con el crimen (1996)
 https://archive.org/download/curfi/curfi.mkv
