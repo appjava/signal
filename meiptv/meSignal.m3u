@@ -10,6 +10,8 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL Ahora (1920)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
+#EXTINF:-1,CO | CARACOL Ahora 2(720)
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 #EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
 
@@ -22,10 +24,12 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 #EXTINF:-1,RCN Internacional (720)
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 
-#EXTINF:-1,Telepacífico
+#EXTINF:-1,Telepacífico (1080)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,90Minutos Noticias
+#EXTINF:-1,90Minutos Noticias (720)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1,Telepacífico 2
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -72,8 +76,14 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1,AgroTendencias
+#EXTINF:-1, AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1, AgroTV
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1, Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
