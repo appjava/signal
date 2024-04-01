@@ -12,6 +12,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
 #EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
+
 #EXTINF:-1,CO | RCN (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/255.ts
 #EXTINF:-1,CO | NTN24 (640)
@@ -20,10 +21,15 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 #EXTINF:-1,RCN Internacional (720)
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,90Minutos Noticias
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CO | SEÑAL COLOMBIA (1280)
@@ -33,9 +39,6 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137877.ts
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,CO | Cable Noticias (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/253107.ts
-
-#EXTINF:-1,90Minutos Noticias
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1,TeleMedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
@@ -48,32 +51,44 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/146027.ts
 
 #EXTINF:-1,TeleAntioquia
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
+
 #EXTINF:-1,Canal Capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1,Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CO | CANAL TRO (1920)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137879.ts
+
 #EXTINF:-1,Telecaribe
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
+
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
 #EXTINF:-1,AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
 #EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CGTN ESPANOL (720)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/249.ts
+
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1,France24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
 #EXTINF:-1,RT
 http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
+
 #EXTINF:-1,Enlace
 http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8
 
@@ -175,8 +190,6 @@ https://r.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 #EXTINF:-1, Los Tres Chiflados Pluto
 https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:-1, Desafío Super Humanos Pluto
-https://r.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
 #EXTINF:-1, Paisajes por Stingray Pluto
 https://r.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
 #EXTINF:-1, El Encantador de Perros Pluto
@@ -205,7 +218,6 @@ https://r.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 #EXTINF:-1, Misterios sin Resolver Pluto
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-
 
 #------------ 24/7
 #EXTINF:-1,24/7 | El Chavo del 8 (1918)
