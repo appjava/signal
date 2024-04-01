@@ -251,3 +251,6 @@ http://192.168.0.123:10140/InsideOut2.wmv
 http://192.168.0.123:10140/InsideOut2.flv
 #EXTINF:-1,flv/INtensamente2
 http://192.168.0.123:10140/flv/InsideOut2.flv
+
+#EXTINF:0,Alien Covenant
+http://192.168.0.123:10140/covenant.mp4

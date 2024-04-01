@@ -385,3 +385,6 @@ http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991775
 #EXTINF:-1,Nature Time 530
 https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
+
+#EXTINF:0,Alien Covenant
+http://192.168.0.123:10140/covenant.mp4
