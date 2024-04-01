@@ -230,17 +230,17 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137099.ts
 
 #--------------- DOCU
-#EXTINF:-1,D
+#EXTINF:-1,-------------- D
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,N
+#EXTINF:-1,-------------- N
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,A
+#EXTINF:-1,-------------- A
 http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,T
+#EXTINF:-1,-------------- T
 http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,H
+#EXTINF:-1,-------------- H
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,HH
+#EXTINF:-1,-------------- HH
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,Love Nature (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
