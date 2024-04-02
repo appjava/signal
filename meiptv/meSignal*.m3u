@@ -6,6 +6,8 @@ http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,CO | Caracol (1920)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
+#EXTINF:-1,Caracol (1920)
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL Ahora (1920)
@@ -22,6 +24,10 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1,Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,90Minutos Noticias (720)
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1,Telepacífico 2
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:-1,Canal Uno (854)
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Canal Uno 2 (720)
