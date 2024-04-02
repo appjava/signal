@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:0,AMC
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/7
 #EXTINF:0,ANIMAL PLANET
@@ -7,40 +7,12 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/11
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
 #EXTINF:0,AXN
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/15
-#EXTINF:0,BEIN SPORTS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/32
-#EXTINF:0,BEIN SPORTS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/31
-#EXTINF:0,BEIN SPORTS 3
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/37
-#EXTINF:0,BEIN SPORTS 3
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/29
-#EXTINF:0,BEIN SPORTS 4
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/30
-#EXTINF:0,BEIN SPORTS HD
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/35
 #EXTINF:0,CARACOL
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
-#EXTINF:0,CARTOON NETWORK
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/51
-#EXTINF:0,CARTOONITO
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/41
 #EXTINF:0,CINECANAL
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/63
-#EXTINF:0,CINEMAX
+#EXTINF:0.868,CINEMAX
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/65
-#EXTINF:0,CNN ESPAÑOL
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/70
-#EXTINF:0,CNN INTERNACIONAL
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/71
-#EXTINF:0,COMEDY CENTRAL
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/74
-#EXTINF:0,DAZN F1
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/139
-#EXTINF:0,DE PELICULA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/78
-#EXTINF:0,DE PELICULA+
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/77
 #EXTINF:0,DISCOVERY
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/86
 #EXTINF:0,DISCOVERY
@@ -73,28 +45,6 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/100
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/358
 #EXTINF:0,DISCOVERY US
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/88
-#EXTINF:0,DISNEY
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/102
-#EXTINF:0,DISNEY JR
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/104
-#EXTINF:0,DISNEY JR
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/105
-#EXTINF:0,DISNEY JR US
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/107
-#EXTINF:0,DISNEY US
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/103
-#EXTINF:0,DISTRITO COMEDIA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/111
-#EXTINF:0,EL GARAGE
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/187
-#EXTINF:0,FOX DEPORTES
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/155
-#EXTINF:0,FOX SPORTS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/163
-#EXTINF:0,FOX SPORTS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/164
-#EXTINF:0,FOX SPORTS
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/166
 #EXTINF:0,FX
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
 #EXTINF:0,FXX
@@ -123,12 +73,6 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/238
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/242
 #EXTINF:0,NATGEO WILD
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/244
-#EXTINF:0,NICK
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/259
-#EXTINF:0,NICK JR
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/264
-#EXTINF:0,NICK MUSIC
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/266
 #EXTINF:0,SONY
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
 #EXTINF:0,SONY CINE
@@ -139,24 +83,12 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/286
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/157
 #EXTINF:0,SYFY
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/294
-#EXTINF:0,TEEN NICK
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/296
 #EXTINF:0,TNT
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
 #EXTINF:0,TNT SERIES
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/322
-#EXTINF:0,TNT US
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/323
-#EXTINF:0,TOONCAST
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/324
 #EXTINF:0,TRU TV
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/330
-#EXTINF:0,TUDN
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/332
-#EXTINF:0,TUDN MX
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/333
-#EXTINF:0,TUDN US
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/334
 #EXTINF:0,WARNER
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
 #EXTINF:0,WIN SPORTS
