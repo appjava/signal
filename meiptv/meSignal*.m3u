@@ -251,6 +251,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/281
 
 #EXTINF:-1,History 58
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,History (544)
+http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1,HISTORY (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/92.ts
 #EXTINF:-1,History
@@ -262,6 +264,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,HISTORY 2 (1280)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
+#EXTINF:-1,Histoty 2 (544)
+http://181.78.105.146:2000/play/a00v/index.m3u8
 
 #EXTINF:-1,Animal Planet 68
 http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
