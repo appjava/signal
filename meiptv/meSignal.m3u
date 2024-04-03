@@ -2,12 +2,12 @@
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol (720)
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:-1,CO | Caracol (1920)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
 #EXTINF:-1,Caracol (1920)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1,CO | Caracol (1920)
+http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL Ahora (1920)
