@@ -109,6 +109,9 @@ video{
 	width: 95%;
 	margin: 0 auto;
 }
+#video{
+	margin-bottom: 24px;
+}
 
 @media screen and (max-width: 900px){
 	body {

@@ -60,19 +60,37 @@ ch3.addEventListener('click', () => {
 ch4.addEventListener('click', () => {
     const ch = 'http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8';
     changeCH(ch);
-    
 });
-ch10.addEventListener('click', () => {
-    const ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
+ch5.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8';
     changeCH(ch);
 });
-
+ch6.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8';
+    changeCH(ch);
+});
+ch7.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8';
+    changeCH(ch);
+});
+ch8.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8';
+    changeCH(ch);
+});
+ch9.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8';
+    changeCH(ch);
+});
+ch10.addEventListener('click', () => {
+    const ch = 'https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8';
+    changeCH(ch);
+});
 ch11.addEventListener('click', () => {
-    const ch = 'https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8';
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8';
     changeCH(ch);
 });
 ch12.addEventListener('click', () => {
-    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8';
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8';
     changeCH(ch);
 });
 
