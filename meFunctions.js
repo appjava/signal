@@ -86,7 +86,7 @@ ch10?.addEventListener('click', () => {
     changeCH(ch);
 });
 ch11?.addEventListener('click', () => {
-    const ch = 'https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8';
+    const ch = 'https://dl.dropbox.com/s/thqec9w1pv0zkyw/TR14NGL3.mkv';
     changeCH(ch);
 });
 ch12?.addEventListener('click', () => {
