@@ -86,7 +86,7 @@ ch10?.addEventListener('click', () => {
     changeCH(ch);
 });
 ch11?.addEventListener('click', () => {
-    const ch = 'https://dl.dropbox.com/s/thqec9w1pv0zkyw/TR14NGL3.mkv';
+    const ch = 'https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8';
     changeCH(ch);
 });
 ch12?.addEventListener('click', () => {
