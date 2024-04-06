@@ -90,7 +90,7 @@ ch11?.addEventListener('click', () => {
     changeCH(ch);
 });
 ch12?.addEventListener('click', () => {
-    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8';
+    const ch = 'https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8';
     changeCH(ch);
 });
 
