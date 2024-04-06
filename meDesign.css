@@ -61,6 +61,8 @@ a {
 	display: flex;
     height:fit-content;
 	background: rgb(12, 12, 12);
+	padding: 6px 6px;
+	margin: -6px 0px;
 }
 li:hover {
 	transform: scale(1.15,1.15);
