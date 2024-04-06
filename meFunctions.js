@@ -12,6 +12,69 @@ const mundi = document.getElementById('mundi');
 const pop = document.getElementById('pop');
 const cx = document.getElementById('cx');
 
+const ch = '';
+
+const ch1 = document.getElementById('ch1');
+const ch2 = document.getElementById('ch2');
+const ch3 = document.getElementById('ch3');
+const ch4 = document.getElementById('ch4');
+const ch5 = document.getElementById('ch5');
+const ch6 = document.getElementById('ch6');
+const ch7 = document.getElementById('ch7');
+const ch8 = document.getElementById('ch8');
+const ch9 = document.getElementById('ch9');
+const ch10 = document.getElementById('ch10');
+const ch11 = document.getElementById('ch11');
+const ch12 = document.getElementById('ch12');
+
+function changeCH(ch){
+    if(Hls.isSupported()) {
+		var video = document.getElementById('video');
+		var hls = new Hls();
+		hls.loadSource(ch);
+		hls.attachMedia(video);
+		hls.on(Hls.Events.MANIFEST_PARSED,function() {
+		video.play();
+	});
+	}
+	else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+		video.src = ch;
+		video.addEventListener('canplay',function() {
+		video.play();
+		});
+	}
+}
+
+ch1.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8';
+    changeCH(ch);
+});
+ch2.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8';
+    changeCH(ch);
+});
+ch3.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8';
+    changeCH(ch);
+});
+ch4.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8';
+    changeCH(ch);
+    
+});
+ch10.addEventListener('click', () => {
+    const ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
+    changeCH(ch);
+});
+
+ch11.addEventListener('click', () => {
+    const ch = 'https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8';
+    changeCH(ch);
+});
+ch12.addEventListener('click', () => {
+    const ch = 'http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8';
+    changeCH(ch);
+});
 
 //Show guide
 one.addEventListener('click', () => {
