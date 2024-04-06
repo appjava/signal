@@ -95,7 +95,7 @@ ch12?.addEventListener('click', () => {
 });
 
 //Show guide
-one.addEventListener('click', () => {
+one?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -106,7 +106,7 @@ one.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-two.addEventListener('click', () => {
+two?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -117,7 +117,7 @@ two.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-plus.addEventListener('click', () => {
+plus?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -128,7 +128,7 @@ plus.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-extreme.addEventListener('click', () => {
+extreme?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -139,7 +139,7 @@ extreme.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-family.addEventListener('click', () => {
+family?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -150,7 +150,7 @@ family.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-signature.addEventListener('click', () => {
+signature?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -161,7 +161,7 @@ signature.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-mundi.addEventListener('click', () => {
+mundi?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -172,7 +172,7 @@ mundi.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-pop.addEventListener('click', () => {
+pop?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -183,7 +183,7 @@ pop.addEventListener('click', () => {
     `;
     guide.style.display = 'block';
 });
-cx.addEventListener('click', () => {
+cx?.addEventListener('click', () => {
     guide.innerHTML=``
     guide.innerHTML=`
     <span class="close">X</span>
@@ -197,7 +197,7 @@ cx.addEventListener('click', () => {
 
 
 // Hide guide
-guide.addEventListener('click', () => {
+guide?.addEventListener('click', () => {
     guide.style.display = 'none';
     guide.innerHTML=``;
 
