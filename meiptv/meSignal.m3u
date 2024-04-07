@@ -1,9 +1,9 @@
 #EXTM3U
 #-------------- TDT ----------------------
-#EXTINF:-1,Caracol (720)
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol
 http://181.78.22.97:8000/play/a00b/index.m3u8
+#EXTINF:-1,Caracol (720)
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol (1920)
