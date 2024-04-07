@@ -8,6 +8,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,CO | Caracol (1920)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
+#EXTINF:-1,Caracol
+http://181.78.22.97:8000/play/a00b/index.m3u8
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL int (1920)
@@ -16,6 +18,8 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
 #EXTINF:-1,CO | RCN (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/255.ts
+#EXTINF:-1,RCN
+http://181.78.22.97:8000/play/a00c/index.m3u8
 #EXTINF:-1,CO | NTN24 (640)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
 #EXTINF:-1,CO | NTN24 2(640)
@@ -36,6 +40,10 @@ http://181.78.22.97:8000/play/a009/index.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,CO | SEÑAL COLOMBIA (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137877.ts
+#EXTINF:-1,Señal Colombia
+http://181.78.22.97:8000/play/a00g/index.m3u8
+#EXTINF:-1,CityTV
+http://181.78.22.97:8000/play/a00n/index.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,Equipo Investigación
@@ -73,6 +81,8 @@ http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1,AXN (1280)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/15
+#EXTINF:-1,Axn
+http://181.78.22.97:8000/play/a00s/index.m3u8
 #EXTINF:-1,AMC
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:-1,AMC (México)
@@ -99,6 +109,8 @@ http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
 #EXTINF:-1,Sony Channel
 http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1,Sony
+http://181.78.22.97:8000/play/a00r/index.m3u8
 #EXTINF:-1,SONY (1280)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
 #EXTINF:-1,TNT Series
@@ -135,10 +147,14 @@ http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1,SPACE (1280)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/286
+#EXTINF:-1,SPACE 
+http://181.78.22.97:8000/play/a00t/index.m3u8
 #EXTINF:-1,Studio
 http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1,STUDIO (1280)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/288
+#EXTINF:-1,Studio Universal
+http://181.78.22.97:8000/play/a09g/index.m3u8
 #EXTINF:-1,Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1,CINECANAL (1280)
@@ -147,6 +163,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/63
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,TNT (768)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
+#EXTINF:-1,TNT (COL)
+http://181.78.22.97:8000/play/a032/index.m3u8
 
 #EXTINF:-1,HBO (720)
 http://181.78.22.97:8000/play/a04f/index.m3u8
@@ -173,6 +191,15 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/65
 
 #EXTINF:-1,Universal 64
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1,Universal TV
+http://181.78.22.97:8000/play/a02v/index.m3u8
+#EXTINF:-1,Universal Comedy
+http://181.78.22.97:8000/play/a08f/index.m3u8
+#EXTINF:-1,Universal Premier
+http://181.78.22.97:8000/play/a08d/index.m3u8
+#EXTINF:-1,Universal Cinema
+http://181.78.22.97:8000/play/a08e/index.m3u8
+
 #EXTINF:-1,SonyComedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1,SonyMovies
@@ -192,11 +219,15 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1,Nickelodeon
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1,Nicke
+http://181.78.22.97:8000/play/a02r/index.m3u8
 
 
 #----------------------------DOCU--------------------------------------------#
 #EXTINF:-1,Discovery 6
 http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,Discovery 
+http://181.78.22.97:8000/play/a01o/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL 1280
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137033.ts
 #EXTINF:-1,DISCOVERY CHANNEL (1280)
@@ -280,6 +311,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
 http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC (720)
 http://181.78.22.97:8000/play/a02s/index.m3u8
+#EXTINF:-1,NatGeo ENG
+http://181.78.22.97:8000/play/a02s/index.m3u8
 
 #EXTINF:-1,NatGeo Wild (1024)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/103.ts
@@ -316,6 +349,26 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/349.ts
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/369
 #EXTINF:-1,W+ (1024)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/370
+#EXTINF:-1,Wplus
+http://181.78.22.97:8000/play/a03j/index.m3u8
+#EXTINF:-1,W
+http://181.78.22.97:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,ESPN (COL)
+http://181.78.22.97:8000/play/a00h/index.m3u8
+#EXTINF:-1,ESPN
+http://181.78.22.97:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN2 (COL)
+http://181.78.22.97:8000/play/a02m/index.m3u8
+#EXTINF:-1,ESPN2
+http://181.78.22.97:8000/play/a01t/index.m3u8
+#EXTINF:-1,ESPN3 (COL)
+http://181.78.22.97:8000/play/a013/index.m3u8
+#EXTINF:-1,ESPN6 (COL)
+http://181.78.22.97:8000/play/a024/index.m3u8
+#EXTINF:-1,ESPN7 (COL)
+http://181.78.22.97:8000/play/a023/index.m3u8
+
 
 #------------ 24/7
 #EXTINF:-1,24/7 | El Chavo del 8 (1918)

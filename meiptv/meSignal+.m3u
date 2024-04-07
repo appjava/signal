@@ -32,6 +32,8 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,TRO
+http://181.78.22.97:8000/play/a00l/index.m3u8
 #EXTINF:-1,Telecaribe
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 #EXTINF:-1,Canal 8
@@ -353,6 +355,8 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://linear-526.frequency.stream/mt/studio/526/hls/master/playlist.m3u8
 #EXTINF:-1,Disney Channel
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1,Disney
+http://181.78.22.97:8000/play/a01n/index.m3u8
 #EXTINF:-1,Disney Junior
 http://181.78.22.97:8000/play/a02j/index.m3u8
 #EXTINF:-1,Discovery Kids
