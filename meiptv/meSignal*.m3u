@@ -1,9 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1,ESPN (COL)
+#EXTINF:-1,8000ESPN
 http://181.78.22.97:8000/play/a00h/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,8000ESPN2
 http://181.78.22.97:8000/play/a01u/index.m3u8
+
+#EXTINF:-1,1935ESPN
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1,1935ESPN2
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 #<-------------- TDT ---------------------->
 #EXTINF:-1,Caracol (720)
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
