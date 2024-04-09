@@ -1,30 +1,31 @@
 #EXTM3U
 #-------------- TDT ----------------------
-#EXTINF:-1,Caracol
-http://181.78.22.97:8000/play/a00b/index.m3u8
+
 #EXTINF:-1,Caracol (720)
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1,Caracol SD
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol (1920)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
-#EXTINF:-1,CO | Caracol (1920)
+#EXTINF:-1,CO | Caracol (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL Ahora 2(720)
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
-#EXTINF:-1,CO | CARACOL Int (1920)
+#EXTINF:-1,CO | CARACOL Int (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
-#EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)
+#EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
 
 #EXTINF:-1,RCN
 http://181.78.22.97:8000/play/a00c/index.m3u8
 
-#EXTINF:-1,CO | NTN24 (640)
+#EXTINF:-1,CO | NTN24 (640)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
-#EXTINF:-1,CO | NTN24 2(640)
+#EXTINF:-1,CO | NTN24 2(640)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 
 #EXTINF:-1,RCN Inter
@@ -41,26 +42,24 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1,Canal Uno 2 (720)
-http://181.78.22.97:8000/play/a009/index.m3u8
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CO | SEÑAL COLOMBIA (1280)
+#EXTINF:-1,CO | SEÑAL COLOMBIA (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137877.ts
 
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,CO | Cable Noticias (1280)
+#EXTINF:-1,CO | Cable Noticias (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/253107.ts
 
 #EXTINF:-1,TeleMedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1,CO | Telemedellin (1280)
+#EXTINF:-1,CO | Telemedellin (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/109.ts
-#EXTINF:-1,CO | TELEMEDELLIN (1920)
+#EXTINF:-1,CO | TELEMEDELLIN (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/138047.ts
-#EXTINF:-1,CO | Telemedellin (1280)
+#EXTINF:-1,CO | Telemedellin (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/146027.ts
 
 #EXTINF:-1,TeleAntioquia
@@ -74,11 +73,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 
 #EXTINF:-1,Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CO | CANAL TRO (1920)
+#EXTINF:-1,CO | CANAL TRO (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137879.ts
-
-#EXTINF:-1,Telecaribe
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
