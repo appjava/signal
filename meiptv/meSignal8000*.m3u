@@ -1,0 +1,92 @@
+#EXTM3U
+# Playlist created by SMPlayer 23.6.0 (revisión 10157) 
+#EXTINF:11,Canal Caracol
+http://181.78.22.97:8000/play/a00b/index.m3u8
+#EXTINF:11,Canal RCN
+http://181.78.22.97:8000/play/a00c/index.m3u8
+#EXTINF:11,Canal Uno
+http://181.78.22.97:8000/play/a009/index.m3u8
+#EXTINF:-1,Telepacífico
+http://181.78.22.97:8000/play/a00x/index.m3u8
+#EXTINF:11,Senal Colombia
+http://181.78.22.97:8000/play/a00g/index.m3u8
+#EXTINF:11,City TV
+http://181.78.22.97:8000/play/a00n/index.m3u8
+#EXTINF:11,Discovery Channel
+http://181.78.22.97:8000/play/a01o/index.m3u8
+#EXTINF:11,History Channel
+http://181.78.22.97:8000/play/a02t/index.m3u8
+#EXTINF:11,Discovery Turbo
+http://181.78.22.97:8000/play/a011/index.m3u8
+#EXTINF:11,Nat Geo
+http://181.78.22.97:8000/play/a02s/index.m3u8
+#EXTINF:11,Animal Planet
+http://181.78.22.97:8000/play/a01p/index.m3u8
+#EXTINF:11,Warner
+http://181.78.22.97:8000/play/a01q/index.m3u8
+#EXTINF:11,STAR CHANNEL
+http://181.78.22.97:8000/play/a02z/index.m3u8
+#EXTINF:11,FX
+http://181.78.22.97:8000/play/a00u/index.m3u8
+#EXTINF:11,Sony
+http://181.78.22.97:8000/play/a00r/index.m3u8
+#EXTINF:11,AXN
+http://181.78.22.97:8000/play/a00s/index.m3u8
+#EXTINF:11,A&E Mundo
+http://181.78.22.97:8000/play/a01y/index.m3u8
+#EXTINF:11,Lifetime
+http://181.78.22.97:8000/play/a037/index.m3u8
+#EXTINF:11,USA SD
+http://181.78.22.97:8000/play/a038/index.m3u8
+#EXTINF:11,TNT
+http://181.78.22.97:8000/play/a032/index.m3u8
+#EXTINF:11,Space
+http://181.78.22.97:8000/play/a00t/index.m3u8
+#EXTINF:11,Studio Universal
+http://181.78.22.97:8000/play/a09g/index.m3u8
+#EXTINF:11,Cinecanal
+http://181.78.22.97:8000/play/a02u/index.m3u8
+#EXTINF:11,Universal
+http://181.78.22.97:8000/play/a02v/index.m3u8
+#EXTINF:11,Universal Premiere SD
+http://181.78.22.97:8000/play/a08d/index.m3u8
+#EXTINF:11,Universal Cinema SD
+http://181.78.22.97:8000/play/a08e/index.m3u8
+#EXTINF:11,Universal Comedy SD
+http://181.78.22.97:8000/play/a08f/index.m3u8
+#EXTINF:11,HBO
+http://181.78.22.97:8000/play/a04f/index.m3u8
+#EXTINF:11,HBO 2
+http://181.78.22.97:8000/play/a02f/index.m3u8
+#EXTINF:11,HBO Plus
+http://181.78.22.97:8000/play/a02g/index.m3u8
+#EXTINF:11,HBO Xtreme SD
+http://181.78.22.97:8000/play/a02h/index.m3u8
+#EXTINF:11,HBO Family
+http://181.78.22.97:8000/play/a02i/index.m3u8
+#EXTINF:11,Cinemax
+http://181.78.22.97:8000/play/a00q/index.m3u8
+#EXTINF:11,ESPN
+http://181.78.22.97:8000/play/a01u/index.m3u8
+#EXTINF:11,ESPN CO
+http://181.78.22.97:8000/play/a00h/index.m3u8
+#EXTINF:11,ESPN 2 Latin
+http://181.78.22.97:8000/play/a01t/index.m3u8
+#EXTINF:11,ESPN 2
+http://181.78.22.97:8000/play/a02m/index.m3u8
+#EXTINF:11,ESPN 3
+http://181.78.22.97:8000/play/a013/index.m3u8
+#EXTINF:11,ESPN 6
+http://181.78.22.97:8000/play/a024/index.m3u8
+#EXTINF:11,ESPN 7
+http://181.78.22.97:8000/play/a023/index.m3u8
+#EXTINF:11,Win
+http://181.78.22.97:8000/play/a00w/index.m3u8
+#EXTINF:11,Win Sports+ HD
+http://181.78.22.97:8000/play/a03j/index.m3u8
+#EXTINF:11,Disney Channel
+http://181.78.22.97:8000/play/a01n/index.m3u8
+#EXTINF:11,Nickelodeon
+http://181.78.22.97:8000/play/a02r/index.m3u8
+#EXTINF:11,Cartoon Network
+http://181.78.22.97:8000/play/a031/index.m3u8
