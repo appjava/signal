@@ -140,6 +140,8 @@ http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1,Golden 408
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1,408 golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1,Golden
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Plus
@@ -150,6 +152,7 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
 
 #EXTINF:-1,MultiPremier
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
