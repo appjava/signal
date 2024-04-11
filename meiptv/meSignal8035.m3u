@@ -1,0 +1,178 @@
+#EXTM3U
+# Playlist created by SMPlayer 23.6.0 (revisión 10157) 
+#EXTINF:-1,Canal Caracol
+http://181.78.22.97:8000/play/a00b/index.m3u8
+#EXTINF:-1,Caracol 35
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:-1,Canal RCN
+http://181.78.22.97:8000/play/a00c/index.m3u8
+#EXTINF:-1,Canal Uno
+http://181.78.22.97:8000/play/a009/index.m3u8
+#EXTINF:-1,Telepacífico
+http://181.78.22.97:8000/play/a00x/index.m3u8
+#EXTINF:-1,Senal Colombia
+http://181.78.22.97:8000/play/a00g/index.m3u8
+#EXTINF:-1,City TV
+http://181.78.22.97:8000/play/a00n/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://181.78.22.97:8000/play/a01o/index.m3u8
+#EXTINF:-1,Discovery 35
+http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,History Channel
+http://181.78.22.97:8000/play/a02t/index.m3u8
+#EXTINF:-1,History 35
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,History 2 35
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://181.78.22.97:8000/play/a011/index.m3u8
+#EXTINF:-1,Turbo 35
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://181.78.22.97:8000/play/a02s/index.m3u8
+#EXTINF:-1,NatGeo 35
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://181.78.22.97:8000/play/a01p/index.m3u8
+#EXTINF:-1,Animal Planet 35
+http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,H&H 35
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1,Gourmet 35
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1,Warner
+http://181.78.22.97:8000/play/a01q/index.m3u8
+#EXTINF:-1,Wagner 35
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.78.22.97:8000/play/a02z/index.m3u8
+#EXTINF:-1,Star 35
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1,FX
+http://181.78.22.97:8000/play/a00u/index.m3u8
+#EXTINF:-1,FX 35
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1,Sony
+http://181.78.22.97:8000/play/a00r/index.m3u8
+#EXTINF:-1,Sony Channel 35
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1,TNT Series 35
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1,AXN 35
+http://181.78.22.97:8000/play/a00s/index.m3u8
+#EXTINF:-1,AMC 35
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1,A&E Mundo
+http://181.78.22.97:8000/play/a01y/index.m3u8
+#EXTINF:-1,A&E 35
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://181.78.22.97:8000/play/a037/index.m3u8
+#EXTINF:-1,Lifetime 35
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1, Film&Arts 35
+http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1,USA SD
+http://181.78.22.97:8000/play/a038/index.m3u8
+#EXTINF:-1,usa 35
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1,eE 35
+http://stream.flynetwifi.com:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1,MGM+ 35
+http://stream.flynetwifi.com:1935/live/mobile-115/playlist.m3u8
+#EXTINF:-1,TNT
+http://181.78.22.97:8000/play/a032/index.m3u8
+#EXTINF:-1,Space
+http://181.78.22.97:8000/play/a00t/index.m3u8
+#EXTINF:-1,Space 35
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1,Paramount 35
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://181.78.22.97:8000/play/a09g/index.m3u8
+#EXTINF:-1,Cinecanal
+http://181.78.22.97:8000/play/a02u/index.m3u8
+#EXTINF:-1,Cinecanal 35
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1,Universal TV 35
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1,Universal
+http://181.78.22.97:8000/play/a02v/index.m3u8
+#EXTINF:-1,Universal Premiere SD
+http://181.78.22.97:8000/play/a08d/index.m3u8
+#EXTINF:-1,Universal Cinema SD
+http://181.78.22.97:8000/play/a08e/index.m3u8
+#EXTINF:-1,Universal Comedy SD
+http://181.78.22.97:8000/play/a08f/index.m3u8
+#EXTINF:-1,Sony Movies 35
+http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1,HBO
+http://181.78.22.97:8000/play/a04f/index.m3u8
+#EXTINF:-1,HBO? 35
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://181.78.22.97:8000/play/a02f/index.m3u8
+#EXTINF:-1,HBO2 35
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://181.78.22.97:8000/play/a02g/index.m3u8
+#EXTINF:-1,HBO Xtreme SD
+http://181.78.22.97:8000/play/a02h/index.m3u8
+#EXTINF:-1,HBO Family
+http://181.78.22.97:8000/play/a02i/index.m3u8
+#EXTINF:-1,Cinemax
+http://181.78.22.97:8000/play/a00q/index.m3u8
+#EXTINF:-1,Multipremier 35
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1,MC 35
+http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1,CINEMA 35
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
+#EXTINF:-1,ESPN
+http://181.78.22.97:8000/play/a01u/index.m3u8
+#EXTINF:-1,ESPN 35
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1,ESPN CO
+http://181.78.22.97:8000/play/a00h/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://181.78.22.97:8000/play/a01t/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.22.97:8000/play/a02m/index.m3u8
+#EXTINF:-1,ESPN2 35
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://181.78.22.97:8000/play/a013/index.m3u8
+#EXTINF:-1,ESPN3 35
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1,ESPN5 35
+http://stream.flynetwifi.com:1935/live/mobile-007/playlist.m3u8
+#EXTINF:-1,ESPN 6
+http://181.78.22.97:8000/play/a024/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.78.22.97:8000/play/a023/index.m3u8
+#EXTINF:-1,Win
+http://181.78.22.97:8000/play/a00w/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.22.97:8000/play/a03j/index.m3u8
+#EXTINF:-1,Fox Deportes 35
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1,Fox Sport 35
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1,FOX Sport2 35
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1,Fox Sport 3 35
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1,TNT Sport 35
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1,Dreamworks 35
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://181.78.22.97:8000/play/a01n/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://181.78.22.97:8000/play/a02r/index.m3u8
+#EXTINF:-1,Nickelodeon 35
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://181.78.22.97:8000/play/a031/index.m3u8
+#EXTINF:-1,Cartoon Network 35
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
