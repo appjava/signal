@@ -122,6 +122,14 @@ http://181.78.22.97:8000/play/a02h/index.m3u8
 http://181.78.22.97:8000/play/a02i/index.m3u8
 #EXTINF:-1,Cinemax
 http://181.78.22.97:8000/play/a00q/index.m3u8
+#EXTINF:-1,Golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1,Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1,Multipremier 35
 http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1,MC 35
