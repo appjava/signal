@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://archive.org/download/f9_20221228/f1.png",Rápidos y Furiosos (2001)
+#EXTINF:-1,Rápidos y Furiosos (2001)
 https://archive.org/download/pi_20221228/pi.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapidos y Furioso 2: Más Rápido y más Furioso (2002)
+#EXTINF:-1,Rapidos y Furioso 2: Más Rápido y más Furioso (2002)
 https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",Rápido y furioso 3: Reto Tokio (2006)
+#EXTINF:-1,Rápido y furioso 3: Reto Tokio (2006)
 https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
-#EXTINF:-1 tvg-logo="http://img.filmsactu.net/datas/films/f/a/fast-and-furious-4/xl/499930de6a56b.jpg",Rápidos y furiosos 4 (2009)
+#EXTINF:-1,Rápidos y furiosos 4 (2009)
 https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sCbQfF/Rapidos-Y-Furiosos-Sin-Control.jpg",Rápidos y furiosos 5: Sin control (2011)
+#EXTINF:-1,Rápidos y furiosos 5: Sin control (2011)
 https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
-#EXTINF:-1 tvg-logo="https://archive.org/download/f9_20221228/f6.png",Rápidos y Furiosos 6 (2013)
+#EXTINF:-1,Rápidos y Furiosos 6 (2013)
 https://archive.org/download/vue_20221230/vue.mkv
-#EXTINF:-1 tvg-logo="https://archive.org/download/f9_20221228/f7.png",Rápidos y Furiosos 7 (2015)
+#EXTINF:-1,Rápidos y Furiosos 7 (2015)
 https://archive.org/download/alt_20221231/alt.mkv
-#EXTINF:-1 tvg-logo="https://archive.org/download/f9_20221228/f8.png",Rápidos y Furiosos 8 (2017)
+#EXTINF:-1,Rápidos y Furiosos 8 (2017)
 https://archive.org/download/agi_20221231/agi.mkv
-#EXTINF:-1 tvg-logo="https://archive.org/download/f9_20221228/f9.png",Rápidos y Furiosos 9 (2021)
+#EXTINF:-1,Rápidos y Furiosos 9 (2021)
 https://archive.org/download/tecli/tecli.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZvQC2y/Pstr-1-1.jpg",Rapidos y Furiosos X (2023)
+#EXTINF:-1,Rapidos y Furiosos X (2023)
 https://dl.dropbox.com/s/0dushmny5bad43p/f45stX.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sVvwm6z/Un-Detective-Suelto-Hollywood.jpg",Un detective suelto en Hollywood (1984)
+#EXTINF:-1,Un detective suelto en Hollywood (1984)
 https://archive.org/download/789456_202003/789456_0101.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgQLtTN/Un-detective-suelto-en-Hollywood-2.jpg",Un detective suelto en Hollywood II (1987)
+#EXTINF:-1,Un detective suelto en Hollywood II (1987)
 https://archive.org/download/789456_202003/789456_0102.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/18TNDpM/Un-detective-suelto-en-Hollywood-3.jpg",Un detective suelto en Hollywood III (1994)
+#EXTINF:-1,Un detective suelto en Hollywood III (1994)
 https://archive.org/download/789456_202003/789456_0103.mp4
 #EXTINF:-1,Indiana Jones 5 (2023)
 https://dl.dropbox.com/scl/fi/lkripk0qmmnuan0j7y06g/1nd14n4.mkv?rlkey=baf29h38vu1fyypzi1nu6fwe9
@@ -96,8 +96,6 @@ https://dl.dropbox.com/scl/fi/exw7880te9rw4l12779gm/D3SP3RT4RB34ST.mp4?rlkey=gkz
 https://archive.org/download/el-rey-escorpion_202204/el%20rey%20escorpion.avi
 #EXTINF:-1,La momia (2017)
 https://dl.dropbox.com/s/baipaq04q2imj5g/l4m0m14.mp4
-#EXTINF:-1,Monster Hunter (2020)
-https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/ETOpJvio7mRImVd4pGXDtVEByWxNAdtqSW4d5JKZW6Fp-w?download=1
 #EXTINF:-1,007 - Goldeneye (1995)
 http://archive.org/download/mio53_yopmail_3/3.mp4
 #EXTINF:-1,007 - El mañana nunca muere (1997)
