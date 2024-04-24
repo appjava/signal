@@ -80,10 +80,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
 #EXTINF:1.00333,TNT Sport2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/64
-#EXTINF:1.29508,CH41
+#EXTINF:1.29508,amc
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/67
-#EXTINF:0.750733,CH42
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 #EXTINF:1,AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
 #EXTINF:1,TUDN 2
@@ -108,12 +106,10 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/136
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/139
 #EXTINF:1,EuroSport
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/140
-#EXTINF:0.905589,CH55
+#EXTINF:1,Movies?
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/143
 #EXTINF:1,Star
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/147
-#EXTINF:-1,CH57
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/148
 #EXTINF:1.1011,HBO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/152
 #EXTINF:1.55,HBO2
@@ -144,159 +140,109 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/174
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
 #EXTINF:1,HGTV EN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/308
-#EXTINF:0.437933,CH73
+#EXTINF:1,Bein Sport Ñ
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/312
 #EXTINF:1.01457,Discovery Español SD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/324
-#EXTINF:1.08001,CH75
+#EXTINF:1.08001,TUDN 3
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/337
-#EXTINF:1.28703,CH76
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/343
-#EXTINF:-1,CH77
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/344
-#EXTINF:-1,CH78
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/366
-#EXTINF:-1,CH79
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/383
-#EXTINF:-1,CH80
+#EXTINF:1,GolTV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/393
-#EXTINF:-1,CH81
+#EXTINF:1,Paramount EN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/397
-#EXTINF:-1,CH82
+#EXTINF:1,Sony Movies
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/398
-#EXTINF:-1,CH83
+#EXTINF:1,SyFy
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/400
-#EXTINF:-1,CH84
+#EXTINF:1,DAZN F1
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/441
-#EXTINF:-1,CH85
+#EXTINF:0.834167,Caracol
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/455
-#EXTINF:-1,CH86
+#EXTINF:1,Caracol 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/456
-#EXTINF:-1,CH87
+#EXTINF:1,Disney Channel HD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/458
-#EXTINF:-1,CH88
+#EXTINF:1,History SD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/461
-#EXTINF:-1,CH89
+#EXTINF:1,Claro Sport
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/462
-#EXTINF:-1,CH90
+#EXTINF:1,Win
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/463
-#EXTINF:-1,CH91
+#EXTINF:1,GarajeTV
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/464
-#EXTINF:-1,CH92
+#EXTINF:1,DSport
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
-#EXTINF:-1,CH93
+#EXTINF:1,DSport2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
-#EXTINF:-1,CH94
+#EXTINF:1,DSport+
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
-#EXTINF:-1,CH95
+#EXTINF:0.940311,Discovery Channel 2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
-#EXTINF:-1,CH96
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/490
-#EXTINF:-1,CH97
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/491
-#EXTINF:-1,CH98
+#EXTINF:1.16783,NatGeo Wild
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/492
-#EXTINF:-1,CH99
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/493
-#EXTINF:-1,CH100
+#EXTINF:1,Fox Deportes
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/501
-#EXTINF:-1,CH101
+#EXTINF:1,DW
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/502
-#EXTINF:-1,CH102
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/528
-#EXTINF:-1,CH103
+#EXTINF:1.28708,Golden
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/571
-#EXTINF:-1,CH104
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/572
-#EXTINF:-1,CH105
+#EXTINF:1.454,HBO Signature
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/573
-#EXTINF:-1,CH106
+#EXTINF:1,VIX TUDN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/583
-#EXTINF:-1,CH107
+#EXTINF:1,Fox Premium
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:-1,CH108
+#EXTINF:1.19467,GEdge
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/617
-#EXTINF:-1,CH109
+#EXTINF:1,Lifetime 3
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/624
-#EXTINF:-1,CH110
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/625
-#EXTINF:-1,CH111
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/637
-#EXTINF:-1,CH112
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/647
-#EXTINF:-1,CH113
+#EXTINF:1,Fox Sports
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/650
-#EXTINF:-1,CH114
+#EXTINF:1,ESPN op2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/652
-#EXTINF:-1,CH115
+#EXTINF:1,FOX SPORT2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/653
-#EXTINF:-1,CH116
+#EXTINF:1,FOX SPORT
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/655
-#EXTINF:-1,CH117
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/660
-#EXTINF:-1,CH118
+#EXTINF:1,FS PREMIUM
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/739
-#EXTINF:-1,CH119
+#EXTINF:1.03437,FOX SPORT2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/781
-#EXTINF:-1,CH120
+#EXTINF:1.024,FOXSPORT2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/782
-#EXTINF:-1,CH121
+#EXTINF:1,TUDN 4
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/806
-#EXTINF:-1,CH122
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/811
-#EXTINF:-1,CH123
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/814
-#EXTINF:-1,CH124
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/827
-#EXTINF:-1,CH125
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/828
-#EXTINF:-1,CH126
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/829
-#EXTINF:-1,CH127
+#EXTINF:1,FSPREMIUM
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/831
-#EXTINF:-1,CH128
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/835
-#EXTINF:-1,CH129
+#EXTINF:1,ESPN2 op2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/836
-#EXTINF:-1,CH130
+#EXTINF:1,ESPN3 op2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/837
-#EXTINF:-1,CH131
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/843
-#EXTINF:-1,CH132
+#EXTINF:1,TBS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/849
-#EXTINF:-1,CH133
+#EXTINF:1,Fox Sports AR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/880
-#EXTINF:-1,CH134
+#EXTINF:1,Fox Sports 2 AR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/881
-#EXTINF:-1,CH135
+#EXTINF:1,Fox Sports 3 AR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/882
-#EXTINF:-1,CH136
+#EXTINF:1,ESPN 2 AR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/899
-#EXTINF:-1,CH137
+#EXTINF:1,TUDN 5
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/900
-#EXTINF:-1,CH138
+#EXTINF:1,FOX SPORT PREMIUM
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/901
-#EXTINF:-1,CH139
+#EXTINF:1,ESPN MX
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/902
-#EXTINF:-1,CH140
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/906
-#EXTINF:-1,CH141
+#EXTINF:1,ESPN 3 AR
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/973
-#EXTINF:-1,CH142
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1002
-#EXTINF:-1,CH143
+#EXTINF:1,TUDN 6
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1006
-#EXTINF:-1,CH144
+#EXTINF:1,TUDN 7
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1007
-#EXTINF:-1,CH145
+#EXTINF:1,ESPN 2 AR OP2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1016
-#EXTINF:-1,CH146
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1020
-#EXTINF:-1,CH147
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1021
-#EXTINF:-1,CH148
+#EXTINF:1,FOX DEPORTES op2
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1078
-#EXTINF:-1,CH149
+#EXTINF:1,FOX DEPORTES op3
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1133
-#EXTINF:-1,CH150
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/1149
