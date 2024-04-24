@@ -172,6 +172,12 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1,TNT Sport 35
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1,DSPORTS	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/467
+#EXTINF:-1,DSPORTS 2	
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/468
+#EXTINF:-1,DSPORTS +
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/469
 #EXTINF:-1,Dreamworks 35
 http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1,Disney Channel
