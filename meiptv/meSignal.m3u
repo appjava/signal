@@ -269,7 +269,5 @@ http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,Love Nature (1280)
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
 
-#EXTINF:-1,ESPN (COL)
-http://181.78.22.97:8000/play/a00h/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.22.97:8000/play/a01u/index.m3u8
+#EXTINF:-1,???
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/98
