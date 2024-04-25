@@ -4,32 +4,19 @@
 
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1,Caracol (1920)
+#EXTINF:-1,Caracol (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
-
-#EXTINF:-1,CO | Caracol (1920)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
 
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1,CO | CARACOL Ahora 2(720)
+#EXTINF:-1,CO | CARACOL Ahora 2 (720)
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
-#EXTINF:-1,CO | CARACOL Int (1920)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
-#EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
-
-#EXTINF:-1,Caracol INT
+#EXTINF:-1,Caracol INT (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/583
 
-#EXTINF:-1,RCN 
+#EXTINF:-1,RCN (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/584
-
-#EXTINF:-1,CO | NTN24 (640)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
-#EXTINF:-1,CO | NTN24 2(640)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 
 
 #EXTINF:-1,Telepacífico (1080)
@@ -44,22 +31,12 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CO | SEÑAL COLOMBIA (1280)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137877.ts
 
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,CO | Cable Noticias (1280)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/253107.ts
 
 #EXTINF:-1,TeleMedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1,CO | Telemedellin (1280)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/109.ts
-#EXTINF:-1,CO | TELEMEDELLIN (1920)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/138047.ts
-#EXTINF:-1,CO | Telemedellin (1280)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/146027.ts
 
 #EXTINF:-1,TeleAntioquia
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
@@ -72,8 +49,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 
 #EXTINF:-1,Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,CO | CANAL TRO (1920)ts
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137879.ts
 
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
@@ -92,8 +67,6 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,CGTN ESPANOL (720)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/249.ts
 
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -223,22 +196,3 @@ https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 #EXTINF:-1, Misterios sin Resolver Pluto
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
-#------------ 24/7
-#EXTINF:-1,24/7 | El Chavo del 8 (1918)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/150945.ts
-#EXTINF:-1,24/7 | Don Gato y Su Pandilla (540)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157521.ts
-#EXTINF:-1,24/7 | El Conde Pátula (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157524.ts
-#EXTINF:-1,24/7 | Los Picapiedras (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157539.ts
-#EXTINF:-1,24/7 | Pajaro Loco (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157542.ts
-#EXTINF:-1,24/7 | ALERTA AEROPUERTO (1920)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
-#EXTINF:-1,24/7 | The Walking Dead (960)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137099.ts
-
-#--------------- DOCU
-##EXTINF:-1,Love Nature (1280)
-#http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
