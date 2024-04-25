@@ -1,7 +1,6 @@
 #EXTM3U
 #-------------- TDT ----------------------
 
-
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol (teve)
@@ -17,7 +16,6 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/583
 
 #EXTINF:-1,RCN (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/584
-
 
 #EXTINF:-1,Telepacífico (1080)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -74,7 +72,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,France24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
@@ -103,7 +100,7 @@ https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1, Pluto TV Filmstream
 https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
-#EXTINF:-1, Pluto TV  Nuestro Cine
+#EXTINF:-1, Pluto TV Nuestro Cine
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 #EXTINF:-1, Pluto TV Cine Clásico
 https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
@@ -195,4 +192,9 @@ https://r.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 #EXTINF:-1, Misterios sin Resolver Pluto
 https://r.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
+#EXTINF:-1, Captain Tsubasa Pluto
+https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1, The Walking Dead ESP
+https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
+#----------------------------------------------------------
