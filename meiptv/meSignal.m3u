@@ -1,37 +1,36 @@
 #EXTM3U
 #-------------- TDT ----------------------
 
-#EXTINF:-1,Caracol (720)
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1,Caracol SD
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1,Caracol (1920)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
+
 #EXTINF:-1,CO | Caracol (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/254.ts
+
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,CO | CARACOL Ahora 2(720)
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+
 #EXTINF:-1,CO | CARACOL Int (1920)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/34.ts
 #EXTINF:-1,CO | CARACOL INTERNACIONAL (1280)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/258.ts
 
-#EXTINF:-1,RCN
-http://181.78.22.97:8000/play/a00c/index.m3u8
+#EXTINF:-1,Caracol INT
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/583
+
+#EXTINF:-1,RCN 
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/584
 
 #EXTINF:-1,CO | NTN24 (640)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/256.ts
 #EXTINF:-1,CO | NTN24 2(640)ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/257.ts
 
-#EXTINF:-1,RCN Inter
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1,RCN Internacional (720)
-http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
 
 #EXTINF:-1,Telepacífico (1080)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -102,18 +101,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,France24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1,RT
-http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
 
-#EXTINF:-1,Enlace
-http://stream.flynetwifi.com:1935/live/mobile-145/playlist.m3u8
-
-#EXTINF:-1,A3Series
-http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8
-#EXTINF:-1,Antena3 Internacional
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
-#EXTINF:-1,A3Cine
-http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
@@ -190,8 +178,6 @@ https://r.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1, Pluto TV Animé Acción
 https://r.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1, Pluto TV E-Sports
 https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 #EXTINF:-1, Estrellas de Acción Pluto
@@ -254,20 +240,5 @@ http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
 http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137099.ts
 
 #--------------- DOCU
-#EXTINF:-1,-------------- D
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,-------------- N
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,-------------- A
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,-------------- T
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,-------------- H
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,-------------- HH
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,Love Nature (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
-
-#EXTINF:-1,???
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/98
+##EXTINF:-1,Love Nature (1280)
+#http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
