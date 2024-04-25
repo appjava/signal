@@ -203,51 +203,36 @@ https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 #--------------------------------------------------------------
 
 #----------------------------ENTERTAINMENT---------------------------------#
-#EXTINF:-1,Film&Arts 142
-http://stream.flynetwifi.com:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1,AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1,AXN (1280)
+
+#EXTINF:-1,AXN (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/15
-#EXTINF:-1,Axn
+#EXTINF:-1,Axn (8000)
 http://181.78.22.97:8000/play/a00s/index.m3u8
-#EXTINF:-1,AMC
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+
 #EXTINF:-1,AMC (México)
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,AMC (1280)
+#EXTINF:-1,AMC (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/7
-#EXTINF:-1,A&E
-http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1,LifeTime
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1,LifeTime2
+
+#EXTINF:-1,LifeTime2 (8000)
 http://181.78.22.97:8000/play/a037/index.m3u8
-#EXTINF:-1,LIFETIME (1280)
+#EXTINF:-1,LIFETIME (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/220
-#EXTINF:-1,Star
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1,STAR CHANNEL
+
+#EXTINF:-1,STAR CHANNEL (8000)
 http://181.78.22.97:8000/play/a02z/index.m3u8
-#EXTINF:-1,STAR CHANNEL (1280)
+#EXTINF:-1,STAR CHANNEL (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/157
-#EXTINF:-1,Fx
-http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1,FX (1280)
+
+#EXTINF:-1,FX (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
-#EXTINF:-1,Sony Channel
-http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1,Sony
+
+#EXTINF:-1,Sony (8000)
 http://181.78.22.97:8000/play/a00r/index.m3u8
-#EXTINF:-1,SONY (1280)
+#EXTINF:-1,SONY (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
-#EXTINF:-1,TNT Series
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1,MC 44
-http://stream.flynetwifi.com:1935/live/mobile-044/playlist.m3u8
-#EXTINF:-1,Wagner
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1,WARNER (1280)
+
+#EXTINF:-1,WARNER (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
 
 #----------------------------MOV--------------------------------------------#
