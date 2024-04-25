@@ -251,8 +251,6 @@ http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
 
 #----------------------------MOV--------------------------------------------#
-#EXTINF:-1,Paramount
-http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
 
 #EXTINF:-1,Golden 406
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
@@ -271,258 +269,154 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-
-#EXTINF:-1,MultiPremier
-http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
-#EXTINF:-1,Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
-#EXTINF:-1,SPACE (1280)
+#EXTINF:-1,SPACE (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/286
-#EXTINF:-1,SPACE 
+#EXTINF:-1,SPACE (8000)
 http://181.78.22.97:8000/play/a00t/index.m3u8
-#EXTINF:-1,Studio
-http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1,STUDIO (1280)
+
+#EXTINF:-1,STUDIO (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/288
-#EXTINF:-1,Studio Universal
+#EXTINF:-1,Studio Universal (8000)
 http://181.78.22.97:8000/play/a09g/index.m3u8
-#EXTINF:-1,Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1,CINECANAL (1280)
+
+#EXTINF:-1,CINECANAL (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/63
-#EXTINF:-1,TNT
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1,TNT (768)
+
+#EXTINF:-1,TNT (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
-#EXTINF:-1,TNT (COL)
+#EXTINF:-1,TNT (8000)
 http://181.78.22.97:8000/play/a032/index.m3u8
 
-#EXTINF:-1,HBO (720)
+#EXTINF:-1,HBO (8000)
 http://181.78.22.97:8000/play/a04f/index.m3u8
-#EXTINF:-1,HBO (1280)
+#EXTINF:-1,HBO (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
-#EXTINF:-1,HBO2 (720)
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1,HBO 2 (720)
+
+#EXTINF:-1,HBO 2 (8000)
 http://181.78.22.97:8000/play/a02f/index.m3u8
-#EXTINF:-1,HBO2 (1280)
+#EXTINF:-1,HBO2 (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/199
-#EXTINF:-1,HBO XTREME (720)
+#EXTINF:-1,HBO XTREME (8000)
 http://181.78.22.97:8000/play/a02h/index.m3u8
-#EXTINF:-1,HBO FAMILY (720)
+#EXTINF:-1,HBO FAMILY (8000)
 http://181.78.22.97:8000/play/a02i/index.m3u8
-#EXTINF:-1,HBO PLUS (720)
+#EXTINF:-1,HBO PLUS (8000)
 http://181.78.22.97:8000/play/a02g/index.m3u8
-#EXTINF:-1,HBO PLUS (1280)
+#EXTINF:-1,HBO PLUS (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/201
-#EXTINF:-1,HBO SIGNATURE (1280)
+#EXTINF:-1,HBO SIGNATURE (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/202
-#EXTINF:-1,CINEMAX (1280)
+#EXTINF:-1,CINEMAX (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/65
 
-#EXTINF:-1,Universal 64
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1,Universal TV
+#EXTINF:-1,Universal TV (8000)
 http://181.78.22.97:8000/play/a02v/index.m3u8
-#EXTINF:-1,Universal Comedy
+#EXTINF:-1,Universal Comedy (8000)
 http://181.78.22.97:8000/play/a08f/index.m3u8
-#EXTINF:-1,Universal Premier
+#EXTINF:-1,Universal Premier (8000)
 http://181.78.22.97:8000/play/a08d/index.m3u8
-#EXTINF:-1,Universal Cinema
+#EXTINF:-1,Universal Cinema (8000)
 http://181.78.22.97:8000/play/a08e/index.m3u8
 
 #EXTINF:-1,SonyComedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,SonyMovies
-http://stream.flynetwifi.com:1935/live/mobile-034/playlist.m3u8
+
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,SONY CINE (1280)
+#EXTINF:-1,SONY CINE (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/62
 
 
 #----------------------------Toon-------------------------------------------#
-#EXTINF:-1,DreamWorks 99
-http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+
 #EXTINF:-1,MAX ANIME
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-#EXTINF:-1,CartoonNetwork
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,Nicke
+
+#EXTINF:-1,Nickelodeon (8000)
 http://181.78.22.97:8000/play/a02r/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1,Nick Jr (8000)
 http://181.78.22.97:8000/play/a010/index.m3u8
 
 
 #----------------------------DOCU--------------------------------------------#
-#EXTINF:-1,Discovery 6
-http://stream.flynetwifi.com:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,Discovery 
+
+#EXTINF:-1,Discovery (8000)
 http://181.78.22.97:8000/play/a01o/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL 1280
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137033.ts
-#EXTINF:-1,DISCOVERY CHANNEL (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/42.ts
-#EXTINF:-1,DISCOVERY (1280)
+
+#EXTINF:-1,DISCOVERY (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/86
-#EXTINF:-1,DISCOVERY ESP (1024)
+#EXTINF:-1,DISCOVERY ESP (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
 
-#EXTINF:-1,DISCOVERY FAMILIA (1024)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12261.ts
-#EXTINF:-1,DISCOVERY FAMILIA 2(1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/45.ts
-#EXTINF:-1,DISCOVERY FAMILIA (1024)
+#EXTINF:-1,DISCOVERY FAMILIA (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/90
 
-#EXTINF:-1,H&H 107
-http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1,DISCOVERY H&H (720)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/46.ts
-#EXTINF:-1,DISCOVERY H&H 2(720)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12262.ts
-#EXTINF:-1,DISCOVERY H&H (480)
+#EXTINF:-1,DISCOVERY H&H (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/210
 
-#EXTINF:-1,DISCOVERY THEATHER (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12263.ts
-#EXTINF:-1,DISCOVERY THEATER 2(1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/50.ts
-#EXTINF:-1,DISCOVERY THEATER (1280)
+#EXTINF:-1,DISCOVERY THEATER (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/98
 
-#EXTINF:-1,DISCOVERY TLC (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/51.ts
-#EXTINF:-1,DISCOVERY TLC (1280)
+#EXTINF:-1,DISCOVERY TLC (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/316
 
-#EXTINF:-1,DISCOVERY ID (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/47.ts
-#EXTINF:-1,DISCOVERY ID (1280)
+#EXTINF:-1,DISCOVERY ID (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/92
 
-#EXTINF:-1,Turbo
-http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8
-#EXTINF:-1,DISCOVERY TURBO (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/52.ts
-#EXTINF:-1,DISCOVERY TURBO 2(1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12258.ts
-#EXTINF:-1,DISCOVERY TURBO (1280)
+#EXTINF:-1,DISCOVERY TURBO (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/100
-#EXTINF:-1,TURBO
+#EXTINF:-1,TURBO (8000)
 http://181.78.22.97:8000/play/a011/index.m3u8
 
-#EXTINF:-1,DISCOVERY SCIENCE (1280)
+#EXTINF:-1,DISCOVERY SCIENCE (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/281
 
-#EXTINF:-1,History 58
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,History (544)
+#EXTINF:-1,History (2000)
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1,HISTORY (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/92.ts
-#EXTINF:-1,History
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28022
-#EXTINF:-1,HISTORY (1280)
+
+#EXTINF:-1,HISTORY (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
 
-#EXTINF:-1,Histoty 2 157
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,HISTORY 2 (1280)
+#EXTINF:-1,HISTORY 2 (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
-#EXTINF:-1,Histoty 2 (544)
+#EXTINF:-1,Histoty 2 (2000)
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
-#EXTINF:-1,Animal Planet 68
-http://stream.flynetwifi.com:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12259.ts
-#EXTINF:-1,ANIMAL PLANET (1280)
+#EXTINF:-1,ANIMAL PLANET (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
 
-#EXTINF:-1,NatGeo 91
-http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC (720)
-http://181.78.22.97:8000/play/a02s/index.m3u8
-#EXTINF:-1,NatGeo ENG
+#EXTINF:-1,NATIONAL GEOGRAPHIC (8000)
 http://181.78.22.97:8000/play/a02s/index.m3u8
 
-#EXTINF:-1,NatGeo Wild (1024)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/103.ts
-#EXTINF:-1,NatGeo Mundo
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/102.ts
-#EXTINF:-1,NatGeo (1920)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/104.ts
-#EXTINF:-1,NATGEO (1280)
+#EXTINF:-1,NATGEO (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/238
 
-#EXTINF:-1,HGTV (1024)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/43.ts
-#EXTINF:-1,HGTV 2(1024)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/12260.ts
-#EXTINF:-1,HGTV (1280)
+#EXTINF:-1,HGTV (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/89
-
-#EXTINF:-1,Love Nature (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/171760.ts
 
 
 #-----------Win 
-#EXTINF:-1,CO | WINSPORTS PLUS (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/267.ts
-#EXTINF:-1,CO | WINSPORTS PLUS2 (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/267.ts
-#EXTINF:-1,CO | WINSPORTS + (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/268.ts
-#EXTINF:-1,CO | Win Sports (832)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/349.ts
-#EXTINF:-1,CO | Win Sports2 (832)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/349.ts
-#EXTINF:-1,W (1920)
+
+#EXTINF:-1,W (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/369
-#EXTINF:-1,W+ (1024)
+#EXTINF:-1,W+ (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/370
-#EXTINF:-1,Wplus
+#EXTINF:-1,Wplus (8000)
 http://181.78.22.97:8000/play/a03j/index.m3u8
-#EXTINF:-1,W
+#EXTINF:-1,W (8000)
 http://181.78.22.97:8000/play/a00w/index.m3u8
 
-#EXTINF:-1,ESPN (COL)
+#EXTINF:-1,ESPN (COL) (8000)
 http://181.78.22.97:8000/play/a00h/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN (8000)
 http://181.78.22.97:8000/play/a01u/index.m3u8
-#EXTINF:-1,ESPN2 (COL)
+#EXTINF:-1,ESPN2 (COL) (8000)
 http://181.78.22.97:8000/play/a02m/index.m3u8
-#EXTINF:-1,ESPN2
+#EXTINF:-1,ESPN2 (8000)
 http://181.78.22.97:8000/play/a01t/index.m3u8
-#EXTINF:-1,ESPN3 (COL)
+#EXTINF:-1,ESPN3 (COL) (8000)
 http://181.78.22.97:8000/play/a013/index.m3u8
-#EXTINF:-1,ESPN6 (COL)
+#EXTINF:-1,ESPN6 (COL) (8000)
 http://181.78.22.97:8000/play/a024/index.m3u8
-#EXTINF:-1,ESPN7 (COL)
+#EXTINF:-1,ESPN7 (COL) (8000)
 http://181.78.22.97:8000/play/a023/index.m3u8
-
-
-#------------ 24/7
-#EXTINF:-1,24/7 | El Chavo del 8 (1918)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/150945.ts
-#EXTINF:-1,24/7 | 50 Clasicos de Disney (1440)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157508.ts
-#EXTINF:-1,24/7 | Don Gato y Su Pandilla (540)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157521.ts
-#EXTINF:-1,24/7 | El Conde Pátula (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157524.ts
-#EXTINF:-1,24/7 | Los Picapiedras (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157539.ts
-#EXTINF:-1,24/7 | Pajaro Loco (640)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/157542.ts
-#EXTINF:-1,24/7 | Cinema Disney Family HD (1440)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137001.ts
-#EXTINF:-1,24/7 | Cinema Disney Pixar (1280)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137097.ts
-#EXTINF:-1,24/7 | ALERTA AEROPUERTO (1920)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/299082.ts
-#EXTINF:-1,24/7 | The Walking Dead (960)
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/137099.ts
