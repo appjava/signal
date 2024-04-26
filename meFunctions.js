@@ -29,10 +29,10 @@ const ch10 = document.getElementById('ch10');
 const ch11 = document.getElementById('ch11');
 const ch12 = document.getElementById('ch12');
 
-const ch13 = document.getElementById('ch9');
-const ch14 = document.getElementById('ch10');
-const ch15 = document.getElementById('ch11');
-const ch16 = document.getElementById('ch12');
+const ch13 = document.getElementById('ch13');
+const ch14 = document.getElementById('ch14');
+const ch15 = document.getElementById('ch15');
+const ch16 = document.getElementById('ch16');
 
 function changeCH(ch){
     if(Hls.isSupported()) {
@@ -107,7 +107,7 @@ ch13?.addEventListener('click', () => {
     changeCH(ch);
 });
 ch14?.addEventListener('click', () => {
-    const ch = 'http://181.78.22.97:8000/play/a02z/index.m3u8';
+    const ch = 'https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8';
     changeCH(ch);
 });
 ch15?.addEventListener('click', () => {
@@ -115,7 +115,7 @@ ch15?.addEventListener('click', () => {
     changeCH(ch);
 });
 ch16?.addEventListener('click', () => {
-    const ch = 'http://181.78.105.146:2000/play/a03f/index.m3u8';
+    const ch = 'https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8';
     changeCH(ch);
 });
 
