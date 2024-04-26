@@ -103,15 +103,15 @@ ch12?.addEventListener('click', () => {
 });
 
 ch13?.addEventListener('click', () => {
-    const ch = 'https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8';
+    const ch = 'https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10';
     changeCH(ch);
 });
 ch14?.addEventListener('click', () => {
-    const ch = 'https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8';
+    const ch = 'https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11';
     changeCH(ch);
 });
 ch15?.addEventListener('click', () => {
-    const ch = 'https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8';
+    const ch = 'https://archive.org/download/mar_20230113/mar.mkv';
     changeCH(ch);
 });
 ch16?.addEventListener('click', () => {
