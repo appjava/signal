@@ -18,14 +18,21 @@ const ch1 = document.getElementById('ch1');
 const ch2 = document.getElementById('ch2');
 const ch3 = document.getElementById('ch3');
 const ch4 = document.getElementById('ch4');
+
 const ch5 = document.getElementById('ch5');
 const ch6 = document.getElementById('ch6');
 const ch7 = document.getElementById('ch7');
 const ch8 = document.getElementById('ch8');
+
 const ch9 = document.getElementById('ch9');
 const ch10 = document.getElementById('ch10');
 const ch11 = document.getElementById('ch11');
 const ch12 = document.getElementById('ch12');
+
+const ch13 = document.getElementById('ch9');
+const ch14 = document.getElementById('ch10');
+const ch15 = document.getElementById('ch11');
+const ch16 = document.getElementById('ch12');
 
 function changeCH(ch){
     if(Hls.isSupported()) {
@@ -77,6 +84,7 @@ ch8?.addEventListener('click', () => {
     const ch = 'https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8';
     changeCH(ch);
 });
+
 ch9?.addEventListener('click', () => {
     const ch = 'https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8';
     changeCH(ch);
@@ -91,6 +99,23 @@ ch11?.addEventListener('click', () => {
 });
 ch12?.addEventListener('click', () => {
     const ch = 'https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8';
+    changeCH(ch);
+});
+
+ch13?.addEventListener('click', () => {
+    const ch = 'https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8';
+    changeCH(ch);
+});
+ch14?.addEventListener('click', () => {
+    const ch = 'http://181.78.22.97:8000/play/a02z/index.m3u8';
+    changeCH(ch);
+});
+ch15?.addEventListener('click', () => {
+    const ch = 'https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8';
+    changeCH(ch);
+});
+ch16?.addEventListener('click', () => {
+    const ch = 'http://181.78.105.146:2000/play/a03f/index.m3u8';
     changeCH(ch);
 });
 
