@@ -195,3 +195,5 @@ https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #----------------------------------------------------------
+#EXTINF:-1,Live
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
