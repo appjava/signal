@@ -1,11 +1,44 @@
 #EXTM3U
 
+#EXTINF:-1,40
+https://linear-340.frequency.stream/mt/studio/340/hls/master/playlist.m3u8
+#EXTINF:-1,41
+https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
+#EXTINF:-1,42
+https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
+#EXTINF:-1,43
+https://linear-343.frequency.stream/mt/studio/343/hls/master/playlist.m3u8
+#EXTINF:-1,44
+https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
+#EXTINF:-1,45
+https://linear-345.frequency.stream/mt/studio/345/hls/master/playlist.m3u8
+#EXTINF:-1,46
+https://linear-346.frequency.stream/mt/studio/346/hls/master/playlist.m3u8
+#EXTINF:-1,47
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1,48
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1,49
+https://linear-349.frequency.stream/mt/studio/349/hls/master/playlist.m3u8
 
+#EXTINF:-1,50
+https://linear-350.frequency.stream/mt/studio/350/hls/master/playlist.m3u8
+#EXTINF:-1,51
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1,52
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1,53
+https://linear-353.frequency.stream/mt/studio/353/hls/master/playlist.m3u8
+#EXTINF:-1,54
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1,55
+https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
 #EXTINF:-1,56
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1,57
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
-
+#EXTINF:-1,58
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1,59
 https://linear-359.frequency.stream/mt/studio/359/hls/master/playlist.m3u8
 
@@ -71,6 +104,27 @@ https://linear-387.frequency.stream/mt/studio/387/hls/master/playlist.m3u8
 https://linear-388.frequency.stream/mt/studio/388/hls/master/playlist.m3u8
 #EXTINF:-1,89
 https://linear-389.frequency.stream/mt/studio/389/hls/master/playlist.m3u8
+
+#EXTINF:-1,90
+https://linear-390.frequency.stream/mt/studio/390/hls/master/playlist.m3u8
+#EXTINF:-1,91
+https://linear-391.frequency.stream/mt/studio/391/hls/master/playlist.m3u8
+#EXTINF:-1,92
+https://linear-392.frequency.stream/mt/studio/392/hls/master/playlist.m3u8
+#EXTINF:-1,93
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1,94
+https://linear-394.frequency.stream/mt/studio/394/hls/master/playlist.m3u8
+#EXTINF:-1,95
+https://linear-395.frequency.stream/mt/studio/395/hls/master/playlist.m3u8
+#EXTINF:-1,96
+https://linear-396.frequency.stream/mt/studio/396/hls/master/playlist.m3u8
+#EXTINF:-1,97
+https://linear-397.frequency.stream/mt/studio/397/hls/master/playlist.m3u8
+#EXTINF:-1,98
+https://linear-398.frequency.stream/mt/studio/398/hls/master/playlist.m3u8
+#EXTINF:-1,99
+https://linear-399.frequency.stream/mt/studio/399/hls/master/playlist.m3u8
 
 
 
