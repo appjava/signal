@@ -1,5 +1,7 @@
 #EXTM3U
 #-------------- TDT ----------------------
+#EXTINF:-1,TV Agro (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73359&extension=ts
 
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -7,14 +9,28 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
 
+#EXTINF:-1,Caracol (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
+
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1,Caracol INT (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/583
 
+#EXTINF:-1,Caracol INT (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73389&extension=ts
+
+
 #EXTINF:-1,RCN (teve)
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/584
+
+#EXTINF:-1,RCN (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
+
+#EXTINF:-1,NTN24 (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73380&extension=ts
+
 
 #EXTINF:-1,Telepacífico (1080)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
@@ -25,6 +41,10 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&e
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1,Canal Uno (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73395&extension=ts
+
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -52,6 +72,10 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF::-1,El Tiempo (ts)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73383&extension=ts
+
 
 #EXTINF:-1, AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -198,4 +222,4 @@ https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
 #----------------------------------------------------------
 #EXTINF:-1, Live
-https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73358&extension=ts
