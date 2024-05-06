@@ -11,6 +11,8 @@ http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
 
 #EXTINF:-1,Caracol (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
+#EXTINF:-1,Caracol (tsla)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6553&extension=ts
 
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8

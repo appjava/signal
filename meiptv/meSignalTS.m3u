@@ -84,122 +84,8 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=258640&
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=258639&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas Dallas \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas Dallas \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29463&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas East \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas East \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29465&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas Hawai \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas Hawai \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29466&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas Las Vegas \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas Las Vegas \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29467&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas Washington \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas Washington \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29469&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Unimas West \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Unimas West \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29471&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| AFIZZIONADOS" group-title="LATINO GENERAL",|LATIN| AFIZZIONADOS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309864&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ADRENALINA SPORTS NETWORK" group-title="LATINO GENERAL",|LATIN| ADRENALINA SPORTS NETWORK
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309865&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| BEIN SPORTS XTRA N" group-title="LATINO GENERAL",|LATIN| BEIN SPORTS XTRA N
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309867&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CDN DEPORTES" group-title="LATINO GENERAL",|LATIN| CDN DEPORTES
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309868&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| CDO BASICO" group-title="LATINO GENERAL",|LATIN| CDO BASICO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309869&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| DEPORTV" group-title="LATINO GENERAL",|LATIN| DEPORTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309870&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 4 (BRASIL)" group-title="LATINO GENERAL",|LATIN| ESPN 4 (BRASIL)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309871&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPORT3" group-title="LATINO GENERAL",|LATIN| ESPORT3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309872&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| EXTREME SPORTS CHANNEL" group-title="LATINO GENERAL",|LATIN| EXTREME SPORTS CHANNEL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309873&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FIGHT BOX" group-title="LATINO GENERAL",|LATIN| FIGHT BOX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309874&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FLOW SPORTS" group-title="LATINO GENERAL",|LATIN| FLOW SPORTS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309875&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOL PLAY" group-title="LATINO GENERAL",|LATIN| GOL PLAY
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309876&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| IVC" group-title="LATINO GENERAL",|LATIN| IVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309877&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| LA TELE TUYA" group-title="LATINO GENERAL",|LATIN| LA TELE TUYA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309878&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| MERIDIANO" group-title="LATINO GENERAL",|LATIN| MERIDIANO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309879&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SETANTA SPORTS 1" group-title="LATINO GENERAL",|LATIN| SETANTA SPORTS 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309880&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SNY" group-title="LATINO GENERAL",|LATIN| SNY
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309881&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SPORTDIGITAL" group-title="LATINO GENERAL",|LATIN| SPORTDIGITAL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309882&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| SPORTS MAX PLUS" group-title="LATINO GENERAL",|LATIN| SPORTS MAX PLUS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309883&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TRACE SPORTS" group-title="LATINO GENERAL",|LATIN| TRACE SPORTS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309884&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT SPORTS [BRASIL]" group-title="LATINO GENERAL",|LATIN| TNT SPORTS [BRASIL]
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309885&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| FANDUEL" group-title="LATINO GENERAL",|LATIN| FANDUEL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309886&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVERSO" group-title="LATINO GENERAL",|LATIN| UNIVERSO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309887&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ZONA TUDN" group-title="LATINO GENERAL",|LATIN| ZONA TUDN
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -208,27 +94,6 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=309888&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29472&extension=ts
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|US| SMITHSONIAN CHANNEL" group-title="US ENTERTAINMENT NETWORK",|US| SMITHSONIAN CHANNEL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=11163&extension=ts
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| AE" group-title="LATINO GENERAL",|LAM| AE
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -237,7 +102,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6577&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6572&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| AXN \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| AXN \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| AXN \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| AXN 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6571&extension=ts
@@ -245,7 +110,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6571&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6565&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| E Entertainment \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| E Entertainment \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| E Entertainment \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| E Entertainment 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6511&extension=ts
@@ -253,7 +118,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6511&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6510&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| El Gourmet \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| El Gourmet \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| El Gourmet \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| El Gourmet 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6504&extension=ts
@@ -261,7 +126,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6504&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6497&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| FX \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FX \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| FX \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FX 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6495&extension=ts
@@ -269,7 +134,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6495&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6494&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| FXM \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FXM \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| FXM \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FXM 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6493&extension=ts
@@ -277,50 +142,6 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6493&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6492&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Foro TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Foro TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6491&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Foro TV" group-title="LATINO GENERAL",|LAM| Foro TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6490&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Az Corazon" group-title="LATINO GENERAL",|LAM| Az Corazon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6570&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Azteca 7" group-title="LATINO GENERAL",|LAM| Azteca 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6569&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Azteca UNO" group-title="LATINO GENERAL",|LAM| Azteca UNO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6568&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Bloomberg" group-title="LATINO GENERAL",|LAM| Bloomberg
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6566&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| America TV" group-title="LATINO GENERAL",|LAM| America TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6564&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Aym Sports" group-title="LATINO GENERAL",|LAM| Aym Sports
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6563&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ATV Noticias \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ATV Noticias \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6562&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM|  AMERICA TV" group-title="LATINO GENERAL",|LAM|  AMERICA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6575&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ADN 40" group-title="LATINO GENERAL",|LAM| ADN 40
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6573&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| CGTN" group-title="LATINO GENERAL",|LAM| CGTN
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -333,31 +154,17 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6558&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6557&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Canal Antigua" group-title="LATINO GENERAL",|LAM| Canal Antigua
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6556&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Caracol \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Caracol \u1d41\u1d34\u1d30
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Caracol \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Caracol 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6553&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Digital Quince" group-title="LATINO GENERAL",|LAM| Digital Quince
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6538&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Direct 13" group-title="LATINO GENERAL",|LAM| Direct 13
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6537&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Distrito Comedia" group-title="LATINO GENERAL",|LAM| Distrito Comedia
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6512&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox" group-title="LATINO GENERAL",|LAM| Fox
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29310&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Life \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Life \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Life \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Life 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29311&extension=ts
@@ -365,22 +172,12 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29311&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29312&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| GOL TV" group-title="LATINO GENERAL",|LAM| GOL TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29323&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Galavision \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Galavision \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29324&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Garage TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Garage TV \u1d41\u1d34\u1d30
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Garage TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Garage TV 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29325&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Glitz" group-title="LATINO GENERAL",|LAM| Glitz
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29326&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Golden Edge" group-title="LATINO GENERAL",|LAM| Golden Edge
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -389,7 +186,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29327&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29328&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Golden Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Golden Plus \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Golden Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Golden Plus
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29329&extension=ts
@@ -397,23 +194,9 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29329&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29330&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Guatevision" group-title="LATINO GENERAL",|LAM| Guatevision
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29331&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Hola TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Hola TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29346&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Hola TV" group-title="LATINO GENERAL",|LAM| Hola TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29347&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Indieplex \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Indieplex \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29348&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Lifetime \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Lifetime \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Lifetime \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Lifetime 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29351&extension=ts
@@ -421,22 +204,8 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29351&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29352&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| MTV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| MTV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29353&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| MTV Hits" group-title="LATINO GENERAL",|LAM| MTV Hits
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29354&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| MTV Live \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| MTV Live \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29355&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Mas Chic \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Mas Chic \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29356&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Max" group-title="LATINO GENERAL",|LAM| Max
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -445,79 +214,32 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29357&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29358&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Max Up \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Max Up \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Max Up \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Max Up 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29359&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Milenio TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Milenio TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29360&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Multimedios \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Multimedios \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29364&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Multimedios" group-title="LATINO GENERAL",|LAM| Multimedios
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29365&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Multimedios Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Multimedios Plus \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29366&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Multimedios Plus" group-title="LATINO GENERAL",|LAM| Multimedios Plus
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29367&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| NTN 24 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| NTN 24 \u1d41\u1d34\u1d30
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| NTN 24 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| NTN 24
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29368&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nbc Universo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nbc Universo \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29376&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Next TV" group-title="LATINO GENERAL",|LAM| Next TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29377&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Nick 2" group-title="LATINO GENERAL",|LAM| Nick 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29378&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nos Pais" group-title="LATINO GENERAL",|LAM| Nos Pais
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29382&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Outermax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Outermax \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29383&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Pasiones \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Pasiones \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29386&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Promar" group-title="LATINO GENERAL",|LAM| Promar
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29387&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| RTV 7" group-title="LATINO GENERAL",|LAM| RTV 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29388&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Retroplex \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Retroplex \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29389&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Ritmoson" group-title="LATINO GENERAL",|LAM| Ritmoson
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29390&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| SYFY \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| SYFY \u1d41\u1d34\u1d30
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| SYFY \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| SYFY
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29391&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Space \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Space \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Space \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Space 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29397&extension=ts
@@ -525,23 +247,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29397&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29398&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Sundance TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Sundance TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29416&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Sundance TV" group-title="LATINO GENERAL",|LAM| Sundance TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29417&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TBS" group-title="LATINO GENERAL",|LAM| TBS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29418&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| TCM" group-title="LATINO GENERAL",|LAM| TCM
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29419&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TLC \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TLC \u1d41\u1d34\u1d30
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| TLC \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TLC 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29420&extension=ts
@@ -549,7 +263,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29420&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29421&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29422&extension=ts
@@ -557,159 +271,22 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29422&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29423&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TVE" group-title="LATINO GENERAL",|LAM| TVE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29427&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TVN" group-title="LATINO GENERAL",|LAM| TVN
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29428&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Tele Antilles" group-title="LATINO GENERAL",|LAM| Tele Antilles
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29429&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Tele Curacao" group-title="LATINO GENERAL",|LAM| Tele Curacao
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29430&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Teleamazonas \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Teleamazonas \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29431&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telecentro" group-title="LATINO GENERAL",|LAM| Telecentro
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29432&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Teleformula" group-title="LATINO GENERAL",|LAM| Teleformula
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29433&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Atlanta \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Atlanta \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29434&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Boston \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Boston \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29435&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Chicago \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Chicago \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29436&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Dallas \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Dallas \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29437&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo East \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo East \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29438&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29439&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Fresno \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Fresno \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29440&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Houston \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Houston \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29441&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo International" group-title="LATINO GENERAL",|LAM| Telemundo International
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29442&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Las Vegas \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Las Vegas \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29443&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Los Angeles \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Los Angeles \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29444&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo New York \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo New York \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29445&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Philadelphia \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Philadelphia \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29446&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Phoenix \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Phoenix \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29447&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo San Fransisco \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo San Fransisco \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29448&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo Washington \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo Washington \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29449&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telemundo West \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Telemundo West \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29450&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telenovelas" group-title="LATINO GENERAL",|LAM| Telenovelas
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29451&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Telepacifico" group-title="LATINO GENERAL",|LAM| Telepacifico
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telesistema" group-title="LATINO GENERAL",|LAM| Telesistema
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29453&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Telesur" group-title="LATINO GENERAL",|LAM| Telesur
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29454&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Teletica 7" group-title="LATINO GENERAL",|LAM| Teletica 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29455&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Tooncast" group-title="LATINO GENERAL",|LAM| Tooncast
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29456&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Top Latino" group-title="LATINO GENERAL",|LAM| Top Latino
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29457&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Tru TV \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Tru TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29458&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| VTV" group-title="LATINO GENERAL",|LAM| VTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29459&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Ultra Classico \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Ultra Classico \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29461&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Ve Plus TV" group-title="LATINO GENERAL",|LAM| Ve Plus TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29462&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Venevision Plus" group-title="LATINO GENERAL",|LAM| Venevision Plus
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29464&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| VH1 Classic" group-title="LATINO GENERAL",|LAM| VH1 Classic
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29489&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| VH1 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| VH1 \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29490&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Warner \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Warner \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Warner \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Warner 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29491&extension=ts
@@ -717,35 +294,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29491&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29492&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Wobi \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Wobi \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29468&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 KIDS \u2726\u25cf\u2726" group-title="LATINO GENERAL",\u2726\u25cf\u2726 KIDS \u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116424&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Baby TV" group-title="LATINO GENERAL",|LAM| Baby TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6567&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Boomerang \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Boomerang \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6561&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Boomerang" group-title="LATINO GENERAL",|LAM| Boomerang
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6560&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cartoon Network \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cartoon Network \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cartoon Network \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cartoon Network 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6552&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Canal De Las Estrellas" group-title="LATINO GENERAL",|LAM| Canal De Las Estrellas
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6555&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney Channel \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney Channel 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6518&extension=ts
@@ -753,7 +310,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6518&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6517&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney Junior \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney Junior \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney Junior \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney Junior 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6516&extension=ts
@@ -761,7 +318,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6516&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6515&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney XD \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney XD \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Disney XD \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Disney XD 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6514&extension=ts
@@ -777,19 +334,17 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29379&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29380&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nickelodeon \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nickelodeon \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nickelodeon \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nickelodeon
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29381&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 DOCUMENTARY \u2726\u25cf\u2726-" group-title="LATINO GENERAL",\u2726\u25cf\u2726 DOCUMENTARY \u2726\u25cf\u2726-
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116422&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29369&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Kids \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Kids \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Kids \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Kids
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29370&extension=ts
@@ -801,7 +356,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29371&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29372&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Mundo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Mundo \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Mundo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Mundo
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29373&extension=ts
@@ -809,11 +364,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29373&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29374&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Wild \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Wild \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Nat Geo Wild \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Nat Geo Wild 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29375&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Channel \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Channel 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6574&extension=ts
@@ -825,7 +380,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6531&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6530&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Home Health \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Home Health \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Home Health \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Home Health
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6529&extension=ts
@@ -833,7 +388,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6529&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6528&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Kids \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Kids \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Kids \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Kids
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6527&extension=ts
@@ -845,7 +400,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6526&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6525&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Theater \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Theater \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Theater \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Theater 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6524&extension=ts
@@ -853,7 +408,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6524&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6523&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Turbo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Turbo \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery Turbo \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery Turbo 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6522&extension=ts
@@ -861,7 +416,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6522&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6521&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery World \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery World \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Discovery World \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Discovery World 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6520&extension=ts
@@ -869,7 +424,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6520&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6519&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Investigation Discovery \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Investigation Discovery \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Investigation Discovery \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Investigation Discovery 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29349&extension=ts
@@ -877,15 +432,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29349&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29350&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| History \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| History \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| History \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| History 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29345&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| History 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| History 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| History 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| History 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29344&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| H2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| H2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| H2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| H2 *
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29332&extension=ts
@@ -893,11 +448,9 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29332&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29333&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 SPORTS \u2726\u25cf\u2726-" group-title="LATINO GENERAL",\u2726\u25cf\u2726 SPORTS \u2726\u25cf\u2726-
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116425&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Sports 1 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Sports 1 \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Sports 1 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Sports 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29317&extension=ts
@@ -905,7 +458,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29317&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29318&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| FOX SPORTS 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FOX SPORTS 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| FOX SPORTS 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| FOX SPORTS 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6496&extension=ts
@@ -913,7 +466,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6496&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29319&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Sports 3 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Sports 3 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Sports 3 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Sports 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29320&extension=ts
@@ -929,7 +482,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29322&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6499&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6500&extension=ts
@@ -937,7 +490,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6500&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6508&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6509&extension=ts
@@ -945,7 +498,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6509&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6502&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN 3 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN 3 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN 3 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN 3 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6503&extension=ts
@@ -953,7 +506,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6503&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6498&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN U \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN U \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN U \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN U 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6506&extension=ts
@@ -965,11 +518,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6507&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6505&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN Deportes \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN Deportes \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| ESPN Deportes \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| ESPN Deportes 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6501&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT Sports \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT Sports \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT Sports \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT Sports 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29426&extension=ts
@@ -977,15 +530,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29426&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29470&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport 1 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport 1 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport 1 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport 1 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6536&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6535&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| DirectTV Sport \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| DirectTV Sport 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6534&extension=ts
@@ -997,15 +550,13 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6533&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6532&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 CINEMA \u2726\u25cf\u2726-" group-title="LATINO GENERAL",\u2726\u25cf\u2726 CINEMA \u2726\u25cf\u2726-
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116423&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| De Pelicula Classico" group-title="LATINO GENERAL",|LAM| De Pelicula Classico
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6543&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| De Pelicula \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| De Pelicula \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| De Pelicula \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| De Pelicula 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6542&extension=ts
@@ -1013,7 +564,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6542&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6541&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| De Pelicula Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| De Pelicula Plus \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| De Pelicula Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| De Pelicula Plus
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6540&extension=ts
@@ -1021,7 +572,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6540&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6539&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cinecanal \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cinecanal \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cinecanal \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cinecanal 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6551&extension=ts
@@ -1029,7 +580,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6551&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6550&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cinemax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cinemax \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Cinemax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Cinemax 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6549&extension=ts
@@ -1037,19 +588,12 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6549&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6548&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Comedy Central \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Comedy Central \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6547&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Comedy Central" group-title="LATINO GENERAL",|LAM| Comedy Central
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6546&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM|  AMC" group-title="LATINO GENERAL",|LAM|  AMC
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6576&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Action \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Action \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Action \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Action 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6489&extension=ts
@@ -1061,7 +605,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6488&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6487&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Classics \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Classics \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Classics \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Classics 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6486&extension=ts
@@ -1069,7 +613,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6486&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6485&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Comedy \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Comedy \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Comedy \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Comedy 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6484&extension=ts
@@ -1077,15 +621,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6484&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6483&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Deportes \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Deportes \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Deportes \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Deportes 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6482&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6481&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Family \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Family 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6480&extension=ts
@@ -1093,7 +637,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6480&ex
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29309&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Movies \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Movies \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Movies \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Movies 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29313&extension=ts
@@ -1101,7 +645,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29313&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29314&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Series \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Series \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Fox Series \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Fox Series 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29315&extension=ts
@@ -1109,7 +653,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29315&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29316&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29336&extension=ts
@@ -1117,7 +661,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29336&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29339&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO 2 \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29334&extension=ts
@@ -1125,7 +669,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29334&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29335&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Family \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Family 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29337&extension=ts
@@ -1133,7 +677,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29337&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29338&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Plus \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Plus \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Plus 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29340&extension=ts
@@ -1141,7 +685,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29340&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29341&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Signature \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Signature \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| HBO Signature \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| HBO Signature
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29342&extension=ts
@@ -1149,95 +693,19 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29342&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29343&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Black \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Black \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29399&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Cinema \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Cinema \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29400&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Comedy \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Comedy \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29401&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz East \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz East \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29402&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Edge \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Edge \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29403&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Action" group-title="LATINO GENERAL",|LAM| Starz Encore Action
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29404&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Black \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore Black \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29405&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Classic \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore Classic \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29406&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29407&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore Family \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29408&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Suspense \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore Suspense \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29409&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Encore Western \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Encore Western \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29410&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29411&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Family \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29412&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz Kids  Family \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz Kids  Family \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29413&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Starz West \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Starz West \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29414&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Studio Universal \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Studio Universal \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Studio Universal \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Studio Universal 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29415&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Showtime Beyond \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Showtime Beyond \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29392&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Showtime East \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Showtime East \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29393&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Showtime \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Showtime \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29394&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Showtime West \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Showtime West \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29395&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|LAM| Sony Channel" group-title="LATINO GENERAL",|LAM| Sony Channel
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29396&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Paramount Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Paramount Channel \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Paramount Channel \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Paramount Channel 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29384&extension=ts
@@ -1245,19 +713,19 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29384&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29385&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Moremax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Moremax \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Moremax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Moremax 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29361&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Moviemax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Moviemax \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Moviemax \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Moviemax 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29362&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| Movieplex \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Movieplex \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| Movieplex \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| Movieplex 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29363&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT Series \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT Series \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|LAM| TNT Series \u1d41\u1d34\u1d30" group-title="LATINO GENERAL",|LAM| TNT Series 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29424&extension=ts
@@ -1265,126 +733,10 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29424&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29425&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726|EC| ECUADOR\u2726\u25cf\u2726" group-title="LAT| ECUADOR",\u2726\u25cf\u2726|EC| ECUADOR\u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232338&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Televicentro TVC \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Televicentro TVC \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232365&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Gol TV \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Gol TV \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232358&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| GOL TV" group-title="LAT| ECUADOR",|EC| GOL TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296123&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Gol TV-\u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Gol TV-\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73435&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  GOL TV ECUADOR \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  GOL TV ECUADOR \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73437&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  GOL TV ECUADOR \u02e2\u1d30" group-title="LAT| ECUADOR",|Ecuador|  GOL TV ECUADOR \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73436&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  GolTV Internacional" group-title="LAT| ECUADOR",|Ecuador|  GolTV Internacional
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73412&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Oromar Television \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Oromar Television \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232359&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Oromar Television \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Oromar Television \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73433&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Oromar TV \u1d34\u1d30 " group-title="LAT| ECUADOR",|Ecuador|  Oromar TV \u1d34\u1d30 
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73413&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Teleamazonas \u1d41\u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Teleamazonas \u1d41\u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232364&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Teleamazonas" group-title="LAT| ECUADOR",|Ecuador|  Teleamazonas
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73424&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Teleamazonas-\u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Teleamazonas-\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73421&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Teleamazonas \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Teleamazonas \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73416&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Teleamazonas \u1d34\u1d30 (Ec)" group-title="LAT| ECUADOR",|Ecuador|  Teleamazonas \u1d34\u1d30 (Ec)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73423&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Teleamazonas Quito" group-title="LAT| ECUADOR",|Ecuador|  Teleamazonas Quito
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73422&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Hechos TV \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Hechos TV \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232360&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuavisa \u1d41\u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Ecuavisa \u1d41\u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232356&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuavisa EC" group-title="LAT| ECUADOR",|EC|  Ecuavisa EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232355&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuavisa Internacional EC" group-title="LAT| ECUADOR",|EC|  Ecuavisa Internacional EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232346&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuavisa Quito \u1d34\u1d30  EC" group-title="LAT| ECUADOR",|EC|  Ecuavisa Quito \u1d34\u1d30  EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232350&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuavisa \u02e2\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Ecuavisa \u02e2\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232354&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73407&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa Internacional" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa Internacional
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73439&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa Opc. 1" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa Opc. 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73442&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa Opc. 2" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa Opc. 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73441&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa Opc. 3" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa Opc. 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73440&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuavisa \u02e2\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Ecuavisa \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73410&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador| ECUAVISA \u1d34\u1d30 QUITO" group-title="LAT| ECUADOR",|Ecuador| ECUAVISA \u1d34\u1d30 QUITO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73406&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|EC| CNN Espanol" group-title="LAT| ECUADOR",|EC| CNN Espanol
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -1409,11 +761,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296127&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296126&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| HBO 2 \u1d41\u1d34\u1d30" group-title="LAT| ECUADOR",|EC| HBO 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|EC| HBO 2 \u1d41\u1d34\u1d30" group-title="LAT| ECUADOR",|EC| HBO 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296130&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| HBO Plus \u1d41\u1d34\u1d30" group-title="LAT| ECUADOR",|EC| HBO Plus \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|EC| HBO Plus \u1d41\u1d34\u1d30" group-title="LAT| ECUADOR",|EC| HBO Plus 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296131&extension=ts
@@ -1425,51 +777,22 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296132&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296133&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| TBS" group-title="LAT| ECUADOR",|EC| TBS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296134&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  TC Television \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  TC Television \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232363&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  TC Television" group-title="LAT| ECUADOR",|Ecuador|  TC Television
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73427&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  TC Television \u02e2\u1d30" group-title="LAT| ECUADOR",|Ecuador|  TC Television \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73426&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|Telefe" group-title="LAT| ECUADOR",|EC|Telefe
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296135&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| Telecentro" group-title="LAT| ECUADOR",|EC| Telecentro
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296122&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| Telefuturo" group-title="LAT| ECUADOR",|EC| Telefuturo
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296136&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|EC| Telepacifico" group-title="LAT| ECUADOR",|EC| Telepacifico
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296137&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC| Wow TV \u1d34\u1d30" group-title="LAT| ECUADOR",|EC| Wow TV \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296139&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|EC| TNT" group-title="LAT| ECUADOR",|EC| TNT
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296138&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Canal Uno EC" group-title="LAT| ECUADOR",|EC|  Canal Uno EC
+#EXTINF:-1 tvg-id="" tvg-name="|EC|  Canal Uno EC" group-title="LAT| ECUADOR",|EC|  Canal Uno
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232339&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Canal Uno \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Canal Uno \u1d34\u1d30 EC
+#EXTINF:-1 tvg-id="" tvg-name="|EC|  Canal Uno \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Canal Uno EC
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232340&extension=ts
@@ -1477,62 +800,9 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232340&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232341&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  El Canal Del Futbol \u1d41\u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  El Canal Del Futbol \u1d41\u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232342&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  El Canal Del Futbol \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  El Canal Del Futbol \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232343&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  EL CANAL DEL FUTBOL \u02e2\u1d30 EC" group-title="LAT| ECUADOR",|EC|  EL CANAL DEL FUTBOL \u02e2\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232344&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuador TV Internacional EC" group-title="LAT| ECUADOR",|EC|  Ecuador TV Internacional EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232345&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Gamavision EC" group-title="LAT| ECUADOR",|EC|  Gamavision EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232347&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  TC MI CANAL \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  TC MI CANAL \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232348&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Gamavision EC" group-title="LAT| ECUADOR",|EC|  Gamavision EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232349&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Canela TV \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Canela TV \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232351&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuador TV EC" group-title="LAT| ECUADOR",|EC|  Ecuador TV EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232352&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Ecuador TV \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Ecuador TV \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232353&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Gama \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Gama \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232357&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  Hispan TV \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  Hispan TV \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232361&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|EC|  RTS \u1d34\u1d30 EC" group-title="LAT| ECUADOR",|EC|  RTS \u1d34\u1d30 EC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=232362&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Canela TV" group-title="LAT| ECUADOR",|Ecuador|  Canela TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73449&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Directv Sports 1" group-title="LAT| ECUADOR",|Ecuador|  Directv Sports 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -1545,96 +815,24 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73447&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73446&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  ECUADOR" group-title="LAT| ECUADOR",|Ecuador|  ECUADOR
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73418&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuador TV" group-title="LAT| ECUADOR",|Ecuador|  Ecuador TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73408&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuador TV-\u1d34\u1d30 1080P" group-title="LAT| ECUADOR",|Ecuador|  Ecuador TV-\u1d34\u1d30 1080P
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73443&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuador TV Internacional" group-title="LAT| ECUADOR",|Ecuador|  Ecuador TV Internacional
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73445&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Ecuador TV \u02e2\u1d30" group-title="LAT| ECUADOR",|Ecuador|  Ecuador TV \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73444&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  EL CANAL DEL FUTBOL \u1d41\u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  EL CANAL DEL FUTBOL \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73405&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  EL CANAL DEL FUTBOL \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  EL CANAL DEL FUTBOL \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73404&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  EL CANAL DEL FUTBOL \u02e2\u1d30" group-title="LAT| ECUADOR",|Ecuador|  EL CANAL DEL FUTBOL \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73403&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Gamavision" group-title="LAT| ECUADOR",|Ecuador|  Gamavision
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73438&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  Gamavision" group-title="LAT| ECUADOR",|Ecuador|  Gamavision
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73411&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  RTS \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  RTS \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73431&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  RTS \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  RTS \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73432&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  RTS \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  RTS \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73414&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  RTS \u1d34\u1d30 (Ec)" group-title="LAT| ECUADOR",|Ecuador|  RTS \u1d34\u1d30 (Ec)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73430&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  RTS \u02e2\u1d30." group-title="LAT| ECUADOR",|Ecuador|  RTS \u02e2\u1d30.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73429&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  TC MI CANAL \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  TC MI CANAL \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73415&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  TVC" group-title="LAT| ECUADOR",|Ecuador|  TVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73420&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|Ecuador|  TVC \u1d34\u1d30" group-title="LAT| ECUADOR",|Ecuador|  TVC \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73417&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| FX" group-title="LAT| ARGENTINA",|ARG| FX
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296989&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FXM \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FXM \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FXM \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FXM 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296990&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  A24 \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG|  A24 \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73190&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG|  GARAGE." group-title="LAT| ARGENTINA",|ARG|  GARAGE.
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73176&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| HBO Xtreme \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| HBO Xtreme \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| HBO Xtreme \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| HBO Xtreme 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=298481&extension=ts
@@ -1642,267 +840,60 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=298481&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296992&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  RURAL" group-title="LAT| ARGENTINA",|ARG|  RURAL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73172&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| A24" group-title="LAT| ARGENTINA",|ARG| A24
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40963&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| AMERICA 24" group-title="LAT| ARGENTINA",|ARG| AMERICA 24
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73181&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| AMERICA TV" group-title="LAT| ARGENTINA",|ARG| AMERICA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73226&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| AMERICA TV \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| AMERICA TV \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73207&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| AXN" group-title="LAT| ARGENTINA",|ARG| AXN
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296993&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| ARGENTINA MAGAZINE" group-title="LAT| ARGENTINA",|ARG| ARGENTINA MAGAZINE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73243&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Argentinisima" group-title="LAT| ARGENTINA",|ARG| Argentinisima
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73157&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| ARGENTINISIMA" group-title="LAT| ARGENTINA",|ARG| ARGENTINISIMA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40950&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| AV+" group-title="LAT| ARGENTINA",|ARG| AV+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| C5N" group-title="LAT| ARGENTINA",|ARG| C5N
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73180&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| C5N \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| C5N \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40961&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CANAL 10" group-title="LAT| ARGENTINA",|ARG| CANAL 10
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40981&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Canal 10 de mdp" group-title="LAT| ARGENTINA",|ARG| Canal 10 de mdp
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73162&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CANAL 26" group-title="LAT| ARGENTINA",|ARG| CANAL 26
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40962&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Canal 3 Rosario" group-title="LAT| ARGENTINA",|ARG| Canal 3 Rosario
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73154&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CANAL 4" group-title="LAT| ARGENTINA",|ARG| CANAL 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40958&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Canal 4 Jujuy" group-title="LAT| ARGENTINA",|ARG| Canal 4 Jujuy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73153&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Canal 7 Catamarca" group-title="LAT| ARGENTINA",|ARG| Canal 7 Catamarca
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73152&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CN23." group-title="LAT| ARGENTINA",|ARG| CN23.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73179&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Cronica" group-title="LAT| ARGENTINA",|ARG| Cronica
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CRONICA" group-title="LAT| ARGENTINA",|ARG| CRONICA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40957&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| E Entertainment" group-title="LAT| ARGENTINA",|ARG| E Entertainment
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297004&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| GLITZ" group-title="LAT| ARGENTINA",|ARG| GLITZ
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73175&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| LN" group-title="LAT| ARGENTINA",|ARG| LN
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73174&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| LN+" group-title="LAT| ARGENTINA",|ARG| LN+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40948&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| MONTECARLO TV" group-title="LAT| ARGENTINA",|ARG| MONTECARLO TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40983&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| MUSIC TOP" group-title="LAT| ARGENTINA",|ARG| MUSIC TOP
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40965&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Net TV" group-title="LAT| ARGENTINA",|ARG| Net TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73183&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| NET TV" group-title="LAT| ARGENTINA",|ARG| NET TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40956&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| QUIERO MUSICA." group-title="LAT| ARGENTINA",|ARG| QUIERO MUSICA.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELE 12" group-title="LAT| ARGENTINA",|ARG| TELE 12
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELEFE" group-title="LAT| ARGENTINA",|ARG| TELEFE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73200&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELEFE \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| TELEFE \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73236&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELERED" group-title="LAT| ARGENTINA",|ARG| TELERED
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40954&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELESUR  :)" group-title="LAT| ARGENTINA",|ARG| TELESUR  :)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TELPIN" group-title="LAT| ARGENTINA",|ARG| TELPIN
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40947&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| tln Network" group-title="LAT| ARGENTINA",|ARG| tln Network
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73191&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TN" group-title="LAT| ARGENTINA",|ARG| TN
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73237&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TNU" group-title="LAT| ARGENTINA",|ARG| TNU
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40984&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TV CIUDAD" group-title="LAT| ARGENTINA",|ARG| TV CIUDAD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40949&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TOP LATINO TV" group-title="LAT| ARGENTINA",|ARG| TOP LATINO TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40959&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| CNN Espanol" group-title="LAT| ARGENTINA",|ARG| CNN Espanol
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296999&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Comedy Central" group-title="LAT| ARGENTINA",|ARG| Comedy Central
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297000&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| EUROPA EUROPA \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| EUROPA EUROPA \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297005&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX NEWS \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX NEWS \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297007&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| NBC GOLF \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| NBC GOLF \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297008&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| El Gourmet" group-title="LAT| ARGENTINA",|ARG| El Gourmet
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297009&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Lifetime \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Lifetime \u1d41\u1d34\u1d30
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Lifetime \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Lifetime 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297016&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Mas Chic \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Mas Chic \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297017&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| MTV \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| MTV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297018&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| MTV Hits" group-title="LAT| ARGENTINA",|ARG| MTV Hits
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297019&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Warner \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Warner \u1d41\u1d34\u1d30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Warner \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Warner 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297020&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| VH1 \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| VH1 \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297021&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| Tooncast" group-title="LAT| ARGENTINA",|ARG| Tooncast
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297026&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|Todo Noticias" group-title="LAT| ARGENTINA",|ARG|Todo Noticias
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297031&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Telemundo \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Telemundo \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297032&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| TCM" group-title="LAT| ARGENTINA",|ARG| TCM
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297033&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TBS" group-title="LAT| ARGENTINA",|ARG| TBS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297034&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| Paramount Channel" group-title="LAT| ARGENTINA",|ARG| Paramount Channel
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297036&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| VTV+" group-title="LAT| ARGENTINA",|ARG| VTV+
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40988&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| VTV \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| VTV \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40987&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TV PUBLICA" group-title="LAT| ARGENTINA",|ARG| TV PUBLICA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40941&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 SPORTS \u2726\u25cf\u2726-" group-title="LAT| ARGENTINA",\u2726\u25cf\u2726 SPORTS \u2726\u25cf\u2726-
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116445&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG|  ESPN ARGENTINA" group-title="LAT| ARGENTINA",|ARG|  ESPN ARGENTINA
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73233&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARGENT \u1d34\u1d30 -  ESPN ARG \u1d34\u1d30-" group-title="LAT| ARGENTINA",|ARGENT \u1d34\u1d30 -  ESPN ARG \u1d34\u1d30-
+#EXTINF:-1 tvg-id="" tvg-name="|ARGENT \u1d34\u1d30 -  ESPN ARG \u1d34\u1d30-" group-title="LAT| ARGENTINA",|ARGENT \u1d34\u1d30 -  ESPN ARG 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73225&extension=ts
@@ -1938,15 +929,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40969&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40970&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 1 \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 1 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 1 \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 1 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73234&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 1 \u1d34\u1d30 (opc2)" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 1 \u1d34\u1d30 (opc2)
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 1 \u1d34\u1d30 (opc2)" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 1  (opc2)
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73188&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 2 \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 2 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS 2 \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73235&extension=ts
@@ -1954,7 +945,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73235&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40971&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS PREMIUM \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS PREMIUM \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FOX SPORTS PREMIUM \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FOX SPORTS PREMIUM 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73206&extension=ts
@@ -1970,22 +961,13 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73205&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73240&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TyC Sports \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| TyC Sports \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| TyC Sports \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| TyC Sports 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29460&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARGENT \u1d34\u1d30 -  TV PUBLICA" group-title="LAT| ARGENTINA",|ARGENT \u1d34\u1d30 -  TV PUBLICA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73223&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARGENT \u1d34\u1d30 -  DeporTV" group-title="LAT| ARGENTINA",|ARGENT \u1d34\u1d30 -  DeporTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73229&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| DEPORTV" group-title="LAT| ARGENTINA",|ARG| DEPORTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40967&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| DIRECT TV SPORTS" group-title="LAT| ARGENTINA",|ARG| DIRECT TV SPORTS
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -1998,10 +980,9 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40974&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40975&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 DOCUMENTARII\u2726\u25cf\u2726" group-title="LAT| ARGENTINA",\u2726\u25cf\u2726 DOCUMENTARII\u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297040&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| Investigation Discovery" group-title="LAT| ARGENTINA",|ARG| Investigation Discovery
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2010,19 +991,19 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296981&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Discovery Home Health \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Discovery Home Health \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Discovery Home Health \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Discovery Home Health 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296984&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Discovery World \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Discovery World \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Discovery World \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Discovery World 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| UNIVERSAL \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| UNIVERSAL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| UNIVERSAL \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| UNIVERSAL 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297022&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Studio Universal \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Studio Universal \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Studio Universal \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Studio Universal 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297035&extension=ts
@@ -2034,11 +1015,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297038&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297039&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| H2 \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| H2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| H2 \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| H2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297010&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| History \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| History \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| History \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| History 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297015&extension=ts
@@ -2046,78 +1027,10 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297015&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=298480&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 CINEMA \u2726\u25cf\u2726-" group-title="LAT| ARGENTINA",\u2726\u25cf\u2726 CINEMA \u2726\u25cf\u2726-
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116447&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  13 Max" group-title="LAT| ARGENTINA",|ARG|  13 Max
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73161&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  5TV Corrientes" group-title="LAT| ARGENTINA",|ARG|  5TV Corrientes
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73160&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  CRONICA" group-title="LAT| ARGENTINA",|ARG|  CRONICA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73178&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  TLX TELEMAX" group-title="LAT| ARGENTINA",|ARG|  TLX TELEMAX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| 13 MAX" group-title="LAT| ARGENTINA",|ARG| 13 MAX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40952&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CANAL 9 SALTA" group-title="LAT| ARGENTINA",|ARG| CANAL 9 SALTA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40953&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CANAL DE LA CIUDAD" group-title="LAT| ARGENTINA",|ARG| CANAL DE LA CIUDAD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40951&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CHARRUA TV" group-title="LAT| ARGENTINA",|ARG| CHARRUA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40986&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Cine AR" group-title="LAT| ARGENTINA",|ARG| Cine AR
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73184&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| CINE AR" group-title="LAT| ARGENTINA",|ARG| CINE AR
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40955&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| EL NUEVE" group-title="LAT| ARGENTINA",|ARG| EL NUEVE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73231&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| EL TRECE" group-title="LAT| ARGENTINA",|ARG| EL TRECE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73230&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| ENCUENTRO" group-title="LAT| ARGENTINA",|ARG| ENCUENTRO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73242&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| ENCUENTRO" group-title="LAT| ARGENTINA",|ARG| ENCUENTRO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73232&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| ENCUENTRO" group-title="LAT| ARGENTINA",|ARG| ENCUENTRO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40946&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| La Nacion" group-title="LAT| ARGENTINA",|ARG| La Nacion
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73185&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| MULTIVISION CANAL 9 SALTA" group-title="LAT| ARGENTINA",|ARG| MULTIVISION CANAL 9 SALTA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73211&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|ARG| Cinecanal" group-title="LAT| ARGENTINA",|ARG| Cinecanal
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2126,15 +1039,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296997&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296998&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| FILM & ARTS \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FILM & ARTS \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| FILM & ARTS \u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| FILM & ARTS
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297006&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  HBO 2 \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG|  HBO 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG|  HBO 2 \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG|  HBO 2 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297011&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| HBO Signature \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| HBO Signature \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| HBO Signature \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| HBO Signature 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297012&extension=ts
@@ -2146,35 +1059,19 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297013&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297014&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| TNT Series \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| TNT Series \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| TNT Series \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| TNT Series 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297030&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 KIDS \u2726\u25cf\u2726" group-title="LAT| ARGENTINA",\u2726\u25cf\u2726 KIDS \u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=116444&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| PAKAPAKA" group-title="LAT| ARGENTINA",|ARG| PAKAPAKA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG|  PAKAPAKA" group-title="LAT| ARGENTINA",|ARG|  PAKAPAKA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73244&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Baby TV" group-title="LAT| ARGENTINA",|ARG| Baby TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296994&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Boomerang" group-title="LAT| ARGENTINA",|ARG| Boomerang
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296995&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Cartoon Network \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Cartoon Network \u1d41\u1d34\u1d30
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Cartoon Network \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Cartoon Network 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296996&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Disney Channel \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Disney Channel \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Disney Channel \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Disney Channel 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297001&extension=ts
@@ -2186,7 +1083,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297002&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297003&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ARG| Nickelodeon \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Nickelodeon \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|ARG| Nickelodeon \u1d41\u1d34\u1d30" group-title="LAT| ARGENTINA",|ARG| Nickelodeon 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297037&extension=ts
@@ -2195,10 +1092,8 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297037&
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296991&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 |CO| COLOMBIA \u2726\u25cf\u2726" group-title="LAT| COLOMBIA",\u2726\u25cf\u2726 |CO| COLOMBIA \u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297660&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|CO| Teleamiga" group-title="LAT| COLOMBIA",|CO| Teleamiga
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2215,11 +1110,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73346&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73367&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| La Kalle \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| La Kalle \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| La Kalle \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| La Kalle 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46608&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| La Kalle \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| La Kalle \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| La Kalle \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| La Kalle 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73382&extension=ts
@@ -2259,7 +1154,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297648&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73383&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Mundo Mas \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Mundo Mas \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Mundo Mas \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Mundo Mas 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46606&extension=ts
@@ -2327,7 +1222,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73357&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73360&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal Trece \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal Trece \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal Trece \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal Trece 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73397&extension=ts
@@ -2335,7 +1230,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73397&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73361&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Telepacifico \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telepacifico \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Telepacifico \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telepacifico 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
@@ -2347,7 +1242,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73343&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73363&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Telemedellin \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telemedellin \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Telemedellin \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telemedellin 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46591&extension=ts
@@ -2355,11 +1250,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46591&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73364&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Se\u00f1al Colombia" group-title="LAT| COLOMBIA",|CO| Se\u00f1al Colombia
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Se\u00f1al Colombia" group-title="LAT| COLOMBIA",|CO| Señal Colombia
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46599&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| SENAL COLOMBIA \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| SENAL COLOMBIA \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| SENAL COLOMBIA \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| SENAL COLOMBIA 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73347&extension=ts
@@ -2367,7 +1262,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73347&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73375&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Suram \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Suram \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Suram \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Suram 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46597&extension=ts
@@ -2383,31 +1278,31 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73369&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73377&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73376&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73335&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN 4
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46602&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30 Opc 2" group-title="LAT| COLOMBIA",|CO| RCN \u1d34\u1d30 Opc 2
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30 Opc 2" group-title="LAT| COLOMBIA",|CO| RCN  Opc 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73334&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30 Opc 3" group-title="LAT| COLOMBIA",|CO| RCN \u1d34\u1d30 Opc 3
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN \u1d34\u1d30 Opc 3" group-title="LAT| COLOMBIA",|CO| RCN  Opc 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73332&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN International \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN International \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| RCN International \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| RCN International
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46600&extension=ts
@@ -2447,7 +1342,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73350&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73388&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Cantinazo \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Cantinazo \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Cantinazo \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Cantinazo 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46621&extension=ts
@@ -2467,15 +1362,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73393&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46626&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Caracol \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Caracol 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73391&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Caracol \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Caracol 2
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d34\u1d302" group-title="LAT| COLOMBIA",|CO| Caracol \u1d34\u1d302
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Caracol \u1d34\u1d302" group-title="LAT| COLOMBIA",|CO| Caracol 3
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73390&extension=ts
@@ -2519,7 +1414,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46629&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73399&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal CNC Medellin \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal CNC Medellin \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal CNC Medellin \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal CNC Medellin 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46624&extension=ts
@@ -2535,7 +1430,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73398&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73353&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal Institucional \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal Institucional \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Canal Institucional \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Canal Institucional 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46623&extension=ts
@@ -2555,7 +1450,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73401&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73355&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Cable Noticias \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Cable Noticias \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Cable Noticias \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Cable Noticias
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46630&extension=ts
@@ -2579,7 +1474,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297655&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297656&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| VH1 \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| VH1 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| VH1 \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| VH1 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=297657&extension=ts
@@ -2615,7 +1510,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46607&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46604&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Pasiones \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Pasiones \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Pasiones \u1d41\u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Pasiones 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46603&extension=ts
@@ -2623,7 +1518,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46603&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73379&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Sundance Channel \u1d41\u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Sundance Channel \u1d41\u1d34\u1d30 CO
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Sundance Channel \u1d41\u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Sundance Channel  CO
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46598&extension=ts
@@ -2635,7 +1530,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73373&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73372&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Tele Antioquia \u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Tele Antioquia \u1d34\u1d30 CO
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Tele Antioquia \u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Tele Antioquia  CO
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46596&extension=ts
@@ -2655,7 +1550,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73366&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73345&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecafe \u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Telecafe \u1d34\u1d30 CO
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecafe \u1d34\u1d30 CO" group-title="LAT| COLOMBIA",|CO| Telecafe  CO
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46595&extension=ts
@@ -2663,11 +1558,11 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46595&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73344&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecaribe Deportes \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telecaribe Deportes \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecaribe Deportes \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telecaribe Deportes 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46594&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecaribe \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telecaribe \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| Telecaribe \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| Telecaribe 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46593&extension=ts
@@ -2691,15 +1586,10 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73340&e
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46587&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|CO| UAO Play + \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| UAO Play + \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|CO| UAO Play + \u1d34\u1d30" group-title="LAT| COLOMBIA",|CO| UAO Play + 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46586&extension=ts
-
-
-
-
-
 
 
 
@@ -3043,35 +1933,8 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246500&
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 GENERAL \u2726\u25cf\u2726" group-title="LAT| MEXICO",\u2726\u25cf\u2726 GENERAL \u2726\u25cf\u2726
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295243&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL 4 \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| CANAL 4 \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276766&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL 5 \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| CANAL 5 \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276767&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL ONCE \u02e2\u1d30" group-title="LAT| MEXICO",|MX| CANAL ONCE \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276763&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL DE LAS ESTRELLAS \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| CANAL DE LAS ESTRELLAS \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276764&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL JUDICIAL \u1d34\u1d30" group-title="LAT| MEXICO",|MX| CANAL JUDICIAL \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276765&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| CANAL 26 \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| CANAL 26 \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276768&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| DE PELICULA \u02e2\u1d30" group-title="LAT| MEXICO",|MX| DE PELICULA \u02e2\u1d30
+
+#EXTINF:-1 tvg-id="" tvg-name="|MX| DE PELICULA \u02e2\u1d30" group-title="LAT| MEXICO",|MX| DE PELICULA 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276801&extension=ts
@@ -3079,26 +1942,8 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276801&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295280&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| EUROPA EUROPA \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| EUROPA EUROPA \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276746&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| GLITZ \u1d34\u1d30" group-title="LAT| MEXICO",|MX| GLITZ \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276859&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| FORO TV \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| FORO TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295281&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| HLN \u1d34\u1d30" group-title="LAT| MEXICO",|MX| HLN \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276797&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| INGENIO TV \u02e2\u1d30" group-title="LAT| MEXICO",|MX| INGENIO TV \u02e2\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276804&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|MX| INVESTIGATION DISCOVERY" group-title="LAT| MEXICO",|MX| INVESTIGATION DISCOVERY
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -3107,23 +1952,15 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295282&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295284&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| MILENIO TV \u1d34\u1d30" group-title="LAT| MEXICO",|MX| MILENIO TV \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276805&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| MAS CHIC \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| MAS CHIC \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276781&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| PARAMOUNT CHANNEL \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| PARAMOUNT CHANNEL \u1d41\u1d34\u1d30
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|MX| PARAMOUNT CHANNEL \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| PARAMOUNT CHANNEL 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276813&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| NU9VE TV \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| NU9VE TV \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276785&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| SYFY \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| SYFY \u1d41\u1d34\u1d30
+
+#EXTINF:-1 tvg-id="" tvg-name="|MX| SYFY \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| SYFY 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276783&extension=ts
@@ -3135,22 +1972,20 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295283&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=295285&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| TELEHIT \u1d34\u1d30" group-title="LAT| MEXICO",|MX| TELEHIT \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276798&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| TBS \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| TBS \u1d41\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276784&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| TOONCAST \u02e2\u1d30" group-title="LAT| MEXICO",|MX| TOONCAST \u02e2\u1d30
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|MX| TOONCAST \u02e2\u1d30" group-title="LAT| MEXICO",|MX| TOONCAST 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276840&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|MX| TRU TV \u1d34\u1d30" group-title="LAT| MEXICO",|MX| TRU TV \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|MX| TRU TV \u1d34\u1d30" group-title="LAT| MEXICO",|MX| TRU TV 
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=276857&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|MX| TV MAS \u1d41\u1d34\u1d30" group-title="LAT| MEXICO",|MX| TV MAS \u1d41\u1d34\u1d30
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
