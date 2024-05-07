@@ -1833,14 +1833,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246461&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246464&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| VH1 Classics" group-title="ES MUSIC",|ES| VH1 Classics
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246466&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV Music Made in Spain" group-title="ES MUSIC",|ES| MTV Music Made in Spain
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246467&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|ES| Qello Concerts" group-title="ES PLUTO TV",|ES| Qello Concerts
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -1849,10 +1842,7 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246471&
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246474&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|ES| MTV Party Music" group-title="ES MUSIC",|ES| MTV Party Music
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=246475&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="|ES| iCarly" group-title="ES PLUTO TV",|ES| iCarly
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
