@@ -40,6 +40,44 @@ function changeCH(ch){
     if(Hls.isSupported()) {
 		var video = document.getElementById('video');
 		var hls = new Hls();
+
+        if(ch == "ch12"){
+            ch = 'https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8';
+        }
+        else if(ch == "ch11"){
+            ch = 'https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8';
+        }
+        else if(ch == "ch10"){
+            ch = 'https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8';
+        }
+        else if(ch == "ch9"){
+            ch = 'https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8';
+        }
+        else if(ch == "ch8"){
+            ch = 'https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8';
+        }
+        else if(ch == "ch7"){
+            ch = 'https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8';
+        }
+        else if(ch == "ch6"){
+            ch = 'https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8';
+        }
+        else if(ch == "ch5"){
+            ch = 'https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8';
+        }
+        else if(ch == "ch4"){
+            ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
+        }
+        else if(ch == "ch3"){
+            ch = 'https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8';
+        }
+        else if(ch == "ch2"){
+            ch = 'https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8';
+        }
+        else if(ch == "ch1"){
+            ch = 'http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts';
+        }
+        
 		hls.loadSource(ch);
 		hls.attachMedia(video);
 		hls.on(Hls.Events.MANIFEST_PARSED,function() {
@@ -47,7 +85,7 @@ function changeCH(ch){
 	});
 	}
 	else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-		video.src = ch;
+        video.src = ch;
 		video.addEventListener('canplay',function() {
 		video.play();
 		});
@@ -55,65 +93,65 @@ function changeCH(ch){
 }
 
 ch1?.addEventListener('click', () => {
-    const ch = 'https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8';
+    const ch = 'ch1';
     changeCH(ch);
-    live.innerHTML="C1"
+    live.innerHTML="CH1"
 });
 ch2?.addEventListener('click', () => {
-    const ch = 'https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8';
+    const ch = 'ch2';
     changeCH(ch);
-    live.innerHTML="C2"
+    live.innerHTML="CH2"
 });
 ch3?.addEventListener('click', () => {
-    const ch = 'https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8';
+    const ch = 'ch3';
     changeCH(ch);
-    live.innerHTML="C3"
+    live.innerHTML="CH3"
 });
 ch4?.addEventListener('click', () => {
-    const ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
+    const ch = 'ch4';
     changeCH(ch);
-    live.innerHTML="C4"
+    live.innerHTML="CH4"
 });
 ch5?.addEventListener('click', () => {
-    const ch = 'https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8';
+    const ch = "ch5";
     changeCH(ch);
-    live.innerHTML="C5"
+    live.innerHTML="CH5"
 });
 ch6?.addEventListener('click', () => {
-    const ch = 'https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8';
+    const ch = "ch6";
     changeCH(ch);
-    live.innerHTML="C6"
+    live.innerHTML="CH6"
 });
 ch7?.addEventListener('click', () => {
-    const ch = 'https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8';
+    const ch = 'ch7';
     changeCH(ch);
-    live.innerHTML="C7"
+    live.innerHTML="CH7"
 });
 ch8?.addEventListener('click', () => {
-    const ch = 'https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8';
+    const ch = 'ch8';
     changeCH(ch);
-    live.innerHTML="C8"
+    live.innerHTML="CH8"
 });
 
 ch9?.addEventListener('click', () => {
-    const ch = 'https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8';
+    const ch = 'ch9';
     changeCH(ch);
-    live.innerHTML="C9"
+    live.innerHTML="CH9"
 });
 ch10?.addEventListener('click', () => {
-    const ch = 'https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8';
+    const ch = 'ch10';
     changeCH(ch);
-    live.innerHTML="C10"
+    live.innerHTML="CH10"
 });
 ch11?.addEventListener('click', () => {
-    const ch = 'https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8';
+    const ch = 'ch11';
     changeCH(ch);
-    live.innerHTML="C11"
+    live.innerHTML="CH11"
 });
 ch12?.addEventListener('click', () => {
-    const ch = 'https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8';
+    const ch = 'ch12';
     changeCH(ch);
-    live.innerHTML="C12"
+    live.innerHTML="CH12"
 });
 
 
