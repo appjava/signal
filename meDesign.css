@@ -82,12 +82,12 @@ iframe, fieldset{
 	vertical-align: middle;
 	height: 100%;
 	border-radius: 9px;
-	border: none;
+	border: 1px none red;
 }
 legend{
-	margin: 3px auto;
+	text-align: left;
 	margin-top: -12px;
-	padding: 3px;
+	padding: 12px;
 	
 }
 .guia:hover{
@@ -106,10 +106,13 @@ legend{
 }
 .video{
 	width: 910px;
+	border: 1px none red;
 }
 video{
 	width: 95%;
 	margin: 0 auto;
+	border-radius: 12px;
+	border: 1px solid white;
 }
 #video{
 	margin-bottom: 24px;
