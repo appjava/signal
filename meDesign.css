@@ -77,18 +77,25 @@ li:hover {
 	width: 910px;
 	height: 400px;
 }
-iframe, fieldset{
+iframe {
 	width: 100%;
 	vertical-align: middle;
 	height: 100%;
 	border-radius: 9px;
-	border: 1px none red;
+	border: 1px none yellow;
+}
+fieldset{
+	display:grid;
+	gap: 0px;
+	border: 1px none #212529;
+	margin: 12px;
+	border-radius: 6px;
 }
 legend{
 	text-align: left;
 	margin-top: -12px;
-	padding: 12px;
-	
+	padding: 3px 12px;
+	color: red;
 }
 .guia:hover{
 	cursor:help;
@@ -107,12 +114,13 @@ legend{
 .video{
 	width: 910px;
 	border: 1px none red;
+	margin-top: 24px;
 }
 video{
 	width: 95%;
 	margin: 0 auto;
 	border-radius: 12px;
-	border: 1px solid white;
+	border: 1px dashed #212529;
 }
 #video{
 	margin-bottom: 24px;
