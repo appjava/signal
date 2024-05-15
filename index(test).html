@@ -12,7 +12,7 @@
   <div class="video">
     <div class="selection">
       <!--<label for="channel-select">Choose Channel</label>-->
-      <select name="channels" id="channel-select">
+      <select name="channels" id="channel-select" onchange="played()">
         <option value="">Please Choose Channel</option>
         <option value="ch1">Telepacífico</option>
         <option value="ch2">Canal Uno</option>
@@ -27,7 +27,6 @@
         <option value="ch11">Señal Colombia</option>
         <option value="ch12">WPlus</option>
       </select>
-      <button id="play">Play</button>
     </div>
     <fieldset>
       <!--<legend id="live">Live</legend>>-->

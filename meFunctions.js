@@ -14,7 +14,6 @@ const cx = document.getElementById('cx');
 
 const ch = '';
 
-const play = document.getElementById('play');
 
 function changeCH(ch){
     if(Hls.isSupported()) {
@@ -71,8 +70,7 @@ function changeCH(ch){
 		});
 	}
 }
-
-play?.addEventListener('click', () => {
+function played(){
     const channelSelected = document.getElementById('channel-select').value;
     const ch = channelSelected;
     if (channelSelected){
@@ -80,9 +78,7 @@ play?.addEventListener('click', () => {
     }else{
       alert("Please select a channel")  
     }
-    
-    //live.innerHTML=channelSelected;
-});
+}
 
 
 //Show guide
