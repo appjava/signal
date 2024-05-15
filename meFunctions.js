@@ -14,7 +14,7 @@ const cx = document.getElementById('cx');
 
 const ch = '';
 
-const live = document.getElementById('live');
+//const live = document.getElementById('live');
 
 const ch1 = document.getElementById('ch1');
 const ch2 = document.getElementById('ch2');
@@ -35,6 +35,8 @@ const ch13 = document.getElementById('ch13');
 const ch14 = document.getElementById('ch14');
 const ch15 = document.getElementById('ch15');
 const ch16 = document.getElementById('ch16');
+
+const play = document.getElementById('play');
 
 function changeCH(ch){
     if(Hls.isSupported()) {
@@ -91,6 +93,18 @@ function changeCH(ch){
 		});
 	}
 }
+
+play?.addEventListener('click', () => {
+    const channelSelected = document.getElementById('channel-select').value;
+    const ch = channelSelected;
+    if (channelSelected){
+        changeCH(ch);
+    }else{
+      alert("Please select a channel")  
+    }
+    
+    //live.innerHTML=channelSelected;
+});
 
 ch1?.addEventListener('click', () => {
     const ch = 'ch1';

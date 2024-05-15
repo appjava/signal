@@ -126,6 +126,29 @@ video{
 	margin-bottom: 24px;
 }
 
+.selection{
+	width: 80%;
+	min-width: 300px;
+	max-width: 600px;
+	margin: 0px auto;
+	border: none;
+}
+
+.selection select{
+	text-align: center;
+	border-radius: 12px 12px 0px 0px;
+	font-size: 15px;
+	margin-bottom: 3px;
+}
+
+.selection button{
+	background-color: gray;
+	color: white;
+	border-radius: 0px 0px 12px 12px;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
 @media screen and (max-width: 900px){
 	body {
 		grid-template-columns: repeat(2, 240px);
