@@ -14,6 +14,28 @@ const cx = document.getElementById('cx');
 
 const ch = '';
 
+//const live = document.getElementById('live');
+
+const ch1 = document.getElementById('ch1');
+const ch2 = document.getElementById('ch2');
+const ch3 = document.getElementById('ch3');
+const ch4 = document.getElementById('ch4');
+
+const ch5 = document.getElementById('ch5');
+const ch6 = document.getElementById('ch6');
+const ch7 = document.getElementById('ch7');
+const ch8 = document.getElementById('ch8');
+
+const ch9 = document.getElementById('ch9');
+const ch10 = document.getElementById('ch10');
+const ch11 = document.getElementById('ch11');
+const ch12 = document.getElementById('ch12');
+
+const ch13 = document.getElementById('ch13');
+const ch14 = document.getElementById('ch14');
+const ch15 = document.getElementById('ch15');
+const ch16 = document.getElementById('ch16');
+
 const play = document.getElementById('play');
 
 function changeCH(ch){
@@ -82,6 +104,68 @@ play?.addEventListener('click', () => {
     }
     
     //live.innerHTML=channelSelected;
+});
+
+ch1?.addEventListener('click', () => {
+    const ch = 'ch1';
+    changeCH(ch);
+    live.innerHTML="CH1"
+});
+ch2?.addEventListener('click', () => {
+    const ch = 'ch2';
+    changeCH(ch);
+    live.innerHTML="CH2"
+});
+ch3?.addEventListener('click', () => {
+    const ch = 'ch3';
+    changeCH(ch);
+    live.innerHTML="CH3"
+});
+ch4?.addEventListener('click', () => {
+    const ch = 'ch4';
+    changeCH(ch);
+    live.innerHTML="CH4"
+});
+ch5?.addEventListener('click', () => {
+    const ch = "ch5";
+    changeCH(ch);
+    live.innerHTML="CH5"
+});
+ch6?.addEventListener('click', () => {
+    const ch = "ch6";
+    changeCH(ch);
+    live.innerHTML="CH6"
+});
+ch7?.addEventListener('click', () => {
+    const ch = 'ch7';
+    changeCH(ch);
+    live.innerHTML="CH7"
+});
+ch8?.addEventListener('click', () => {
+    const ch = 'ch8';
+    changeCH(ch);
+    live.innerHTML="CH8"
+});
+
+ch9?.addEventListener('click', () => {
+    const ch = 'ch9';
+    changeCH(ch);
+    live.innerHTML="CH9"
+});
+ch10?.addEventListener('click', () => {
+    const ch = 'ch10';
+    changeCH(ch);
+    live.innerHTML="CH10"
+});
+ch11?.addEventListener('click', () => {
+    const ch = 'ch11';
+    changeCH(ch);
+    live.innerHTML="CH11"
+});
+ch12?.addEventListener('click', () => {
+    const ch = 'ch12';
+    changeCH(ch);
+    live.innerHTML="CH12"
 });
 
 
