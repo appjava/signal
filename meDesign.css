@@ -114,10 +114,11 @@ legend{
 .video{
 	width: 910px;
 	border: 1px none red;
-	margin-top: 24px;
+	margin-top: 3px;
 }
 video{
 	width: 95%;
+	height: auto;
 	margin: 0 auto;
 	border-radius: 12px;
 	border: 1px dashed #212529;
