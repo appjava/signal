@@ -54,7 +54,14 @@ function changeCH(ch){
             ch = 'https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8';
         }
         else if(ch == "ch1"){
-            ch = 'http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts';
+            ch = 'https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8';
+        }
+        else if(ch == "ch13"){
+            ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
+            video.src = ch;
+		    video.addEventListener('canplay',function() {
+		    video.play();
+        });
         }
         
 		hls.loadSource(ch);
