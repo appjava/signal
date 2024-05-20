@@ -6,26 +6,14 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73359&e
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1,Caracol (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/50
-
 #EXTINF:-1,Caracol (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
-#EXTINF:-1,Caracol (tsla)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6553&extension=ts
 
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol INT (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/583
-
 #EXTINF:-1,Caracol INT (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73389&extension=ts
-
-
-#EXTINF:-1,RCN (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/584
 
 #EXTINF:-1,RCN (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
@@ -33,30 +21,26 @@ http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&e
 #EXTINF:-1,NTN24 (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73380&extension=ts
 
-
-#EXTINF:-1,Telepacífico (1080)
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+##EXTINF:-1,Telepacífico (1080)
+#https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1,Telepacífico (tsla)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts
 
 #EXTINF:-1,Telepacífico (tsco)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
+#http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
 #http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73343&extension=ts
 #http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73363&extension=ts
 
 #EXTINF:-1,Telepacífico (tsec)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296137&extension=ts
 
-
-
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1,Canal Uno (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73395&extension=ts
-
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -87,7 +71,6 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 
 #EXTINF::-1,El Tiempo (ts)
 http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73383&extension=ts
-
 
 #EXTINF:-1, AgroTendencias
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
