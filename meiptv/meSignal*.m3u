@@ -1,49 +1,19 @@
 #EXTM3U
 
 #-------------- TDT ----------------------
-#EXTINF:-1,TV Agro (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73359&extension=ts
-
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
-#EXTINF:-1,Caracol (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
 
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol INT (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73389&extension=ts
-
-#EXTINF:-1,RCN (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
-
-#EXTINF:-1,NTN24 (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73380&extension=ts
-
-#EXTINF:-1,Telepacífico
-http://181.78.22.97:8000/play/a00x/index.m3u8
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1,Telepacífico (tsla)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts
-
-#EXTINF:-1,Telepacífico (tsco)
-#http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
-#http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73343&extension=ts
-#http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73363&extension=ts
-
-#EXTINF:-1,Telepacífico (tsec)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=296137&extension=ts
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-
-#EXTINF:-1,Canal Uno (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73395&extension=ts
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -218,6 +188,7 @@ https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 #EXTINF:-1, The Walking Dead ESP
 https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 
+
 #--------------------------------------------------------------
 
 #----------------------------ENTERTAINMENT---------------------------------#
@@ -277,20 +248,20 @@ http://181.78.105.146:2000/play/a08i/index.m3u8
 
 #----------------------------MOV--------------------------------------------#
 
-#EXTINF:-1,Golden 406
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-#EXTINF:-1,Golden 408
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-#EXTINF:-1,Golden
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Plus2
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+##EXTINF:-1,Golden 406
+#https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+##EXTINF:-1,Golden 408
+#https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+##EXTINF:-1,Golden
+#https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+##EXTINF:-1,Golden Plus2
+#https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1,Golden
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+##EXTINF:-1,Golden Edge
+#https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
