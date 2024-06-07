@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,¿Cómo es vivir sin olfato?
-https://www.youtube.com/watch?v=fWZvkDZwjI0
+
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -195,12 +194,9 @@ https://r.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
 #----------------------------ENTERTAINMENT---------------------------------#
 #EXTINF:-1,A&E (2000)
 http://181.78.105.146:2000/play/a03f/index.m3u8
-
 #EXTINF:11,A&E Mundo (8000)
 http://181.78.22.97:8000/play/a01y/index.m3u8
 
-#EXTINF:-1,AXN (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/15
 #EXTINF:-1,Axn (8000)
 http://181.78.22.97:8000/play/a00s/index.m3u8
 #EXTINF:-1,AXN (2000)
@@ -208,23 +204,15 @@ http://181.78.105.146:2000/play/a05y/index.m3u8
 
 #EXTINF:-1,AMC (México)
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1,AMC (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/7
 
 #EXTINF:-1,LifeTime (8000)
 http://181.78.22.97:8000/play/a037/index.m3u8
-#EXTINF:-1,LIFETIME (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/220
 #EXTINF:-1,Lifetime (2000)
 http://181.78.105.146:2000/play/a01i/index.m3u8
 
 #EXTINF:-1,STAR CHANNEL (8000)
 http://181.78.22.97:8000/play/a02z/index.m3u8
-#EXTINF:-1,STAR CHANNEL (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/157
 
-#EXTINF:-1,FX (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/176
 #EXTINF:-1,FX (2000)
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:11,FX (8000)
@@ -232,13 +220,9 @@ http://181.78.22.97:8000/play/a00u/index.m3u8
 
 #EXTINF:-1,Sony (8000)
 http://181.78.22.97:8000/play/a00r/index.m3u8
-#EXTINF:-1,SONY (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/284
 #EXTINF:-1,SONY (2000)
 http://181.78.105.146:2000/play/a002/index.m3u8
 
-#EXTINF:-1,WARNER (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/366
 #EXTINF:-1,WB (2000)
 http://181.78.105.146:2000/play/a01f/index.m3u8
 #EXTINF:11,Warner (8000)
@@ -266,8 +250,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1,Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1,SPACE (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/286
 #EXTINF:-1,SPACE (8000)
 http://181.78.22.97:8000/play/a00t/index.m3u8
 #EXTINF:-1,Space MX (2000)
@@ -276,22 +258,16 @@ http://181.78.105.146:2000/play/a04x/index.m3u8
 #EXTINF:-1,Paramount (2000)
 http://181.78.105.146:2000/play/a01s/index.m3u8
 
-#EXTINF:-1,STUDIO (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/288
 #EXTINF:-1,Studio Universal (8000)
 http://181.78.22.97:8000/play/a09g/index.m3u8
 #EXTINF:-1,Studio Universal (2000)
 http://181.78.105.146:2000/play/a04o/index.m3u8
 
-#EXTINF:-1,CINECANAL (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/63
 #EXTINF:-1,CineCanal (2000)
 http://181.78.105.146:2000/play/a04q/index.m3u8
 #EXTINF:11,Cinecanal (8000)
 http://181.78.22.97:8000/play/a02u/index.m3u8
 
-#EXTINF:-1,TNT (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/319
 #EXTINF:-1,TNT (8000)
 http://181.78.22.97:8000/play/a032/index.m3u8
 #EXTINF:-1,TNT (2000)
@@ -301,26 +277,16 @@ http://181.78.105.146:2000/play/a00m/index.m3u8
 
 #EXTINF:-1,HBO (8000)
 http://181.78.22.97:8000/play/a04f/index.m3u8
-#EXTINF:-1,HBO (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/198
 
 #EXTINF:-1,HBO 2 (8000)
 http://181.78.22.97:8000/play/a02f/index.m3u8
-#EXTINF:-1,HBO2 (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/199
 #EXTINF:-1,HBO XTREME (8000)
 http://181.78.22.97:8000/play/a02h/index.m3u8
 #EXTINF:-1,HBO FAMILY (8000)
 http://181.78.22.97:8000/play/a02i/index.m3u8
 #EXTINF:-1,HBO PLUS (8000)
 http://181.78.22.97:8000/play/a02g/index.m3u8
-#EXTINF:-1,HBO PLUS (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/201
-#EXTINF:-1,HBO SIGNATURE (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/202
 
-#EXTINF:-1,CINEMAX (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/65
 #EXTINF:11,Cinemax (8000)
 http://181.78.22.97:8000/play/a00q/index.m3u8
 
@@ -340,21 +306,15 @@ https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,SonyCine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,SONY CINE (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/62
-
 
 #----------------------------Toon-------------------------------------------#
-
-#EXTINF:-1,MAX ANIME
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
-
 #EXTINF:-1,Nickelodeon (8000)
 http://181.78.22.97:8000/play/a02r/index.m3u8
-#EXTINF:-1,Nick Jr (8000)
-http://181.78.22.97:8000/play/a010/index.m3u8
 #EXTINF:-1,NICKELODEON (2000)
 http://181.78.105.146:2000/play/a014/index.m3u8
+
+#EXTINF:-1,Nick Jr (8000)
+http://181.78.22.97:8000/play/a010/index.m3u8
 
 #EXTINF:-1,CartoonNetwork (2000)
 http://181.78.105.146:2000/play/a03k/index.m3u8
@@ -377,37 +337,14 @@ http://181.78.22.97:8000/play/a01o/index.m3u8
 #EXTINF:-1,Discovery (2000)
 http://181.78.105.146:2000/play/a03x/index.m3u8
 
-#EXTINF:-1,DISCOVERY (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/86
-#EXTINF:-1,DISCOVERY ESP (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
-
-#EXTINF:-1,DISCOVERY FAMILIA (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/90
-
-#EXTINF:-1,DISCOVERY H&H (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/210
 #EXTINF:-1,DH&H (2000)
 http://181.78.105.146:2000/play/a03g/index.m3u8
 
-#EXTINF:-1,DISCOVERY THEATER (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/98
-
-#EXTINF:-1,DISCOVERY TLC (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/316
-
-#EXTINF:-1,DISCOVERY ID (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/92
 #EXTINF:-1,Investigation Discovery (2000)
 http://181.78.105.146:2000/play/a04y/index.m3u8
 
-#EXTINF:-1,DISCOVERY TURBO (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/100
 #EXTINF:-1,TURBO (8000)
 http://181.78.22.97:8000/play/a011/index.m3u8
-
-#EXTINF:-1,DISCOVERY SCIENCE (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/281
 
 #EXTINF:-1,History (2000)
 http://181.78.105.146:2000/play/a017/index.m3u8
@@ -415,16 +352,8 @@ http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:11,History Channel (8000)
 http://181.78.22.97:8000/play/a02t/index.m3u8
 
-#EXTINF:-1,HISTORY (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/206
-
-#EXTINF:-1,HISTORY 2 (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/205
 #EXTINF:-1,Histoty 2 (2000)
 http://181.78.105.146:2000/play/a00v/index.m3u8
-
-#EXTINF:-1,ANIMAL PLANET (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/9
 
 #EXTINF:11,Animal Planet (8000)
 http://181.78.22.97:8000/play/a01p/index.m3u8
@@ -432,21 +361,12 @@ http://181.78.22.97:8000/play/a01p/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC (8000)
 http://181.78.22.97:8000/play/a02s/index.m3u8
 
-#EXTINF:-1,NATGEO (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/238
 #EXTINF:0,NatGeo (2000)
 http://181.78.105.146:2000/play/a01l/index.m3u8
-
-#EXTINF:-1,HGTV (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/89
 
 
 #-----------Win 
 
-#EXTINF:-1,W (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/369
-#EXTINF:-1,W+ (teve)
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/370
 #EXTINF:-1,Wplus (8000)
 http://181.78.22.97:8000/play/a03j/index.m3u8
 #EXTINF:-1,W (8000)
