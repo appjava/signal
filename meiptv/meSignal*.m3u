@@ -382,8 +382,13 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330764
 #EXTINF:-1,PE | ESPN 1 HD
 http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330763
-#EXTINF:-1,PE | ESPN 1 (UHD)
+#EXTINF:-1,PE | ESPN 1 (FHD)
 http://home-playtv.com:8080/garayale/KSGSU/219172
+#EXTINF:-1,COL  | ESPN 1 (UHD)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
+#EXTINF:-1,CO | ESPN 1 HD
+http://tvbox.ovh:37500/687281607/1971/71928
+
 
 #EXTINF:-1,ESPN2 (COL) (8000)
 http://181.78.22.97:8000/play/a02m/index.m3u8
@@ -403,4 +408,22 @@ http://181.78.22.97:8000/play/a024/index.m3u8
 #EXTINF:-1,ESPN7 (COL) (8000)
 http://181.78.22.97:8000/play/a023/index.m3u8
 
+#EXTINF:-1,PE | DSPORTS 1 HD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330777
+#EXTINF:-1,PE | DSPORTS 1 SD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330778
+#EXTINF:-1,PE | DSPORTS 2 HD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330779
+#EXTINF:-1,PE | DSPORTS 2 SD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330780
+#EXTINF:-1,PE | DSPORTS + HD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330781
+#EXTINF:-1,PE | DSPORTS + SD
+http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330782
+
+
+#EXTINF:-1,DEP | DIRECTV SPORTS 1 (COL) (HD)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
+#EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
+http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
 
