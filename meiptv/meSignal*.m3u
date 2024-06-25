@@ -7,13 +7,41 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
+#EXTINF:-1,Caracol (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73392&extension=ts
+#EXTINF:-1,Caracol SD(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73393&extension=ts
+#EXTINF:-1,Caracol op2(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46626&extension=ts
+#EXTINF:-1,Caracol op3(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
+#EXTINF:-1,Caracol op4(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73390&extension=ts
+
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+EXTINF:-1,Telepacífico (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts
+EXTINF:-1,Telepacífico op2(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
+EXTINF:-1,Telepacífico op3(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73343&extension=ts
+EXTINF:-1,Telepacífico SD(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73363&extension=ts
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1,RCN (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
+#EXTINF:-1,RCN op2(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73377&extension=ts
+#EXTINF:-1,RCN op3(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73335&extension=ts
+#EXTINF:-1,RCN op4(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73334&extension=ts
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -388,7 +416,15 @@ http://home-playtv.com:8080/garayale/KSGSU/219172
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
 #EXTINF:-1,CO | ESPN 1 HD
 http://tvbox.ovh:37500/687281607/1971/71928
+#EXTINF:-1, ESPN (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6499&extension=ts
+#EXTINF:-1, ESPN op2(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6500&extension=ts
 
+#EXTINF:-1, ESPN AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73233&extension=ts
+#EXTINF:-1, ESPN AR op2(TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73225&extension=ts
 
 #EXTINF:-1,ESPN2 (COL) (8000)
 http://181.78.22.97:8000/play/a02m/index.m3u8
@@ -427,3 +463,15 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
 #EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
 
+#EXTINF:-1,Dsport1 (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6533&extension=ts
+#EXTINF:-1,Dsport1 EC (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73448&extension=ts
+#EXTINF:-1,Dsport1 AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40973&extension=ts
+#EXTINF:-1,Dsport2 (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6532&extension=ts
+#EXTINF:-1,Dsport2 EC (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73447&extension=ts
+#EXTINF:-1,Dsport2 AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40974&extension=ts
