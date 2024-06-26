@@ -427,3 +427,9 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
 #EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
 
+#EXTINF:-1,|ARG| DIRECT TV SPORTS
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40973&extension=ts
+#EXTINF:-1,|ARG| DIRECT TV SPORTS 2
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40974&extension=ts
+#EXTINF:-1,|ARG| DIRECT TV SPORTS PLUS
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40975&extension=ts
