@@ -463,3 +463,18 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
 #EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
 
+#EXTINF:-1,Dsport1 (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6533&extension=ts
+#EXTINF:-1,Dsport1 EC (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73448&extension=ts
+#EXTINF:-1,Dsport1 AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40973&extension=ts
+#EXTINF:-1,Dsport2 (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6532&extension=ts
+#EXTINF:-1,Dsport2 EC (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73447&extension=ts
+#EXTINF:-1,Dsport2 AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40974&extension=ts
+#EXTINF:-1,Dsport+ AR (TS)
+http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40975&extension=ts
+
