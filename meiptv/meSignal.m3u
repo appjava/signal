@@ -6,41 +6,14 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73392&extension=ts
-#EXTINF:-1,Caracol SD(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73393&extension=ts
-#EXTINF:-1,Caracol op2(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46626&extension=ts
-#EXTINF:-1,Caracol op3(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46620&extension=ts
-#EXTINF:-1,Caracol op4(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73390&extension=ts
 
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1,Telepacífico (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=29452&extension=ts
-#EXTINF:-1,Telepacífico op2(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=46590&extension=ts
-#EXTINF:-1,Telepacífico op3(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73343&extension=ts
-#EXTINF:-1,Telepacífico SD(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73363&extension=ts
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-
-#EXTINF:-1,RCN (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73378&extension=ts
-#EXTINF:-1,RCN op2(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73377&extension=ts
-#EXTINF:-1,RCN op3(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73335&extension=ts
-#EXTINF:-1,RCN op4(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73334&extension=ts
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
