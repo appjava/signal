@@ -491,15 +491,6 @@ http://home-playtv.com:8080/garayale/KSGSU/219172
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
 #EXTINF:-1,CO | ESPN 1 HD
 http://tvbox.ovh:37500/687281607/1971/71928
-#EXTINF:-1, ESPN (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6499&extension=ts
-#EXTINF:-1, ESPN op2(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6500&extension=ts
-
-#EXTINF:-1, ESPN AR (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73233&extension=ts
-#EXTINF:-1, ESPN AR op2(TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73225&extension=ts
 
 #EXTINF:-1,ESPN2 (COL) (8000)
 http://181.78.22.97:8000/play/a02m/index.m3u8
@@ -538,18 +529,4 @@ http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
 #EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
 http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
 
-#EXTINF:-1,Dsport1 (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6533&extension=ts
-#EXTINF:-1,Dsport1 EC (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73448&extension=ts
-#EXTINF:-1,Dsport1 AR (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40973&extension=ts
-#EXTINF:-1,Dsport2 (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=6532&extension=ts
-#EXTINF:-1,Dsport2 EC (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73447&extension=ts
-#EXTINF:-1,Dsport2 AR (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40974&extension=ts
-#EXTINF:-1,Dsport+ AR (TS)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=40975&extension=ts
 
