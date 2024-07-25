@@ -16,6 +16,11 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
+#EXTINF:-1, CO: CARACOL
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
+#EXTINF:-1, CO: RCN
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
+
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
