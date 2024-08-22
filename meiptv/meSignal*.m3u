@@ -78,6 +78,9 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
+#EXTINF:-1,ZAZ Tv
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 #EXTINF:-1,AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 
