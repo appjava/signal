@@ -21,22 +21,22 @@ function changeCH(ch){
 		var hls = new Hls();
 
         if(ch == "ch12"){
-            ch = 'https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8';
+            ch = 'https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8';
         }
         else if(ch == "ch11"){
             ch = 'https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8';
         }
         else if(ch == "ch10"){
-            ch = 'https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8';
+            ch = 'https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8';
         }
         else if(ch == "ch9"){
-            ch = 'https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8';
+            ch = 'https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8';
         }
         else if(ch == "ch8"){
-            ch = 'https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8';
+            ch = 'https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8';
         }
         else if(ch == "ch7"){
-            ch = 'https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8';
+            ch = 'https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8';
         }
         else if(ch == "ch6"){
             ch = 'https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8';
@@ -54,14 +54,10 @@ function changeCH(ch){
             ch = 'https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8';
         }
         else if(ch == "ch1"){
-            ch = 'https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8';
+            ch = 'https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8';
         }
         else if(ch == "ch13"){
-            ch = 'https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8';
-            video.src = ch;
-		    video.addEventListener('canplay',function() {
-		    video.play();
-        });
+            ch = 'https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8';
         }
         
 		hls.loadSource(ch);
