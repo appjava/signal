@@ -86,11 +86,11 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
-#EXTINF:-1,Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:-1,Comedia
 https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #----------- FreeTV ----------
 #EXTINF:-1,ActionFree
@@ -143,7 +143,4 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
 
 #-------------------------
-#-------------------------FreeList
-#EXTINF:-1,RetroCartoons
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
