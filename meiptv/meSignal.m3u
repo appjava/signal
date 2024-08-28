@@ -30,20 +30,20 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1,TeleMedellín
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+##EXTINF:-1,TeleMedellín
+#https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 
-#EXTINF:-1,TeleAntioquia
-https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
+##EXTINF:-1,TeleAntioquia
+#https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 
-#EXTINF:-1,Canal Capital
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+##EXTINF:-1,Canal Capital
+#https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+##EXTINF:-1,Canal TRO
+#https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
@@ -51,11 +51,8 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF::-1,El Tiempo (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73383&extension=ts
-
-#EXTINF:-1, AgroTendencias
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+##EXTINF:-1, AgroTendencias
+#https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1, AgroTV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -63,8 +60,8 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1, Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
-#EXTINF:-1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+##EXTINF:-1,CGTN Español
+#https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
