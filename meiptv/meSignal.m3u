@@ -141,3 +141,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #-------------------------
 
+#------------------------------ Vizio ---------------
+#EXTINF:-1,AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Comedias
+https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+#EXTINF:-1,Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
