@@ -10,8 +10,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Noticiero 90 Minutos (720)
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+##EXTINF:-1,Noticiero 90 Minutos (720)
+#https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -57,8 +57,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1, AgroTV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-1, Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+##EXTINF:-1, Rural
+#https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 ##EXTINF:-1,CGTN Español
 #https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -66,8 +66,8 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1,France24
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+##EXTINF:-1,France24
+#https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
