@@ -3,7 +3,7 @@
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-https://mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_2000.m3u8
+
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
@@ -17,13 +17,13 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1,RCN
+##EXTINF:-1,RCN
 #https://live-b2.cf.dmcdn.net/sec2(-YD44YBPmFFKXrvshrTDQLQ8Z0rFPQtk7wdOdLjHbtoek7gGO326-XNqqi33ZzlUXPJIDZYrEv_BDn3wTkykPoULQ9jhp-QlM-F7JRLMPiQ)/cloud/3/x7vyv0z/s/live-380.m3u8
-https://live-b2.cf.dmcdn.net/sec2(1nX30a4YRTXzT9W0mgkU_FwH2hd2nMXqGyPGlgDwY9zPE1BVspsWCjsIJxEFXP1_y5VGTFJEKIB80yo-gcu9btjF_IVjJUfHELYCZFoNweY)/cloud/3/x7vyv0z/s/live-380.m3u8
-#EXTINF:-1,RCN HD2
-https://live-c2.cf.dmcdn.net/sec2(CYGhYT3QNwDna2pfmg1OtpAS5lzY0o7OG5hn8B8V0aolir1aorr5021Wl1h6yjOdz9w7SbxNeGocLYHTwxhF6yQn0bmo6zCKJQyFa0yJbxw)/cloud/3/x7wkq7p/s/live-240.m3u8
-#EXTINF:-1,RCN+
-https://rcntv-rcnmas-1-us.plex.wurl.tv/1200.m3u8
+#https://live-b2.cf.dmcdn.net/sec2(1nX30a4YRTXzT9W0mgkU_FwH2hd2nMXqGyPGlgDwY9zPE1BVspsWCjsIJxEFXP1_y5VGTFJEKIB80yo-gcu9btjF_IVjJUfHELYCZFoNweY)/cloud/3/x7vyv0z/s/live-380.m3u8
+##EXTINF:-1,RCN HD2
+#https://live-c2.cf.dmcdn.net/sec2(CYGhYT3QNwDna2pfmg1OtpAS5lzY0o7OG5hn8B8V0aolir1aorr5021Wl1h6yjOdz9w7SbxNeGocLYHTwxhF6yQn0bmo6zCKJQyFa0yJbxw)/cloud/3/x7wkq7p/s/live-240.m3u8
+##EXTINF:-1,RCN+
+#https://rcntv-rcnmas-1-us.plex.wurl.tv/1200.m3u8
 
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -31,20 +31,20 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1,TeleMedellín
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+##EXTINF:-1,TeleMedellín
+#https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 
-#EXTINF:-1,TeleAntioquia
-https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
+##EXTINF:-1,TeleAntioquia
+#https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 
-#EXTINF:-1,Canal Capital
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+##EXTINF:-1,Canal Capital
+#https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+##EXTINF:-1,Canal TRO
+#https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,Canal 8
 https://movil.ejeserver.com/live/canal8tv.m3u8
@@ -52,11 +52,8 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF::-1,El Tiempo (ts)
-http://eagle.rfdte99.com:8080/play/live.php?mac=00:1A:79:40:09:29&stream=73383&extension=ts
-
-#EXTINF:-1, AgroTendencias
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+##EXTINF:-1, AgroTendencias
+#https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1, AgroTV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -64,8 +61,8 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1, Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
-#EXTINF:-1,CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+##EXTINF:-1,CGTN Español
+#https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -87,6 +84,9 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
+#EXTINF:-1,Comedia
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -105,463 +105,177 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #-------------------------------------------------------------
 
 #---------------------------------PlutoTV---------------------
-#EXTINF:-1,Pluto - The Walking Dead ESP
-https://jmp2.uk/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
-#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto - CSI en Español
-https://jmp2.uk/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
-#EXTINF:-1,Pluto - AMC en español
-https://jmp2.uk/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8
-#EXTINF:-1,Pluto - Mundo viajero
-https://jmp2.uk/PlutoTV/60511efd71ec430007f50d97-alt.m3u8
-#EXTINF:-1,Pluto - Misterios sin resolver
-https://jmp2.uk/PlutoTV/5f4d882d5233170007ee880e-alt.m3u8
-#EXTINF:-1,Pluto - Investiga
-https://jmp2.uk/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
-#EXTINF:-1,Pluto - Mundo Geek
-https://jmp2.uk/PlutoTV/6051201a0aa8a70007c24a2a-alt.m3u8
-#EXTINF:-1,Pluto - Cine Premiere
-https://jmp2.uk/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
-#EXTINF:-1,Pluto - Septimo Arte
-https://jmp2.uk/PlutoTV/5cf96b1c4f1ca3f0629f4bf0-alt.m3u8
-#EXTINF:-1,Pluto - Cine Clásico
-https://jmp2.uk/PlutoTV/64b9671cdac71b0008f371df-alt.m3u8
-#EXTINF:-1,Pluto - Pelis y Popcorn
-https://jmp2.uk/PlutoTV/60fb2f47c133270007327375-alt.m3u8
-#EXTINF:-1,Pluto - Cine adrenalina
-https://jmp2.uk/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
-#EXTINF:-1,Pluto - Cine Comedia
-https://jmp2.uk/PlutoTV/5f513564e4622a0007c578c0-alt.m3u8
-#EXTINF:-1,Pluto - Cine Terror
-https://jmp2.uk/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
-#EXTINF:-1,Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1,Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:0, Pluto TV Cine Estelar
-https://jmp2.uk/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:0, Pluto TV Cine Acción
-https://jmp2.uk/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:0, Estrellas de Acción
-https://jmp2.uk/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:0, Pluto TV Adrenalina Freezone
-https://jmp2.uk/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:0, Pluto TV Cine Comedia
-https://jmp2.uk/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:0, Pluto TV Cine Drama
-https://jmp2.uk/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:0, Pluto TV Cine Romance
-https://jmp2.uk/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:0, Pluto TV Cine Suspenso
-https://jmp2.uk/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:0, Pluto TV Cine Crimen
-https://jmp2.uk/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:0, Pluto TV Cine Terror
-https://jmp2.uk/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi
-https://jmp2.uk/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF:0, Runtime
-https://jmp2.uk/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:0, Pluto TV  Nuestro Cine
-https://jmp2.uk/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:0, Pluto TV A La Mexicana
-https://jmp2.uk/PlutoTV/5dfcde52d28b09000a42d7a2-alt.m3u8
-#EXTINF:0, Pluto TV Cine Clásico
-https://jmp2.uk/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF:0, Pluto TV Cine Familia
-https://jmp2.uk/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:0, Pluto TV Pre-Navidad
-https://jmp2.uk/PlutoTV/5dd6ed41526c77000941411c-alt.m3u8
-#EXTINF:0, CSI: Miami
-https://jmp2.uk/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:0, NCIS
-https://jmp2.uk/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:0, Rookie Blue: Policías Novatos
-https://jmp2.uk/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
-#EXTINF:0, Infierno Sobre Ruedas
-https://jmp2.uk/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
-#EXTINF:0, Pluto TV Series
-https://jmp2.uk/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:0, Pluto TV Dramas Coreanos
-https://jmp2.uk/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-#EXTINF:0, Pluto TV España
-https://jmp2.uk/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:0, Pluto TV Series Retro
-https://jmp2.uk/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF:-1,Pluto TV Cine Suspenso (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1,Pluto TV Ciencia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Historia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:-1,Pluto TV Velocidad​ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1,Pluto Mundo Geek
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812301a-61bc-11ef-afe4-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e713048-84ce-4fab-b243-4a7e7b903425&userId=&serverSideAds=true
+#EXTINF:-1,Mundo viajero
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+#EXTINF:-1,Encantador de Perros
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, MacGyver
-https://jmp2.uk/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:0, Pluto TV Retro Cartoons
-https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF:0, Pluto TV Novelas de Colombia
-https://jmp2.uk/PlutoTV/6474a7e7f77b6100080a89e7-alt.m3u8
-#EXTINF:0, La Selección
-https://jmp2.uk/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:0, Pluto TV Reality
-https://jmp2.uk/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:0, MTV Classic
-https://jmp2.uk/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-#EXTINF:0, MTV Catfish
-https://jmp2.uk/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:0, Pluto TV  Competencias
-https://jmp2.uk/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:0, Wipe Out
-https://jmp2.uk/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Pluto TV Naturaleza
-https://jmp2.uk/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:0, Paisajes por Stingray
-https://jmp2.uk/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Pluto TV Animales
-https://jmp2.uk/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:0, El Encantador de Perros
-https://jmp2.uk/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:0, Pluto TV Aventura
-https://jmp2.uk/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:0, Pluto TV Velocidad
-https://jmp2.uk/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Obsesión por los Autos
-https://jmp2.uk/PlutoTV/64025592953da40008bf9238-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Mi Coche Clásico
-https://jmp2.uk/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
-#EXTINF:0, Motorvision TV
-https://jmp2.uk/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:0, Pluto TV Vida Real
-https://jmp2.uk/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:0, COPS
-https://jmp2.uk/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:0, Misterios Medicos
-https://jmp2.uk/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:0, Pluto TV Misterios
-https://jmp2.uk/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Historias de Ultratumba
-https://jmp2.uk/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:0, Archivos Extraterrestres
-https://jmp2.uk/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Smithsonian Channel Pluto TV
-https://jmp2.uk/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:0, Pluto TV Historia
-https://jmp2.uk/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Pluto TV Ciencia
-https://jmp2.uk/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:0, Cazador de Homicidas
-https://jmp2.uk/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:0, Los archivos del FBI
-https://jmp2.uk/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:0, The New Detectives
-https://jmp2.uk/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:0, Misterios sin Resolver
-https://jmp2.uk/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:0, Euronews Español
-https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:0, DAZN Women's Football
-https://jmp2.uk/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:0, Pluto TV Deportes
-https://jmp2.uk/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:0, Azteca Deportes Premium
-https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
-#EXTINF:0, Claro Sports Mexico
-https://jmp2.uk/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
-#EXTINF:0, Comedy Central South Park
-https://jmp2.uk/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#EXTINF:0, Daria
-https://jmp2.uk/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:0, Pluto TV Humor
-https://jmp2.uk/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:0, Comedy Central Pluto TV
-https://jmp2.uk/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:0, The Pet Collective
-https://jmp2.uk/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-#EXTINF:0, Pluto TV Viajes
-https://jmp2.uk/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-#EXTINF:0, Pluto TV Hogar
-https://jmp2.uk/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:0, Pluto TV Anime
-https://jmp2.uk/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:0, Pluto TV Animé Acción
-https://jmp2.uk/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:0, Naruto
-https://jmp2.uk/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:0, Naruto Shippuden
-https://jmp2.uk/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
-#EXTINF:0, Boruto: Naruto Next Generations
-https://jmp2.uk/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
-#EXTINF:0, Hunter x Hunter
-https://jmp2.uk/PlutoTV/65d916a2f7f0af0008b6540d-alt.m3u8
-#EXTINF:0, Death Note
-https://jmp2.uk/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
-#EXTINF:0, Yu-Gi-Oh
-https://jmp2.uk/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:0, Captain Tsubasa
-https://jmp2.uk/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:0, Beyblade
-https://jmp2.uk/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
-#EXTINF:0, One Piece
-https://jmp2.uk/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:0, Tokusato
-https://jmp2.uk/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-#EXTINF:0, Pluto TV E-Sports
-https://jmp2.uk/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:0, Nick Teen
-https://jmp2.uk/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:0, Nickelodeon iCarly
-https://jmp2.uk/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:0, Kenan y Kel
-https://jmp2.uk/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
-#EXTINF:0, Pluto TV Junior
-https://jmp2.uk/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:0, Nickelodeon Clásico
-https://jmp2.uk/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:0, Rugrats
-https://jmp2.uk/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:0, Nickelodeon Rocket Power
-https://jmp2.uk/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
-#EXTINF:0, Nickelodeon Pluto TV
-https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
-#EXTINF:0, Bob Esponja Pantalones Cuadrados
-https://jmp2.uk/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:0, Los Padrinos Mágicos
-https://jmp2.uk/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:0, Las Tortugas Ninja
-https://jmp2.uk/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
-#EXTINF:0, Pluto TV Kids
-https://jmp2.uk/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:0, Pluto TV Anime Kids
-https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+
+
+#EXTINF:-1,Cine Premiere
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3600&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812179c-61bc-11ef-afe6-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87d0c898-0a70-4d39-9887-d53430f887f5&userId=&serverSideAds=true
+
+#EXTINF:-1,Cine adrenalina
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3640&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=58121a1c-61bc-11ef-aa8e-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da3f56bc-cd4e-4068-a55c-d5a4b476af0f&userId=&serverSideAds=true
+
+#EXTINF:-1,Pelis y Popcorn
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3630&deviceId=60fb2f47c133270007327375&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
+
+#-------------------------
+
+#------------------------------ Vizio ---------------
+#EXTINF:-1,AMC en Espanol
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Comedias
+https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+##EXTINF:-1,Tu Cine
+#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
+
+#----------------------------- Klowd -------------------
+#EXTINF:-1,France 24 Espanol
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1,Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+
+#------------------------------ LG --------------------
+#EXTINF:-1,Brightside Spanish (CO)
+https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8
+#EXTINF:-1,Sabermas (CO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/playlist.m3u8
+#EXTINF:-1,The Pet Collective (CO)
+https://jukin-thepetcollective-1-co.lg.wurl.tv/playlist.m3u8
+
+
+#----------------------------- Distro -------------
+#EXTINF:-1,CGTN Español
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1&ads.streamtype=live
+
+
+#----------------------------- Xiaomi --------------
+#EXTINF:-1,Sonyone Sharktank (MX)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #----------------------------------------------------------
 
-#----------------------------ENTERTAINMENT---------------------------------#
-#EXTINF:-1,A&E (2000)
-http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:11,A&E Mundo (8000)
-http://181.78.22.97:8000/play/a01y/index.m3u8
-
-#EXTINF:-1,Axn (8000)
-http://181.78.22.97:8000/play/a00s/index.m3u8
-#EXTINF:-1,AXN (2000)
-http://181.78.105.146:2000/play/a05y/index.m3u8
-
-#EXTINF:-1,AMC (México)
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,LifeTime (8000)
-http://181.78.22.97:8000/play/a037/index.m3u8
-#EXTINF:-1,Lifetime (2000)
-http://181.78.105.146:2000/play/a01i/index.m3u8
-
-#EXTINF:-1,STAR CHANNEL (8000)
-http://181.78.22.97:8000/play/a02z/index.m3u8
-
-#EXTINF:-1,FX (2000)
-http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:11,FX (8000)
-http://181.78.22.97:8000/play/a00u/index.m3u8
-
-#EXTINF:-1,Sony (8000)
-http://181.78.22.97:8000/play/a00r/index.m3u8
-#EXTINF:-1,SONY (2000)
+#----------------------------SERVER2000---------------------------------#
+#EXTINF:0,ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:0,CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:0,Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:0,NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:0,DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:0,TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:0,TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:0,SONY
 http://181.78.105.146:2000/play/a002/index.m3u8
 
-#EXTINF:-1,WB (2000)
-http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:11,Warner (8000)
-http://181.78.22.97:8000/play/a01q/index.m3u8
-
-#EXTINF:-1,Film&Art (2000)
-http://181.78.105.146:2000/play/a08i/index.m3u8
-
-#----------------------------MOV--------------------------------------------#
-
-##EXTINF:-1,Golden 406
-#https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
-##EXTINF:-1,Golden 408
-#https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-##EXTINF:-1,Golden
-#https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-##EXTINF:-1,Golden Plus2
-#https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-#EXTINF:-1,Golden
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-##EXTINF:-1,Golden Edge
-#https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1,SPACE (8000)
-http://181.78.22.97:8000/play/a00t/index.m3u8
-#EXTINF:-1,Space MX (2000)
-http://181.78.105.146:2000/play/a04x/index.m3u8
-
-#EXTINF:-1,Paramount (2000)
-http://181.78.105.146:2000/play/a01s/index.m3u8
-
-#EXTINF:-1,Studio Universal (8000)
-http://181.78.22.97:8000/play/a09g/index.m3u8
-#EXTINF:-1,Studio Universal (2000)
-http://181.78.105.146:2000/play/a04o/index.m3u8
-
-#EXTINF:-1,CineCanal (2000)
-http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:11,Cinecanal (8000)
-http://181.78.22.97:8000/play/a02u/index.m3u8
-
-#EXTINF:-1,TNT (8000)
-http://181.78.22.97:8000/play/a032/index.m3u8
-#EXTINF:-1,TNT (2000)
-http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1,TNTSE (2000)
-http://181.78.105.146:2000/play/a00m/index.m3u8
-
-#EXTINF:-1,HBO (8000)
-http://181.78.22.97:8000/play/a04f/index.m3u8
-
-#EXTINF:-1,HBO 2 (8000)
-http://181.78.22.97:8000/play/a02f/index.m3u8
-#EXTINF:-1,HBO XTREME (8000)
-http://181.78.22.97:8000/play/a02h/index.m3u8
-#EXTINF:-1,HBO FAMILY (8000)
-http://181.78.22.97:8000/play/a02i/index.m3u8
-#EXTINF:-1,HBO PLUS (8000)
-http://181.78.22.97:8000/play/a02g/index.m3u8
-
-#EXTINF:11,Cinemax (8000)
-http://181.78.22.97:8000/play/a00q/index.m3u8
-
-#EXTINF:-1,Universal (2000)
+#EXTINF:0,Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1,Universal TV (8000)
-http://181.78.22.97:8000/play/a02v/index.m3u8
-#EXTINF:-1,Universal Comedy (8000)
-http://181.78.22.97:8000/play/a08f/index.m3u8
-#EXTINF:-1,Universal Premier (8000)
-http://181.78.22.97:8000/play/a08d/index.m3u8
-#EXTINF:-1,Universal Cinema (8000)
-http://181.78.22.97:8000/play/a08e/index.m3u8
-
-#EXTINF:-1,SonyComedia
-https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,SonyCine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#----------------------------Toon-------------------------------------------#
-#EXTINF:-1,Nickelodeon (8000)
-http://181.78.22.97:8000/play/a02r/index.m3u8
-#EXTINF:-1,NICKELODEON (2000)
-http://181.78.105.146:2000/play/a014/index.m3u8
-
-#EXTINF:-1,Nick Jr (8000)
-http://181.78.22.97:8000/play/a010/index.m3u8
-
-#EXTINF:-1,CartoonNetwork (2000)
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:11,Cartoon Network (8000)
-http://181.78.22.97:8000/play/a031/index.m3u8
-
-#EXTINF:-1,Discovery kids (2000)
-http://181.78.105.146:2000/play/a015/index.m3u8
-
-#EXTINF:-1,DisneyJR (2000)
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:11,Disney Channel (8000)
-http://181.78.22.97:8000/play/a01n/index.m3u8
-
-
-#----------------------------DOCU--------------------------------------------#
-
-#EXTINF:-1,Discovery (8000)
-http://181.78.22.97:8000/play/a01o/index.m3u8
-#EXTINF:-1,Discovery (2000)
-http://181.78.105.146:2000/play/a03x/index.m3u8
-
-#EXTINF:-1,DH&H (2000)
-http://181.78.105.146:2000/play/a03g/index.m3u8
-
-#EXTINF:-1,Investigation Discovery (2000)
+#EXTINF:0,WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:0,AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:0,FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:0,Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:0,A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:0,Investigation Discovery
 http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:0,TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:0,Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
 
-#EXTINF:-1,TURBO (8000)
-http://181.78.22.97:8000/play/a011/index.m3u8
-
-#EXTINF:-1,History (2000)
-http://181.78.105.146:2000/play/a017/index.m3u8
-
-#EXTINF:11,History Channel (8000)
-http://181.78.22.97:8000/play/a02t/index.m3u8
-
-#EXTINF:-1,Histoty 2 (2000)
-http://181.78.105.146:2000/play/a00v/index.m3u8
-
-#EXTINF:11,Animal Planet (8000)
-http://181.78.22.97:8000/play/a01p/index.m3u8
-
-#EXTINF:-1,NATIONAL GEOGRAPHIC (8000)
-http://181.78.22.97:8000/play/a02s/index.m3u8
-
-#EXTINF:0,NatGeo (2000)
+#EXTINF:0,DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:0,Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:0,NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
-
-
-#-----------Win 
-
-#EXTINF:-1,Wplus (8000)
-http://181.78.22.97:8000/play/a03j/index.m3u8
-#EXTINF:-1,W (8000)
-http://181.78.22.97:8000/play/a00w/index.m3u8
-
-#EXTINF:-1,ESPN (COL) (8000)
-http://181.78.22.97:8000/play/a00h/index.m3u8
-#EXTINF:-1,ESPN (8000)
-http://181.78.22.97:8000/play/a01u/index.m3u8
-#EXTINF:-1,ESPN (2000)
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1,PE | ESPN 1 SD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330764
-#EXTINF:-1,PE | ESPN 1 HD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330763
-#EXTINF:-1,PE | ESPN 1 (FHD)
-http://home-playtv.com:8080/garayale/KSGSU/219172
-#EXTINF:-1,COL  | ESPN 1 (UHD)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181840
-#EXTINF:-1,CO | ESPN 1 HD
-http://tvbox.ovh:37500/687281607/1971/71928
-
-#EXTINF:-1,ESPN2 (COL) (8000)
-http://181.78.22.97:8000/play/a02m/index.m3u8
-#EXTINF:-1,ESPN2 (8000)
-http://181.78.22.97:8000/play/a01t/index.m3u8
-#EXTINF:-1,ESPN 2 (2000)
+#EXTINF:0,History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:0,History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:0,Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:0,Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:0,ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-
-#EXTINF:-1,ESPN3 (COL) (8000)
-http://181.78.22.97:8000/play/a013/index.m3u8
-#EXTINF:-1,ESPN3 (2000)
+#EXTINF:0,ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:0,ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:0,CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
 
-#EXTINF:-1,ESPN6 (COL) (8000)
-http://181.78.22.97:8000/play/a024/index.m3u8
+#EXTINF:0,MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:0,CineCanal
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:0,Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:0,Studio Universal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:0,Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:0,AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
 
-#EXTINF:-1,ESPN7 (COL) (8000)
-http://181.78.22.97:8000/play/a023/index.m3u8
-
-#EXTINF:-1,PE | DSPORTS 1 HD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330777
-#EXTINF:-1,PE | DSPORTS 1 SD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330778
-#EXTINF:-1,PE | DSPORTS 2 HD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330779
-#EXTINF:-1,PE | DSPORTS 2 SD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330780
-#EXTINF:-1,PE | DSPORTS + HD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330781
-#EXTINF:-1,PE | DSPORTS + SD
-http://novared.pro:8080/AlexBarBe62JG/qAN3hQd5UBR7/330782
-
-
-#EXTINF:-1,DEP | DIRECTV SPORTS 1 (COL) (HD)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/181836
-#EXTINF:-1,DEP | DIRECTV SPORTS 2 (COL) (HD)
-http://pro.boxdigital.org:8080/cristiandcoquimbo/SUVv3VLTLmgP/73111
+#EXTINF:0,DE PELICULA
+http://181.78.105.146:2000/play/a090/index.m3u8
+#EXTINF:0,TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
 
 
