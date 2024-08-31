@@ -74,6 +74,8 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1,anhqv
+https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1,ZAZ Tv
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -297,7 +299,53 @@ http://181.78.8.90:16123/play/ch19
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
 
+#---------------------- IPTVlatino -----------
+#EXTINF:-1,WB
+http://168.197.196.98:9981/stream/channelid/757968981?profile=pass
+#EXTINF:-1,Universal HD
+http://168.197.196.98:9981/stream/channelid/208556550?profile=pass
+#EXTINF:0,TNT HD
+http://168.197.196.98:9981/stream/channelid/48157996?profile=pass
+#EXTINF:0,Star Channel HD
+http://168.197.196.98:9981/stream/channelid/1299221957?profile=pass
+#EXTINF:0,Sony Movies HD
+http://168.197.196.98:9981/stream/channelid/1798914357?profile=pass
+#EXTINF:0,Sony HD
+http://168.197.196.98:9981/stream/channelid/67019000?profile=pass
+#EXTINF:0,Paramount HD
+http://168.197.196.98:9981/stream/channelid/2069611474?profile=pass
 
+#EXTINF:0,Nat Geo HD
+http://168.197.196.98:9981/stream/channelid/1339532407?profile=pass
+#EXTINF:0,History 2
+http://168.197.196.98:9981/stream/channelid/838869389?profile=pass
+#EXTINF:0,History Channel
+http://168.197.196.98:9981/stream/channelid/788658705?profile=pass
 
+#EXTINF:0,HBO Signature
+http://168.197.196.98:9981/stream/channelid/1926196603?profile=pass
+#EXTINF:0,HBO POP sub
+http://168.197.196.98:9981/stream/channelid/1211496737?profile=pass
+#EXTINF:0,HBO Plus sub
+http://168.197.196.98:9981/stream/channelid/1003583900?profile=pass
+#EXTINF:0,HBO Family
+http://168.197.196.98:9981/stream/channelid/23940887?profile=pass
 
+#EXTINF:0,FX HD
+http://168.197.196.98:9981/stream/channelid/2089344579?profile=pass
 
+#EXTINF:0,ESPN Premium HD
+http://168.197.196.98:9981/stream/channelid/382818403?profile=pass
+#EXTINF:0,ESPN HD
+http://168.197.196.98:9981/stream/channelid/1093734737?profile=pass
+
+#EXTINF:0,Discovery Theater HD
+http://168.197.196.98:9981/stream/channelid/419708250?profile=pass
+#EXTINF:0,Discovery Channel HD
+http://168.197.196.98:9981/stream/channelid/1956161160?profile=pass
+
+#EXTINF:0,Cinecanal HD
+http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
+
+#EXTINF:0,A&E HD
+http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
