@@ -219,8 +219,15 @@ https://stream.ads.ottera.tv/cl/240906crdj2ufso5oih0qcmm40/854x480_1355200_2_f.m
 https://stream.ads.ottera.tv/cl/240906crdj3eksuj8adi8mfgeg/854x480_1355200_2_f.m3u8?i=475_3528
 #EXTINF:-1,Animados
 https://stream.ads.ottera.tv/cl/240906crdj5qn91d4vt6nsb10g/854x480_1355200_2_f.m3u8
-#EXTINF:-1,Cinema 2 Canela
-https://cfvod.kaltura.com/scf/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_88tfaog3/v/1/ev/10/flavorId/1_4ijqp825/clipFrom/0/clipTo/947000/name/a.mp4/index.m3u8/seg-38-v1-a1.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzbS9wLzI2NTczMzEvc3AvMjY1NzMzMTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV84OHRmYW9nMy92LzEvZXYvMTAvZmxhdm9ySWQvMV80aWpxcDgyNS9jbGlwRnJvbS8wL2NsaXBUby85NDcwMDAvbmFtZS9hLm1wNC9pbmRleC5tM3U4LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0ODM2NDd9fX1dfQ__&Signature=YZ2GLiuZOM1IIA-fAptoSeQNbHi0OqdjQbRLz3COawhL2zU-bPp4HwdO3RLFS4g3ICB5LYh2BCnh5zdxGdwq-1qOMwHhuoT2lc--WOWpboy5BDZUSjlE2L02C06wsRWhx8B-E7POhMJfcF2kiIxyjktJnDtu9410XA2HMOiSMu4U0ZSfZX2x~LB4QSYifFo67yOSqdW9BjdtZl9XdHfmM8zt-hcSV6EsdpDZfHwxwsX5bgdnkFn~DuuJLQgsHtttfpl1nExa2u6tT9hjplI~WpLNiRwDBK592EF5b73NYnYkok8MA1lqao3oWzHdNkNUy990BVSGx7F-nRmQgkn8YA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
-
+#EXTINF:-1,Autos PowerNation
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+#EXTINF:-1,BjgTjme Movies
+https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240906crdjgcfi8r3c49gfs7i0/1280x720_3291200_0_f.m3u8?i=475_3041
+#EXTINF:-1,BobRoss Art
+https://amg01201-cinedigmenterta-bobross-plex-ad-xu.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-plex/playlist.m3u8
+#EXTINF:-1,AFV videos
+https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist_webvtt.m3u8
 
 
