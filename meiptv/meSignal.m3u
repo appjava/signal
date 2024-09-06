@@ -204,4 +204,10 @@ https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
 #EXTINF:-1,Accion RunTime
 https://stream.ads.ottera.tv/cl/240906crdijcg5vj9tenr73nbg/854x480_1355200_2_f.m3u8?i=728_6125
 #EXTINF:-1,Clasico RunTime
-https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8
+https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8?i=728_3053
+#EXTINF:-1,Series RunTime
+https://stream.ads.ottera.tv/cl/240906crdiuiblv6mv2epl8mbg/854x480_1355200_2_f.m3u8?i=728_6132
+#EXTINF:-1,Live FreeTV
+https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_4.m3u8
+#EXTINF:-1,Clásicos Canela
+https://stream.ads.ottera.tv/cl/240906crdivn3lv6mv2eplak0g/854x480_1355200_2_f.m3u8?i=475_652
