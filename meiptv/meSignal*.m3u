@@ -229,8 +229,22 @@ https://stream.ads.ottera.tv/cl/240906crdjgcfi8r3c49gfs7i0/1280x720_3291200_0_f.
 https://amg01201-cinedigmenterta-bobross-plex-ad-xu.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-plex/playlist.m3u8
 #EXTINF:-1,AFV videos
 https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist_webvtt.m3u8
-
-
+#EXTINF:-1,AFV USA videos
+https://linear-12-plex.frequency.stream/mt/plex/12/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1,Acción FreeTV
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
+#EXTINF:-1,Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+#EXTINF:-1,Cinema 3 Canela
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+#EXTINF:-1,Juntos FreeTV
+https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
+#EXTINF:-1,CaliTV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1,MotorVision
+https://stream.ads.ottera.tv/cl/240906crdn2vo5vj9tenrap100/854x480_1355200_3_f.m3u8?i=475_757
+#EXTINF:-1,Familia Canela
+https://stream.ads.ottera.tv/cl/240906crdn4mcsuj8adi8pnf50/854x480_1355200_2_f.m3u8?i=475_4310
 #----------------------------------------------------------
 
 #----------------------------SERVER2000---------------------------------#
