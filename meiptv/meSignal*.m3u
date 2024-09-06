@@ -1,5 +1,4 @@
 #EXTM3U
-
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -11,8 +10,8 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Noticiero 90 Minutos (720)
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+##EXTINF:-1,Noticiero 90 Minutos (720)
+#https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -58,8 +57,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1, AgroTV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-1, Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+##EXTINF:-1, Rural
+#https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 ##EXTINF:-1,CGTN Español
 #https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -67,15 +66,13 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1,France24
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+##EXTINF:-1,France24
+#https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-#EXTINF:-1,anhqv
-https://cdn5.lqsa.es/hls/0/stream.m3u8
 
 #EXTINF:-1,ZAZ Tv
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -199,6 +196,40 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1
 #----------------------------- Xiaomi --------------
 #EXTINF:-1,Sonyone Sharktank (MX)
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#----------------------------- cxtvenvivo ----------
+
+#EXTINF:-1,Cinema Canela
+https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
+#EXTINF:-1,Accion RunTime
+https://stream.ads.ottera.tv/cl/240906crdijcg5vj9tenr73nbg/854x480_1355200_2_f.m3u8?i=728_6125
+#EXTINF:-1,Clasico RunTime
+https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8?i=728_3053
+#EXTINF:-1,Series RunTime
+https://stream.ads.ottera.tv/cl/240906crdiuiblv6mv2epl8mbg/854x480_1355200_2_f.m3u8?i=728_6132
+#EXTINF:-1,Live FreeTV
+https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_4.m3u8
+#EXTINF:-1,Clásicos Canela
+https://stream.ads.ottera.tv/cl/240906crdivn3lv6mv2eplak0g/854x480_1355200_2_f.m3u8?i=475_652
+#EXTINF:-1,Estelar FreeTV
+https://tucinelatam-freetv.amagi.tv/TuCine-xumo/master_4.m3u8
+#EXTINF:-1,Kids Canela
+https://stream.ads.ottera.tv/cl/240906crdj2ufso5oih0qcmm40/854x480_1355200_2_f.m3u8?i=475_5281
+#EXTINF:-1,Familia RunTime
+https://stream.ads.ottera.tv/cl/240906crdj3eksuj8adi8mfgeg/854x480_1355200_2_f.m3u8?i=475_3528
+#EXTINF:-1,Animados
+https://stream.ads.ottera.tv/cl/240906crdj5qn91d4vt6nsb10g/854x480_1355200_2_f.m3u8
+#EXTINF:-1,Autos PowerNation
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+#EXTINF:-1,BjgTjme Movies
+https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240906crdjgcfi8r3c49gfs7i0/1280x720_3291200_0_f.m3u8?i=475_3041
+#EXTINF:-1,BobRoss Art
+https://amg01201-cinedigmenterta-bobross-plex-ad-xu.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-plex/playlist.m3u8
+#EXTINF:-1,AFV videos
+https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist_webvtt.m3u8
+
 
 #----------------------------------------------------------
 
