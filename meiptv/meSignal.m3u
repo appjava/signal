@@ -197,7 +197,11 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1
 #EXTINF:-1,Sonyone Sharktank (MX)
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
+#----------------------------- cxtvenvivo ----------
 
-
-
-
+#EXTINF:-1,Cinema Canela
+https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
+#EXTINF:-1,Accion RunTime
+https://stream.ads.ottera.tv/cl/240906crdijcg5vj9tenr73nbg/854x480_1355200_2_f.m3u8?i=728_6125
+#EXTINF:-1,Clasico RunTime
+https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8
