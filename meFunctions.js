@@ -54,10 +54,10 @@ function changeCH(ch){
             ch = 'https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8';
         }
         else if(ch == "ch1"){
-            ch = 'https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8';
+            ch = 'https://acuag5o4.pradoi.com/hls2/01/03975/9e1zs73inazg_,n,h,.urlset/master.m3u8?t=HF8sTxhwo90olDbscKjtyQcg2wCiuArXmRcAUKp0yn4&s=1726091399&e=129600&f=19879056&srv=kjxhos3xxdb25&i=0.0&sp=500&p1=kjxhos3xxdb25&p2=kjxhos3xxdb25&asn=52468';
         }
         else if(ch == "ch13"){
-            ch = 'https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8';
+            ch = 'https://yhqd4yg264.pradoi.com/hls2/01/02203/cvjub0hxg65c_,n,h,.urlset/master.m3u8?t=VQvCB0bhu1kUZRfVczwis0A63Wi7oVz10PB3wen3FVo&s=1726088981&e=129600&f=11015005&srv=p1yiis79s8azw&i=0.0&sp=500&p1=p1yiis79s8azw&p2=p1yiis79s8azw&asn=52468';
         }
         
 		hls.loadSource(ch);
