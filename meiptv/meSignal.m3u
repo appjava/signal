@@ -280,3 +280,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726115626/ei/y
 
 #EXTINF:-1,Live Caracol
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=Tke6GAPaTioE1Mot0iQWkkrdgmxI8xW6&sid=RPxoyajP2fPC2IX1QrkBkk6QWUaWM3Zx&pid=vZ9o9Rl89v9nzq1BidpAKOxTXrWalCDK&an=screen&at=web-app&av=v6.0.53&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=843x474&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=5421bf46-1cb7-4996-b67e-ab1b113ac5a6:CHS
+#EXTINF:-1,Live RCN
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=OTnALKFwF2reHKZpLM7oj9RCl53GHYBwlzLqu62MWf-ebojYXgXJLw1ugJHxENG2&dmTs=818994&dmV1st=8029dba7-f296-4c88-af6f-f4aa6ad4ef7e
