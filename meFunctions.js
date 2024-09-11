@@ -30,7 +30,7 @@ function changeCH(ch){
             ch = 'https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8';
         }
         else if(ch == "ch9"){
-            ch = 'https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8';
+            ch = 'https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726114928/ei/EBjiZvSLHuS0qvAP-5fv4Q4/ip/181.143.225.154/id/630c030648110dbb/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-cvb7lne7.googlevideo.com/mh/0s/mm/31%2C26/mn/sn-cvb7lne7%2Csn-hp57kndd/ms/au%2Conr/mv/m/mvi/1/pl/18/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1033750/vprv/1/go/1/rqh/5/mt/1726093043/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTGIBAVpw0CGNE-u6wbO3UAMD-vENAXCsGKrRAxV76PcCIQCUfS8H7Og07C3-rp5kRmS06XLIGN_CefnPUJiai6LfkA%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/ABPmVW0wRQIhAJHIM8T7fQBBPgQmx-_VfUW1In_cra5wLfuwr5PFd65qAiBycHiMDE9qn7RUWPVQQjTW3T4ET2BFxng68vZQYWEtZg%3D%3D/file/index.m3u8';
         }
         else if(ch == "ch8"){
             ch = 'https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8';
