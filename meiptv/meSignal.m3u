@@ -280,5 +280,5 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726115626/ei/y
 
 #EXTINF:-1,Live Caracol 480
 https://golcaracol.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/7c4d6daf-7dd2-429a-8275-266a19f542d2:MRN2/variant/391731030074916d4aeacf7513b071cb/bandwidth/1847841.m3u8?es=golcaracol.cdn.mdstrm.com&Expires=&Key-Pair-Id=&Policy=&Signature=&proto=https
-#EXTINF:-1,Live RCN 480
+#EXTINF:-1,RCN LIVE
 https://live-b2.cf.dmcdn.net/sec2(Wqfw-wFQe0n39uYyP1fvSKibBpA7kmjKYNgu-1Go4scv7OaBlJlWPsfiq26NvgM6L_qNIwSGmZnTq4amv0PP6OVV1MSn2D1wbUCaFt_0ZI0)/cloud/3/x7vyv0z/s/live-480.m3u8#cell=lcfb2
