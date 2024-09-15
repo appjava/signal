@@ -428,3 +428,5 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 
 #EXTINF:0,A&E HD
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
+#EXTINF:0,EL Regreso
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/05714/or70nhrx1qau_h/master.m3u8?t=CVWd9YOKddg4Qmb9ny8JQt58Zuvc7YRnM2jRRU-OL_s&s=1726360097&e=10800&f=33096994&srv=53&asn=13489&sp=4000
