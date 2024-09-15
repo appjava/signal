@@ -429,5 +429,8 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 #EXTINF:0,A&E HD
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
-#EXTINF:-1,Alien Romulus
-http://192.168.0.195:5500/AlienRomulus2024.mp4
+#EXTINF:-1,La Trampa 2024
+https://plustream.com/api-embed/d900914d-3386-4873-bb42-87b538bcf460/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiZDkwMDkxNGQtMzM4Ni00ODczLWJiNDItODdiNTM4YmNmNDYwIiwiaXAiOiIzOC4yNS4xNy43MSIsImlhdCI6MTcyNjQzMjQ3MSwiZXhwIjoxNzI2NDM5NjcxfQ==.7NXdITaSWNzfEnbTB0YhgwpitpTnglNBbOZWdey_M5E
+
+#EXTINF:-1,LIVE
+https://yxdlc29tzq.la10tv.com/lb/dsportsplus/index.m3u8?token=3b6069f39a77618c151ebda9e524b3de6e6456f0-d0aa842f7b61827e9d581f42c93a3724-1726469340-1726433340&remote=200.116.192.45
