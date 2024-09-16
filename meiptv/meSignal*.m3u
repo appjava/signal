@@ -442,6 +442,8 @@ https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8?uid=tQQDDJ
 https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8?uid=tQQDDJZt5dNIX8PrTzpfzGSufLNQczNZ&sid=Ggp8B8gLWeNZSDc6s2iXi1PFFHxAUEFr&pid=VQgRrTPihhnnf22T7CZnOtADA97rGZHK&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fpartidosgol.noticiascaracol.com%2F&res=800x450&without_cookies=false&listenerid=&dnt=true&access_token=D7a17N05qlFCAnoO62WJ0cX0DOyYVmreza7YC2daEUXqO5AZvldZybuZeSeHMjlwW8iMAib6nZS&adInsertionGoogleStreamId=9b42e4bc-102b-41eb-b073-8e22109bbdfb:CHS
 
 #EXTINF:-1,WIN 360
-https://maxs.mizhls.ru/lb//bet6647524/playlist.m3u8
-#EXTINF:-1,WIN
-https://maxs.mizhls.ru/lb//bet6647524/tracks-v1a1/mono.m3u8
+#https://maxs.mizhls.ru/lb//bet6647524/playlist.m3u8
+https://09-24.mizhls.ru/fls/cdn/bet6647524/playlist.m3u8
+#EXTINF:-1,WIN mono
+#https://maxs.mizhls.ru/lb//bet6647524/tracks-v1a1/mono.m3u8
+https://09-24.mizhls.ru/fls/cdn/bet6647524/tracks-v1a1/mono.m3u8
