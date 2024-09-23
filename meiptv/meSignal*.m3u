@@ -430,20 +430,4 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
 #EXTINF:-1,La Trampa 2024
-https://plustream.com/api-embed/d900914d-3386-4873-bb42-87b538bcf460/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiZDkwMDkxNGQtMzM4Ni00ODczLWJiNDItODdiNTM4YmNmNDYwIiwiaXAiOiIzOC4yNS4xNy43MSIsImlhdCI6MTcyNjQzMjQ3MSwiZXhwIjoxNzI2NDM5NjcxfQ==.7NXdITaSWNzfEnbTB0YhgwpitpTnglNBbOZWdey_M5E
-
-#EXTINF:-1,LIVE
-https://yxdlc29tzq.la10tv.com/lb/dsportsplus/index.m3u8?token=3b6069f39a77618c151ebda9e524b3de6e6456f0-d0aa842f7b61827e9d581f42c93a3724-1726469340-1726433340&remote=200.116.192.45
-
-#EXTINF:-1,Caracol 480
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8?uid=tQQDDJZt5dNIX8PrTzpfzGSufLNQczNZ&sid=Ggp8B8gLWeNZSDc6s2iXi1PFFHxAUEFr&pid=VQgRrTPihhnnf22T7CZnOtADA97rGZHK&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fpartidosgol.noticiascaracol.com%2F&res=800x450&without_cookies=false&listenerid=&dnt=true&access_token=D7a17N05qlFCAnoO62WJ0cX0DOyYVmreza7YC2daEUXqO5AZvldZybuZeSeHMjlwW8iMAib6nZS&adInsertionGoogleStreamId=9b42e4bc-102b-41eb-b073-8e22109bbdfb:CHS
-
-#EXTINF:-1,Caracol 360
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8?uid=tQQDDJZt5dNIX8PrTzpfzGSufLNQczNZ&sid=Ggp8B8gLWeNZSDc6s2iXi1PFFHxAUEFr&pid=VQgRrTPihhnnf22T7CZnOtADA97rGZHK&an=screen&at=web-app&av=v6.0.57&ref=https%3A%2F%2Fpartidosgol.noticiascaracol.com%2F&res=800x450&without_cookies=false&listenerid=&dnt=true&access_token=D7a17N05qlFCAnoO62WJ0cX0DOyYVmreza7YC2daEUXqO5AZvldZybuZeSeHMjlwW8iMAib6nZS&adInsertionGoogleStreamId=9b42e4bc-102b-41eb-b073-8e22109bbdfb:CHS
-
-#EXTINF:-1,WIN 360
-#https://maxs.mizhls.ru/lb//bet6647524/playlist.m3u8
-https://09-24.mizhls.ru/fls/cdn/bet6647524/playlist.m3u8
-#EXTINF:-1,WIN mono
-#https://maxs.mizhls.ru/lb//bet6647524/tracks-v1a1/mono.m3u8
-https://09-24.mizhls.ru/fls/cdn/bet6647524/tracks-v1a1/mono.m3u8
+https://plustream.com/api-embed/d900914d-3386-4873-bb42-87b538bcf460/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb0lkIjoiZDkwMDkxNGQtMzM4Ni00ODczLWJiNDItODdiNTM4YmNmNDYwIiwiaXAiOiI2Ni4xMjguNDEuMjAyIiwiaWF0IjoxNzI3MTI5NDAxLCJleHAiOjE3MjcxMzY2MDF9.OqtV1l7eENKp6t_lNikwFeDLkK_AcnZnE12dABb1vl8
