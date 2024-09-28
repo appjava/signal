@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
     <link rel="stylesheet" href="meDesign.css" >
 	<link rel="shortcut icon" href="favicon.ico">
 	<title>meSignal</title>
@@ -13,7 +14,7 @@
     <div class="selection">
       <!--<label for="channel-select">Choose Channel</label>-->
       <select name="channels" id="channel-select" onchange="played()">
-        <option value="">Please Choose Channel</option>
+        <option value="">Choose Channel</option>
         <option value="ch2">Canal Uno</option>
         <option value="ch11">Señal Colombia</option>
         <option value="ch3">DW</option>
@@ -39,7 +40,7 @@
     </div>
     <fieldset>
       <!--<legend id="live">Live</legend>>-->
-      <video id="video" controls poster="meSignal.png"></video>
+      <video id="video" controls poster="meSignal.png" Access-Control-Allow-Origin: *></video>
       
       <a href="index.html">Back Home</a>
     </fieldset>
