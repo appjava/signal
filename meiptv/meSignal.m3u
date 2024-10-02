@@ -270,10 +270,5 @@ https://stream.ads.ottera.tv/cl/240909crfn1522r59gtach2dpg/854x480_1355200_2_f.m
 #EXTINF:-1,ZAZ TV
 https://stream-us-east-1.getpublica.com/cl/240909crfmvdg0du4ovlf4gdhg/196x144_230226_2_f.m3u8?i=513_1972
 
-#EXTINF:-1,Bart Genio
-https://yhqd4yg264.pradoi.com/hls2/01/02203/cvjub0hxg65c_,n,h,.urlset/master.m3u8?t=VQvCB0bhu1kUZRfVczwis0A63Wi7oVz10PB3wen3FVo&s=1726088981&e=129600&f=11015005&srv=p1yiis79s8azw&i=0.0&sp=500&p1=p1yiis79s8azw&p2=p1yiis79s8azw&asn=52468
-#EXTINF:-1,Buenos Muchachos
-https://acuag5o4.pradoi.com/hls2/01/03975/9e1zs73inazg_,n,h,.urlset/master.m3u8?t=HF8sTxhwo90olDbscKjtyQcg2wCiuArXmRcAUKp0yn4&s=1726091399&e=129600&f=19879056&srv=kjxhos3xxdb25&i=0.0&sp=500&p1=kjxhos3xxdb25&p2=kjxhos3xxdb25&asn=52468
-
-#EXTINF:-1,LIVE
-https://c3bvcnrz.la10tv.com/lb/winsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=e1e393ac9b86ca78d293cbdf6498f6e2bbe97861-0aab9aeae38ddfb2db5fb078a707bba5-1726225396-1726189396
+#EXTINF:-1,espn1
+https://cdn8.en-vivo.info/hotflix/espn/index.m3u8?token=4df200bd5f4226e2978cd55401c962dabd2ab830-fd7f536bb49f691810c1a07b84b04726-1727906174-1727895374&remote=181.119.67.83
