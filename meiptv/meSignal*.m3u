@@ -1,4 +1,5 @@
 #EXTM3U
+
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -8,8 +9,11 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol INT
-http://6oclock.xyz/Pumpkin1/Pumpkin1/27978
+#EXTINF:-1,RCN
+http://181.78.23.26:45000/play/a02h
+
+#EXTINF:-1,City TV
+http://181.78.23.26:45000/play/a02v
 
 #EXTINF:-1,Telepacífico
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
@@ -80,8 +84,8 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 #EXTINF:-1,ANHQV
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
-#EXTINF:-1,ZAZ Tv
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+##EXTINF:-1,ZAZ Tv
+#https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1,AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
@@ -89,19 +93,19 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
-#EXTINF:-1,Comedia
-https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+##EXTINF:-1,Comedia
+#https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #----------- FreeTV ----------
-#EXTINF:-1,ActionFree
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
-#EXTINF:-1,TerrorFree
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
-#EXTINF:-1,FamiliaFree
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8
+##EXTINF:-1,ActionFree
+#https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
+##EXTINF:-1,TerrorFree
+#https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
+##EXTINF:-1,FamiliaFree
+##https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8
 
 #EXTINF:-1,DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/65f49f72-b8e9-4783-b45f-bd8e1db5591a/1.m3u8
@@ -111,25 +115,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #---------------------------------PlutoTV---------------------
 
+#EXTINF:-1,Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1,Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1,Pluto TV Cine Suspenso (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1,Pluto TV Ciencia (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Historia (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Naturaleza (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 #EXTINF:-1,Pluto TV Velocidad​ (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1,Pluto Mundo Geek
-#https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812301a-61bc-11ef-afe4-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e713048-84ce-4fab-b243-4a7e7b903425&userId=&serverSideAds=true
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812301a-61bc-11ef-afe4-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e713048-84ce-4fab-b243-4a7e7b903425&userId=&serverSideAds=true
 #EXTINF:-1,Mundo viajero
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:-1,Encantador de Perros
@@ -150,43 +156,27 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Pluto TV Ciencia
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Archivos Extraterrestres
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+
 
 #EXTINF:-1,Cine Premiere
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3600&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812179c-61bc-11ef-afe6-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87d0c898-0a70-4d39-9887-d53430f887f5&userId=&serverSideAds=true
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812179c-61bc-11ef-afe6-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87d0c898-0a70-4d39-9887-d53430f887f5&userId=&serverSideAds=true
 
 #EXTINF:-1,Cine adrenalina
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3640&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=58121a1c-61bc-11ef-aa8e-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da3f56bc-cd4e-4068-a55c-d5a4b476af0f&userId=&serverSideAds=true
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=58121a1c-61bc-11ef-aa8e-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da3f56bc-cd4e-4068-a55c-d5a4b476af0f&userId=&serverSideAds=true
 
 #EXTINF:-1,Pelis y Popcorn
 #http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3630&deviceId=60fb2f47c133270007327375&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
-#EXTINF:-1,Pluto TV Cine Estelar (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
-#EXTINF:-1,Pluto TV Cine Suspenso (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
-#EXTINF:-1,Pluto TV Estrellas de Acción (720p)
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
 
 #-------------------------
 
 #------------------------------ Vizio ---------------
 #EXTINF:-1,AMC en Espanol
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1,Sony Canal Comedias
-https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+##EXTINF:-1,Sony Canal Comedias
+#https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
 #EXTINF:-1,Tu Cine
@@ -230,14 +220,14 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 #EXTINF:-1,Cinema 3 Canela
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 
-#EXTINF:-1,Live FreeTV
-https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_4.m3u8
-#EXTINF:-1,Estelar FreeTV
-https://tucinelatam-freetv.amagi.tv/TuCine-xumo/master_4.m3u8
-#EXTINF:-1,Acción FreeTV
-https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
-#EXTINF:-1,Juntos FreeTV
-https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
+##EXTINF:-1,Live FreeTV
+#https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_4.m3u8
+##EXTINF:-1,Estelar FreeTV
+#https://tucinelatam-freetv.amagi.tv/TuCine-xumo/master_4.m3u8
+##EXTINF:-1,Acción FreeTV
+#https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
+##EXTINF:-1,Juntos FreeTV
+#https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
 
 #https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8
 #https://olympusamagi.pc.cdn.bitgravity.com/TuCine-xumo/master_4.m3u8
@@ -246,56 +236,52 @@ https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
 #https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
 #https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
+#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
+#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
-##EXTINF:-1,Accion RunTime
-#https://stream.ads.ottera.tv/cl/240906crdijcg5vj9tenr73nbg/854x480_1355200_2_f.m3u8?i=728_6125
-##EXTINF:-1,Clasico RunTime
-#https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8?i=728_3053
-##EXTINF:-1,Series RunTime
-#https://stream.ads.ottera.tv/cl/240906crdiuiblv6mv2epl8mbg/854x480_1355200_2_f.m3u8?i=728_6132
-##EXTINF:-1,Familia RunTime
-#https://stream.ads.ottera.tv/cl/240906crdj3eksuj8adi8mfgeg/854x480_1355200_2_f.m3u8?i=475_3528
+#------------------------ 6060:45000
 
-##EXTINF:-1,Clásicos Canela
-#https://stream.ads.ottera.tv/cl/240906crdivn3lv6mv2eplak0g/854x480_1355200_2_f.m3u8?i=475_652
-##EXTINF:-1,Kids Canela
-#https://stream.ads.ottera.tv/cl/240906crdj2ufso5oih0qcmm40/854x480_1355200_2_f.m3u8?i=475_5281
+#EXTINF:-1,Cine Familiar  HD
+http://181.78.23.26:45000/play/a03u
 
-##EXTINF:-1,Animados
-#https://stream.ads.ottera.tv/cl/240906crdj5qn91d4vt6nsb10g/854x480_1355200_2_f.m3u8
+#EXTINF:-1,Cine Hispano HD
+http://181.78.23.26:45000/play/a03v
 
-#EXTINF:-1,BjgTjme Movies
-https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/2000.m3u8
-##EXTINF:-1,Stingray Naturescape
-#https://stream.ads.ottera.tv/cl/240906crdjgcfi8r3c49gfs7i0/1280x720_3291200_0_f.m3u8?i=475_3041
-##EXTINF:-1,BobRoss Art
-#https://amg01201-cinedigmenterta-bobross-plex-ad-xu.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-plex/playlist.m3u8
-##EXTINF:-1,AFV videos
-#https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist_webvtt.m3u8
-##EXTINF:-1,AFV USA videos
-#https://linear-12-plex.frequency.stream/mt/plex/12/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1,Cine Premium HD
+http://181.78.23.26:45000/play/a03x
 
-#EXTINF:-1,MotorVision
-#https://stream.ads.ottera.tv/cl/240906crdn2vo5vj9tenrap100/854x480_1355200_3_f.m3u8?i=475_757
-https://stream.ads.ottera.tv/cl/240909crfn0ka2r59gtach2050/854x480_1355200_3_f.m3u8?i=475_757
-##EXTINF:-1,Familia Canela
-#https://stream.ads.ottera.tv/cl/240906crdn4mcsuj8adi8pnf50/854x480_1355200_2_f.m3u8?i=475_4310
-https://stream.ads.ottera.tv/cl/240909crfn1522r59gtach2dpg/854x480_1355200_2_f.m3u8?i=475_4310
+#EXTINF:-1,DHE
+http://181.78.105.146:6060/play/a00d/index.m3u8
 
-#EXTINF:-1,ZAZ TV
-https://stream-us-east-1.getpublica.com/cl/240909crfmvdg0du4ovlf4gdhg/196x144_230226_2_f.m3u8?i=513_1972
+#EXTINF:-1,Multipremier
+http://181.78.105.146:6060/play/a048/index.m3u8
 
-#EXTINF:-1,Bart Genio
-https://yhqd4yg264.pradoi.com/hls2/01/02203/cvjub0hxg65c_,n,h,.urlset/master.m3u8?t=VQvCB0bhu1kUZRfVczwis0A63Wi7oVz10PB3wen3FVo&s=1726088981&e=129600&f=11015005&srv=p1yiis79s8azw&i=0.0&sp=500&p1=p1yiis79s8azw&p2=p1yiis79s8azw&asn=52468
-#EXTINF:-1,Buenos Muchachos
-https://acuag5o4.pradoi.com/hls2/01/03975/9e1zs73inazg_,n,h,.urlset/master.m3u8?t=HF8sTxhwo90olDbscKjtyQcg2wCiuArXmRcAUKp0yn4&s=1726091399&e=129600&f=19879056&srv=kjxhos3xxdb25&i=0.0&sp=500&p1=kjxhos3xxdb25&p2=kjxhos3xxdb25&asn=52468
+#EXTINF:-1,Turbo
+http://181.78.105.146:6060/play/a03z/index.m3u8
 
-#EXTINF:-1,LIVE win
-https://c3bvcnrz.la10tv.com/lb/winsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=e1e393ac9b86ca78d293cbdf6498f6e2bbe97861-0aab9aeae38ddfb2db5fb078a707bba5-1726225396-1726189396
+#EXTINF:-1,HGD
+http://181.78.105.146:6060/play/a006/index.m3u8
 
+#EXTINF:-1,ESPN
+http://181.78.105.146:6060/play/a036/index.m3u8
 
+#EXTINF:-1,ESPN 2
+http://181.78.105.146:6060/play/a037/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://181.78.105.146:6060/play/a00x/index.m3u8
+
+#EXTINF:-1,ESPN 6
+http://181.78.105.146:6060/play/a01v/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://181.78.23.26:45000/play/a04m
+
+#EXTINF:-1,TUDN HD
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+#EXTINF:-1,ESPN 5 HD
+http://200.115.120.1:8000/play/ca119/index.m3u8
 #----------------------------------------------------------
 
 #----------------------------SERVER2000---------------------------------#
@@ -447,9 +433,127 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 #EXTINF:0,A&E HD
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
+#-------------------------- server 6060 -------------
 
-#EXTINF:-1,HBF
-http://181.78.105.146:6060/play/a00k
+#EXTINF:-1 tvg-id="AXN (2) (Gua2)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Gua2)
+http://181.78.105.146:6060/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="FX (2)(Gua2)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2) (Gua2)
+http://181.78.105.146:6060/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony Channel (1) (Gua2)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (1) (Gua2)
+http://181.78.105.146:6060/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Channel (Gua2)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua2)
+http://181.78.105.146:6060/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner (2) (Gua2)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (2) (Gua2)
+http://181.78.105.146:6060/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC (2)(Gua2)" tvg-logo="https://i.imgur.com/TNBC7f2.png" group-title="Verch" group-title="Pelis",AMC (2)(Gua2)
+http://181.78.105.146:6060/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax (Gua2)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua2)
+http://181.78.105.146:6060/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Canal (Gua2)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Gua2)
+http://181.78.105.146:6060/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Latino (Gua2)" tvg-logo="https://i.imgur.com/g4OMEWT.png" group-title="Verch" group-title="Pelis",Cine Latino (Gua2)
+http://181.78.105.146:6060/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="DHE (Gua2)" tvg-logo="https://i.imgur.com/aBpIsol.jpg" group-title="Verch" group-title="Pelis",DHE (Gua2)
+http://181.78.105.146:6060/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="Space (2) (Gua2)" tvg-logo="https://i.imgur.com/15K5toU.png" group-title="Verch" group-title="Pelis",Space (2) (Gua2)
+http://181.78.105.146:6060/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal (Gua2)" tvg-logo="https://i.imgur.com/aZkFhtv.png" group-title="Verch" group-title="Pelis",Studio Universal 2 (Gua2)
+http://181.78.105.146:6060/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT (Gua2)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT (Gua2)
+http://181.78.105.146:6060/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal (Gua2)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Universal (Gua2)
+http://181.78.105.146:6060/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="MultiCinema (Gua2)" tvg-logo="https://i.imgur.com/SvmXGAA.jpg" group-title="Verch" group-title="Pelis",MultiCinema (Gua2)
+http://181.78.105.146:6060/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="Multipremier (Gua2)" tvg-logo="https://i.imgur.com/UuKNFEt.png" group-title="Verch" group-title="Pelis",Multipremier (Gua2)
+http://181.78.105.146:6060/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet (Gua2)" tvg-logo="https://i.imgur.com/XLschKu.jpg" group-title="Verch" group-title="Artes&Cultura",Animal Planet (Gua2)
+http://181.78.105.146:6060/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel (Gua2)" tvg-logo="https://i.imgur.com/DO0SzqP.png" group-title="Verch" group-title="Artes&Cultura",Discovery Channel (Gua2)
+http://181.78.105.146:6060/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home & Health (Gua2)" tvg-logo="https://i.imgur.com/c2O6v9w.png" group-title="Verch" group-title="Artes&Cultura",Discovery Home & Health (Gua2)
+http://181.78.105.146:6060/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID (Gua2)" tvg-logo="https://i.imgur.com/o1MxJYz.png" group-title="Verch" group-title="Artes&Cultura",Discovery ID (Gua2)
+http://181.78.105.146:6060/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science (Gua2)" tvg-logo="https://i.imgur.com/vqrHIGQ.png" group-title="Verch" group-title="Artes&Cultura",Discovery Science (Gua2)
+http://181.78.105.146:6060/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo (Gua2)" tvg-logo="https://i.imgur.com/8wDU8H3.png" group-title="Verch" group-title="Artes&Cultura",Discovery Turbo (Gua2)
+http://181.78.105.146:6060/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="H History (Gua2)" tvg-logo="https://i.imgur.com/vziHWjM.png" group-title="Verch" group-title="Artes&Cultura",H History (Gua2)
+http://181.78.105.146:6060/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="H2 History (Gua2)" tvg-logo="https://i.imgur.com/FwxqAE5.png" group-title="Verch" group-title="Artes&Cultura",H2 History (Gua2)
+http://181.78.105.146:6060/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo (Gua2)" tvg-logo="https://i.imgur.com/6lEq1SB.png" group-title="Verch" group-title="Artes&Cultura",Nat Geo (Gua2)
+http://181.78.105.146:6060/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Home Garden Latino (Gua2)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (Gua2)
+http://181.78.105.146:6060/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN (2)(Gua2)" tvg-logo="https://i.imgur.com/wQRRNtz.png" group-title="Verch" group-title="Deportes",ESPN (2)(Gua2)
+http://181.78.105.146:6060/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 (Gua2)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 (1) (Gua2)
+http://181.78.105.146:6060/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3 (1)(Gua2)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Gua2)
+http://181.78.105.146:6060/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 (Gua2)" tvg-logo="https://i.imgur.com/VFc2m24.png" group-title="Verch" group-title="Deportes",ESPN 6 (Gua2)
+http://181.78.105.146:6060/play/a01v/index.m3u8
+
+
+#-------------------------- server 45000 -------------
+
+#EXTINF:-1,RCN
+http://181.78.23.26:45000/play/a02h
+
+#EXTINF:-1,A&E
+http://181.78.23.26:45000/play/a01m
+
+#EXTINF:-1 tvg-id="AXN (2) (Col0)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Col0)
+http://181.78.23.26:45000/play/a030
+
+#EXTINF:-1 tvg-id="City TV (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Col0)
+http://181.78.23.26:45000/play/a02v
+
+#EXTINF:-1 tvg-id="Life Time (2) HD (Col0)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) HD (Col0)
+http://181.78.23.26:45000/play/a00e
+
+#EXTINF:-1 tvg-id="Sony Channel (2) (Col0)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) (Col0)
+http://181.78.23.26:45000/play/a02z
+
+#EXTINF:-1 tvg-id="TLC (Col0)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (Col0)
+http://181.78.23.26:45000/play/a01o
+
+#EXTINF:-1 tvg-id="Warner (3) (Col0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (3) (Col0)
+http://181.78.23.26:45000/play/a01e
+
+#EXTINF:-1 tvg-id="Cine Canal (Col0)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Col0)
+http://181.78.23.26:45000/play/a006
 
 #EXTINF:-1 tvg-id="Cine Familiar HD (Col0)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="Verch" group-title="Pelis",Cine Familiar  HD (Col0)
 http://181.78.23.26:45000/play/a03u
@@ -460,4 +564,54 @@ http://181.78.23.26:45000/play/a03v
 #EXTINF:-1 tvg-id="Cine Premium HD (Col0)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="Verch" group-title="Pelis",Cine Premium HD (Col0)
 http://181.78.23.26:45000/play/a03x
 
+#EXTINF:-1 tvg-id="TyC Sports (Col0)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Col0)
+http://181.78.23.26:45000/play/a04m
 
+#-------------------------- server ip200 : port8000 -------------
+
+#EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
+http://200.115.120.1:8000/play/ca075/index.m3u8
+
+#EXTINF:-1 tvg-id="FX HD (2) (Gua1)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX HD (2) (Gua1)
+http://200.115.120.1:8000/play/ca017/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC HD (Gua1)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC HD (Gua1)
+http://200.115.120.1:8000/play/ca058/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner HD (1) (Gua1)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner HD (Gua1)
+http://200.115.120.1:8000/play/ca047/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Canal HD (Gua1)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal HD (Gua11)
+http://200.115.120.1:8000/play/ca032/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden Edge HD (Gua1)" tvg-logo="https://i.imgur.com/leto4A6.png" group-title="Verch" group-title="Pelis",Golden Edge HD (Gua1)
+http://200.115.120.1:8000/play/ca037/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN (1) HD (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua1)
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5 HD (3)sur (Gua1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (3)sur (Gua1)
+http://200.115.120.1:8000/play/ca119/index.m3u8
+
+#-------------------------- server ip177 & ip38 : port8000 -------------
+
+#EXTINF:-1 tvg-id="HBO (Col6)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Col6)
+http://177.93.46.163:8000/play/a01z
+
+#EXTINF:-1 tvg-id="HBO (Ven1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Ven1)
+http://38.41.8.1:8000/play/a05u
+
+#EXTINF:-1 tvg-id="HBO Plus (Col6)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus (Col6)
+http://177.93.46.163:8000/play/a00n
+
+#EXTINF:-1 tvg-id="HBO 2 (Col6)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 (Col6)
+http://177.93.46.163:8000/play/a00m
+
+#EXTINF:-1 tvg-id="HBO Family (Col6)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (Col6)
+http://177.93.46.163:8000/play/a00p
+
+#EXTINF:-1 tvg-id="HBO Xtreme (Col6)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme (Col6)
+http://177.93.46.163:8000/play/a00o
+
+#EXTINF:-1 tvg-id="Cinemax (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Ven1)
+http://38.41.8.1:8000/play/a05v
