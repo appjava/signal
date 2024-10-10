@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1,-vvv- Start Signal List -vvv-
 #-------------- TDT ----------------------
 #EXTINF:-1,Caracol HD (1280)
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -11,9 +12,13 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
+#EXTINF:-1,RCN (1)
+http://179.189.222.226:8000/play/ch59
 
 #EXTINF:-1,City TV
 http://181.78.23.26:45000/play/a02v
+#EXTINF:-1,City TV (1) 
+http://200.115.120.1:8000/play/ca075/index.m3u8
 
 #EXTINF:-1,Telepacífico
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
@@ -239,7 +244,10 @@ https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg0
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
-#------------------------ 6060:45000
+#------------------------ 6060:45000:8800:8000
+
+#EXTINF:-1,Sun Channel
+http://181.78.105.146:8800/play/a023
 
 #EXTINF:-1,Cine Familiar  HD
 http://181.78.23.26:45000/play/a03u
@@ -265,14 +273,41 @@ http://181.78.105.146:6060/play/a006/index.m3u8
 #EXTINF:-1,ESPN
 http://181.78.105.146:6060/play/a036/index.m3u8
 
+#EXTINF:-1,ESPN HD
+http://177.53.155.236:8000/play/a00l/index.m3u8
+
 #EXTINF:-1,ESPN 2
 http://181.78.105.146:6060/play/a037/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://168.181.122.234:8000/play/a040/index.m3u8
 
 #EXTINF:-1,ESPN 3
 http://181.78.105.146:6060/play/a00x/index.m3u8
 
+#EXTINF:-1,ESPN 3 (1)
+http://181.78.105.146:8800/play/a025
+
+#EXTINF:-1,ESPN 3 HD
+http://168.181.122.234:8000/play/a041/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://181.78.105.146:8800/play/a08p
+
+#EXTINF:-1,ESPN 4 HD
+http://177.53.155.236:8000/play/a0c2/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD (1)
+http://168.181.122.234:8000/play/a03y/index.m3u8
+
+#EXTINF:-1,ESPN 5 HD
+http://200.115.120.1:8000/play/ca119/index.m3u8
+
 #EXTINF:-1,ESPN 6
 http://181.78.105.146:6060/play/a01v/index.m3u8
+
+#EXTINF:-1,ESPN 6 (1)
+http://168.181.122.234:8000/play/a03x/index.m3u8
 
 #EXTINF:-1,TyC Sports
 http://181.78.23.26:45000/play/a04m
@@ -280,9 +315,9 @@ http://181.78.23.26:45000/play/a04m
 #EXTINF:-1,TUDN HD
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1,ESPN 5 HD
-http://200.115.120.1:8000/play/ca119/index.m3u8
+
 #----------------------------------------------------------
+#EXTINF:-1,-^^^- End Signal List -^^^-
 
 #----------------------------SERVER2000---------------------------------#
 #EXTINF:0,ComedyC
