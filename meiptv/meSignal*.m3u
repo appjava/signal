@@ -471,64 +471,49 @@ http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
 #EXTINF:0, ------- IP190 -------
 --------------------------------
-#EXTINF:0 tvg-logo="https://i.imgur.com/jVg57p9.png",Cine Familiar
+#EXTINF:0,Cine Familiar
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/dVYCYt1.png",Cine Hispano
+#EXTINF:0,Cine Hispano
 http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
 
-#EXTINF:0 ,Cine Premium
+#EXTINF:0,Cine Premium
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1dWt5jI.png",Cinemax HD
+#EXTINF:0,Cinemax HD
 http://190.0.241.181:8000/play/a04p/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nuv4kk4.png",FX HD
+#EXTINF:0,FX HD
 http://190.0.241.181:8000/play/a02k/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png",Paramount HD
-http://190.0.241.181:8000/play/a01f/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4TaBISZ.png",Studio Universal HD
-http://190.0.241.181:8000/play/a01g/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/iiGco6R.png",TNT HD
+#EXTINF:0,TNT HD
 http://190.0.241.181:8000/play/a037/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/lG64AHb.png",UNIVERSAL CHANNEL HD
+#EXTINF:0,UNIVERSAL CHANNEL HD
 http://190.0.241.181:8000/play/a04r/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/DIHRgw6.png",Warner Channel HD
+#EXTINF:0,Warner Channel HD
 http://190.0.241.181:8000/play/a03d/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/bhzYiMF.png",Discovery H&H HD
+#EXTINF:0,Discovery H&H HD
 http://190.0.241.181:8000/play/a039/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuQAqGu.png",Discovery Theater HD
+#EXTINF:0,Discovery Theater HD
 http://190.0.241.181:8000/play/a02i/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/JCPPrvk.png",History 2 HD
-http://190.0.241.181:8000/play/a010/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/YZpufFE.png",History HD
+#EXTINF:0,History HD
 http://190.0.241.181:8000/play/a04k/index.m3u8
 
-#EXTINF:0 ,Cartoon Network HD
-http://190.0.241.181:8000/play/a00l/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_disney.jpg",Disney HD
-http://190.0.241.181:8000/play/a05q/index.m3u8
-
-#EXTINF:0 ,ESPN 2 HD
+#EXTINF:0,ESPN 2 HD
 http://190.0.241.181:8000/play/a06z/index.m3u8
 
-#EXTINF:0 ,ESPN 3 HD
+#EXTINF:0,ESPN 3 HD
 http://190.0.241.181:8000/play/a02e/index.m3u8
 
-#EXTINF:0 ,ESPN 4 HD
+#EXTINF:0,ESPN 4 HD
 http://190.0.241.181:8000/play/a033/index.m3u8
 
-#EXTINF:0 ,ESPN HD
+#EXTINF:0,ESPN HD
 http://190.0.241.181:8000/play/a03k/index.m3u8
 
 #-------------------------- server 6060 -------------
