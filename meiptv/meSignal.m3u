@@ -20,7 +20,9 @@ http://181.78.23.26:45000/play/a02v
 http://200.115.120.1:8000/play/ca075/index.m3u8
 
 #EXTINF:-1,Telepacífico
-https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
+https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1,Telepacífico
+#https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
@@ -314,8 +316,6 @@ http://181.78.23.26:45000/play/a04m
 #EXTINF:-1,TUDN HD
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1,Caracol Youtube
-https://www.youtube.com/watch?v=EDmDGPzZ9mQ
 
 
 
