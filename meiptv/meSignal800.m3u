@@ -32,7 +32,7 @@ http://177.53.155.236:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium HD (PerX1)" tvg-logo="https://i.imgur.com/b68qMHr.png" group-title="Verch" group-title="Deportes",ESPN Premium HD (PerX1)
 http://177.53.155.236:8000/play/a0c4/index.m3u8
 
-#----------- ip200
+#----------- IP200
 
 #EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
 http://200.115.120.1:8000/play/ca075/index.m3u8
@@ -109,4 +109,84 @@ http://168.181.122.234:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts HD (Hon1)" tvg-logo="https://i.imgur.com/d8OIZ9s.png" group-title="Verch" group-title="Artes&Cultura",Film & Arts HD (Hon1)
 http://168.181.122.234:8000/play/a01v/index.m3u8
 
+#------- IP190
+#EXTINF:0 tvg-logo="https://i.imgur.com/jVg57p9.png",Cine Familiar
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/dVYCYt1.png",Cine Hispano
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
+
+#EXTINF:0 ,Cine Premium
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1dWt5jI.png",Cinemax HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a04p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Nuv4kk4.png",FX HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a02k/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png",Paramount HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a01f/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4TaBISZ.png",Studio Universal HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a01g/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/iiGco6R.png",TNT HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a037/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/lG64AHb.png",UNIVERSAL CHANNEL HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a04r/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DIHRgw6.png",Warner Channel HD
+#EXTGRP:Entretenimiento
+http://190.0.241.181:8000/play/a03d/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bhzYiMF.png",Discovery H&H HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a039/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuQAqGu.png",Discovery Theater HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a02i/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/JCPPrvk.png",History 2 HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a010/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YZpufFE.png",History HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a04k/index.m3u8
+
+#EXTINF:0 ,Cartoon Network HD
+#EXTGRP:Infantil
+http://190.0.241.181:8000/play/a00l/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_disney.jpg",Disney HD
+#EXTGRP:Infantil
+http://190.0.241.181:8000/play/a05q/index.m3u8
+
+#EXTINF:0 ,ESPN 2 HD
+#EXTGRP:Sports
+http://190.0.241.181:8000/play/a06z/index.m3u8
+
+#EXTINF:0 ,ESPN 3 HD
+#EXTGRP:Sports
+http://190.0.241.181:8000/play/a02e/index.m3u8
+
+#EXTINF:0 ,ESPN 4 HD
+#EXTGRP:Sports
+http://190.0.241.181:8000/play/a033/index.m3u8
+
+#EXTINF:0 ,ESPN HD
+#EXTGRP:Sports
+http://190.0.241.181:8000/play/a03k/index.m3u8
 
