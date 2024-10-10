@@ -239,7 +239,10 @@ https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg0
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
-#------------------------ 6060:45000
+#------------------------ 6060:45000:8800:8000
+
+#EXTINF:-1,Sun Channel
+http://181.78.105.146:8800/play/a023
 
 #EXTINF:-1,Cine Familiar  HD
 http://181.78.23.26:45000/play/a03u
@@ -271,6 +274,15 @@ http://181.78.105.146:6060/play/a037/index.m3u8
 #EXTINF:-1,ESPN 3
 http://181.78.105.146:6060/play/a00x/index.m3u8
 
+#EXTINF:-1,ESPN 3 (1)
+http://181.78.105.146:8800/play/a025
+
+#EXTINF:-1,ESPN 4
+http://181.78.105.146:8800/play/a08p
+
+#EXTINF:-1,ESPN 5 HD
+http://200.115.120.1:8000/play/ca119/index.m3u8
+
 #EXTINF:-1,ESPN 6
 http://181.78.105.146:6060/play/a01v/index.m3u8
 
@@ -280,5 +292,3 @@ http://181.78.23.26:45000/play/a04m
 #EXTINF:-1,TUDN HD
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1,ESPN 5 HD
-http://200.115.120.1:8000/play/ca119/index.m3u8
