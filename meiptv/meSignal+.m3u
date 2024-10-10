@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HBO (Col6)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Col6)
+http://177.93.46.163:8000/play/a01z
+
+#EXTINF:-1 tvg-id="HBO (Ven1)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Ven1)
+http://38.41.8.1:8000/play/a05u
+
+#EXTINF:-1 tvg-id="HBO Plus (Col6)" tvg-logo="https://i.imgur.com/aQYFelj.png" group-title="Verch" group-title="Pelis Premium",HBO Plus (Col6)
+http://177.93.46.163:8000/play/a00n
+
+#EXTINF:-1 tvg-id="HBO 2 (Col6)" tvg-logo="https://i.imgur.com/6Tc2QCT.png" group-title="Verch" group-title="Pelis Premium",HBO 2 (Col6)
+http://177.93.46.163:8000/play/a00m
+
+#EXTINF:-1 tvg-id="HBO Family (Col6)" tvg-logo="https://i.imgur.com/OUhwufO.png" group-title="Verch" group-title="Pelis Premium",HBO Family (Col6)
+http://177.93.46.163:8000/play/a00p
+
+#EXTINF:-1 tvg-id="HBO Xtreme (Col6)" tvg-logo="https://i.imgur.com/91tDp6m.png" group-title="Verch" group-title="Pelis Premium",HBO Xtreme (Col6)
+http://177.93.46.163:8000/play/a00o
+
+#EXTINF:-1 tvg-id="Cinemax (Ven1)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Ven1)
+http://38.41.8.1:8000/play/a05v
+
+

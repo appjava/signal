@@ -451,7 +451,13 @@ http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 #EXTINF:-1,HBF
 http://181.78.105.146:6060/play/a00k
 
-#EXTINF:-1,Para
-http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="Cine Familiar HD (Col0)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="Verch" group-title="Pelis",Cine Familiar  HD (Col0)
+http://181.78.23.26:45000/play/a03u
+
+#EXTINF:-1 tvg-id="Cine Hispano HD (Col0)" tvg-logo="https://i.imgur.com/WnK4e3E.png" group-title="Verch" group-title="Pelis",Cine Hispano HD (Col0)
+http://181.78.23.26:45000/play/a03v
+
+#EXTINF:-1 tvg-id="Cine Premium HD (Col0)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="Verch" group-title="Pelis",Cine Premium HD (Col0)
+http://181.78.23.26:45000/play/a03x
 
 

@@ -229,58 +229,17 @@ https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
 #https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
 #https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
 
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
+#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
+#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
-##EXTINF:-1,Accion RunTime
-#https://stream.ads.ottera.tv/cl/240906crdijcg5vj9tenr73nbg/854x480_1355200_2_f.m3u8?i=728_6125
-##EXTINF:-1,Clasico RunTime
-#https://stream.ads.ottera.tv/cl/240906crdili05vj9tenr75b3g/854x480_1355200_2_f.m3u8?i=728_3053
-##EXTINF:-1,Series RunTime
-#https://stream.ads.ottera.tv/cl/240906crdiuiblv6mv2epl8mbg/854x480_1355200_2_f.m3u8?i=728_6132
-##EXTINF:-1,Familia RunTime
-#https://stream.ads.ottera.tv/cl/240906crdj3eksuj8adi8mfgeg/854x480_1355200_2_f.m3u8?i=475_3528
+#EXTINF:-1 tvg-id="Cine Familiar HD (Col0)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="Verch" group-title="Pelis",Cine Familiar  HD (Col0)
+http://181.78.23.26:45000/play/a03u
 
-##EXTINF:-1,Clásicos Canela
-#https://stream.ads.ottera.tv/cl/240906crdivn3lv6mv2eplak0g/854x480_1355200_2_f.m3u8?i=475_652
-##EXTINF:-1,Kids Canela
-#https://stream.ads.ottera.tv/cl/240906crdj2ufso5oih0qcmm40/854x480_1355200_2_f.m3u8?i=475_5281
+#EXTINF:-1 tvg-id="Cine Hispano HD (Col0)" tvg-logo="https://i.imgur.com/WnK4e3E.png" group-title="Verch" group-title="Pelis",Cine Hispano HD (Col0)
+http://181.78.23.26:45000/play/a03v
 
-##EXTINF:-1,Animados
-#https://stream.ads.ottera.tv/cl/240906crdj5qn91d4vt6nsb10g/854x480_1355200_2_f.m3u8
+#EXTINF:-1 tvg-id="Cine Premium HD (Col0)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="Verch" group-title="Pelis",Cine Premium HD (Col0)
+http://181.78.23.26:45000/play/a03x
 
-#EXTINF:-1,BjgTjme Movies
-https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/2000.m3u8
-##EXTINF:-1,Stingray Naturescape
-#https://stream.ads.ottera.tv/cl/240906crdjgcfi8r3c49gfs7i0/1280x720_3291200_0_f.m3u8?i=475_3041
-##EXTINF:-1,BobRoss Art
-#https://amg01201-cinedigmenterta-bobross-plex-ad-xu.amagi.tv/playlist/amg01201-cinedigmenterta-bobross-plex/playlist.m3u8
-##EXTINF:-1,AFV videos
-#https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist_webvtt.m3u8
-##EXTINF:-1,AFV USA videos
-#https://linear-12-plex.frequency.stream/mt/plex/12/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1,MotorVision
-#https://stream.ads.ottera.tv/cl/240906crdn2vo5vj9tenrap100/854x480_1355200_3_f.m3u8?i=475_757
-https://stream.ads.ottera.tv/cl/240909crfn0ka2r59gtach2050/854x480_1355200_3_f.m3u8?i=475_757
-##EXTINF:-1,Familia Canela
-#https://stream.ads.ottera.tv/cl/240906crdn4mcsuj8adi8pnf50/854x480_1355200_2_f.m3u8?i=475_4310
-https://stream.ads.ottera.tv/cl/240909crfn1522r59gtach2dpg/854x480_1355200_2_f.m3u8?i=475_4310
-
-#EXTINF:-1,ZAZ TV
-https://stream-us-east-1.getpublica.com/cl/240909crfmvdg0du4ovlf4gdhg/196x144_230226_2_f.m3u8?i=513_1972
-
-#EXTINF:-1,W+
-https://8c5.pricesaskeloadsc.com/winplus/index.m3u8?token=a9e77c4b114921ddc7b6dde1e64571dbac63a574-6a-1728184146-1728148146
-
-#EXTINF:-1,DS1 op1
-https://yxdlc29tzq.la10tv.com/lb/dsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=78184a84e2cc59f8783f12fc7cdc38058d01d389-1a19e37d66ab3df0bc8b628095312a56-1728185429-1728149429
-#EXTINF:-1,DS1 op2
-https://bgvnzw5k.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=78184a84e2cc59f8783f12fc7cdc38058d01d389-1a19e37d66ab3df0bc8b628095312a56-1728185429-1728149429
-
-#EXTINF:-1,ESPN op1
-https://cdn8.en-vivo.info/hotflix/espn/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=d5e15044b1acf12b81fae7ce9336cba039da5e6f-1d7f6e3414c28a094272735e9ac9fd02-1728160956-1728150156
-#EXTINF:-1,ESPN op2
-https://cdn15.en-vivo.info/espn/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=d5e15044b1acf12b81fae7ce9336cba039da5e6f-1d7f6e3414c28a094272735e9ac9fd02-1728160956-1728150156
 
 
