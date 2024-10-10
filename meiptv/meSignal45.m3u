@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1,RCN
+http://181.78.23.26:45000/play/a02h
+
+#EXTINF:-1,A&E
+http://181.78.23.26:45000/play/a01m
+
+#EXTINF:-1 tvg-id="AXN (2) (Col0)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Col0)
+http://181.78.23.26:45000/play/a030
+
+#EXTINF:-1 tvg-id="City TV (Col0)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Col0)
+http://181.78.23.26:45000/play/a02v
+
+#EXTINF:-1 tvg-id="Life Time (2) HD (Col0)" tvg-logo="https://i.imgur.com/Vp1Snch.png" group-title="Verch" group-title="Entretenimiento",Life Time (2) HD (Col0)
+http://181.78.23.26:45000/play/a00e
+
+#EXTINF:-1 tvg-id="Sony Channel (2) (Col0)" tvg-logo="https://i.imgur.com/Iqo5DgT.png" group-title="Verch" group-title="Entretenimiento",Sony Channel (2) (Col0)
+http://181.78.23.26:45000/play/a02z
+
+#EXTINF:-1 tvg-id="TLC (Col0)" tvg-logo="https://i.imgur.com/byUF1k4.png" group-title="Verch" group-title="Entretenimiento",TLC (Col0)
+http://181.78.23.26:45000/play/a01o
+
+#EXTINF:-1 tvg-id="Warner (3) (Col0)" tvg-logo="https://i.imgur.com/v281jDt.png" group-title="Verch" group-title="Entretenimiento",Warner (3) (Col0)
+http://181.78.23.26:45000/play/a01e
+
+#EXTINF:-1 tvg-id="Cine Canal (Col0)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Col0)
+http://181.78.23.26:45000/play/a006
+
+#EXTINF:-1 tvg-id="Cine Familiar HD (Col0)" tvg-logo="https://i.imgur.com/omfnzUJ.png" group-title="Verch" group-title="Pelis",Cine Familiar  HD (Col0)
+http://181.78.23.26:45000/play/a03u
+
+#EXTINF:-1 tvg-id="Cine Hispano HD (Col0)" tvg-logo="https://i.imgur.com/WnK4e3E.png" group-title="Verch" group-title="Pelis",Cine Hispano HD (Col0)
+http://181.78.23.26:45000/play/a03v
+
+#EXTINF:-1 tvg-id="Cine Premium HD (Col0)" tvg-logo="https://i.imgur.com/osN0JKc.png" group-title="Verch" group-title="Pelis",Cine Premium HD (Col0)
+http://181.78.23.26:45000/play/a03x
+
+#EXTINF:-1 tvg-id="TyC Sports (Col0)" tvg-logo="https://i.imgur.com/yY5hkSv.jpg" group-title="Verch" group-title="Deportes",TyC Sports (Col0)
+http://181.78.23.26:45000/play/a04m
+

@@ -8,6 +8,9 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
+#EXTINF:-1,Caracol INT
+http://6oclock.xyz/Pumpkin1/Pumpkin1/27978
+
 #EXTINF:-1,Telepacífico
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
 ##EXTINF:-1,Telepacífico (1080)
@@ -365,6 +368,7 @@ http://181.78.105.146:2000/play/a08i/index.m3u8
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:0,Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
+
 #EXTINF:0,AGROTENDENCIA
 http://181.78.105.146:2000/play/a08b/index.m3u8
 
@@ -443,17 +447,11 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 #EXTINF:0,A&E HD
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
-#EXTINF:-1,W+
-https://8c5.pricesaskeloadsc.com/winplus/index.m3u8?token=a9e77c4b114921ddc7b6dde1e64571dbac63a574-6a-1728184146-1728148146
 
-#EXTINF:-1,DS1 op1
-https://yxdlc29tzq.la10tv.com/lb/dsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=78184a84e2cc59f8783f12fc7cdc38058d01d389-1a19e37d66ab3df0bc8b628095312a56-1728185429-1728149429
-#EXTINF:-1,DS1 op2
-https://bgvnzw5k.la10tv.com/dsports/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=78184a84e2cc59f8783f12fc7cdc38058d01d389-1a19e37d66ab3df0bc8b628095312a56-1728185429-1728149429
+#EXTINF:-1,HBF
+http://181.78.105.146:6060/play/a00k
 
-#EXTINF:-1,ESPN op1
-https://cdn8.en-vivo.info/hotflix/espn/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=d5e15044b1acf12b81fae7ce9336cba039da5e6f-1d7f6e3414c28a094272735e9ac9fd02-1728160956-1728150156
-#EXTINF:-1,ESPN op2
-https://cdn15.en-vivo.info/espn/tracks-v1a1/mono.m3u8?remote=200.116.192.45&token=d5e15044b1acf12b81fae7ce9336cba039da5e6f-1d7f6e3414c28a094272735e9ac9fd02-1728160956-1728150156
+#EXTINF:-1,Para
+http://181.78.105.146:2000/play/a01s/index.m3u8
 
 
