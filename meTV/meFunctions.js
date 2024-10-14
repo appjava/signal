@@ -14,9 +14,9 @@ const cx = document.getElementById('cx');
 
 const ch = '';
 
-
 function changeCH(ch){
     if(Hls.isSupported()) {
+
 		var video = document.getElementById('video');
 		var hls = new Hls();
 
@@ -82,6 +82,9 @@ function changeCH(ch){
         }
         else if(ch == "ch21"){
             ch = 'https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true';
+        }
+        else if(ch == "ch22"){
+            ch = 'http://181.78.105.146:6060/play/a02y/index.m3u8';
         }
         
 		hls.loadSource(ch);
