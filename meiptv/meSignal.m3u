@@ -279,5 +279,5 @@ http://177.53.155.236:8000/play/a00l/index.m3u8
 #EXTINF:-1,ESPN HD (190)
 http://190.0.241.181:8000/play/a03k/index.m3u8
 
-
-
+#EXTINF:-1,ESPN2 HD (190)
+http://190.0.241.181:8000/play/a06z/index.m3u8
