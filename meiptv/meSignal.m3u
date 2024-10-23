@@ -273,11 +273,51 @@ http://181.78.105.146:6060/play/a03z/index.m3u8
 #EXTINF:-1,HGD
 http://181.78.105.146:6060/play/a006/index.m3u8
 
-#EXTINF:-1,ESPN HD (177)
+#EXTINF:-1,ESPN
+http://181.78.105.146:6060/play/a036/index.m3u8
+
+#EXTINF:-1,ESPN HD
 http://177.53.155.236:8000/play/a00l/index.m3u8
 
-#EXTINF:-1,ESPN HD (190)
-http://190.0.241.181:8000/play/a03k/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.105.146:6060/play/a037/index.m3u8
 
-#EXTINF:-1,ESPN2 HD (190)
-http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://168.181.122.234:8000/play/a040/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://181.78.105.146:6060/play/a00x/index.m3u8
+
+#EXTINF:-1,ESPN 3 (1)
+http://181.78.105.146:8800/play/a025
+
+#EXTINF:-1,ESPN 3 HD
+http://168.181.122.234:8000/play/a041/index.m3u8
+
+#EXTINF:-1,ESPN 4
+http://181.78.105.146:8800/play/a08p
+
+#EXTINF:-1,ESPN 4 HD
+http://177.53.155.236:8000/play/a0c2/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD (1)
+http://168.181.122.234:8000/play/a03y/index.m3u8
+
+#EXTINF:-1,ESPN 5 HD
+http://200.115.120.1:8000/play/ca119/index.m3u8
+
+#EXTINF:-1,ESPN 6
+http://181.78.105.146:6060/play/a01v/index.m3u8
+
+#EXTINF:-1,ESPN 6 (1)
+http://168.181.122.234:8000/play/a03x/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://181.78.23.26:45000/play/a04m
+
+#EXTINF:-1,TUDN HD
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+
+
+
