@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,WIN+
+https://off2.jismhaitokia.com:999/hls/wsmkmlfeed120.m3u8?md5=WKM6PWV3qso-Qu07K8fKhg&expires=1729734471
 #EXTINF:0,------ START SIGNAL ------
 ----------------------------------------
 #-------------- TDT ----------------------
