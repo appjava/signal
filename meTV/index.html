@@ -1,59 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="stylesheet" href="meDesign.css" >
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <meta http-equiv="Access-Control-Allow-Origin" content="*" />-->
+  <link rel="stylesheet" href="meDesign.css" >
 	<link rel="shortcut icon" href="favicon.ico">
-	<title>meSignal</title>
-
+	<title>meTV</title>
+  <script src="meCHs.js"></script>
 </head>
 <body>
-  
   <div class="video">
+    <span id="labelTop" class="label"></span>
     <div class="selection">
-      <!--<label for="channel-select">Choose Channel</label>-->
-      <select name="channels" id="channel-select" onchange="played()">
-        <option value="">Select Channel</option>
-        <option value="ch2">Canal Uno</option>
-        <option value="ch11">Señal Colombia</option>
-        <option value="ch3">DW</option>
-        <option value="ch18">France24</option>
-        <option value="ch4">Investigación</option>
-        <option value="ch9">Smithsonian</option>
-        <option value="ch20">Ciencia</option>
-        <option value="ch7">Geek</option>
-        <option value="ch19">Brightside Español</option>
-        <option value="ch10">ZAZ</option>
-        <option value="ch5">Anhqv</option>
-        <option value="ch1">Millan</option>
-        <option value="ch8">MacGyver</option>
-        <option value="ch13">SharkTank</option>
-        <option value="ch17">PowerNation</option>
-        <option value="ch21">Ultratumba</option>
-        <option value="ch12">AMC</option>
-        <option value="ch6">SonyCine</option>
-        <option value="ch14">Premiere</option>
-        <option value="ch15">Adrenalina</option>
-        <option value="ch16">PopCorn</option>
-        <option value="ch22">Warner</option>
-      </select>
+      <button id="btnLoad" class="btn" onclick="loadMeCHs()">+</button>
+      <select name="channels" id="channel-select" onchange="played()"></select>
+      <button id="btnDel" class="btn" onclick="delCH()">X</button>
     </div>
     <fieldset>
-      <!--<legend id="live">Live</legend>>-->
-      <video id="video" controls poster="meSignal.png" crossOrigin="anonymous"></video>
-      
-      <a href="index.html">Back Home</a>
-
+        <video id="video" poster="meSignal.png" playsinline controls></video>
     </fieldset>
+    <section class="testArea">
+      <input class="input" id="inCh" type="text" placeholder="https:// .m3u or .mp4" value=""/>
+      <button id="btnTest" class="btn" onclick="testCH()">Test</button>
+    </section>
+    <section class="testArea">
+      <input class="input" id="nameCh" type="text" placeholder="Streaming Name" value=""/>
+      <button id="btnAdd" class="btn" onclick="addCH()">Add</button>
+    </section>
+    <span id="labelTest" class="label"></span>
     
   </div>
 
   <script src="meFunctions.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/media-chrome@4/+esm"></script>
   
-
-
 </body>
 </html>
