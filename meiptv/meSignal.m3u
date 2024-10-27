@@ -283,6 +283,8 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 #EXTINF:0, LIVE
 https://d6.jisdeshmaiganga.com:999/hls/wsmkmlfeed113.m3u8?md5=AEvw9dspJ8U3nZ-rI8W31g&expires=1730053278
 
+#EXTINF:0, LIVE 2
+https://d5.jisdeshmaiganga.com:999/hls/wsmkmlfeed81.m3u8?md5=wO2jXqZFdcP8L7Hrw0_TUQ&expires=1730053612
 #----------------------------------------------------------
 
 
