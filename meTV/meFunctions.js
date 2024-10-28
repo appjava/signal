@@ -8,15 +8,33 @@ var localCHs = JSON.parse(localStorage.getItem('localCHs')) || [{
 }];
 if(localCHs.length < 2){
     document.getElementById('btnLoad').style.display = "block";
+    document.getElementById('btnDown').style.display = "none";
     channels = localCHs;
  }else{
     channels = JSON.parse(localStorage.getItem('localCHs'));
+    document.getElementById('btnDown').style.display = "block";
  }
 
- function loadMeCHs(){
+function downCHs() {
+    
+    const originalData = channels;
+    
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([JSON.stringify(originalData, null, 2)], {
+        type: "text/plain"
+      }));
+      a.setAttribute("download", "data.txt");
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    console.log("Downloaded File");
+}
+ 
+function loadMeCHs(){
     localStorage.setItem('localCHs', JSON.stringify(meChannels));
     channels = JSON.parse(localStorage.getItem('localCHs'));
     document.getElementById('btnLoad').style.display = "none";
+    document.getElementById('btnDown').style.display = "block";
     document.getElementById('labelTop').innerHTML = " Deafult Channels Added";
     selectCH(); 
  }
@@ -57,6 +75,7 @@ function delCH(){
     let localCurrent = JSON.parse(localStorage.getItem('localCHs'));
     if (localCurrent.length < 2){
         document.getElementById('btnLoad').style.display = "block";
+        document.getElementById('btnDown').style.display = "none";
     }
 }
 function addCH(){
@@ -73,6 +92,7 @@ function addCH(){
     document.getElementById("nameCh").value = "";
     document.getElementById('inCh').value = "";
     document.getElementById('btnLoad').style.display = "none";
+    document.getElementById('btnDown').style.display = "block";
     selectCH();
     ch = "";
     playCH(ch);
