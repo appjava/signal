@@ -263,6 +263,12 @@ http://181.78.23.26:45000/play/a03v
 #EXTINF:-1,Cine Premium HD
 http://181.78.23.26:45000/play/a03x
 
+#EXTINF:-1,Xtrema Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1,Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
 #EXTINF:-1,DHE
 http://181.78.105.146:6060/play/a00d/index.m3u8
 
