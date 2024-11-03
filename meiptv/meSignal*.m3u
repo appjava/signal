@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:0,------ START SIGNAL ------
-https://videos.pexels.com/video-files/5897817/5897817-uhd_2560_1440_25fps.mp4
-#https://cdn.pixabay.com/video/2023/11/11/188742-883619742_tiny.mp4
+#https://videos.pexels.com/video-files/5897817/5897817-uhd_2560_1440_25fps.mp4
+https://cdn.pixabay.com/video/2023/11/11/188742-883619742_tiny.mp4
 #https://cdn.pixabay.com/video/2024/06/14/216761_tiny.mp4
 #https://cdn.pixabay.com/video/2023/12/10/192779-893446888_tiny.mp4
 #https://cdn.pixabay.com/video/2022/07/16/124333-730771399_tiny.mp4
@@ -291,10 +291,10 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 #EXTINF:0,------ END SIGNAL ------
---------------------------------------
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #----------------------------SERVER2000---------------------------------#
 #EXTINF:0,------ port2000
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:0,ComedyC
 http://181.78.105.146:2000/play/a04a/index.m3u8
 #EXTINF:0,CartoonNetwork
@@ -389,7 +389,7 @@ http://200.60.124.19:29000/play/a01e/index.m3u8
 
 #---------------------- IPTVlatino -----------
 #EXTINF:-0,--------------- IPTVlatino
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1,WB
 http://168.197.196.98:9981/stream/channelid/757968981?profile=pass
 #EXTINF:-1,Universal HD
@@ -441,7 +441,7 @@ http://168.197.196.98:9981/stream/channelid/1978046079?profile=pass
 http://168.197.196.98:9981/stream/channelid/480984636?profile=pass
 
 #EXTINF:-0,--------------- IP190
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:0,Cine Familiar
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
 
@@ -489,7 +489,7 @@ http://190.0.241.181:8000/play/a03k/index.m3u8
 
 #-------------------------- server 6060 -------------
 #EXTINF:-0,--------------- port6060
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="AXN (2) (Gua2)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Gua2)
 http://181.78.105.146:6060/play/a01y/index.m3u8
 
@@ -583,7 +583,7 @@ http://181.78.105.146:6060/play/a01v/index.m3u8
 
 #-------------------------- server 45000 -------------
 #EXTINF:-0,--------------- port45000
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
 
@@ -625,7 +625,7 @@ http://181.78.23.26:45000/play/a04m
 
 #-------------------------- server ip200 : port8000 -------------
 #EXTINF:-0,--------------- IP200:8000
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
 http://200.115.120.1:8000/play/ca075/index.m3u8
 
@@ -652,7 +652,7 @@ http://200.115.120.1:8000/play/ca119/index.m3u8
 
 #-------------------------- server ip177 & ip38 : port8000 -------------
 #EXTINF:-0,--------------- IP38 - IP177 
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="HBO (Col6)" tvg-logo="https://i.imgur.com/zAwhNyW.png" group-title="Verch" group-title="Pelis Premium",HBO (Col6)
 http://177.93.46.163:8000/play/a01z
 
@@ -676,7 +676,7 @@ http://38.41.8.1:8000/play/a05v
 
 #-------------------------- server 8800 -------------
 #EXTINF:-0,--------------- IP181
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="AXN (2) (Gua3)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Gua3)
 http://181.78.105.146:8800/play/a049
 
@@ -739,7 +739,7 @@ http://181.78.105.146:8800/play/a06l
 
 #-------------- SERVERS 8000 ----------------------
 #EXTINF:-0,--------------- IP177
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="TNT HD (PerX1)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT HD (PerX1)
 http://177.53.155.236:8000/play/a08t/index.m3u8
 
@@ -771,7 +771,7 @@ http://177.53.155.236:8000/play/a061/index.m3u8
 http://177.53.155.236:8000/play/a0c4/index.m3u8
 
 #EXTINF:-0,--------------- IP200
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
 http://200.115.120.1:8000/play/ca075/index.m3u8
 
@@ -798,7 +798,7 @@ http://200.115.120.1:8000/play/ca119/index.m3u8
 
 
 #EXTINF:-0,--------------- IP179
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="Canal RCN (Col2)" tvg-logo="https://i.imgur.com/b8cYPi1.png" group-title="Verch" group-title="General",Canal RCN (Col2)
 http://179.189.222.226:8000/play/ch59
 
@@ -821,7 +821,7 @@ http://179.189.222.226:8000/play/ch46
 http://179.189.222.226:8000/play/ch47
 
 #EXTINF:-0,--------------- IP168
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1 tvg-id="ESPN 2 HD (1)(Hon1)" tvg-logo="https://i.imgur.com/prk8QXO.png" group-title="Verch" group-title="Deportes",ESPN 2 HD (1)(Hon1)
 http://168.181.122.234:8000/play/a040/index.m3u8
 
@@ -851,7 +851,7 @@ http://168.181.122.234:8000/play/a01v/index.m3u8
 
 
 #EXTINF:-0,--------------- IP207
----
+https://cdn.pixabay.com/video/2023/07/08/170655-843752693_tiny.mp4
 #EXTINF:-1,A&E HD
 http://207.248.3.81:8081/play/a0eh
 #EXTINF:-1,AMC HD
