@@ -282,7 +282,7 @@ http://190.0.241.181:8000/play/a03k/index.m3u8
 #EXTINF:0,ESPN 2 HD (190)
 http://190.0.241.181:8000/play/a06z/index.m3u8
 
-#EXTINF:0,Live
+#EXTINF:0,LIVE
 #https://off7.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=SLuJLbbVxoz_spyhByq1cA&expires=1731379626
 https://off8.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=1SLTPU-K_HTNdzvMkhVaSQ&expires=1731386916
 #----------------------------------------------------------
