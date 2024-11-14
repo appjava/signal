@@ -37,7 +37,18 @@ function downCHs() {
     a.href = URL.createObjectURL(new Blob([JSON.stringify(originalData, null, 2)], {
         type: "text/plain"
     }));
-    a.setAttribute("download", "data.txt");
+    
+    if (channels[0].name == "Select Channel"){
+        console.log("Save Channels");
+        a.setAttribute("download", "chs.txt");
+    }else if (channels[0].name == "Select Movie"){
+        console.log("Save Movies");
+        a.setAttribute("download", "movs.txt");
+    }else{
+        console.log("Save Data File")
+        a.setAttribute("download", "data.txt");
+    }
+
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
