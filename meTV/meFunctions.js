@@ -4,7 +4,7 @@ var video = document.getElementById('video');
 var channels = [];
 var localCHs = JSON.parse(localStorage.getItem('localCHs')) || [{
     id:     "",
-    name:   "<=== Load Something",
+    name:   "Load Something",
     link:   "#",
 }];
 
@@ -125,7 +125,7 @@ function delCH(){
         document.getElementById('btnDown').style.display = "none";
         localCHs = [{
             id:     "",
-            name:   "<=== Load Something",
+            name:   "Load Something",
             link:   "#",
         }];
         channels = localCHs;
