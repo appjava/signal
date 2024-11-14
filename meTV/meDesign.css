@@ -4,14 +4,10 @@
 	box-sizing: border-box;
 }
 body {
-	display: grid;
-	grid-template-columns: repeat(4, 210px);
-	column-gap: 24px;
-	row-gap: 15px;
 	justify-content: center;
 	margin-bottom: 9px;
 	margin-top: 12px;
-	background: black;
+	background: #000000;
 	color: white;
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	-ms-overflow-style: scrollbar;
@@ -35,9 +31,9 @@ fieldset{
 	border-radius: 6px;
 }
 .video{
-	width: 910px;
+	width: 1140px;
 	border: 1px none red;
-	margin-top: 15px;
+	margin: 0 auto;
 }
 video{
 	width: 100%;
@@ -55,8 +51,8 @@ video{
 	flex-direction: row;
 	width: 95%;
 	margin: 0px auto;
-	border: none;
 	justify-content: center;
+	border: none;
 	-webkit-app-region: no-drag;
 }
 .selection select{
@@ -65,14 +61,13 @@ video{
 	border: 1px dashed #212529;
 	border-radius: 6px 6px 6px 6px;
 	font-size: 12px;
-	margin-bottom: 1px;
 	padding: 6px;
-	background-color: #121212;
+	background: #212529;
 	color: white;
 	text-transform: uppercase;
 }
 .testArea{
-	width: 95%;
+	width: 99%;
 	margin: 0 auto;
 	display: flex;
 	flex-direction: row;
@@ -109,7 +104,7 @@ video{
 	height: auto;
 	padding: unset;
 	margin-left: 0px;
-	background: #121212;
+	background: gray;
 	border: 1px none gray;
 	display: none;
 }
@@ -120,22 +115,32 @@ video{
 #labelTest{
 	margin-top: 6px;
 }
+.carga, .descarga{
+	display: flex;
+	width: auto;
+	margin: 0 3px;
+	gap: 3px;
+}
+@media screen and (max-width: 1200px){
 
-@media screen and (max-width: 900px){
-	body {
-		grid-template-columns: repeat(2, 240px);
-	}
 	.video{
-		width: 500px;
+		width: 900px;
+	}
+	.selection select{
+		width: 600px;
+	}
+}
+@media screen and (max-width: 900px){
+
+	.video{
+		width: 600px;
 	}
 	.selection select{
 		width: 300px;
 	}
 }
 @media screen and (max-width: 600px){
-	body {
-		grid-template-columns: repeat(1, 300px);
-	}
+
 	.video{
 		width: 300px;
 	}
@@ -149,12 +154,17 @@ video{
 	.selection select {
 		width: 100%;
 		height: 30px;
-		color: yellow;
+		color: white;
+		background: gray;
+		border: none;
 	}
 	#btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown {
 		width: 100%;
 		height: 30px;
 		margin-left: 0px;
+		background: #212529;
 	}
-	
+	.carga, .descarga{
+		width: 100%;
+	}
 }

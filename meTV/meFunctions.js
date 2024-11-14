@@ -33,26 +33,17 @@ function downCHs() {
     
     const originalData = channels;
     
-      const a = document.createElement("a");
-      a.href = URL.createObjectURL(new Blob([JSON.stringify(originalData, null, 2)], {
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([JSON.stringify(originalData, null, 2)], {
         type: "text/plain"
-      }));
-      a.setAttribute("download", "data.txt");
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
+    }));
+    a.setAttribute("download", "data.txt");
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
     console.log("Downloaded File");
+    document.getElementById('labelTest').innerHTML = "";
 }
- 
-/*function loadMeCHs(){
-    document.getElementById('labelTop').innerHTML = "Channels Added";
-    localStorage.setItem('localCHs', JSON.stringify(meChannels));
-    channels = JSON.parse(localStorage.getItem('localCHs'));
-    //document.getElementById('btnLoad').style.display = "none";
-    document.getElementById('btnDown').style.display = "block";
-    
-    selectCH(); 
- }*/
 
 function upMovs(){
     document.getElementById('labelTop').innerHTML = "Movies Added";
@@ -63,6 +54,7 @@ function upMovs(){
         channels = JSON.parse(localStorage.getItem('localCHs'));
         selectCH();
         document.getElementById('btnDown').style.display = "block";
+        document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
 }
 
@@ -75,6 +67,7 @@ function upChs(){
         channels = JSON.parse(localStorage.getItem('localCHs'));
         selectCH();
         document.getElementById('btnDown').style.display = "block";
+        document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
 }
 
