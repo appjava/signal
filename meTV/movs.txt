@@ -6,27 +6,27 @@
   },
   {
     "id": "ch14",
-    "name": "JOKER2",
+    "name": "Joker 2 sub",
     "link": "https://hw0h8bbspdso.pradoi.com/hls2/01/05309/qvnuizvqdcji_n/master.m3u8?t=dFKPNJXExS3SeMqji4AUSDy6PYKfEI9f3Eg7U-WJMqs&s=1731529470&e=129600&f=26549785&srv=fhdegfrgnsdsd&i=0.0&sp=500&p1=fhdegfrgnsdsd&p2=fhdegfrgnsdsd&asn=52468"
   },
   {
     "id": "ch15",
-    "name": "Hellboy2024",
+    "name": "Hellboy 2024 lat",
     "link": "https://6wyav2r9i6j.pradoi.com/hls2/01/05430/kqmcefegxj0f_n/master.m3u8?t=NEcE34u6cAXiYWtPGs9-yXjfyGgCckTWXxEPUhik5SQ&s=1731530918&e=129600&f=27154965&srv=fhdegfrgnsdsd&i=0.0&sp=500&p1=fhdegfrgnsdsd&p2=fhdegfrgnsdsd&asn=13489"
   },
   {
     "id": "ch16",
-    "name": "ApocalipsisZ",
+    "name": "Apocalipsis Z es",
     "link": "https://rfognbc0mhhj.pradoi.com/hls2/01/05352/igwn08kv19ni_n/master.m3u8?t=VvPKPyh6kPvgDcT3vNfRJBg1Tf97d12JkFBJ-xkmlLk&s=1731531723&e=129600&f=26760603&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=13489"
   },
   {
     "id": "ch17",
-    "name": "Smile2",
+    "name": "Smile 2 sub",
     "link": "https://x8oi6owwkjoewr.pradoi.com/hls2/01/05587/9bx3ojvqtaei_n/master.m3u8?t=XwgLtie6n3YSux7_HnwFJPZfyI_DMiDra7I98gjcH70&s=1731532174&e=129600&f=27938085&srv=u8c9c99juto&i=0.0&sp=500&p1=u8c9c99juto&p2=u8c9c99juto&asn=13489"
   },
   {
     "id": "ch18",
-    "name": "Blackberry2023",
+    "name": "Blackberry 2023 sub",
     "link": "https://mx9skjnui4es.pradoi.com/hls2/01/05048/ikhb891f4kkc_n/master.m3u8?t=L-PxqpjMrNEtwvuv-T6v5BbtQjkycge3okyT9W2K9eo&s=1731532808&e=129600&f=25241186&srv=pg8s50jw8kzp&i=0.0&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=52468"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "id": "ch20",
-    "name": "Un Lugar En Silencio",
+    "name": "Un Lugar En Silencio sub",
     "link": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04528/88ulzb7x9zal_n/master.m3u8?t=8uOqSXKvI3YxIozmhaRNFanaOHoeFnGAqgHm9ORCzn8&s=1731541369&e=129600&f=22642404&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=13489"
   },
   {
     "id": "ch21",
-    "name": "El Reino Del Planeta De Los Simios (2024)",
+    "name": "El Reino Del Planeta De Los Simios (2024) sub",
     "link": "https://euf5gy66awg8.pradoi.com/hls2/01/04336/0qk9wo537vcx_n/master.m3u8?t=NvKTZaM6kQaTYPQmV0rXLRqd_6a8Ox0ET2ac33C69U0&s=1731542634&e=129600&f=21681564&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=13489"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "id": "ch23",
-    "name": "En La Tierra De Santos Y Pecadores (2023)",
+    "name": "En La Tierra De Santos Y Pecadores (2023) sub",
     "link": "https://uo0v8yotr48r.pradoi.com/hls2/01/02429/83dz7zp3pexs_n/master.m3u8?t=eqKtSY8rWY6Kq6CvOzzkb-uDMb3sg-eKzot0gGEm_pE&s=1731543775&e=129600&f=12145526&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=13489"
   },
   {
     "id": "ch24",
-    "name": "El Exorcismo De Georgetown (2024)  sub",
+    "name": "El Exorcismo De Georgetown (2024) sub",
     "link": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04348/zbi7dhs9sya5_n/master.m3u8?t=pjfg4DzB-3RCug3yQlEBZml2f4Y0SidLJ2mSKukt5H0&s=1731544259&e=129600&f=24023319&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=52468"
   }
   ,
