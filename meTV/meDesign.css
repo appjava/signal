@@ -34,6 +34,7 @@ fieldset{
 	width: 1140px;
 	border: 1px none red;
 	margin: 0 auto;
+	height: 100vh;
 }
 video{
 	width: 100%;
