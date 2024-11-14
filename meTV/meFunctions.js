@@ -180,7 +180,7 @@ function changeCH(){
 }
 
 function playCH(ch){
-
+    //document.getElementById('labelTest').innerHTML = ch;
     if (ch.includes("mp4")){
         video.src = ch;
         video.play();
