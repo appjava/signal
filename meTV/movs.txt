@@ -59,4 +59,28 @@
     "name": "El Exorcismo De Georgetown (2024)  sub",
     "link": "https://ts09ruf2imyzcv.pradoi.com/hls2/01/04348/zbi7dhs9sya5_n/master.m3u8?t=pjfg4DzB-3RCug3yQlEBZml2f4Y0SidLJ2mSKukt5H0&s=1731544259&e=129600&f=24023319&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=52468"
   }
+  ,
+  {
+    "id": "ch25",
+    "name": "Inmaculada (2024) sub",
+    "link": "https://lu1r85hg8m.pradoi.com/hls2/01/04423/am1q95rnn3mq_n/master.m3u8?t=H72LMgbRqdObegztOXM1iVBmNiGr59hlmZp6F6jE4GM&s=1731544759&e=129600&f=22117270&srv=za19kpiaw6i&i=0.0&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=13489"
+  }
+  ,
+  {
+    "id": "ch26",
+    "name": "Intensa-Mente 2 lat",
+    "link": "https://i5m784legu1y.pradoi.com/hls2/01/04710/b132rbzrg2su_n/master.m3u8?t=LPrMlzZi4rWPMT0j7_x5HMco_9OydMngXlyzLxOFI84&s=1731545237&e=129600&f=23550877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=52468"
+  }
+  ,
+  {
+    "id": "ch27",
+    "name": "Fly Me To The Moon (2024) sub",
+    "link": "https://qvvpsd2sv7b7.pradoi.com/hls2/01/04675/mzembomv6g4w_n/master.m3u8?t=SSf07MfZkdy2Tujy6ZXkFgv1uJEGaJpSbgja2PUwIlk&s=1731545797&e=129600&f=23376675&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=52468"
+  },
+  {
+    "id": "ch28",
+    "name": "No Hables Con Extraños (2024) sub",
+    "link": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/05041/8m18k7hr0fkq_n/master.m3u8?t=Rmndj-laFtzIAs44Z7NwrbXKC5eD_u2k49W0LM3SSgw&s=1731546155&e=129600&f=25205167&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=52468"
+  }
 ]
+
