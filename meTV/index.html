@@ -13,13 +13,16 @@
   <div class="video">
     <span id="labelTop" class="label"></span>
     <div class="selection">
-      <button id="btnDown" class="btn" onclick="downCHs()">v</button>
-      <button id="btnLoad" class="btn" onclick="loadMeCHs()">+</button>
+      <button id="btnUpMovs" class="btn" onclick="upMovs()">Mov</button>
+      <button id="btnUpChs" class="btn" onclick="upChs()">Ch</button>
+      <button id="btnUp" class="btn" onclick="upSomething()">Up</button>
       <select name="channels" id="channel-select" onchange="played()"></select>
       <button id="btnDel" class="btn" onclick="delCH()">X</button>
+      <button id="btnDown" class="btn" onclick="downCHs()">Down</button>
+      
     </div>
     <fieldset>
-        <video id="video" poster="meSignal.png" playsinline controls></video>
+        <video id="video" poster="meSignal.png" playsinline controls loop></video>
     </fieldset>
     <section class="testArea">
       <input class="input" id="inCh" type="text" placeholder="https:// .m3u or .mp4" value=""/>

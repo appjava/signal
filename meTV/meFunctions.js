@@ -1,19 +1,33 @@
-console.log("Welcome You!")
+console.log("Welcome You!");
+
 var video = document.getElementById('video');
 var channels = [];
 var localCHs = JSON.parse(localStorage.getItem('localCHs')) || [{
     id:     "",
-    name:   "Channels",
+    name:   "<=== Load Something",
     link:   "#",
 }];
+
+function checkLocal(){
+
 if(localCHs.length < 2){
-    document.getElementById('btnLoad').style.display = "block";
+    document.getElementById('btnUpMovs').style.display = "block";
+    document.getElementById('btnUpChs').style.display = "block";
+    document.getElementById('btnUp').style.display = "none";
     document.getElementById('btnDown').style.display = "none";
+
     channels = localCHs;
  }else{
     channels = JSON.parse(localStorage.getItem('localCHs'));
     document.getElementById('btnDown').style.display = "block";
+    document.getElementById('btnUpMovs').style.display = "block";
+    document.getElementById('btnUpChs').style.display = "block";
+    document.getElementById('btnUp').style.display = "none";
+    
  }
+}
+
+checkLocal();
 
 function downCHs() {
     
@@ -30,16 +44,47 @@ function downCHs() {
     console.log("Downloaded File");
 }
  
-function loadMeCHs(){
+/*function loadMeCHs(){
+    document.getElementById('labelTop').innerHTML = "Channels Added";
     localStorage.setItem('localCHs', JSON.stringify(meChannels));
     channels = JSON.parse(localStorage.getItem('localCHs'));
-    document.getElementById('btnLoad').style.display = "none";
+    //document.getElementById('btnLoad').style.display = "none";
     document.getElementById('btnDown').style.display = "block";
-    document.getElementById('labelTop').innerHTML = " Deafult Channels Added";
+    
     selectCH(); 
- }
+ }*/
+
+function upMovs(){
+    document.getElementById('labelTop').innerHTML = "Movies Added";
+    fetch("https://appjava.github.io/signal/meiptv/movs.txt")
+    .then((res) => res.text())
+    .then((text) => {
+        localStorage.setItem('localCHs', text);
+        channels = JSON.parse(localStorage.getItem('localCHs'));
+        selectCH();
+        document.getElementById('btnDown').style.display = "block";
+    }).catch((e) => console.error(e));
+}
+
+function upChs(){
+    document.getElementById('labelTop').innerHTML = "Channels Added";
+    fetch("https://appjava.github.io/signal/meiptv/chs.txt")
+    .then((res) => res.text())
+    .then((text) => {
+        localStorage.setItem('localCHs', text);
+        channels = JSON.parse(localStorage.getItem('localCHs'));
+        selectCH();
+        document.getElementById('btnDown').style.display = "block";
+    }).catch((e) => console.error(e));
+}
+
+function upSomething(){
+    console.log("Loading Something ....");
+}
+
 let select = document.getElementById("channel-select");
 var ch = '';
+
 let selectCH = () => {
     document.getElementById('btnDel').style.display = "none";
     return (select.innerHTML = channels
@@ -51,6 +96,7 @@ let selectCH = () => {
     })
     .join(""));
 }
+
 function played(){
     const channelSelected = document.getElementById('channel-select').value;
     const ch = channelSelected;
@@ -63,7 +109,9 @@ function played(){
         //alert("Please select a channel")  
     }
 }
+
 selectCH();
+
 function delCH(){
     let search = channels.find((x) => x.id === ch);
     channels.splice(channels.indexOf(search), 1);
@@ -74,10 +122,19 @@ function delCH(){
     localStorage.setItem('localCHs', JSON.stringify(channels));
     let localCurrent = JSON.parse(localStorage.getItem('localCHs'));
     if (localCurrent.length < 2){
-        document.getElementById('btnLoad').style.display = "block";
         document.getElementById('btnDown').style.display = "none";
+        localCHs = [{
+            id:     "",
+            name:   "<=== Load Something",
+            link:   "#",
+        }];
+        channels = localCHs;
+        localStorage.setItem('localCHs', JSON.stringify(channels));
+        selectCH();
     }
+    
 }
+
 function addCH(){
     var lonChannels = channels.length;
     let chAdd = "ch" + (lonChannels + 1);
@@ -91,15 +148,16 @@ function addCH(){
     channels.push(chToAdd);
     document.getElementById("nameCh").value = "";
     document.getElementById('inCh').value = "";
-    document.getElementById('btnLoad').style.display = "none";
+    
     document.getElementById('btnDown').style.display = "block";
     selectCH();
     ch = "";
-    playCH(ch);
+    //playCH(ch);
     document.getElementById('labelTest').innerHTML = chName + " " + "Added";
     document.getElementById('labelTop').innerHTML = "";
     localStorage.setItem('localCHs', JSON.stringify(channels));
 }
+
 function testCH(){
     document.getElementById('labelTest').innerHTML = "Testing ...";
     document.getElementById('labelTop').innerHTML = "";
@@ -107,6 +165,7 @@ function testCH(){
     playCH(ch);
     selectCH();
 }
+
 function changeCH(){
     document.getElementById('inCh').value = "";
     document.getElementById('labelTest').innerHTML = "";
@@ -115,6 +174,7 @@ function changeCH(){
     let search = channels.find((x) => x.id === ch)
     playCH(search.link);
 }
+
 function playCH(ch){
 
     if (ch.includes("mp4")){

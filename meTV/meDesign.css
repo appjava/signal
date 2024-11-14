@@ -104,8 +104,8 @@ video{
 	cursor: pointer;
 	text-transform: uppercase;
 }
-#btnDel, #btnLoad, #btnDown{
-	width: 30px;
+#btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown{
+	width: 45px;
 	height: auto;
 	padding: unset;
 	margin-left: 6px;
