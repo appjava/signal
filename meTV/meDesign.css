@@ -60,7 +60,7 @@ video{
 	-webkit-app-region: no-drag;
 }
 .selection select{
-	width: 240px;
+	width: 600px;
 	text-align: center;
 	border: 1px dashed #212529;
 	border-radius: 6px 6px 6px 6px;
@@ -108,7 +108,7 @@ video{
 	width: 45px;
 	height: auto;
 	padding: unset;
-	margin-left: 6px;
+	margin-left: 0px;
 	background: #121212;
 	border: 1px none gray;
 	display: none;
@@ -128,6 +128,9 @@ video{
 	.video{
 		width: 500px;
 	}
+	.selection select{
+		width: 300px;
+	}
 }
 @media screen and (max-width: 600px){
 	body {
@@ -136,4 +139,22 @@ video{
 	.video{
 		width: 300px;
 	}
+	.selection{
+	background: none;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1px;
+	}
+	.selection select {
+		width: 100%;
+		height: 30px;
+		color: yellow;
+	}
+	#btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown {
+		width: 100%;
+		height: 30px;
+		margin-left: 0px;
+	}
+	
 }
