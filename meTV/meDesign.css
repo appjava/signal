@@ -78,13 +78,13 @@ video{
 	height: 30px;
 	border: 1px none gray;
 	border-radius: 6px;
-	background-color: black;
+	background-color: none;
 	-webkit-app-region: no-drag;
 }
 .input{
 	border-radius: 6px;
 	border: 1px dotted gray;
-	width: 75%;
+	width: 85%;
 	padding: 3px 6px;
 	background: black;
 	color: white;
