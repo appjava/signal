@@ -34,7 +34,7 @@ fieldset{
 	width: 1140px;
 	border: 1px none red;
 	margin: 0 auto;
-	height: 100vh;
+	
 }
 video{
 	width: 100%;
@@ -135,6 +135,7 @@ video{
 
 	.video{
 		width: 600px;
+		
 	}
 	.selection select{
 		width: 300px;
@@ -144,6 +145,7 @@ video{
 
 	.video{
 		width: 300px;
+		height: 100vh;
 	}
 	.selection{
 	background: none;
