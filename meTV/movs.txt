@@ -5,78 +5,13 @@
     "link": "#"
   },
   {
-    "id": "ch1",
-    "name": "Smile sub",
-    "link": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/05406/dfpu3lvr0u5e_n/master.m3u8?t=IYMmD-GYM9EoAhfsubDxDWDmCH9FdSEK1YMgdvJKRt8&s=1731711342&e=129600&f=27031951&srv=rcw6bat4y3dx8&i=0.0&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=13489"
-  },
-  {
-    "id": "ch2",
-    "name": "Smile2 sub",
-    "link": "https://wpr0m81kdo6m.pradoi.com/hls2/01/05587/9bx3ojvqtaei_n/master.m3u8?t=4TTtfaploh0cDPTDCHrcxTmlmxNYoRp0Y2BBUZlxdGs&s=1731711385&e=129600&f=27938085&srv=u8c9c99juto&i=0.0&sp=500&p1=u8c9c99juto&p2=u8c9c99juto&asn=13489"
+    "id": "ch17",
+    "name": "Mad Max: Más allá de la cúpula del trueno 1985 sub",
+    "link": "https://be7713.rcr82.waw05.cdn112.com/hls2/03/05236/quocnzksqesf_,x,o,.urlset/master.m3u8?t=5v0TLT3X75qKOtI_lwFUGhKJi8BSwqFOlJzNFcS-9zk&s=1731970527&e=10800&f=27858183&srv=31&asn=13489&sp=5500&p="
   },
   {
     "id": "ch3",
-    "name": "Oppenheimer sub",
-    "link": "https://r63hfpdmodtc.pradoi.com/hls2/01/02240/5xom2rp752v7_n/master.m3u8?t=VzkGb59WOIyCQA7-UfEXgXCJczffnLiuoIVbe_Tutuc&s=1731711476&e=129600&f=11201741&srv=vy7cie2tqwc2cgp&i=0.0&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=13489"
-  },
-  {
-    "id": "ch4",
-    "name": "Un Lugar En Silencio: Día Uno sub",
-    "link": "https://uk2y0xwy2xup0.pradoi.com/hls2/01/04528/88ulzb7x9zal_n/master.m3u8?t=h7O88zUItqcp8YQM5uxLSWmXEWZV-UGoLb_EAgSYBdU&s=1731711628&e=129600&f=22642404&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=13489"
-  },
-  {
-    "id": "ch5",
-    "name": " El Reino Del Planeta De Los Simios lat",
-    "link": "https://gyjudturdn.pradoi.com/hls2/01/04336/kfqw8uluja30_n/master.m3u8?t=pCYpfkhEcrqojWHliewbJd_yPqWOubi3QZRcCAijchs&s=1731711759&e=129600&f=21681565&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=13489"
-  },
-  {
-    "id": "ch6",
-    "name": " El Reino Del Planeta De Los Simios sub",
-    "link": "https://mx9skjnui4es.pradoi.com/hls2/01/04336/0qk9wo537vcx_n/master.m3u8?t=AxBUAiXe7jPjLFkwJUMXk0HbN53kjIWmStn3Yb_nkHw&s=1731711824&e=129600&f=21681564&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=13489"
-  },
-  {
-    "id": "ch7",
-    "name": "Un Detective Suelto En Hollywood sub",
-    "link": "https://sedrfmwrpjxatem5.pradoi.com/hls2/01/04290/qb9c7r7cs4et_n/master.m3u8?t=kKcX5Q7bJWXbOo04KKRuuWpN9djXLc76Chs6U9pssew&s=1731711920&e=129600&f=21452046&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=13489"
-  },
-  {
-    "id": "ch8",
-    "name": "En Tierra De Santos Y Pecadores sub",
-    "link": "https://lvvb9d6p7p.pradoi.com/hls2/01/02429/83dz7zp3pexs_n/master.m3u8?t=5XvD4DH-Au_D0WtBVb3EBmkzFpAag7etF1QzJcTq9OY&s=1731711980&e=129600&f=12145526&srv=0wnh534rdgf989&i=0.0&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=13489"
-  },
-  {
-    "id": "ch9",
-    "name": " El Exorcismo De Georgetown sub",
-    "link": "https://ye0r0rrinu.pradoi.com/hls2/01/04348/zbi7dhs9sya5_n/master.m3u8?t=ZExQWQYv2RbGbfC8EyKV-NeC9WOI3pCE59gP2sRYb-E&s=1731712050&e=129600&f=24023319&srv=81cjh64633yue&i=0.0&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=52468"
-  },
-  {
-    "id": "ch10",
-    "name": " Inmaculada sub",
-    "link": "https://lu1r85hg8m.pradoi.com/hls2/01/04423/am1q95rnn3mq_n/master.m3u8?t=Ou8uRvK_bGmpl9sxeGekKPo95Crk7GPsIXq4iyF8rng&s=1731712094&e=129600&f=22117270&srv=za19kpiaw6i&i=0.0&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=13489"
-  },
-  {
-    "id": "ch11",
-    "name": " Intensa-Mente 2 lat",
-    "link": "https://cyyroro04xrqr.pradoi.com/hls2/01/04710/b132rbzrg2su_n/master.m3u8?t=NVToaR0eTxOOeou4xoQ8PrnrUVpZYHueanZRLdTcn5s&s=1731712158&e=129600&f=23550877&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=52468"
-  },
-  {
-    "id": "ch12",
-    "name": "Fly Me To The Moon sub",
-    "link": "https://cxhkzbihnc.pradoi.com/hls2/01/04675/mzembomv6g4w_n/master.m3u8?t=Bz_2f8H-jqolAFgCVOc6T8kd5mwOiPS5JVY-dABug6I&s=1731712481&e=129600&f=23376675&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=52468"
-  },
-  {
-    "id": "ch13",
-    "name": "No Hables Con Extraños sub",
-    "link": "https://5nrdhdrayadkaqp2.pradoi.com/hls2/01/05041/8m18k7hr0fkq_n/master.m3u8?t=lijN0O_6oCKq6qGo2-W2tXipu97uteYK-JHWalvvHVc&s=1731712528&e=129600&f=25205167&srv=z13jtbat10fa85i&i=0.0&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=52468"
-  },
-  {
-    "id": "ch14",
-    "name": "Joker 2 sub",
-    "link": "https://hw0h8bbspdso.pradoi.com/hls2/01/05309/qvnuizvqdcji_n/master.m3u8?t=LNrGyoQZ1MV2W16moO-mqmjopnAT1s6eDjZUvoemfgo&s=1731712589&e=129600&f=26549785&srv=fhdegfrgnsdsd&i=0.0&sp=500&p1=fhdegfrgnsdsd&p2=fhdegfrgnsdsd&asn=13489"
-  },
-  {
-    "id": "ch15",
-    "name": "El Hoyo sub",
-    "link": "https://qpljyz39awcoenfd.pradoi.com/hls2/01/05063/rpdhkcbkh17f_n/master.m3u8?t=MKal6FI8QnzH1P5RN0R0C7LHuPSK9sSqko5dl6GPbjw&s=1731712647&e=129600&f=25316715&srv=551lgwlbaa5pe&i=0.0&sp=500&p1=551lgwlbaa5pe&p2=551lgwlbaa5pe&asn=52468"
+    "name": "Mad Max: Furia en el camino 2015 lat",
+    "link": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/03294/10gv684d7unj_,n,h,.urlset/master.m3u8?t=01ZKT7pzsyE1q7Rte41TDrm_tgKF0cMAzIYiWEAjz6Y&s=1731970933&e=129600&f=16470812&srv=xzshml0e7mx&i=0.0&sp=500&p1=xzshml0e7mx&p2=xzshml0e7mx&asn=13489"
   }
 ]
