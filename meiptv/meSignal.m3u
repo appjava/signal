@@ -285,5 +285,5 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,Caracol live
-https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/2ygezlWEQ_6aGp174wABOw/stream/3c11e996-b863-4feb-a206-ee201942f628:CBF2/master.m3u8?aid=589b1365f30bc52f54100dd8&uid=eIqiEjhII4sv7JPlsNDk2vqOPmXPD3RC&sid=sQwoL1muvnLZR9FSEMMFv9nhiCYwU6C7&pid=snrkvJlol49aiocRp1obVSviCq1T6kvT&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=3c11e996-b863-4feb-a206-ee201942f628%3ACBF2&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1732141658867&ot=i-eWqoOR-q1IU0fAgHeqXQ&proto=https&pz=us
+#EXTINF:0,Caracol LIVE
+https://mdstrm.com/live-stream-playlist/66915343b012c46a872eac44.m3u8?uid=eIqiEjhII4sv7JPlsNDk2vqOPmXPD3RC&sid=sQwoL1muvnLZR9FSEMMFv9nhiCYwU6C7&pid=15Qcb5ggxCneqwIxJisTaapom8DLNylk&an=screen&at=web-app&av=v6.0.84&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=977x550&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=df0d7257-233a-4966-a8f2-385cd6591a20:CHS
