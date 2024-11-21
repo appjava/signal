@@ -285,5 +285,5 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,Caracol LIVE
-https://mdstrm.com/live-stream-playlist/66915343b012c46a872eac44.m3u8?uid=eIqiEjhII4sv7JPlsNDk2vqOPmXPD3RC&sid=sQwoL1muvnLZR9FSEMMFv9nhiCYwU6C7&pid=15Qcb5ggxCneqwIxJisTaapom8DLNylk&an=screen&at=web-app&av=v6.0.84&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=977x550&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=df0d7257-233a-4966-a8f2-385cd6591a20:CHS
+#EXTINF:0,LIVE
+https://d3.jisdeshmaiganga.com:999/hls/winsportsplus.m3u8?md5=LoZiCILRjDDRjY2f3TKnkQ&expires=1732237939
