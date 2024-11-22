@@ -285,5 +285,5 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,LIVE
-https://d3.jisdeshmaiganga.com:999/hls/winsportsplus.m3u8?md5=LoZiCILRjDDRjY2f3TKnkQ&expires=1732237939
+#EXTINF:0,LIVE 2
+https://d2.jisdeshmaiganga.com:999/hls/winsportsplus.m3u8?md5=ckkt2YH6JxY8MmybPD5xzg&expires=1732245211
