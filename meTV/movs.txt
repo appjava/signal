@@ -5,13 +5,23 @@
     "link": "#"
   },
   {
-    "id": "ch17",
-    "name": "Mad Max: Más allá de la cúpula del trueno 1985 sub",
-    "link": "https://be7713.rcr82.waw05.cdn112.com/hls2/03/05236/quocnzksqesf_,x,o,.urlset/master.m3u8?t=5v0TLT3X75qKOtI_lwFUGhKJi8BSwqFOlJzNFcS-9zk&s=1731970527&e=10800&f=27858183&srv=31&asn=13489&sp=5500&p="
+    "id": "ch4",
+    "name": "Joker 2 Sub",
+    "link": "https://w17c7di8l43q.pradoi.com/hls2/01/05309/qvnuizvqdcji_n/master.m3u8?t=OA1olQ9k4S6H9-NGvn72YCWqt-wIYinf-aSMOaYqQzU&s=1732403277&e=129600&f=26549785&srv=rj9uehaz0ybig4&i=0.0&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=13489"
   },
   {
     "id": "ch3",
-    "name": "Mad Max: Furia en el camino 2015 lat",
-    "link": "https://cwfuommwagyrfcg6.pradoi.com/hls2/01/03294/10gv684d7unj_,n,h,.urlset/master.m3u8?t=01ZKT7pzsyE1q7Rte41TDrm_tgKF0cMAzIYiWEAjz6Y&s=1731970933&e=129600&f=16470812&srv=xzshml0e7mx&i=0.0&sp=500&p1=xzshml0e7mx&p2=xzshml0e7mx&asn=13489"
+    "name": "Smile 2 sub",
+    "link": "https://e9ccawf5esyyffhp.pradoi.com/hls2/01/06040/7f30lr17qbfg_n/master.m3u8?t=8nxawTyMql8P-6RWXQjzz4cTQQQqz2msg4urbF27cdw&s=1732403338&e=129600&f=30201594&srv=jtkd5kf4kett&i=0.0&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=13489"
+  },
+  {
+    "id": "ch4",
+    "name": "Un Lugar En Silencio: Día Uno sub",
+    "link": "https://vdgfzxrytoql.pradoi.com/hls2/01/04528/88ulzb7x9zal_n/master.m3u8?t=yt8jB_BBFMNbOCYLhRaJnWgDzHIhxungJGYwWo5d__o&s=1732403405&e=129600&f=22642404&srv=js4BwLKgfmTMJmVh&i=0.0&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=13489"
+  },
+  {
+    "id": "ch5",
+    "name": " El Reino Del Planeta De Los Simios sub",
+    "link": "https://r63hfpdmodtc.pradoi.com/hls2/01/04336/0qk9wo537vcx_n/master.m3u8?t=Ca-WBQaA1xoVNqVMLRCQ4BywsxATlA5CmEu_2kN5MSQ&s=1732403693&e=129600&f=21681564&srv=xcjcmoh7mtij&i=0.0&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=13489"
   }
 ]
