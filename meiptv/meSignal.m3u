@@ -285,5 +285,5 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,live WIN+
-https://off7.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=7tRpYEVFgam4xx4TTvKmbQ&expires=1732756392
+#EXTINF:0,live2 WIN+
+https://off2.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=rgQd4MiCUzHW9SW6ZjfgJw&expires=1732760346
