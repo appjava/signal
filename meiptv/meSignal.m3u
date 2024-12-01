@@ -285,5 +285,8 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,live2 WIN+
-https://off2.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=rgQd4MiCUzHW9SW6ZjfgJw&expires=1732760346
+#EXTINF:0,live op1
+https://cdn8.en-vivo.info/hotflix/espn/index.m3u8?token=60c8129e0c36e063bb94bc4ee0b6172d9d7da5db-3b4d16f23171e20c044b517e2ae08f92-1733083013-1733072213&remote=200.116.194.34
+
+#EXTINF:0,live op2
+https://cdn10.en-vivo.info/espn/tracks-v1a1/mono.m3u8?remote=200.116.194.34&token=60c8129e0c36e063bb94bc4ee0b6172d9d7da5db-3b4d16f23171e20c044b517e2ae08f92-1733083013-1733072213
