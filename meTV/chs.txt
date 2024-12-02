@@ -1,6 +1,6 @@
 [
   {
-    "id": "ch0",
+    "id": "",
     "name": "Select Channel",
     "link": "#"
   },
@@ -32,7 +32,7 @@
   {
     "id": "ch6",
     "name": "Millan",
-    "link": "http://200.115.120.1:8000/play/ca047/index.m3u8"
+    "link": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true"
   },
   {
     "id": "ch7",
