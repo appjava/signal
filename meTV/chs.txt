@@ -63,5 +63,5 @@
     "id": "ch12",
     "name": "Warner",
     "link": "http://200.115.120.1:8000/play/ca047/index.m3u8"
-  },
+  }
 ]
