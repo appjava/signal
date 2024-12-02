@@ -141,7 +141,7 @@ function delCH(){
 
 function addCH(){
     var lonChannels = channels.length;
-    let chAdd = "ch" + (lonChannels + 1);
+    let chAdd = "ch" + (lonChannels - 1);
     let chName = document.getElementById("nameCh").value;
     let linkCH = document.getElementById("inCh").value;
     var chToAdd = {
