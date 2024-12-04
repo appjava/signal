@@ -1,6 +1,6 @@
 [
   {
-    "id": "",
+    "id": "ch0",
     "name": "Select Channel",
     "link": "#"
   },
@@ -31,8 +31,8 @@
   },
   {
     "id": "ch6",
-    "name": "Millan",
-    "link": "http://200.115.120.1:8000/play/ca047/index.m3u8"
+    "name": "Encantdor de Perros",
+    "link": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true"
   },
   {
     "id": "ch7",
@@ -63,15 +63,5 @@
     "id": "ch12",
     "name": "Warner",
     "link": "http://200.115.120.1:8000/play/ca047/index.m3u8"
-  },
-  {
-    "id": "ch15",
-    "name": "RCN HD",
-    "link": "https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=G2lf2AsX7K5HweaxydCJ_Kx-zaUEfZv-nMtTjMZn4CcDXugA_WNgF6ix3OBnnPnoD3dpN03Mu3tPCa65u2eccsy89fJ05Yhhi4cvOlyg1fM&dmTs=386069&dmV1st=dfe5c1da-d31d-8267-1af3-e682e018bfbe"
-  },
-  {
-    "id": "ch16",
-    "name": "Caracol",
-    "link": "https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/2ygezlWEQ_6aGp174wABOw/stream/ab5be797-4fe4-43b1-b614-b4372175fd64:TUL/master.m3u8?aid=589b1365f30bc52f54100dd8&uid=vxJzJ9YwpeB2qGjpE1jBSJqiNm38f9bf&sid=Z1Q9N4mp7dWXHg8AnYLsziTUwDu9U8I9&pid=JvJCV4Ux2GwkTu47UehwajriFLuve6cB&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=ab5be797-4fe4-43b1-b614-b4372175fd64%3ATUL&es=co-e5-p-e-tu2.cdn.mdstrm.com&ote=1731704562519&ot=pq66o1X9wY4bMGEo0V2hjw&proto=https&pz=us"
   }
 ]
