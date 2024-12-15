@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0,//------INICIO!!------//
+#EXTINF:0,Welcome
 https://cdn.pixabay.com/video/2024/06/14/216761_tiny.mp4
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
