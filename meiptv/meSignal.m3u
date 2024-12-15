@@ -296,3 +296,7 @@ https://24a.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=84abe2c8c4c52
 https://jf2.naqsheala.com:999/hls/winsportsplus.m3u8?md5=xpUnxytU0S13I3_byLbLvw&expires=1734306596
 #EXTINF:0,WIN+
 https://jf2.naqsheala.com:999/hls/winsportsplus.m3u8?md5=fbE0nHZmdsIP3Pn7kuAalg&expires=1734310812
+#EXTINF:0,WIN plus
+https://cdn9.en-vivo.info/eventos1/tracks-v1a1/mono.m3u8?remote=200.116.194.34&token=52fc0871072e57882e4e2aed0029c1f4bc3cdff4-c915a1c016f78d30615a68c2cad8d75b-1734315153-1734304353
+#EXTINF:0,WIN mas
+https://cdn10.en-vivo.info/eventos1/tracks-v1a1/mono.m3u8?remote=191.95.51.160&token=4c5563310fbc4fedf475a35ae5aa61c358e959de-b1c8e8fed9494a5635e1696cae635f80-1734315479-1734304679
