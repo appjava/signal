@@ -321,8 +321,17 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,ESPN op1
+#EXTINF:0,ESPN
 https://24a.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=84abe2c8c4c52225bc374aa7158d4a6116fd7c7a-98-1734323913-1734287913
 
-#EXTINF:0,DAZN op1
+#EXTINF:0,DAZN1
 https://off8.jismhaitokia.com:999/hls/do30.m3u8?md5=y1Vo_Iux53noAS0-GSK5Bw&expires=1734296469
+
+#EXTINF:0,DAZN2
+https://off6.jismhaitokia.com:999/hls/do29.m3u8?md5=8QxgZiu_4teR4LF9oEmJ7A&expires=1734296837
+
+#EXTINF:0,Astro
+https://off2.jismhaitokia.com:999/hls/do33.m3u8?md5=bzwuoByOgNdZxzu03BCExQ&expires=1734296636
+
+#EXTINF:0,Sport360
+https://off2.jismhaitokia.com:999/hls/do28.m3u8?md5=4cqVSrI47cPtOHzf4hRMrw&expires=1734296743
