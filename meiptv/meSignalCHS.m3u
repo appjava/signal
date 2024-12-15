@@ -150,10 +150,21 @@ http://181.78.105.146:6060/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
 http://181.78.105.146:6060/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:2000/play/a017/index.m3u8
+http://181.78.105.146:2000/play/a017/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
 http://181.78.105.146:6060/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:2000/play/a00v/index.m3u8
+http://181.78.105.146:2000/play/a00v/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/HGTV.png" group-title="HGTV",http://181.78.105.146:6060/play/a006/index.m3u8
+http://181.78.105.146:6060/play/a006/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Natgeo.png" group-title="NATGEO",http://181.78.105.146:6060/play/a01t/index.m3u8
+http://181.78.105.146:6060/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Natgeo.png" group-title="NATGEO",http://181.78.105.146:2000/play/a01l/index.m3u8
+http://181.78.105.146:2000/play/a01l/index.m3u8
 
 
 ##EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-logo="" group-title="",
