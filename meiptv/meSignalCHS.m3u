@@ -130,6 +130,9 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AMC.png" group-title="AMC",http://181.78.105.146:6060/play/a051/index.m3u8
 http://181.78.105.146:6060/play/a051/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Film&Arts.png" group-title="FILM&ARTS",http://181.78.105.146:2000/play/a08i/index.m3u8
+http://181.78.105.146:2000/play/a08i/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dchannel.png" group-title="DISCOVERY",http://181.78.105.146:2000/play/a03x/index.m3u8
 http://181.78.105.146:2000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dchannel.png" group-title="DISCOVERY",http://181.78.105.146:6060/play/a032/index.m3u8
@@ -145,8 +148,10 @@ http://181.78.105.146:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dturbo.png" group-title="DISCOVERY",http://181.78.105.146:6060/play/a03z/index.m3u8
 http://181.78.105.146:6060/play/a03z/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
+http://181.78.105.146:6060/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
+http://181.78.105.146:6060/play/a034/index.m3u8
 
 
 
