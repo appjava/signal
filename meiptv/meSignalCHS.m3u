@@ -3,32 +3,32 @@
 #EXTINF:0,//------INICIO!!------//
 https://cdn.pixabay.com/video/2024/06/14/216761_tiny.mp4
 
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
 http://190.0.241.181:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id ="FX" tvg-name="FX" tv-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://181.78.105.146:6060/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://181.78.105.146:6060/play/a00q/index.m3u8
 http://181.78.105.146:6060/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id ="FX" tvg-name="FX" tv-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://200.115.120.1:8000/play/ca017/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18315/18315256.png?semt=ais_hybrid" group-title="FX",http://200.115.120.1:8000/play/ca017/index.m3u8
 http://200.115.120.1:8000/play/ca017/index.m3u8
 
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="WB",http://190.0.241.181:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/16026/16026392.png?semt=ais_hybrid" group-title="WB",http://190.0.241.181:8000/play/a03d/index.m3u8
 http://190.0.241.181:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/16026/16026392.png?semt=ais_hybrid" group-title="WB",http://181.78.105.146:6060/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/16026/16026392.png?semt=ais_hybrid" group-title="WB",http://181.78.105.146:6060/play/a02y/index.m3u8
 http://181.78.105.146:6060/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id ="WB" tvg-name="WB" tv-logo="https://cdn-icons-png.freepik.com/256/16026/16026392.png?semt=ais_hybrid" group-title="WB",http://200.115.120.1:8000/play/ca047/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/16026/16026392.png?semt=ais_hybrid" group-title="WB",http://200.115.120.1:8000/play/ca047/index.m3u8
 http://200.115.120.1:8000/play/ca047/index.m3u8
 
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://181.78.105.146:2000/play/a018/index.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://190.0.241.181:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://190.0.241.181:8000/play/a037/index.m3u8
 http://190.0.241.181:8000/play/a037/index.m3u8
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://181.78.105.146:6060/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://181.78.105.146:6060/play/a01z/index.m3u8
 http://181.78.105.146:6060/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id ="TNT" tvg-name="TNT" tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://177.53.155.236:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/256/18511/18511945.png?semt=ais_hybrid" group-title="TNT",http://177.53.155.236:8000/play/a08t/index.m3u8
 http://177.53.155.236:8000/play/a08t/index.m3u8
 
 
 
-##EXTINF:-1 tvg-id="" tvg-logo="" group-logo="" group-title="",
+##EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-logo="" group-title="",
 
