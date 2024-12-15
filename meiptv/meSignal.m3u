@@ -326,3 +326,5 @@ https://24a.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=84abe2c8c4c52
 
 #EXTINF:0,WIN
 https://jf2.naqsheala.com:999/hls/winsportsplus.m3u8?md5=xpUnxytU0S13I3_byLbLvw&expires=1734306596
+#EXTINF:0,WIN+
+https://jf2.naqsheala.com:999/hls/winsportsplus.m3u8?md5=fbE0nHZmdsIP3Pn7kuAalg&expires=1734310812
