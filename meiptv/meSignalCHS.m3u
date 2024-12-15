@@ -88,14 +88,10 @@ http://181.78.105.146:6060/play/a036/index.m3u8
 http://190.0.241.181:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN2",http://181.78.105.146:2000/play/a063/index.m3u8
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN2",http://190.0.241.181:8000/play/a06z/index.m3u8
-http://190.0.241.181:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN2",http://181.78.105.146:6060/play/a037/index.m3u8
 http://181.78.105.146:6060/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN2",http://177.53.155.236:8000/play/a07i/index.m3u8
 http://177.53.155.236:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN2",http://177.53.155.236:8000/play/a03d/index.m3u8
-http://177.53.155.236:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN3",http://200.60.124.19:29000/play/a02e/index.m3u8
 http://200.60.124.19:29000/play/a02e/index.m3u8
@@ -106,20 +102,33 @@ http://181.78.105.146:6060/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN3",http://177.53.155.236:8000/play/a052/index.m3u8
 http://177.53.155.236:8000/play/a052/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN5.png" group-title="ESPN5",http://200.115.120.1:8000/play/ca119/index.m3u8
-http://200.115.120.1:8000/play/ca119/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN5.png" group-title="ESPN5",http://177.53.155.236:8000/play/a0bg/index.m3u8
 http://177.53.155.236:8000/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN5.png" group-title="ESPN5",http://200.115.120.1:8000/play/ca119/index.m3u8
-http://200.115.120.1:8000/play/ca119/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN6",http://200.115.120.1:8000/play/ca119/index.m3u8
+http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN6",http://200.115.120.1:8000/play/ca119/index.m3u8
+http://200.115.120.1:8000/play/ca119/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN6",http://181.78.105.146:6060/play/a01v/index.m3u8
 http://181.78.105.146:6060/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN7.png" group-title="ESPN7",http://200.60.124.19:29000/play/a01e/index.m3u8
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/A&E.png" group-title="A&E",http://181.78.105.146:2000/play/a03f/index.m3u8
+http://181.78.105.146:2000/play/a03f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AXN.png" group-title="AXN",http://181.78.105.146:2000/play/a05y/index.m3u8
+http://181.78.105.146:2000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AXN.png" group-title="AXN",http://181.78.105.146:6060/play/a01y/index.m3u8
+http://181.78.105.146:6060/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AMC.png" group-title="AMC",https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AMC.png" group-title="AMC",http://181.78.105.146:6060/play/a051/index.m3u8
+http://181.78.105.146:6060/play/a051/index.m3u8
 
 ##EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-logo="" group-title="",
 
