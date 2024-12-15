@@ -42,9 +42,9 @@ http://200.115.120.1:8000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://200.115.120.1:8000/play/ca032/index.m3u8
 http://200.115.120.1:8000/play/ca032/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/.png" group-title="DHE",http://181.78.105.146:6060/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/DHE.png" group-title="DHE",http://181.78.105.146:6060/play/a00d/index.m3u8
 http://181.78.105.146:6060/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/.png" group-title="DHE",http://181.78.105.146:6060/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/DHE.png" group-title="DHE",http://181.78.105.146:6060/play/a00d/index.m3u8
 http://181.78.105.146:6060/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Paramount.png" group-title="PARAMOUNT",http://181.78.105.146:2000/play/a01s/index.m3u8
