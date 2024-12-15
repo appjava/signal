@@ -278,10 +278,10 @@ http://181.78.105.146:6060/play/a03z/index.m3u8
 #EXTINF:-1,FX
 http://181.78.105.146:6060/play/a00q/index.m3u8
 
-#EXTINF:-1,Sn
+#EXTINF:-1,Sony
 http://181.78.105.146:6060/play/a02x/index.m3u8
 
-#EXTINF:-1,St
+#EXTINF:-1,Star
 http://181.78.105.146:6060/play/a03y/index.m3u8
 
 #EXTINF:-1 ,WB
@@ -290,8 +290,22 @@ http://181.78.105.146:6060/play/a02y/index.m3u8
 #EXTINF:-1,AMC
 http://181.78.105.146:6060/play/a051/index.m3u8
 
-#EXTINF:-1,Cx
+#EXTINF:-1,Cinemax
 http://181.78.105.146:6060/play/a04a/index.m3u8
+
+#EXTINF:-1,Space
+http://181.78.105.146:6060/play/a01q/index.m3u8
+
+#EXTINF:-1,Studio
+http://181.78.105.146:6060/play/a04b/index.m3u8
+
+#EXTINF:-1,TNT
+http://181.78.105.146:6060/play/a01z/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://181.78.105.146:6060/play/a04c/index.m3u8
+
+
 
 #----------------------------
 
@@ -307,3 +321,5 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
+#EXTINF:0,Win+
+https://off3.jismhaitokia.com:999/hls/winsportsplus.m3u8?md5=ezBVAd2cOg88Pn2gdGoo8w&expires=1733362747
