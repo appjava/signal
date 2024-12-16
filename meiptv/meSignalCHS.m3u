@@ -4,7 +4,7 @@
 https://cdn.pixabay.com/video/2024/06/14/216761_tiny.mp4
 
 #--- FX
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://181.78.105.146:2000/play/a05z/index.m3u8
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
 http://190.0.241.181:8000/play/a02k/index.m3u8
@@ -42,8 +42,6 @@ http://181.78.105.146:6060/play/a01q/index.m3u8
 http://181.78.105.146:2000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://181.78.105.146:6060/play/a04c/index.m3u8
 http://181.78.105.146:6060/play/a04c/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://200.115.120.1:8000/play/ca032/index.m3u8
-http://200.115.120.1:8000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://200.115.120.1:8000/play/ca032/index.m3u8
 http://200.115.120.1:8000/play/ca032/index.m3u8
 
@@ -118,8 +116,6 @@ http://177.53.155.236:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",http://200.115.120.1:8000/play/ca119/index.m3u8
 http://200.115.120.1:8000/play/ca119/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",http://200.115.120.1:8000/play/ca119/index.m3u8
-http://200.115.120.1:8000/play/ca119/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",http://181.78.105.146:6060/play/a01v/index.m3u8
 http://181.78.105.146:6060/play/a01v/index.m3u8
 
@@ -170,8 +166,6 @@ http://181.78.105.146:6060/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:2000/play/a017/index.m3u8
 http://181.78.105.146:2000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
-http://181.78.105.146:6060/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:2000/play/a00v/index.m3u8
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
