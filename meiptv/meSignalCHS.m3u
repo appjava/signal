@@ -3,6 +3,7 @@
 #EXTINF:0,Welcome
 https://cdn.pixabay.com/video/2024/06/14/216761_tiny.mp4
 
+#--- FX
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
 http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://190.0.241.181:8000/play/a02k/index.m3u8
@@ -12,6 +13,7 @@ http://181.78.105.146:6060/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://200.115.120.1:8000/play/ca017/index.m3u8
 http://200.115.120.1:8000/play/ca017/index.m3u8
 
+#--- WB
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/WB.png" group-title="WB",http://190.0.241.181:8000/play/a03d/index.m3u8
 http://190.0.241.181:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/WB.png" group-title="WB",http://181.78.105.146:6060/play/a02y/index.m3u8
@@ -19,6 +21,7 @@ http://181.78.105.146:6060/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/WB.png" group-title="WB",http://200.115.120.1:8000/play/ca047/index.m3u8
 http://200.115.120.1:8000/play/ca047/index.m3u8
 
+#--- TNT
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/TNT.png" group-title="TNT",http://181.78.105.146:2000/play/a018/index.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/TNT.png" group-title="TNT",http://190.0.241.181:8000/play/a037/index.m3u8
@@ -28,11 +31,13 @@ http://181.78.105.146:6060/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/TNT.png" group-title="TNT",http://177.53.155.236:8000/play/a08t/index.m3u8
 http://177.53.155.236:8000/play/a08t/index.m3u8
 
+#--- SPACE
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Space.png" group-title="SPACE",http://181.78.105.146:2000/play/a04x/index.m3u8
 http://181.78.105.146:2000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Space.png" group-title="SPACE",http://181.78.105.146:6060/play/a01q/index.m3u8
 http://181.78.105.146:6060/play/a01q/index.m3u8
 
+#--- CINECANAL
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://181.78.105.146:2000/play/a04q/index.m3u8
 http://181.78.105.146:2000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://181.78.105.146:6060/play/a04c/index.m3u8
@@ -42,14 +47,17 @@ http://200.115.120.1:8000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinecanal.png" group-title="CINECANAL",http://200.115.120.1:8000/play/ca032/index.m3u8
 http://200.115.120.1:8000/play/ca032/index.m3u8
 
+#--- DHE
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/DHE.png" group-title="DHE",http://181.78.105.146:6060/play/a00d/index.m3u8
 http://181.78.105.146:6060/play/a00d/index.m3u8
 
+#--- PARAMOUNT
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Paramount.png" group-title="PARAMOUNT",http://181.78.105.146:2000/play/a01s/index.m3u8
 http://181.78.105.146:2000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Paramount.png" group-title="PARAMOUNT",http://168.181.122.234:8000/play/a031/index.m3u8
 http://168.181.122.234:8000/play/a031/index.m3u8
 
+#--- STUDIO
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Studio.png" group-title="STUDIO",http://181.78.105.146:2000/play/a04o/index.m3u8
 http://181.78.105.146:2000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Studio.png" group-title="STUDIO",http://181.78.105.146:6060/play/a04b/index.m3u8
@@ -57,6 +65,7 @@ http://181.78.105.146:6060/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Studio.png" group-title="STUDIO",http://168.181.122.234:8000/play/a03b/index.m3u8
 http://168.181.122.234:8000/play/a03b/index.m3u8
 
+#--- UNIVERSAL
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Universal.png" group-title="UNIVERSAL",http://190.0.241.181:8000/play/a04r/index.m3u8
 http://190.0.241.181:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Universal.png" group-title="UNIVERSAL",http://181.78.105.146:6060/play/a046/index.m3u8
@@ -64,19 +73,23 @@ http://181.78.105.146:6060/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Universal.png" group-title="UNIVERSAL",http://181.78.105.146:2000/play/a03d/index.m3u8
 http://181.78.105.146:2000/play/a03d/index.m3u8
 
+#--- CINEMAX
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinemax.png" group-title="CINEMAX",http://190.0.241.181:8000/play/a04p/index.m3u8
 http://190.0.241.181:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Cinemax.png" group-title="CINEMAX",http://181.78.105.146:6060/play/a04a/index.m3u8
 http://181.78.105.146:6060/play/a04a/index.m3u8
 
+#--- STAR
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Star.png" group-title="STAR",http://181.78.105.146:6060/play/a03y/index.m3u8
 http://181.78.105.146:6060/play/a03y/index.m3u8
 
+#--- SONY
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Sony.png" group-title="SONY",http://181.78.105.146:6060/play/a02x/index.m3u8
 http://181.78.105.146:6060/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Sony.png" group-title="SONY",http://181.78.105.146:2000/play/a002/index.m3u8
 http://181.78.105.146:2000/play/a002/index.m3u8
 
+#--- ESPN
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",http://181.78.105.146:2000/play/a064/index.m3u8
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",http://181.78.105.146:6060/play/a036/index.m3u8
@@ -100,7 +113,6 @@ http://181.78.105.146:6060/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN",http://177.53.155.236:8000/play/a052/index.m3u8
 http://177.53.155.236:8000/play/a052/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN5.png" group-title="ESPN",http://177.53.155.236:8000/play/a0bg/index.m3u8
 http://177.53.155.236:8000/play/a0bg/index.m3u8
 
@@ -114,23 +126,29 @@ http://181.78.105.146:6060/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN7.png" group-title="ESPN",http://200.60.124.19:29000/play/a01e/index.m3u8
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
+#--- A&E
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/A&E.png" group-title="A&E",http://181.78.105.146:2000/play/a03f/index.m3u8
 http://181.78.105.146:2000/play/a03f/index.m3u8
 
+#--- AXN
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AXN.png" group-title="AXN",http://181.78.105.146:2000/play/a05y/index.m3u8
 http://181.78.105.146:2000/play/a05y/index.m3u8
 
+#--- AXN
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AXN.png" group-title="AXN",http://181.78.105.146:6060/play/a01y/index.m3u8
 http://181.78.105.146:6060/play/a01y/index.m3u8
 
+#--- AMC
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AMC.png" group-title="AMC",https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/AMC.png" group-title="AMC",http://181.78.105.146:6060/play/a051/index.m3u8
 http://181.78.105.146:6060/play/a051/index.m3u8
 
+#--- FILM&ARTS
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Film&Arts.png" group-title="FILM&ARTS",http://181.78.105.146:2000/play/a08i/index.m3u8
 http://181.78.105.146:2000/play/a08i/index.m3u8
 
+#--- DISCOVERY
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dchannel.png" group-title="DISCOVERY",http://181.78.105.146:2000/play/a03x/index.m3u8
 http://181.78.105.146:2000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dchannel.png" group-title="DISCOVERY",http://181.78.105.146:6060/play/a032/index.m3u8
@@ -146,6 +164,7 @@ http://181.78.105.146:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Dturbo.png" group-title="DISCOVERY",http://181.78.105.146:6060/play/a03z/index.m3u8
 http://181.78.105.146:6060/play/a03z/index.m3u8
 
+#--- HISTORY
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:6060/play/a034/index.m3u8
 http://181.78.105.146:6060/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History.png" group-title="HISTORY",http://181.78.105.146:2000/play/a017/index.m3u8
@@ -156,9 +175,11 @@ http://181.78.105.146:6060/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/History2.png" group-title="HISTORY",http://181.78.105.146:2000/play/a00v/index.m3u8
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
+#--- HGTV
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/HGTV.png" group-title="HGTV",http://181.78.105.146:6060/play/a006/index.m3u8
 http://181.78.105.146:6060/play/a006/index.m3u8
 
+#--- NATGEO
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Natgeo.png" group-title="NATGEO",http://181.78.105.146:6060/play/a01t/index.m3u8
 http://181.78.105.146:6060/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/Natgeo.png" group-title="NATGEO",http://181.78.105.146:2000/play/a01l/index.m3u8
