@@ -1314,4 +1314,5 @@ http://45.167.3.81:45000/play/a068/index.m3u
 #EXTINF:-1,ESPN2 HD
 http://45.167.3.81:45000/play/a069/index.m3u
 
-
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/FX.png" group-title="FX",http://45.167.3.81:45000/play/a02u/index.m3u8
+http://45.167.3.81:45000/play/a02u/index.m3u8
