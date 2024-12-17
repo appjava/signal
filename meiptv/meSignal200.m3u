@@ -9,10 +9,10 @@ http://200.115.120.1:8000/play/ca047/index.m3u8
 #EXTINF:-1 ,Golden Edge HD
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN (1) HD (Gua1)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) HD (Gua1)
+#EXTINF:-1,??? SD
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 5 HD (3)sur (Gua1)" tvg-logo="https://i.imgur.com/hiQS6UI.png" group-title="Verch" group-title="Deportes",ESPN 5 HD (3)sur (Gua1)
+#EXTINF:-1,ESPN6 SD
 http://200.115.120.1:8000/play/ca119/index.m3u8
 
 
@@ -57,6 +57,20 @@ http://200.115.120.1:8000/play/ca072
 http://200.115.120.1:8000/play/ca079
 #EXTINF:-1,hbo2 HD
 http://200.115.120.1:8000/play/ca083
+#EXTINF:-1,Tooncast SD
+http://200.115.120.1:8000/play/ca090
+#EXTINF:-1,hbo Family SD
+http://200.115.120.1:8000/play/ca097
+#EXTINF:-1,DHE SD
+http://200.115.120.1:8000/play/ca102
+#EXTINF:-1,D Turbo SD
+http://200.115.120.1:8000/play/ca117
+#EXTINF:-1,LifeTime SD
+http://200.115.120.1:8000/play/ca120
+#EXTINF:-1,Sky Sport (liga) HD
+http://200.115.120.1:8000/play/ca124
+#EXTINF:-1,Fox Sport2 SD
+http://200.115.120.1:8000/play/ca126
 #EXTINF:-1,
 
 #EXTINF:-1,
@@ -72,5 +86,21 @@ http://200.115.120.1:8000/play/ca083
 #EXTINF:-1,
 
 #EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
 
 
