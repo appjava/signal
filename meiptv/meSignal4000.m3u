@@ -147,20 +147,13 @@ http://190.60.49.243:4000/play/a06v
 http://190.60.49.243:4000/play/a04w
 #EXTINF:-1,Caracol FHD
 http://190.60.49.243:4000/play/a08w
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1,DHE HD
+http://190.60.49.243:4000/play/a07x
+#EXTINF:-1,DW SD
+http://190.60.49.243:4000/play/a01y
+#EXTINF:-1,hbo2 HD
+http://190.60.49.243:4000/play/a04z
+#EXTINF:-1,TNT HD
+http://190.60.49.243:4000/play/a06z
+#EXTINF:-1,Paramount HD
+http://190.60.49.243:4000/play/a09z
