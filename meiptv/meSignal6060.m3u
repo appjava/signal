@@ -1,97 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1,AXN (2) (Gua2)
+#EXTINF:-1,AXN SD
 http://181.78.105.146:6060/play/a01y/index.m3u8
 
-#EXTINF:-1,FX (2) (Gua2)
+#EXTINF:-1,FX SD
 http://181.78.105.146:6060/play/a00q/index.m3u8
 
-#EXTINF:-1,Sony Channel (1) (Gua2)
+#EXTINF:-1,Sony Channel SD
 http://181.78.105.146:6060/play/a02x/index.m3u8
 
-#EXTINF:-1,Star Channel (Gua2)
+#EXTINF:-1,Star Channel SD
 http://181.78.105.146:6060/play/a03y/index.m3u8
 
-#EXTINF:-1,Warner (2) (Gua2)
+#EXTINF:-1,Warner SD
 http://181.78.105.146:6060/play/a02y/index.m3u8
 
-#EXTINF:-1,AMC (2)(Gua2)
+#EXTINF:-1,AMC SD
 http://181.78.105.146:6060/play/a051/index.m3u8
 
-#EXTINF:-1,Cinemax (Gua2)
+#EXTINF:-1,Cinemax SD
 http://181.78.105.146:6060/play/a04a/index.m3u8
 
-#EXTINF:-1,Cine Canal (Gua2)
+#EXTINF:-1,Cinecanal SD
 http://181.78.105.146:6060/play/a04c/index.m3u8
 
-#EXTINF:-1,Cine Latino (Gua2)
+#EXTINF:-1,Cine Latino SD
 http://181.78.105.146:6060/play/a049/index.m3u8
 
-#EXTINF:-1,DHE (Gua2)
+#EXTINF:-1,DHE SD
 http://181.78.105.146:6060/play/a00d/index.m3u8
 
-#EXTINF:-1,Space (2) (Gua2)
+#EXTINF:-1,Space SD
 http://181.78.105.146:6060/play/a01q/index.m3u8
 
-#EXTINF:-1,Studio Universal 2 (Gua2)
+#EXTINF:-1,Studio SD
 http://181.78.105.146:6060/play/a04b/index.m3u8
 
-#EXTINF:-1,TNT (Gua2)
+#EXTINF:-1,TNT SD
 http://181.78.105.146:6060/play/a01z/index.m3u8
 
-#EXTINF:-1,Universal (Gua2)
+#EXTINF:-1,Universal TV SD
 http://181.78.105.146:6060/play/a046/index.m3u8
 
-#EXTINF:-1,MultiCinema (Gua2)
-http://181.78.105.146:6060/play/a009/index.m3u8
-
-#EXTINF:-1,Multipremier (Gua2)
+#EXTINF:-1,Multipremier SD
 http://181.78.105.146:6060/play/a048/index.m3u8
 
-#EXTINF:-1,Animal Planet (Gua2)
+#EXTINF:-1,Animal Planet SD
 http://181.78.105.146:6060/play/a033/index.m3u8
 
-#EXTINF:-1,Discovery Channel (Gua2)
+#EXTINF:-1,Discovery Channel SD
 http://181.78.105.146:6060/play/a032/index.m3u8
 
-#EXTINF:-1,Discovery Home & Health (Gua2)
+#EXTINF:-1,Discovery Home & Health SD
 http://181.78.105.146:6060/play/a040/index.m3u8
 
-#EXTINF:-1,Discovery ID (Gua2)
+#EXTINF:-1,Discovery ID SD
 http://181.78.105.146:6060/play/a041/index.m3u8
 
-#EXTINF:-1,Discovery Science (Gua2)
+#EXTINF:-1,Discovery Science SD
 http://181.78.105.146:6060/play/a007/index.m3u8
 
-#EXTINF:-1,Discovery Turbo (Gua2)
+#EXTINF:-1,Discovery Turbo SD
 http://181.78.105.146:6060/play/a03z/index.m3u8
 
-#EXTINF:-1,H History (Gua2)
+#EXTINF:-1,History SD
 http://181.78.105.146:6060/play/a034/index.m3u8
 
-#EXTINF:-1,H2 History (Gua2)
+#EXTINF:-1,History2 SD
 http://181.78.105.146:6060/play/a00t/index.m3u8
 
-#EXTINF:-1,Nat Geo (Gua2)
+#EXTINF:-1,Nat Geo SD
 http://181.78.105.146:6060/play/a01t/index.m3u8
 
-#EXTINF:-1,Home Garden Latino (Gua2)
+#EXTINF:-1,HGTV SD
 http://181.78.105.146:6060/play/a006/index.m3u8
 
-#EXTINF:-1,ESPN (2)(Gua2)
+#EXTINF:-1,ESPN SD
 http://181.78.105.146:6060/play/a036/index.m3u8
 
-#EXTINF:-1,ESPN 2 (1) (Gua2)
+#EXTINF:-1,ESPN2 SD
 http://181.78.105.146:6060/play/a037/index.m3u8
 
-#EXTINF:-1,ESPN 3 (1)(Gua2)
+#EXTINF:-1,ESPN3 SD
 http://181.78.105.146:6060/play/a00x/index.m3u8
 
-#EXTINF:-1,ESPN 6 (Gua2)
+#EXTINF:-1,ESPN6 SD
 http://181.78.105.146:6060/play/a01v/index.m3u8
-
-#EXTINF:-1,--------- 6060 aditionals
-https://cdn.pixabay.com/video/2022/07/16/124333-730771399_tiny.mp4
 
 
 #EXTINF:-1,Golden SD
