@@ -14,14 +14,11 @@ http://190.60.49.243:4000/play/a006
 http://190.60.49.243:4000/play/a007
 #EXTINF:-1,TeleAntioquia SD
 http://190.60.49.243:4000/play/a008
-#EXTINF:-1,??? SD
-http://190.60.49.243:4000/play/a009
+
 #EXTINF:-1,Enlace HD
 http://190.60.49.243:4000/play/a010
 
 
-#EXTINF:-1,?? HD
-http://190.60.49.243:4000/play/a011
 #EXTINF:-1,Euro News HD
 http://190.60.49.243:4000/play/a012
 #EXTINF:-1,EWTN SD
@@ -49,7 +46,7 @@ http://190.60.49.243:4000/play/a061
 #
 #EXTINF:-1,HGTV SD
 http://190.60.49.243:4000/play/a064
-#EXTINF:-1,??? SD
+#EXTINF:-1,Discovery SD
 http://190.60.49.243:4000/play/a065
 
 #EXTINF:-1,htv SD
@@ -68,10 +65,7 @@ http://190.60.49.243:4000/play/a073
 
 #EXTINF:-1,MiMusica HD
 http://190.60.49.243:4000/play/a086
-#EXTINF:-1,?? SD
-http://190.60.49.243:4000/play/a087
-#EXTINF:-1,?? SD
-http://190.60.49.243:4000/play/a088
+
 #EXTINF:-1,Hispan TV SD
 http://190.60.49.243:4000/play/a089
 
@@ -106,15 +100,14 @@ http://190.60.49.243:4000/play/a08d
 http://190.60.49.243:4000/play/a09d
 #EXTINF:-1,LifeTime SD
 http://190.60.49.243:4000/play/a06e
-#EXTINF:-1,??? HD
-http://190.60.49.243:4000/play/a07e
+
 #EXTINF:-1,TV Agro HD
 http://190.60.49.243:4000/play/a00f
 #EXTINF:-1,Play HD
 http://190.60.49.243:4000/play/a04f
 #EXTINF:-1,bitMe HD
 http://190.60.49.243:4000/play/a09h
-#EXTINF:-1,?? HD
+#EXTINF:-1,City TV HD
 http://190.60.49.243:4000/play/a01i
 #EXTINF:-1,DePelicula HD
 http://190.60.49.243:4000/play/a06i
@@ -122,8 +115,7 @@ http://190.60.49.243:4000/play/a06i
 http://190.60.49.243:4000/play/a08i
 #EXTINF:-1,Warner HD
 http://190.60.49.243:4000/play/a06m
-#EXTINF:-1,?? SD
-http://190.60.49.243:4000/play/a09m
+
 #EXTINF:-1,NatGeo HD
 http://190.60.49.243:4000/play/a04n
 #EXTINF:-1,Space HD
