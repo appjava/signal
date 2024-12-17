@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="City TV (Gua1)" tvg-logo="https://i.imgur.com/nTgDES1.png" group-title="Verch" group-title="Entretenimiento",City TV (Gua1) 
-http://200.115.120.1:8000/play/ca075/index.m3u8
-
 #EXTINF:-1,FX SD
 http://200.115.120.1:8000/play/ca017/index.m3u8
 
@@ -54,12 +51,12 @@ http://200.115.120.1:8000/play/ca056
 http://200.115.120.1:8000/play/ca059
 #EXTINF:-1,Caracol SD 
 http://200.115.120.1:8000/play/ca067
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Universal Crime SD
+http://200.115.120.1:8000/play/ca072
+#EXTINF:-1,Adult Swim SD
+http://200.115.120.1:8000/play/ca079
+#EXTINF:-1,hbo2 HD
+http://200.115.120.1:8000/play/ca083
 #EXTINF:-1,
 
 #EXTINF:-1,

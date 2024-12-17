@@ -12,6 +12,9 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1,Caracol SD 
 http://200.115.120.1:8000/play/ca067
 
+#EXTINF:-1,Caracol SD (index)
+http://200.115.120.1:8000/play/ca067/index.m3u
+
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
 #EXTINF:-1,RCN (1)
