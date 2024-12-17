@@ -1,62 +1,132 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AXN (2) (Gua3)" tvg-logo="https://i.imgur.com/077XLLv.png" group-title="Verch" group-title="Entretenimiento",AXN (2) (Gua3)
+#EXTINF:-1,AXN SD
 http://181.78.105.146:8800/play/a049
 
-#EXTINF:-1 tvg-id="FX (2)(Gua3)" tvg-logo="https://i.imgur.com/UHToEuL.png" group-title="Verch" group-title="Entretenimiento",FX (2) (Gua3)
+#EXTINF:-1,FX SD
 http://181.78.105.146:8800/play/a01y
 
-#EXTINF:-1 tvg-id="Paramount (Gua3)" tvg-logo="https://i.imgur.com/8rDzaSs.png" group-title="Verch" group-title="Entretenimiento",Paramount (Gua3)
+#EXTINF:-1,Paramount SD
 http://181.78.105.146:8800/play/a00z
 
-#EXTINF:-1 tvg-id="Star Channel (Gua3)" tvg-logo="https://i.imgur.com/FU7WKut.jpg" group-title="Verch" group-title="Entretenimiento",Star Channel (Gua3)
+#EXTINF:-1,Star Channel SD
 http://181.78.105.146:8800/play/a06m
 
-#EXTINF:-1 tvg-id="Sun Channel (Gua3)" tvg-logo="https://i.imgur.com/8pjVpdX.png" group-title="Verch" group-title="Entretenimiento",Sun Channel (Gua3)
+#EXTINF:-1,Sun Channel SD
 http://181.78.105.146:8800/play/a023
 
-#EXTINF:-1 tvg-id="Cinemax (Gua3)" tvg-logo="https://i.imgur.com/zHMZZLE.png" group-title="Verch" group-title="Pelis",Cinemax (Gua3)
+#EXTINF:-1,Cinemax SD
 http://181.78.105.146:8800/play/a06y
 
-#EXTINF:-1 tvg-id="Cine Canal (Gua3)" tvg-logo="https://i.imgur.com/YNG0Eo3.png" group-title="Verch" group-title="Pelis",Cine Canal (Gua3)
+#EXTINF:-1,Cinecanal SD
 http://181.78.105.146:8800/play/a070
 
-#EXTINF:-1 tvg-id="Cine Latino (Gua3)" tvg-logo="https://i.imgur.com/g4OMEWT.png" group-title="Verch" group-title="Pelis",Cine Latino (Gua3)
+#EXTINF:-1,Cine Latino SD
 http://181.78.105.146:8800/play/a06x
 
-#EXTINF:-1 tvg-id="DHE (Gua3)" tvg-logo="https://i.imgur.com/aBpIsol.jpg" group-title="Verch" group-title="Pelis",DHE (Gua3)
+#EXTINF:-1,DHE SD
 http://181.78.105.146:8800/play/a00y
 
-#EXTINF:-1 tvg-id="TNT (Gua3)" tvg-logo="https://i.imgur.com/kTuxMeb.png" group-title="Verch" group-title="Pelis",TNT (Gua3)
+#EXTINF:-1,TNT SD
 http://181.78.105.146:8800/play/a04a
 
-#EXTINF:-1 tvg-id="Universal (Gua3)" tvg-logo="https://i.imgur.com/LWPW3nF.jpg" group-title="Verch" group-title="Pelis",Universal (Gua3)
+#EXTINF:-1,Universal TV SD
 http://181.78.105.146:8800/play/a06u
 
-#EXTINF:-1 tvg-id="Discovery Science (Gua3)" tvg-logo="https://i.imgur.com/vqrHIGQ.png" group-title="Verch" group-title="Artes&Cultura",Discovery Science (Gua3)
+#EXTINF:-1,Discovery Science SD
 http://181.78.105.146:8800/play/a00e
 
-#EXTINF:-1 tvg-id="Film & Arts (Gua3)" tvg-logo="https://i.imgur.com/d8OIZ9s.png" group-title="Verch" group-title="Artes&Cultura",Film & Arts (Gua3)
+#EXTINF:-1,Film&Arts SD
 http://181.78.105.146:8800/play/a00x
 
-#EXTINF:-1 tvg-id="Home Garden Latino (Gua3)" tvg-logo="https://i.imgur.com/QSshy70.png" group-title="Verch" group-title="Artes&Cultura",Home Garden Latino (Gua3)
+#EXTINF:-1,HGTV SD
 http://181.78.105.146:8800/play/a00d
 
-#EXTINF:-1 tvg-id="TUDN (1) (Gua3)" tvg-logo="https://i.imgur.com/XMiqz9v.png" group-title="Verch" group-title="Deportes",TUDN (1) (Gua3)
+#EXTINF:-1,TUDN SD
 http://181.78.105.146:8800/play/a07e
 
-#EXTINF:-1 tvg-id="ESPN 3 (1)(Gua3)" tvg-logo="https://i.imgur.com/cg8QWOm.png" group-title="Verch" group-title="Deportes",ESPN 3 (1)(Gua3)
+#EXTINF:-1,ESPN3 SD
 http://181.78.105.146:8800/play/a025
 
-#EXTINF:-1 tvg-id="ESPN 4 (1)(Gua3)" tvg-logo="https://i.imgur.com/41ACwwE.png" group-title="Verch" group-title="Deportes",ESPN 4 (1)(Gua3)
+#EXTINF:-1,ESPN4 SD
 http://181.78.105.146:8800/play/a08p
 
-#EXTINF:-1 tvg-id="NICK (Gua3)" tvg-logo="https://i.imgur.com/ds7yreU.png" group-title="Verch" group-title="Infantil",NICK (Gua3)
+#EXTINF:-1,Nickelodeon SD
 http://181.78.105.146:8800/play/a06k
 
-#EXTINF:-1 tvg-id="Cartoon NT (Gua3)" tvg-logo="https://i.imgur.com/pEQZO4v.png" group-title="Verch" group-title="Infantil",Cartoon NT (Gua3)
+#EXTINF:-1,Cartoon Network SD
 http://181.78.105.146:8800/play/a03s
 
-#EXTINF:-1 tvg-id="DISNEY (Gua3)" tvg-logo="https://i.imgur.com/L7bOWlc.png" group-title="Verch" group-title="Infantil",DISNEY (Gua3)
+#EXTINF:-1,Disney Channel SD
 http://181.78.105.146:8800/play/a06l
+
+
+#----- 8800 aditionals
+#EXTINF:-1,hbo Xtreme HD
+http://181.78.105.146:8800/play/a019
+
+#EXTINF:-1,hbo Family HD
+http://181.78.105.146:8800/play/a018
+#EXTINF:-1,hbo+ HD
+http://181.78.105.146:8800/play/a017
+#EXTINF:-1,hbo2 HD
+http://181.78.105.146:8800/play/a016
+#EXTINF:-1,hbo HD
+http://181.78.105.146:8800/play/a015
+
+
+#EXTINF:-1,Studio SD
+http://181.78.105.146:8800/play/a06z
+#EXTINF:-1,Adult Swim SD
+http://181.78.105.146:8800/play/a03y
+#EXTINF:-1,Nickelodeon SD
+http://181.78.105.146:8800/play/a05y
+#EXTINF:-1,ESPN SD
+http://181.78.105.146:8800/play/a08y
+#EXTINF:-1,Sony Movies SD
+http://181.78.105.146:8800/play/a04w
+#EXTINF:-1,Tigo Sport SD
+http://181.78.105.146:8800/play/a07w
+#EXTINF:-1,??? AMC SD
+http://181.78.105.146:8800/play/a04s
+#EXTINF:-1,A&E SD
+http://181.78.105.146:8800/play/a04r
+#EXTINF:-1,Film&Arts SD
+http://181.78.105.146:8800/play/a04q
+#EXTINF:-1,D Investigation SD
+http://181.78.105.146:8800/play/a06p
+#EXTINF:-1,MC SD
+http://181.78.105.146:8800/play/a07p
+#EXTINF:-1,Animal Planet SD
+http://181.78.105.146:8800/play/a04o
+#EXTINF:-1,Discovery ??? SD
+http://181.78.105.146:8800/play/a06o
+#EXTINF:-1, D Turbo SD
+http://181.78.105.146:8800/play/a06n
+#EXTINF:-1,Ven SD
+http://181.78.105.146:8800/play/a02h
+#EXTINF:-1,France 24 SD
+http://181.78.105.146:8800/play/a04e
+#EXTINF:-1,TCM SD
+http://181.78.105.146:8800/play/a02c
+#EXTINF:-1,Golden SD
+http://181.78.105.146:8800/play/a02b
+#EXTINF:-1,AMC SD
+http://181.78.105.146:8800/play/a04b
+#EXTINF:-1,Play SD
+http://181.78.105.146:8800/play/a01a
+#EXTINF:-1,History2 SD
+http://181.78.105.146:8800/play/a021
+#EXTINF:-1,eE SD
+http://181.78.105.146:8800/play/a020
+#EXTINF:-1,Space SD
+http://181.78.105.146:8800/play/a041
+#EXTINF:-1,TNT Series SD
+http://181.78.105.146:8800/play/a042
+#EXTINF:-1,NatGeo SD
+http://181.78.105.146:8800/play/a044
+#EXTINF:-1,LifeTime SD
+http://181.78.105.146:8800/play/a045
+#EXTINF:-1,ESPN? SD
+http://181.78.105.146:8800/play/a046
 
