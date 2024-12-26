@@ -294,5 +294,7 @@ http://190.0.241.181:8000/play/a06z/index.m3u8
 
 #----------------------------------------------------------
 
-#EXTINF:0,WIN+
-https://jf3.naqsheala.com:999/hls/winsportsplus.m3u8?md5=Pz7bKiIbhGY97ciZ7tVDjA&expires=1734916626
+#EXTINF:-1,ESPN (38)
+http://38.41.8.1:8000/play/a06r
+#EXTINF:-1,ESPN (6060)
+http://181.78.105.146:6060/play/a036/index.m3u8
