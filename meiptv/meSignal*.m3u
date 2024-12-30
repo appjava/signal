@@ -640,6 +640,4 @@ http://190.60.49.243:4000/play/a071
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN7.png" group-title="ESPN",ESPN7 HD
 http://190.60.49.243:4000/play/a04c
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/WB.png" group-title="ESPN",WIN+ HD
-http://190.60.49.243:4000/play/a050
 #----------------------------------------
