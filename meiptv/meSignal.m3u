@@ -304,3 +304,9 @@ http://190.60.49.243:4000/play/a072
 #----------------------------------------------------------
 #EXTINF:-1,Live1
 https://d1.jisdeshmaiganga.com:999/hls/skysme.m3u8?md5=hooNZrXq2iLYtEo5Vv2Zww&expires=1736101913
+#EXTINF:-1,Live2
+https://d1.jisdeshmaiganga.com:999/hls/do8.m3u8?md5=gxJHqm8ZZSsEQwRk1yKFUg&expires=1736102298
+#EXTINF:-1,Live3
+https://d2.jisdeshmaiganga.com:999/hls/do26.m3u8?md5=G-1YH-iTkIxvIxmvorGu0w&expires=1736102494
+#EXTINF:-1,Live4
+https://jf4.naqsheala.com:999/hls/extremohuawei.m3u8?md5=UOyQRLiPN46kkLadF3YyUQ&expires=1736102782
