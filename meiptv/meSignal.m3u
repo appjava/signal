@@ -308,5 +308,9 @@ https://d1.jisdeshmaiganga.com:999/hls/skysme.m3u8?md5=hooNZrXq2iLYtEo5Vv2Zww&ex
 https://d1.jisdeshmaiganga.com:999/hls/do8.m3u8?md5=gxJHqm8ZZSsEQwRk1yKFUg&expires=1736102298
 #EXTINF:-1,Live3
 https://d2.jisdeshmaiganga.com:999/hls/do26.m3u8?md5=G-1YH-iTkIxvIxmvorGu0w&expires=1736102494
-#EXTINF:-1,Live4
+#EXTINF:-1,Live4 (ESPN)
 https://jf4.naqsheala.com:999/hls/extremohuawei.m3u8?md5=UOyQRLiPN46kkLadF3YyUQ&expires=1736102782
+#EXTINF:-1,Live5 (DAZN)
+https://jf4.naqsheala.com:999/hls/wsmkmlfeed56.m3u8?md5=wl6bZIR0jWGHOPis3FR-NA&expires=1736103460
+#EXTINF:-1,Live5 (TNT)
+https://jf2.naqsheala.com:999/hls/wsmkmlfeed156.m3u8?md5=U8fhpA9NatPXPa4BB88_Zg&expires=1736103545
