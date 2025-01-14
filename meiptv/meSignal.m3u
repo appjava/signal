@@ -304,3 +304,5 @@ http://190.60.49.243:4000/play/a072
 #----------------------------------------------------------
 #EXTINF:-1,live1
 https://d7.jisdeshmaiganga.com:999/hls/do7.m3u8?md5=NGxPwPEv0O5kBOX932Qu2A&expires=1736893071
+#EXTINF:-1,live2
+https://d5.jisdeshmaiganga.com:999/hls/do8.m3u8?md5=WfRlsDOwHA3p8g__fXBpWQ&expires=1736893104
