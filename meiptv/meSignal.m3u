@@ -302,13 +302,5 @@ http://190.60.49.243:4000/play/a072
 
 
 #----------------------------------------------------------
-#EXTINF:-1,D1
-https://d7.jisdeshmaiganga.com:999/hls/wsmkmlfeed71.m3u8?md5=FWTAY2TyGW3-FVS-NwLh8w&expires=1736716282
-#EXTINF:-1,D2
-https://d2.jisdeshmaiganga.com:999/hls/wsmkmlfeed156.m3u8?md5=3dwLbyNlxAYrUoqIdIQB6Q&expires=1736716422
-#EXTINF:-1,D3 (en)
-https://d6.jisdeshmaiganga.com:999/hls/wsmkmlfeed94.m3u8?md5=pAcDVCFyx2PUgKoGwrG5eQ&expires=1736716539
-#EXTINF:-1,D4
-https://jf4.naqsheala.com:999/hls/directvlivehd.m3u8?md5=eko4jA1B8bSg3nCUxQmboA&expires=1736720482
-#EXTINF:-1,D5
-https://jf1.naqsheala.com:999/hls/directvlivehd.m3u8?md5=67FJQteFH_iX445l4Q573w&expires=1736720452
+#EXTINF:-1,live1
+https://d7.jisdeshmaiganga.com:999/hls/do7.m3u8?md5=NGxPwPEv0O5kBOX932Qu2A&expires=1736893071
