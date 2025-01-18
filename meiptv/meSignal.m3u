@@ -306,4 +306,5 @@ http://190.60.49.243:4000/play/a072
 https://d3.dunyapurkaraja.com:999/hls/do2.m3u8?md5=_qa6T0144FRNxLiNNqCKUg&expires=1737220323
 #EXTINF:-1,live2
 https://d6.dunyapurkaraja.com:999/hls/do1.m3u8?md5=rhP7QP-Y7GbLzD5eAVJwcg&expires=1737220412
-
+#EXTINF:-1,live3 (ESPN)
+https://jf2.naqsheala.com:999/hls/extremouno.m3u8?md5=7UgStL2Z87Vp_SakU-Cd4Q&expires=1737220516
