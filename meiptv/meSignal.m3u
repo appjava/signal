@@ -302,7 +302,5 @@ http://190.60.49.243:4000/play/a072
 
 
 #----------------------------------------------------------
-#EXTINF:-1,live1 (ESPN)
-https://ts.livestreamdz.xyz/disney20/tracks-v1a1/mono.m3u8?md5=w7bKwwMVgCQoz6cylG_jiQ&expires=1737237948
-#EXTINF:-1,live2 (ESPN)
-https://jf4.naqsheala.com:999/hls/extremouno.m3u8?md5=pHXAyuOL5-GeiMf8EWnZHQ&expires=1737227940
+#EXTINF:-1,Caracol live
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=zYuhV2V1JS1w7dqvM1oL7EuH4hAHxxDS&sid=w8NwgzDnGjor8VsHOMCpxTwoRi9R26tI&pid=iYOR1WkwzkQ4b94PXJVhj2BJ27ZEKecP&an=screen&at=web-app&av=v6.0.121&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=922x519&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=7a5eb83a-0bac-462f-ae2d-1cdc442358a7:CBF2
