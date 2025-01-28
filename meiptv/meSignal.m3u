@@ -306,3 +306,5 @@ http://190.60.49.243:4000/play/a072
 https://jf1.naqsheala.com:999/hls/directsp.m3u8?md5=ODw2eAPS6H9NzpUQATfsRw&expires=1738113634
 #EXTINF:-1,DS2
 https://st.bambipons123.lat//dsports/tracks-v1a1/mono.m3u8?md5=bgPaMqPo7ghn8i8aGug2fw&expires=1738117292
+#EXTINF:-1,DS3
+https://d9.dunyapurkaraja.com:999/hls/directvlivehd.m3u8?md5=RHbasmmY_yTljM5t7b75nQ&expires=1738113790
