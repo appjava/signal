@@ -302,7 +302,7 @@ http://190.60.49.243:4000/play/a072
 
 
 #----------------------------------------------------------
-#EXTINF:-1,DS1
-https://jf4.naqsheala.com:999/hls/directsp.m3u8?md5=RaGN1US98857m2Stgejg9A&expires=1738278262
-#EXTINF:-1,DS2
-https://jf4.naqsheala.com:999/hls/directvlivehd.m3u8?md5=Y6T_QRXhpFa7ietutSIGYg&expires=1738278491
+#EXTINF:-1,D1
+https://jf2.naqsheala.com:999/hls/directsp.m3u8?md5=CvsdhPiyXDNJfRqR9ni-lw&expires=1738285663
+#EXTINF:-1,D2
+https://director.shoeshopping.top/v2/variant/VE1ZWNydW9zX2Y0OTc5ZDNiYWZiNy05ZjJiLWQ2NDQtNWI2Ny0yODBlNzllNw.m3u8?md5=_acdB5624OaEu5jqlpz_-A&expires=1738289318
