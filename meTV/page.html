@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meTV | Channels Links</title>
+</head>
+<body>
+    <div class="page">
+        <h2>CHANNEL LIST</h2>
+        <ul>
+            <li><a href="https://clarovideo.sdfgnksbounce.com/warnerbrostv.php" target="_blank">Warner</a></li>
+            <li><a href="https://clarovideo.sdfgnksbounce.com/axn.php" target="_blank">AXN</a></li>
+            <li><a href="https://clarovideo.sdfgnksbounce.com/cinecanal.php" target="_blank">CineCanal</a></li>
+            <li><a href="https://clarovideo.sdfgnksbounce.com/space.php" target="_blank">Space</a></li>
+            <h3><button onclick="selectFrame()" id="tnt">TNT</button></h3>
+            <h3><button onclick="selectFrame2()" id="tnt">STUDIO</button></h3>
+            
+            <iframe id="meframe" width="100%" height="600px" autoplay="false"   scrolling="no" frameborder="0" allowfullscreen="true" ></iframe>
+            
+            <script>
+                var meframe = document.getElementById('meframe');
+
+                function selectFrame(){
+                    meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
+                }
+
+                function selectFrame2(){
+                    meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
+                }
+
+            </script>
+        </ul>
+    </div>
+</body>
+</html>
