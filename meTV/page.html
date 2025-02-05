@@ -4,33 +4,86 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>meTV | Channels Links</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            text-align: center;
+        }
+        .parrilla{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin: 12px auto;
+            background: none;
+            justify-content: center;
+        }
+        .meframe{
+            display: inline-flex;
+            height: 100vh;
+            
+            width: 80%;
+            background: none;
+            margin: 0 auto;
+            border: solid 0px gray;
+            align-items: center;
+            padding: 6px 6px;
+        }
+        iframe{
+            
+            width: 100%;
+            height: 100%;
+            border: solid 0px gray;
+            border-radius: 12px;
+            background: none;
+
+        }
+        .title{
+            width: 80%;
+            margin: 12px auto;
+        }
+        button{
+            padding: 3px 6px;
+            border-radius: 6px;
+        }
+        
+    </style>
 </head>
 <body>
     <div class="page">
-        <h2>CHANNEL LIST</h2>
-        <ul>
-            <li><a href="https://clarovideo.sdfgnksbounce.com/warnerbrostv.php" target="_blank">Warner</a></li>
-            <li><a href="https://clarovideo.sdfgnksbounce.com/axn.php" target="_blank">AXN</a></li>
-            <li><a href="https://clarovideo.sdfgnksbounce.com/cinecanal.php" target="_blank">CineCanal</a></li>
-            <li><a href="https://clarovideo.sdfgnksbounce.com/space.php" target="_blank">Space</a></li>
-            <h3><button onclick="selectFrame()" id="tnt">TNT</button></h3>
-            <h3><button onclick="selectFrame2()" id="tnt">STUDIO</button></h3>
-            
-            <iframe id="meframe" width="100%" height="600px" autoplay="false"   scrolling="no" frameborder="0" allowfullscreen="true" ></iframe>
-            
-            <script>
-                var meframe = document.getElementById('meframe');
-
-                function selectFrame(){
-                    meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
-                }
-
-                function selectFrame2(){
-                    meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
-                }
-
-            </script>
+        <h2 class="title">CHANNEL LIST</h2>
+        <ul class="parrilla">
+            <h3><button onclick="selectFrame(id)" id="tnt">TNT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="space">SPACE</button></h3>
+            <h3><button onclick="selectFrame(id)" id="cinecanal">CINECANAL</button></h3>
+            <h3><button onclick="selectFrame(id)" id="axn">AXN</button></h3>
+            <h3><button onclick="selectFrame(id)" id="warner">WARNER</button></h3>
         </ul>
+        <fieldset class="meframe">
+            <iframe id="meframe" allowfullscreen></iframe>
+        </fieldset>
     </div>
+
+    <script>
+        var meframe = document.getElementById('meframe');
+        meframe.src = "meSignal.png";
+        let id;
+        function selectFrame(id){
+            if (id == "tnt"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
+            } else if (id == "space"){
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
+            } else if (id == "cinecanal"){
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
+            } else if (id == "axn"){
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
+            } else if (id == "warner"){
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
+            } 
+        }
+    </script>
 </body>
 </html>
