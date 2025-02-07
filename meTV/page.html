@@ -59,19 +59,26 @@
             <h3><button onclick="selectFrame(id)" id="tnt">TNT</button></h3>
             <h3><button onclick="selectFrame(id)" id="space">SPACE</button></h3>
             <h3><button onclick="selectFrame(id)" id="cinecanal">CINECANAL</button></h3>
+            <h3><button onclick="selectFrame(id)" id="paramount">PARAMOUNT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo">HBO</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo+">HBO+</button></h3>
             <h3><button onclick="selectFrame(id)" id="axn">AXN</button></h3>
             <h3><button onclick="selectFrame(id)" id="warner">WARNER</button></h3>
             <h3><button onclick="selectFrame(id)" id="espn">ESPN</button></h3>
+            <h3><button onclick="selectFrame(id)" id="espn2">ESPN2</button></h3>
+            
+
         </ul>
         <fieldset class="meframe">
             <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
         </fieldset>
         <h3><a href="index.html"><button>Home</button></a></h3>
     </div>
+    
 
     <script>
         var meframe = document.getElementById('meframe');
-        meframe.src = "meSignal.png";
+        meframe.src = "https://embed.sdfgnksbounce.com/embed2/sony.html";
         let id;
         function selectFrame(id){
             if (id == "tnt"){
@@ -86,6 +93,14 @@
                 meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
             }  else if (id == "espn"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn.html";
+            } else if (id == "espn2"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn2.html";
+            } else if (id == "paramount"){
+                meframe.src = "https://streamplayweb.com/tv/paramount.php";
+            } else if (id == "hbo"){
+                meframe.src = "https://streamplayweb.com/tv/hbo.php";
+            } else if (id == "hbo+"){
+                meframe.src = "https://streamplayweb.com/tv/hboplus.php";
             } 
         }
     </script>

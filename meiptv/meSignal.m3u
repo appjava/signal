@@ -302,15 +302,5 @@ http://190.60.49.243:4000/play/a072
 
 
 #----------------------------------------------------------
-#EXTINF:-1,DS1
-https://jf2.naqsheala.com:999/hls/directsp.m3u8?md5=_2-Pb4g8x9ZhYoRHGUR61Q&expires=1738724393
-#EXTINF:-1,DS2
-https://jf2.naqsheala.com:999/hls/wsmkmlfeed94.m3u8?md5=wEfff5wiNJ8nBK-G0aJibA&expires=1738724866
-#EXTINF:-1,DS3
-https://jf3.naqsheala.com:999/hls/directvlivehd.m3u8?md5=PPRXMUnVOrBDYZNJsIWs4w&expires=1738724934
-#EXTINF:-1,DS4
-https://d8.dunyapurkaraja.com:999/hls/directvlivehd.m3u8?md5=2zqcaiEue6jc-7xxrKxEhg&expires=1738726021
-#EXTINF:-1,DS5
-https://jf3.naqsheala.com:999/hls/directvlivehd.m3u8?md5=KeWCymh_SPVPEAg9S6HsLA&expires=1738726128
-#EXTINF:-1,DS6
-https://jf2.naqsheala.com:999/hls/directvlivehd.m3u8?md5=446Kb6dHxITCKylD_LGibQ&expires=1738726182
+#EXTINF:-1,WIN
+https://jf3.naqsheala.com:999/hls/wsmkmlfeed81.m3u8?md5=isGcZvs9nx9bVLIV-W3ODg&expires=1738893309
