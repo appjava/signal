@@ -302,5 +302,5 @@ http://190.60.49.243:4000/play/a072
 #EXTINF:-1,Wplus
 https://jf2.naqsheala.com:999/hls/caracolsd.m3u8?md5=1XZ6YhtrKPx7Pa44S7HsKA&expires=1738955066
 
-#EXTINF:-1,Wmas
+#EXTINF:-1,W
 https://appjava.github.io/signal/meiptv/w.m3u8
