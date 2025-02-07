@@ -23,10 +23,10 @@
         }
         .meframe{
             display: inline-flex;
-            height: 100vh;
+            
             
             width: 80%;
-            background: none;
+            background: red;
             margin: 0 auto;
             border: solid 0px gray;
             align-items: center;
@@ -36,9 +36,12 @@
             
             width: 100%;
             height: 100%;
-            border: solid 0px gray;
+            border: solid 1px gray;
             border-radius: 12px;
             background: none;
+            display: block;
+            object-fit:contain;
+            
 
         }
         .title{
@@ -78,7 +81,7 @@
 
     <script>
         var meframe = document.getElementById('meframe');
-        meframe.src = "http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37815";
+        meframe.src = "meTV.png";
         let id;
         function selectFrame(id){
             if (id == "tnt"){
