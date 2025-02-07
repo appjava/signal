@@ -123,16 +123,11 @@ video{
 	gap: 3px;
 }
 .plus{
-	background: gray;
-	color: white;
-	border: none;
-	border-radius: 6px;
-	padding: 3px 6px;
 	position:relative;
-	cursor:copy;
+	cursor: copy;
 	left: 42%;
-	bottom: 12px;
-	font-size: 9px;
+	bottom: 9px;
+	width: 12%;
 }
 @media screen and (max-width: 1200px){
 
