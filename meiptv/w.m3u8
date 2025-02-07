@@ -2,3 +2,4 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=464000,RESOLUTION=640X360,CODECS="avc1.77.30, mp4a.40.2",
 https://jf2.naqsheala.com:999/hls/caracolsd.m3u8?md5=1XZ6YhtrKPx7Pa44S7HsKA&expires=1738955066
+#https://jf1.naqsheala.com:999/hls/caracolsd.m3u8?md5=sQMohnzl6snT6CRIzYHEDg&expires=1738957416
