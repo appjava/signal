@@ -14,7 +14,7 @@
             text-align: center;
         }
         .parrilla{
-            width: 95%;
+            width: 90%;
             display: flex;
             flex-wrap: wrap;
             gap: 3px;
@@ -47,12 +47,14 @@
         .title{
             width: 80%;
             margin: 12px auto;
+            color: rgb(60, 60, 60);
         }
         button{
             padding: 3px 9px;
             border-radius: 6px;
             background: gray;
             color: white;
+            cursor: pointer;
         }
         embed{
             width: 100%;
@@ -94,11 +96,14 @@
             <h3><button onclick="selectFrame(id)" id="cinecanal">CINECANAL</button></h3>
             <h3><button onclick="selectFrame(id)" id="paramount">PARAMOUNT</button></h3>
             <h3><button onclick="selectFrame(id)" id="hbo">HBO</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo2">HBO2</button></h3>
             <h3><button onclick="selectFrame(id)" id="hbo+">HBO+</button></h3>
             <h3><button onclick="selectFrame(id)" id="axn">AXN</button></h3>
             <h3><button onclick="selectFrame(id)" id="warner">WARNER</button></h3>
             <h3><button onclick="selectFrame(id)" id="espn">ESPN</button></h3>
             <h3><button onclick="selectFrame(id)" id="espn2">ESPN2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="dsport">DSPORT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="wmas">W+</button></h3>
             
 
         </ul>
@@ -107,11 +112,10 @@
         </fieldset>
         <h3><a href="index.html"><button>Home</button></a></h3>
     </div>
-    
 
     <script>
         var meframe = document.getElementById('meframe');
-        meframe.src = "https://deportes.slkdhfdhldeportes.com/futbollibre.php?id=16_#";
+        meframe.src = "";
         let id;
         function selectFrame(id){
             if (id == "tnt"){
@@ -132,8 +136,14 @@
                 meframe.src = "https://streamplayweb.com/tv/paramount.php";
             } else if (id == "hbo"){
                 meframe.src = "https://streamplayweb.com/tv/hbo.php";
+            } else if (id == "hbo2"){
+                meframe.src = "https://streamplayweb.com/tv/hbo2.php";
             } else if (id == "hbo+"){
                 meframe.src = "https://streamplayweb.com/tv/hboplus.php";
+            } else if (id == "dsport"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports.html";
+            } else if (id == "wmas"){
+                meframe.src = "https://tucanaldeportivo.org/winmas.php";
             } 
         }
     </script>

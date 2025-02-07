@@ -122,6 +122,18 @@ video{
 	margin: 0 3px;
 	gap: 3px;
 }
+.plus{
+	background: gray;
+	color: white;
+	border: none;
+	border-radius: 6px;
+	padding: 3px 6px;
+	position:relative;
+	cursor:copy;
+	left: 42%;
+	bottom: 12px;
+	font-size: 9px;
+}
 @media screen and (max-width: 1200px){
 
 	.video{
