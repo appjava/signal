@@ -14,35 +14,32 @@
             text-align: center;
         }
         .parrilla{
+            width: 95%;
             display: flex;
             flex-wrap: wrap;
-            gap: 12px;
+            gap: 3px;
             margin: 12px auto;
-            background: none;
+            padding: 1px;
+            background: yellow;
             justify-content: center;
         }
         .meframe{
             display: inline-flex;
-            
-            
-            width: 80%;
+            width: 90%;
+            min-height: 240px;
             background: red;
-            margin: 0 auto;
+            margin: 6px auto;
             border: solid 0px gray;
             align-items: center;
             padding: 6px 6px;
         }
         iframe{
-            
             width: 100%;
             height: 100%;
             border: solid 1px gray;
             border-radius: 12px;
             background: none;
             display: block;
-            object-fit:contain;
-            
-
         }
         .title{
             width: 80%;
@@ -52,12 +49,40 @@
             padding: 3px 6px;
             border-radius: 6px;
         }
+        embed{
+            width: 100%;
+            height: auto;
+            min-height: 240px;
+            margin: 0 auto;
+            border-radius: 12px;
+        }
+        .typewriter {
+            width: 18ch;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 3px none red;
+            animation: cursor 1s step-start infinite, 
+            text 3s steps(18) alternate infinite;
+        }
+        @keyframes cursor {
+            0%, 100% { 
+                border-color: black; 
+            }
+        }
+        @keyframes text {
+            0% { 
+                width: 0; 
+            }
+            100% { 
+                width: 18ch; 
+            }
+        }
         
     </style>
 </head>
 <body>
     <div class="page">
-        <h2 class="title">CHANNEL LIST</h2>
+        <h2 class="title typewriter" >CHANNEL LIST</h2>
         <ul class="parrilla">
             <h3><button onclick="selectFrame(id)" id="tnt">TNT</button></h3>
             <h3><button onclick="selectFrame(id)" id="space">SPACE</button></h3>
@@ -73,7 +98,7 @@
 
         </ul>
         <fieldset class="meframe">
-            <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
+            <embed id="meframe" allowfullscreen allow="encrypted-media"></embed>
         </fieldset>
         <h3><a href="index.html"><button>Home</button></a></h3>
     </div>
@@ -81,7 +106,7 @@
 
     <script>
         var meframe = document.getElementById('meframe');
-        meframe.src = "meTV.png";
+        meframe.src = "";
         let id;
         function selectFrame(id){
             if (id == "tnt"){
