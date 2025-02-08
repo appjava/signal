@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 }
 body {
+	text-align: center;
 	justify-content: center;
 	margin-bottom: 9px;
 	margin-top: 12px;
@@ -176,5 +177,73 @@ video{
 	}
 	.carga, .descarga{
 		width: 100%;
+	}
+}
+
+.parrilla{
+	width: 90%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 3px;
+	margin: 12px auto;
+	padding: 1px;
+	background: none;
+	justify-content: center;
+}
+.meframe{
+	display: inline-flex;
+	width: 90%;
+	max-width: 750px;
+	height: 30vw;
+	min-height: 300px;
+	background: none;
+	margin: 0px auto;
+	margin-bottom: 24px;
+	border: solid 0px gray;
+	align-items: center;
+}
+iframe{
+	width: 100%;
+	height: auto;
+	min-height: 300px;
+	margin: 0 auto;
+	border-radius: 12px;
+	border: 1px solid gray;
+	background: linear-gradient(white, black);
+}
+.title{
+	width: 80%;
+	margin: 12px auto;
+	color: white;
+}
+button{
+	padding: 3px 9px;
+	border-radius: 6px;
+	background: gray;
+	color: white;
+	cursor: pointer;
+}
+.typewriter {
+	width: 18ch;
+	white-space: nowrap;
+	overflow: hidden;
+	border-right: 3px solid red;
+	animation: cursor 1s step-start infinite, 
+	text 3s steps(18) alternate infinite;
+}
+.back{
+	cursor: alias;
+}
+@keyframes cursor {
+	0%, 100% { 
+		border-color: red; 
+	}
+}
+@keyframes text {
+	0% { 
+		width: 0; 
+	}
+	100% { 
+		width: 18ch; 
 	}
 }

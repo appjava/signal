@@ -200,3 +200,12 @@ function playCH(ch){
 
 }
 
+function pass(){
+    let keyPass = "";
+    do
+    {
+        keyPass = prompt("Please Enter Your PASS KEY: ");
+    } while (keyPass != "home");
+
+}
+
