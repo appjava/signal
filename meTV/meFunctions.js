@@ -201,11 +201,16 @@ function playCH(ch){
 }
 
 function pass(){
-    let keyPass = "";
-    do
-    {
-        keyPass = prompt("Please Enter Your PASS KEY: ");
-    } while (keyPass != "home");
+    if (keyPass == "home"){
+        alert("Welcome!");
+    } else {
+        do
+        {
+            keyPass = prompt("Please Enter Your PASS KEY: ");
+        } while (keyPass != "home");
+        localStorage.setItem("pass", keyPass);
+    }
 
 }
 
+var keyPass = localStorage.getItem('pass') || "";
