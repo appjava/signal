@@ -3,12 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>meTV plus</title>
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
+    <link rel="shortcut icon" href="favicon.ico">
+    
     <link rel="stylesheet" href="meDesign.css" />
-    <script src="meFunctions.js" ></script>
+    <title>meTV plus</title>
+    
+    
         
 </head>
-
+<body class="plus">
     <div class="page">
         <h2 class="title typewriter" >CHANNELS PLUS</h2>
         <ul class="parrilla">
@@ -28,8 +32,6 @@
             <h3><button onclick="selectFrame(id)" id="dsport">DSPORT</button></h3>
             <h3><button onclick="selectFrame(id)" id="dsport2">DSPORT2</button></h3>
             <h3><button onclick="selectFrame(id)" id="wmas">W+</button></h3>
-            
-
         </ul>
         <fieldset class="meframe">
             <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
@@ -37,49 +39,7 @@
        
     </div>
     <h3><a href="index.html"><button class="back">Home</button></a></h3>
-
-    <script>
-        var frame = document.querySelector("iframe");
-        var meframe = document.getElementById('meframe');
-        meframe.src = "https://videos.pexels.com/video-files/5897817/5897817-uhd_2560_1440_25fps.mp4";
-        let id;
-        function selectFrame(id){
-            frame.style.background = "none";
-            if (id == "tnt"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
-            } else if (id == "space"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
-            } else if (id == "cinecanal"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
-            } else if (id == "axn"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
-            } else if (id == "warner"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
-            }  else if (id == "espn"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn.html";
-            } else if (id == "espn2"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn2.html";
-            } else if (id == "paramount"){
-                meframe.src = "https://streamplayweb.com/tv/paramount.php";
-            } else if (id == "hbo"){
-                meframe.src = "https://streamplayweb.com/tv/hbo.php";
-            } else if (id == "hbo2"){
-                meframe.src = "https://streamplayweb.com/tv/hbo2.php";
-            } else if (id == "hbo+"){
-                meframe.src = "https://streamplayweb.com/tv/hboplus.php";
-            } else if (id == "dsport"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports.html";
-            } else if (id == "dsport2"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports2.html";
-            } else if (id == "wmas"){
-                meframe.src = "https://tucanaldeportivo.org/winmas.php";
-            } else if (id == "cinemax"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinemax.html";
-            } else if (id == "star"){
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/starchannel.html";
-            } 
-        }
-    </script>
-
+    
+    <script src="plus.js" ></script>
 </body>
 </html>

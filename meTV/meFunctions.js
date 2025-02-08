@@ -1,4 +1,4 @@
-console.log("Welcome You!");
+console.log("Welcome You!!");
 
 var video = document.getElementById('video');
 var channels = [];
@@ -199,18 +199,20 @@ function playCH(ch){
     }
 
 }
-
+//-------------- KeyyPass ----------------------
+const key = "home";
+var keyPass = localStorage.getItem('pass') || "";
 function pass(){
-    if (keyPass == "home"){
+    if (keyPass == key){
         alert("Welcome!");
     } else {
         do
         {
             keyPass = prompt("Please Enter Your PASS KEY: ");
-        } while (keyPass != "home");
+        } while (keyPass != key);
         localStorage.setItem("pass", keyPass);
     }
 
 }
 
-var keyPass = localStorage.getItem('pass') || "";
+
