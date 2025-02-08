@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>meTV+</title>
+    <title>meTV plus</title>
     <link rel="stylesheet" href="meDesign.css" />
     <script src="meFunctions.js" ></script>
         
@@ -26,7 +26,8 @@
             <h3><button onclick="selectFrame(id)" id="espn">ESPN</button></h3>
             <h3><button onclick="selectFrame(id)" id="espn2">ESPN2</button></h3>
             <h3><button onclick="selectFrame(id)" id="dsport">DSPORT</button></h3>
-            <!--<h3><button onclick="selectFrame(id)" id="wmas">W+</button></h3>-->
+            <h3><button onclick="selectFrame(id)" id="dsport2">DSPORT2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="wmas">W+</button></h3>
             
 
         </ul>
@@ -38,10 +39,12 @@
     <h3><a href="index.html"><button class="back">Home</button></a></h3>
 
     <script>
+        var frame = document.querySelector("iframe");
         var meframe = document.getElementById('meframe');
-        meframe.src = "";
+        meframe.src = "https://videos.pexels.com/video-files/5897817/5897817-uhd_2560_1440_25fps.mp4";
         let id;
         function selectFrame(id){
+            frame.style.background = "none";
             if (id == "tnt"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
             } else if (id == "space"){
@@ -66,6 +69,8 @@
                 meframe.src = "https://streamplayweb.com/tv/hboplus.php";
             } else if (id == "dsport"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports.html";
+            } else if (id == "dsport2"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports2.html";
             } else if (id == "wmas"){
                 meframe.src = "https://tucanaldeportivo.org/winmas.php";
             } else if (id == "cinemax"){

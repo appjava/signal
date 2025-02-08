@@ -207,8 +207,8 @@ iframe{
 	height: auto;
 	min-height: 300px;
 	margin: 0 auto;
-	border-radius: 12px;
-	border: 1px solid gray;
+	border-radius: 0px;
+	border: 1px none gray;
 	background: linear-gradient(white, black);
 }
 .title{
