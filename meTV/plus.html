@@ -42,8 +42,7 @@
             <h3><button onclick="selectFrame(id)" id="wmas">WIN+</button></h3>
             <h3><button onclick="selectFrame(id)" id="caracol">CARACOL</button></h3>
         </ul>-->
-        <fieldset class="meframe">
-            <select onchange="selectFrame(this.value)">
+        <select onchange="selectFrame(this.value)">
                 <option value="">Select Channel</option>
                 <option value="tnt">TNT</option>
                 <option value="space">SPACE</option>
@@ -71,11 +70,13 @@
                 <option value="wmas">WIN+</option>
                 <option value="caracol">CARACOL</option>
             </select>
+        <fieldset class="meframe">
+            
             <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
         </fieldset>
        
     </div>
-    <span><a href="index.html"><button class="back">Home</button></a></span>
+    <span class="back"><a href="index.html"><button>Go Home</button></a></span>
 
     <script src="plus.js" ></script>
 </body>

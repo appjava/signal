@@ -202,27 +202,32 @@ video{
 button:hover{
 	scale: 1.2;
 }
-
-.meframe{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
+.plus{
 	width: 90%;
-	height: 50vw; /* 30vw*/
-	/*min-height: 420px;*/
+	margin: 0 auto;
+}
+.meframe{
+	overflow: hidden;
+  	width: 100%;
+  	padding-top: 56.25%;
+	position: relative;
 	background: none;
-	margin: 0px auto;
-	margin-bottom: 24px;
-	border: 1px none gray;
+	margin: 3px auto;
+	border: 1px dotted rgb(48, 48, 48);
 	align-items: center;
 	
 }
 iframe{
-	width: 100%;
-	height: 100%;
-	margin: 0 auto;
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	width: 100%;
+  	height: 100%;
+
 	border-radius: 12px 12px 0px 0px;
-	border: 1px none gray;
+	border: 1px none green;
 	background: linear-gradient(white, black);
 }
 .title{
@@ -248,8 +253,13 @@ button{
 	text 3s steps(18) alternate infinite;
 }
 .back{
+	display: block;
+	text-align: left;
+	background-color: none
+}
+.back button{
 	cursor: alias;
-	margin-top: 30px;
+	background-color: rgb(48, 48, 48);
 }
 select{
 	width: 100%;

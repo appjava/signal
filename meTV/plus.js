@@ -70,7 +70,7 @@ var frame = document.querySelector("iframe");
             } else{
                 meframe.src = "";
                 frame.style.borderRadius = "12px";
-                frame.style.border = "1px solid gray";
+                //frame.style.border = "1px solid gray";
             }
             
         }
