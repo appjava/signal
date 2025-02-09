@@ -18,7 +18,8 @@ var frame = document.querySelector("iframe");
                 //meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/axn.html";
             } else if (id == "warner"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
+                //meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html";
             }  else if (id == "espn"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn.html";
             } else if (id == "espn2"){
@@ -43,5 +44,18 @@ var frame = document.querySelector("iframe");
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/starchannel.html";
             } else if (id == "studio"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html";
-            } 
+            } else if (id == "history"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/history.html";
+            } else if (id == "history2"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/history2.html";
+            } else if (id == "science"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/discoveryscience.html";
+            } else if (id == "world"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/discoveryworld.html";
+            } else if (id == "theater"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/discoverytheater.html";
+            } else if (id == "amc"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/amc.html";
+            }
+            
         }
