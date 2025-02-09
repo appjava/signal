@@ -43,33 +43,33 @@
             <h3><button onclick="selectFrame(id)" id="caracol">CARACOL</button></h3>
         </ul>-->
         <fieldset class="meframe">
-            <select>
-                <option id="" onclick="selectFrame(id)">Select Channel</option>
-                <option onclick="selectFrame(id)" id="tnt">TNT</option>
-                <option onclick="selectFrame(id)" id="space">SPACE</option>
-                <option onclick="selectFrame(id)" id="cinecanal">CINECANAL</option>
-                <option onclick="selectFrame(id)" id="paramount">PARAMOUNT</option>
-                <option onclick="selectFrame(id)" id="studio">STUDIO</option>
-                <option onclick="selectFrame(id)" id="hbo">HBO</option>
-                <option onclick="selectFrame(id)" id="hbo2">HBO2</option>
-                <option onclick="selectFrame(id)" id="hbo+">HBO+</option>
-                <option onclick="selectFrame(id)" id="cinemax">CINEMAX</option>
-                <option onclick="selectFrame(id)" id="axn">AXN</option>
-                <option onclick="selectFrame(id)" id="warner">WARNER</option>
-                <option onclick="selectFrame(id)" id="star">STAR</option>
-                <option onclick="selectFrame(id)" id="amc">AMC</option>
-                <option onclick="selectFrame(id)" id="history">HISTORY</option>
-                <option onclick="selectFrame(id)" id="history2">HISTORY2</option>
-                <option onclick="selectFrame(id)" id="science">SCIENCE</option>
-                <option onclick="selectFrame(id)" id="world">WORLD</option>
-                <option onclick="selectFrame(id)" id="theater">THEATER</option>
-                <option onclick="selectFrame(id)" id="espn">ESPN</option>
-                <option onclick="selectFrame(id)" id="espn2">ESPN2</option>
-                <option onclick="selectFrame(id)" id="dsport">DSPORT</option>
-                <option onclick="selectFrame(id)" id="dsport2">DSPORT2</option>
-                <option onclick="selectFrame(id)" id="win">WIN</option>
-                <option onclick="selectFrame(id)" id="wmas">WIN+</option>
-                <option onclick="selectFrame(id)" id="caracol">CARACOL</option>
+            <select onchange="selectFrame(this.value)">
+                <option value="">Select Channel</option>
+                <option value="tnt">TNT</option>
+                <option value="space">SPACE</option>
+                <option value="cinecanal">CINECANAL</option>
+                <option value="paramount">PARAMOUNT</option>
+                <option value="studio">STUDIO</option>
+                <option value="hbo">HBO</option>
+                <option value="hbo2">HBO2</option>
+                <option value="hbo+">HBO+</option>
+                <option value="cinemax">CINEMAX</option>
+                <option value="axn">AXN</option>
+                <option value="warner">WARNER</option>
+                <option value="star">STAR</option>
+                <option value="amc">AMC</option>
+                <option value="history">HISTORY</option>
+                <option value="history2">HISTORY2</option>
+                <option value="science">SCIENCE</option>
+                <option value="world">WORLD</option>
+                <option value="theater">THEATER</option>
+                <option value="espn">ESPN</option>
+                <option value="espn2">ESPN2</option>
+                <option value="dsport">DSPORT</option>
+                <option value="dsport2">DSPORT2</option>
+                <option value="win">WIN</option>
+                <option value="wmas">WIN+</option>
+                <option value="caracol">CARACOL</option>
             </select>
             <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
         </fieldset>

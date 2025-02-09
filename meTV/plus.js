@@ -5,6 +5,7 @@ var frame = document.querySelector("iframe");
         meframe.src = "";
         let id;
         function selectFrame(id){
+            console.log("Enter Function Selec");
             frame.style.background = "none";
             //frame.style.border = "none";
 
