@@ -12,12 +12,12 @@ body {
 	color: white;
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	-ms-overflow-style: scrollbar;
-    -webkit-app-region:drag;
+    -webkit-app-region: drag;
 }
 div {
 	display: flex;
 	flex-direction: column;
-	border: 2px solid #212529;
+	border: 2px none #212529;
 	border-radius: 9px;
 	text-align: center;
 	height: auto;
@@ -35,7 +35,6 @@ fieldset{
 	width: 1140px;
 	border: 1px none red;
 	margin: 0 auto;
-	
 }
 video{
 	width: 100%;
@@ -156,11 +155,11 @@ video{
 		height: 100vh;
 	}
 	.selection{
-	background: none;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	gap: 1px;
+		background: none;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1px;
 	}
 	.selection select {
 		width: 100%;
@@ -180,8 +179,11 @@ video{
 	}
 }
 
+/* CSS to PLUS */ 
+
 .parrilla{
 	width: 90%;
+	max-width: 600px;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 3px;
@@ -190,6 +192,17 @@ video{
 	background: none;
 	justify-content: center;
 }
+.parrilla button{
+	padding: 6px 6px;
+	border-radius: 3px;
+	flex-grow: 6;
+	box-shadow: 0px 1px 4px rgb(0, 255, 0, 0.5);
+	text-align: center;
+}
+button:hover{
+	scale: 1.2;
+}
+
 .meframe{
 	display: inline-flex;
 	width: 90%;
@@ -207,27 +220,29 @@ iframe{
 	height: auto;
 	min-height: 300px;
 	margin: 0 auto;
-	border-radius: 0px;
+	border-radius: 12px 12px 0px 0px;
 	border: 1px none gray;
 	background: linear-gradient(white, black);
 }
 .title{
-	width: 80%;
+	width: 75%;
 	margin: 12px auto;
 	color: white;
 }
 button{
 	padding: 3px 9px;
 	border-radius: 6px;
+	border: none;
 	background: gray;
 	color: white;
 	cursor: pointer;
 }
+
 .typewriter {
 	width: 18ch;
 	white-space: nowrap;
 	overflow: hidden;
-	border-right: 3px solid red;
+	border-right: 3px solid white;
 	animation: cursor 1s step-start infinite, 
 	text 3s steps(18) alternate infinite;
 }
@@ -236,7 +251,7 @@ button{
 }
 @keyframes cursor {
 	0%, 100% { 
-		border-color: red; 
+		border-color: rgb(0,255,0); 
 	}
 }
 @keyframes text {
