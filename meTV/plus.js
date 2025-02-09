@@ -36,10 +36,13 @@ var frame = document.querySelector("iframe");
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports.html";
             } else if (id == "dsport2"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports2.html";
+            } else if (id == "win"){
+                meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports";
             } else if (id == "wmas"){
                 //meframe.src = "https://tucanaldeportivo.org/winmas.php";
-                meframe.src = "https://streamtp2.com/global1.php?stream=winplus";
-                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsportsplus";
+                //meframe.src = "https://streamtp2.com/global1.php?stream=winplus";
+                meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsportsplus";       
+                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports2";
             } else if (id == "cinemax"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinemax.html";
             } else if (id == "star"){
@@ -58,6 +61,9 @@ var frame = document.querySelector("iframe");
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/discoverytheater.html";
             } else if (id == "amc"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/amc.html";
+            } else if (id == "caracol"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/caracol.html";
+                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=caracol";
             }
             
         }
