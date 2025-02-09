@@ -68,6 +68,11 @@
     "id": "ch13",
     "name": "LIVE",
     "link": "https://d2.dunyapurkaraja.com:999/hls/disneyplus.m3u8?md5=6fGMK046LWdG9qMoYq1LGQ&expires=1739121026"
+  },
+  {
+    "id": "ch14",
+    "name": "Ahora",
+    "link": "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8"
   }
 
   
