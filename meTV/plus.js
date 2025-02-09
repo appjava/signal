@@ -68,7 +68,7 @@ var frame = document.querySelector("iframe");
                 //meframe.src = "https://la12hd.com/vivo/canal.php?stream=caracol";
             } else{
                 meframe.src = "";
-                frame.style.borderRadius = "12px"
+                frame.style.borderRadius = "12px";
                 frame.style.border = "1px solid gray";
             }
             
