@@ -180,7 +180,7 @@ video{
 }
 
 /* CSS to PLUS */ 
-
+	
 .parrilla{
 	width: 90%;
 	max-width: 600px;
@@ -205,6 +205,9 @@ button:hover{
 .plus{
 	width: 90%;
 	margin: 0 auto;
+}
+.page{
+	display: block;
 }
 .meframe{
 	overflow: hidden;
@@ -274,6 +277,7 @@ select{
 	border-radius: 6px;
 	cursor: pointer;
 }
+
 @keyframes cursor {
 	0%, 100% { 
 		border-color: rgb(0,255,0); 

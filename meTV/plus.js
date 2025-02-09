@@ -1,10 +1,9 @@
-console.log("Welcome to plus page!");
-
 var frame = document.querySelector("iframe");
-        var meframe = document.getElementById('meframe');
-        meframe.src = "";
-        let id;
-        function selectFrame(id){
+var meframe = document.getElementById('meframe');
+meframe.src = "";
+let id;
+
+function selectFrame(id){
             console.log("Enter Function Selec");
             frame.style.background = "none";
             //frame.style.border = "none";
@@ -72,5 +71,28 @@ var frame = document.querySelector("iframe");
                 frame.style.borderRadius = "12px";
                 //frame.style.border = "1px solid gray";
             }
-            
-        }
+}
+
+//-------------- KeyyPass ----------------------
+const key = "home";
+var keyPass = localStorage.getItem('pass') || "";
+var plusPage = document.querySelector(".page");
+var bntPASS = document.getElementById("btnPass");
+bntPASS.style.display = "block";
+
+function pass(){
+    keyPass = prompt("Please Enter Your PASS KEY: ");
+
+    if (keyPass == key){
+        //alert("Welcome!");
+        console.log("Welcome to plus page!");
+        plusPage.style.display = "block";
+        localStorage.setItem("pass", keyPass);
+        bntPASS.style.display = "none";
+    } else {
+        alert("Incorrect PASS KEY!");
+        bntPASS.style.display = "block";
+    }
+
+}
+//pass();
