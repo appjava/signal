@@ -184,7 +184,7 @@ video{
 .parrilla{
 	width: 90%;
 	max-width: 600px;
-	display: flex;
+	display: none; /* flex*/
 	flex-wrap: wrap;
 	gap: 3px;
 	margin: 12px auto;
@@ -204,21 +204,24 @@ button:hover{
 }
 
 .meframe{
-	display: inline-flex;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 	width: 90%;
 	max-width: 750px;
-	height: 30vw;
-	min-height: 300px;
+	height: auto; /* 30vw*/
+	/*min-height: 420px;*/
 	background: none;
 	margin: 0px auto;
 	margin-bottom: 24px;
-	border: solid 0px gray;
+	border: 1px none gray;
 	align-items: center;
+	
 }
 iframe{
 	width: 100%;
 	height: auto;
-	min-height: 300px;
+	min-height: 350px;
 	margin: 0 auto;
 	border-radius: 12px 12px 0px 0px;
 	border: 1px none gray;
@@ -248,6 +251,19 @@ button{
 }
 .back{
 	cursor: alias;
+}
+select{
+	width: auto;
+	text-align: center;
+	background: none;
+	color: white;
+	border: none;
+	padding: 3px 9px;
+	text-transform: uppercase;
+	font-size: 18px;
+	border: 1px none gray;
+	border-radius: 6px;
+	cursor: pointer;
 }
 @keyframes cursor {
 	0%, 100% { 

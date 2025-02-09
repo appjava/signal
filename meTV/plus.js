@@ -64,6 +64,9 @@ var frame = document.querySelector("iframe");
             } else if (id == "caracol"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/caracol.html";
                 //meframe.src = "https://la12hd.com/vivo/canal.php?stream=caracol";
+            } else{
+                meframe.src = "";
+                frame.style.background = "gray";
             }
             
         }
