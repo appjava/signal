@@ -208,8 +208,7 @@ button:hover{
 	flex-direction: row;
 	flex-wrap: wrap;
 	width: 90%;
-	max-width: 750px;
-	height: auto; /* 30vw*/
+	height: 50vw; /* 30vw*/
 	/*min-height: 420px;*/
 	background: none;
 	margin: 0px auto;
@@ -220,8 +219,7 @@ button:hover{
 }
 iframe{
 	width: 100%;
-	height: auto;
-	min-height: 350px;
+	height: 100%;
 	margin: 0 auto;
 	border-radius: 12px 12px 0px 0px;
 	border: 1px none gray;
@@ -251,15 +249,17 @@ button{
 }
 .back{
 	cursor: alias;
+	margin-top: 30px;
 }
 select{
 	width: 100%;
-	text-align: right;
-	background: none;
+	text-align: center;
+	background: rgb(48, 48, 48);
 	color: white;
 	padding: 6px;
 	text-transform: uppercase;
 	font-size: 18px;
+	font-weight: bolder;
 	border: 1px none gray;
 	border-radius: 6px;
 	cursor: pointer;
@@ -277,3 +277,4 @@ select{
 		width: 18ch; 
 	}
 }
+
