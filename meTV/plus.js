@@ -37,7 +37,9 @@ var frame = document.querySelector("iframe");
             } else if (id == "dsport2"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports2.html";
             } else if (id == "wmas"){
-                meframe.src = "https://tucanaldeportivo.org/winmas.php";
+                //meframe.src = "https://tucanaldeportivo.org/winmas.php";
+                meframe.src = "https://streamtp2.com/global1.php?stream=winplus";
+                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsportsplus";
             } else if (id == "cinemax"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinemax.html";
             } else if (id == "star"){
