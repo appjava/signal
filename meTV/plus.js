@@ -6,6 +6,8 @@ var frame = document.querySelector("iframe");
         let id;
         function selectFrame(id){
             frame.style.background = "none";
+            //frame.style.border = "none";
+
             if (id == "tnt"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
             } else if (id == "space"){
@@ -66,7 +68,8 @@ var frame = document.querySelector("iframe");
                 //meframe.src = "https://la12hd.com/vivo/canal.php?stream=caracol";
             } else{
                 meframe.src = "";
-                frame.style.background = "gray";
+                frame.style.borderRadius = "12px"
+                frame.style.border = "1px solid gray";
             }
             
         }
