@@ -2,18 +2,21 @@ console.log("Welcome to plus page!");
 
 var frame = document.querySelector("iframe");
         var meframe = document.getElementById('meframe');
-        meframe.src = "";
+        meframe.src = "https://embed.sdfgnksbounce.com/embed2/syfy.html";
         let id;
         function selectFrame(id){
             frame.style.background = "none";
             if (id == "tnt"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
             } else if (id == "space"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
+                //meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/space.html";
             } else if (id == "cinecanal"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
+                //meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinecanal.html";
             } else if (id == "axn"){
-                meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
+                //meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/axn.html";
             } else if (id == "warner"){
                 meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
             }  else if (id == "espn"){
@@ -38,5 +41,7 @@ var frame = document.querySelector("iframe");
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinemax.html";
             } else if (id == "star"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/starchannel.html";
+            } else if (id == "studio"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html";
             } 
         }
