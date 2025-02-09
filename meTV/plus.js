@@ -2,7 +2,7 @@ console.log("Welcome to plus page!");
 
 var frame = document.querySelector("iframe");
         var meframe = document.getElementById('meframe');
-        meframe.src = "https://embed.sdfgnksbounce.com/embed2/syfy.html";
+        meframe.src = "";
         let id;
         function selectFrame(id){
             frame.style.background = "none";
