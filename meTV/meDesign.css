@@ -264,6 +264,15 @@ button{
 	cursor: alias;
 	background-color: rgb(48, 48, 48);
 }
+#btnPass{
+	display: block;
+	width: 90%;
+	background: red;
+	text-align: center;
+	margin: 60px auto;
+	height: 60px;
+	font-size: x-large;
+}
 select{
 	width: 100%;
 	text-align: center;

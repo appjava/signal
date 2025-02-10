@@ -1,3 +1,4 @@
+
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
 meframe.src = "";
@@ -78,7 +79,8 @@ const key = "home";
 var keyPass = localStorage.getItem('pass') || "";
 var plusPage = document.querySelector(".page");
 var bntPASS = document.getElementById("btnPass");
-bntPASS.style.display = "block";
+var bntBACK = document.getElementById("btnBack");
+bntPASS.style.display = "none";
 
 function pass(){
     keyPass = prompt("Please Enter Your PASS KEY: ");
@@ -86,13 +88,19 @@ function pass(){
     if (keyPass == key){
         //alert("Welcome!");
         console.log("Welcome to plus page!");
-        plusPage.style.display = "block";
         localStorage.setItem("pass", keyPass);
+        plusPage.style.display = "block";
+        //bntBACK.style.display = "block";
         bntPASS.style.display = "none";
+
     } else {
         alert("Incorrect PASS KEY!");
         bntPASS.style.display = "block";
+        plusPage.style.display = "none";
+        //bntBACK.style.display = "none";
     }
 
 }
-//pass();
+if (keyPass != key){
+   pass(); 
+}
