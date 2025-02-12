@@ -1,7 +1,7 @@
 
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "";
+meframe.src = "https://verpeliculasultra.com/misterio/4718-parpadea-dos-veces.html";
 let id;
 
 function selectFrame(id){
@@ -75,7 +75,9 @@ function selectFrame(id){
 }
 
 //-------------- KeyyPass ----------------------
-const key = "home";
+var key;
+readPass();
+
 var keyPass = localStorage.getItem('pass') || "";
 var plusPage = document.querySelector(".page");
 var bntPASS = document.getElementById("btnPass");
@@ -103,4 +105,15 @@ function pass(){
 }
 if (keyPass != key){
    pass(); 
+}
+
+function readPass(){
+    fetch("key.txt")
+    .then((res) => res.text())
+    .then((text) => {
+    // do something with "text"
+        key = text;
+        console.log(key);
+    })
+    .catch((e) => console.error(e));
 }
