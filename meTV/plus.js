@@ -1,7 +1,8 @@
 
+
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "https://verpeliculasultra.com/misterio/4718-parpadea-dos-veces.html";
+meframe.src = "";
 let id;
 
 function selectFrame(id){
@@ -75,8 +76,7 @@ function selectFrame(id){
 }
 
 //-------------- KeyyPass ----------------------
-var key;
-readPass();
+var key = "1984";
 
 var keyPass = localStorage.getItem('pass') || "";
 var plusPage = document.querySelector(".page");
@@ -85,26 +85,29 @@ var bntBACK = document.getElementById("btnBack");
 bntPASS.style.display = "none";
 
 function pass(){
+
     keyPass = prompt("Please Enter Your PASS KEY: ");
 
-    if (keyPass == key){
+    if (keyPass === key){
         //alert("Welcome!");
         console.log("Welcome to plus page!");
         localStorage.setItem("pass", keyPass);
         plusPage.style.display = "block";
         //bntBACK.style.display = "block";
         bntPASS.style.display = "none";
+        console.log("KEPASS: if")
+        console.log(keyPass);
 
     } else {
         alert("Incorrect PASS KEY!");
+        
         bntPASS.style.display = "block";
         plusPage.style.display = "none";
         //bntBACK.style.display = "none";
+        console.log("KEPASS: else")
+        console.log(keyPass);
     }
 
-}
-if (keyPass != key){
-   pass(); 
 }
 
 function readPass(){
@@ -113,7 +116,17 @@ function readPass(){
     .then((text) => {
     // do something with "text"
         key = text;
+        console.log("KEY: ")
         console.log(key);
+        console.log("KEPASS: ")
+        console.log(keyPass);
+        return key;
     })
     .catch((e) => console.error(e));
+    
 }
+
+if (keyPass != key){
+    console.log("FUNCTION PASS");
+    pass();
+ }
