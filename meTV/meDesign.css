@@ -100,6 +100,10 @@ video{
 	cursor: pointer;
 	text-transform: uppercase;
 }
+.btn a{
+	text-decoration: none;
+	color: white;
+}
 #btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown{
 	width: 45px;
 	height: auto;
