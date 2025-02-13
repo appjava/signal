@@ -13,17 +13,17 @@ function selectFrame(id){
             if (id == "tnt"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/tnt.html";
             } else if (id == "space"){
-                //meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/space.html";
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/space.php";
+                //meframe.src = "https://embed.sdfgnksbounce.com/embed2/space.html";
             } else if (id == "cinecanal"){
-                //meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinecanal.html";
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/cinecanal.php";
+                //meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinecanal.html";
             } else if (id == "axn"){
-                //meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/axn.html";
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/axn.php";
+                //meframe.src = "https://embed.sdfgnksbounce.com/embed2/axn.html";
             } else if (id == "warner"){
-                //meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
-                meframe.src = "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html";
+                meframe.src = "https://clarovideo.sdfgnksbounce.com/warnerbrostv.php";
+                //meframe.src = "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html";
             }  else if (id == "espn"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/espn.html";
             } else if (id == "espn2"){
@@ -43,9 +43,9 @@ function selectFrame(id){
             } else if (id == "win"){
                 meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports";
             } else if (id == "wmas"){
-                //meframe.src = "https://tucanaldeportivo.org/winmas.php";
+                meframe.src = "https://tucanaldeportivo.org/winmas.php";
                 //meframe.src = "https://streamtp2.com/global1.php?stream=winplus";
-                meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsportsplus";       
+                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsportsplus";       
                 //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports2";
             } else if (id == "cinemax"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/cinemax.html";
