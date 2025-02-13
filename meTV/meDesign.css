@@ -151,6 +151,36 @@ video{
 @media screen and (max-width: 600px){
 
 	.video{
+		width: 345px;
+		height: 100vh;
+	}
+	.selection{
+		background: none;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1px;
+	}
+	.selection select {
+		width: 100%;
+		height: 30px;
+		color: white;
+		background: gray;
+		border: none;
+	}
+	#btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown {
+		width: 100%;
+		height: 30px;
+		margin-left: 0px;
+		background: #212529;
+	}
+	.carga, .descarga{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 345px){
+
+	.video{
 		width: 300px;
 		height: 100vh;
 	}
