@@ -129,6 +129,9 @@ video{
 	bottom: 9px;
 	width: 12%;
 }
+#time{
+	color: gray;
+}
 @media screen and (max-width: 1200px){
 
 	.video{
