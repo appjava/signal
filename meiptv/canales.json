@@ -1,11 +1,11 @@
 {
     "Canales": [
         {
-            "nombre": "Canal 1",
+            "nombre": "HBO Extreme",
             "url": "http://181.78.105.146:8800/play/a019"
         },
         {
-            "nombre": "Canal 2",
+            "nombre": "Warner",
             "url": "http://181.78.105.146:6060/play/a02y/index.m3u8"
         }
     ]
