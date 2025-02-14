@@ -1,5 +1,4 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=464000,RESOLUTION=640X360,CODECS="avc1.77.30, mp4a.40.2",
-https://d2.dunyapurkaraja.com:999/hls/disneyplus.m3u8?md5=6fGMK046LWdG9qMoYq1LGQ&expires=1739121026
-
+http://181.78.105.146:6060/play/a02y/index.m3u8
