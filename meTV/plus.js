@@ -2,7 +2,7 @@
 
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "";
+meframe.src = "https://clarovideo.sdfgnksbounce.com/foxsports.php";
 let id;
 
 function selectFrame(id){
