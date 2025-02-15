@@ -12,5 +12,10 @@
             "nombre": "Cinemax",
             "url": "http://181.78.105.146:6060/play/a04a/index.m3u8"
         }
+        ,
+        {
+            "nombre": "Sharktank",
+            "url": "https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8"
+        }
     ]
 }
