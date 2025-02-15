@@ -2,7 +2,7 @@
 
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "https://clarovideo.sdfgnksbounce.com/foxsports.php";
+meframe.src = "";
 let id;
 
 function selectFrame(id){
@@ -41,7 +41,8 @@ function selectFrame(id){
             } else if (id == "dsport2"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/directvsports2.html";
             } else if (id == "win"){
-                meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports";
+                //meframe.src = "https://la12hd.com/vivo/canal.php?stream=winsports";
+                meframe.src = "https://streamtp2.com/global1.php?stream=winplus";
             } else if (id == "wmas"){
                 meframe.src = "https://tucanaldeportivo.org/winmas.php";
                 //meframe.src = "https://streamtp2.com/global1.php?stream=winplus";

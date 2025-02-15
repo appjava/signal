@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
+    <link rel="shortcut icon" href="favicon.ico">
+    
+    <link rel="stylesheet" href="meDesign.css" />
+    <title>meTV plus</title>
+    
+</head>
+<body class="plus">
+    <button id="btnPass" class="back" onclick="pass()">Enter Pass</button>
+    <div class="page">
+        <h2 class="title typewriter" >CHANNELS PLUS</h2>
+        <!--<ul class="parrilla">
+            <h3><button onclick="selectFrame(id)" id="tnt">TNT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="space">SPACE</button></h3>
+            <h3><button onclick="selectFrame(id)" id="cinecanal">CINECANAL</button></h3>
+            <h3><button onclick="selectFrame(id)" id="paramount">PARAMOUNT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="studio">STUDIO</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo">HBO</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo2">HBO2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="hbo+">HBO+</button></h3>
+            <h3><button onclick="selectFrame(id)" id="cinemax">CINEMAX</button></h3>
+            <h3><button onclick="selectFrame(id)" id="axn">AXN</button></h3>
+            <h3><button onclick="selectFrame(id)" id="warner">WARNER</button></h3>
+            <h3><button onclick="selectFrame(id)" id="star">STAR</button></h3>
+            <h3><button onclick="selectFrame(id)" id="amc">AMC</button></h3>
+            <h3><button onclick="selectFrame(id)" id="history">HISTORY</button></h3>
+            <h3><button onclick="selectFrame(id)" id="history2">HISTORY2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="science">SCIENCE</button></h3>
+            <h3><button onclick="selectFrame(id)" id="world">WORLD</button></h3>
+            <h3><button onclick="selectFrame(id)" id="theater">THEATER</button></h3>
+            <h3><button onclick="selectFrame(id)" id="espn">ESPN</button></h3>
+            <h3><button onclick="selectFrame(id)" id="espn2">ESPN2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="dsport">DSPORT</button></h3>
+            <h3><button onclick="selectFrame(id)" id="dsport2">DSPORT2</button></h3>
+            <h3><button onclick="selectFrame(id)" id="win">WIN</button></h3>
+            <h3><button onclick="selectFrame(id)" id="wmas">WIN+</button></h3>
+            <h3><button onclick="selectFrame(id)" id="caracol">CARACOL</button></h3>
+        </ul>-->
+        <select onchange="selectFrame(this.value)">
+                <option value="">Select Channel</option>
+                <option value="tnt">TNT</option>
+                <option value="space">SPACE</option>
+                <option value="cinecanal">CINECANAL</option>
+                <option value="paramount">PARAMOUNT</option>
+                <option value="studio">STUDIO</option>
+                <option value="hbo">HBO</option>
+                <option value="hbo2">HBO2</option>
+                <option value="hbo+">HBO+</option>
+                <option value="cinemax">CINEMAX</option>
+                <option value="axn">AXN</option>
+                <option value="warner">WARNER</option>
+                <option value="star">STAR</option>
+                <option value="amc">AMC</option>
+                <option value="history">HISTORY</option>
+                <option value="history2">HISTORY2</option>
+                <option value="science">SCIENCE</option>
+                <option value="world">WORLD</option>
+                <option value="theater">THEATER</option>
+                <option value="espn">ESPN</option>
+                <option value="espn2">ESPN2</option>
+                <option value="dsport">DSPORT</option>
+                <option value="dsport2">DSPORT2</option>
+                <option value="win">WIN</option>
+                <option value="wmas">WIN+</option>
+                <option value="caracol">CARACOL</option>
+            </select>
+        <fieldset class="meframe">
+            
+            <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
+        </fieldset>
+       
+    </div>
+    <span class="back" id="btnBack"><a href="index.html"><button>Go Home</button></a></span>
+    
+    <script src="plus.js" ></script>
+</body>
+</html>

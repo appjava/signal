@@ -11,36 +11,23 @@
     
 </head>
 <body class="plus">
-    <button id="btnPass" class="back" onclick="pass()">Enter Pass</button>
-    <div class="page">
+    <!-- Contenedor principal -->
+  <div id="app"></div>
+
+  <!-- Incluir el script de autenticación -->
+  <script src="auth.js"></script>
+
+  <script>
+    // Obtener el contenedor principal
+    const app = document.getElementById("app");
+
+    // Verificar si el usuario ya está autenticado
+    if (estaAutenticado()) {
+      // Mostrar el reproductor
+      app.innerHTML = `
+      <div class="page">
         <h2 class="title typewriter" >CHANNELS PLUS</h2>
-        <!--<ul class="parrilla">
-            <h3><button onclick="selectFrame(id)" id="tnt">TNT</button></h3>
-            <h3><button onclick="selectFrame(id)" id="space">SPACE</button></h3>
-            <h3><button onclick="selectFrame(id)" id="cinecanal">CINECANAL</button></h3>
-            <h3><button onclick="selectFrame(id)" id="paramount">PARAMOUNT</button></h3>
-            <h3><button onclick="selectFrame(id)" id="studio">STUDIO</button></h3>
-            <h3><button onclick="selectFrame(id)" id="hbo">HBO</button></h3>
-            <h3><button onclick="selectFrame(id)" id="hbo2">HBO2</button></h3>
-            <h3><button onclick="selectFrame(id)" id="hbo+">HBO+</button></h3>
-            <h3><button onclick="selectFrame(id)" id="cinemax">CINEMAX</button></h3>
-            <h3><button onclick="selectFrame(id)" id="axn">AXN</button></h3>
-            <h3><button onclick="selectFrame(id)" id="warner">WARNER</button></h3>
-            <h3><button onclick="selectFrame(id)" id="star">STAR</button></h3>
-            <h3><button onclick="selectFrame(id)" id="amc">AMC</button></h3>
-            <h3><button onclick="selectFrame(id)" id="history">HISTORY</button></h3>
-            <h3><button onclick="selectFrame(id)" id="history2">HISTORY2</button></h3>
-            <h3><button onclick="selectFrame(id)" id="science">SCIENCE</button></h3>
-            <h3><button onclick="selectFrame(id)" id="world">WORLD</button></h3>
-            <h3><button onclick="selectFrame(id)" id="theater">THEATER</button></h3>
-            <h3><button onclick="selectFrame(id)" id="espn">ESPN</button></h3>
-            <h3><button onclick="selectFrame(id)" id="espn2">ESPN2</button></h3>
-            <h3><button onclick="selectFrame(id)" id="dsport">DSPORT</button></h3>
-            <h3><button onclick="selectFrame(id)" id="dsport2">DSPORT2</button></h3>
-            <h3><button onclick="selectFrame(id)" id="win">WIN</button></h3>
-            <h3><button onclick="selectFrame(id)" id="wmas">WIN+</button></h3>
-            <h3><button onclick="selectFrame(id)" id="caracol">CARACOL</button></h3>
-        </ul>-->
+        
         <select onchange="selectFrame(this.value)">
                 <option value="">Select Channel</option>
                 <option value="tnt">TNT</option>
@@ -65,18 +52,26 @@
                 <option value="espn2">ESPN2</option>
                 <option value="dsport">DSPORT</option>
                 <option value="dsport2">DSPORT2</option>
-                <option value="win">WIN</option>
+                <!--<option value="win">WINplus</option>-->
                 <option value="wmas">WIN+</option>
                 <option value="caracol">CARACOL</option>
             </select>
         <fieldset class="meframe">
-            
             <iframe id="meframe" allowfullscreen allow="encrypted-media"></iframe>
         </fieldset>
-       
     </div>
     <span class="back" id="btnBack"><a href="index.html"><button>Go Home</button></a></span>
+
     
-    <script src="plus.js" ></script>
+      `;
+    } else {
+      // Mostrar el formulario de autenticación
+      mostrarFormularioAutenticacion(app);
+    }
+
+  </script>
+
+
+<script src="plus.js" ></script>
 </body>
 </html>
