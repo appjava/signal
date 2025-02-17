@@ -66,13 +66,43 @@
   },
   {
     "id": "ch13",
-    "name": "LIVE",
-    "link": "https://d2.dunyapurkaraja.com:999/hls/disneyplus.m3u8?md5=6fGMK046LWdG9qMoYq1LGQ&expires=1739121026"
+    "name": "CanalUNO",
+    "link": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8"
   },
   {
     "id": "ch14",
-    "name": "Ahora",
-    "link": "https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8"
+    "name": "ZAZ",
+    "link": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8"
+  },
+  {
+    "id": "ch15",
+    "name": "GarageTV",
+    "link": "https://stream1.sersat.com/hls/garagetv.m3u8"
+  },
+  {
+    "id": "ch16",
+    "name": "AMC",
+    "link": "https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8"
+  },
+  {
+    "id": "ch17",
+    "name": "Brightside",
+    "link": "https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8"
+  },
+  {
+    "id": "ch18",
+    "name": "Brightside",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/playlist.m3u8"
+  },
+  {
+    "id": "ch19",
+    "name": "PowerNation",
+    "link": "https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8"
+  },
+  {
+    "id": "ch20",
+    "name": "LovePlanet",
+    "link": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8"
   }
 
   
