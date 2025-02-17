@@ -271,7 +271,7 @@ button:hover{
 
 	border-radius: 12px 12px 0px 0px;
 	border: 1px none green;
-	background: linear-gradient(purple, black);
+	background: linear-gradient(gray, black);
 }
 .title{
 	width: 75%;
