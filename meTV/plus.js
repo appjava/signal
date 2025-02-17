@@ -2,7 +2,7 @@
 
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "https://embed.sdfgnksbounce.com/embed/fx.html";
+meframe.src = "";
 //meframe.src = "https://youtube.com/embed/pKmSdY56VtY";
 let id;
 
