@@ -91,7 +91,7 @@
   },
   {
     "id": "ch18",
-    "name": "Brightside",
+    "name": "SaberMas",
     "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/playlist.m3u8"
   },
   {
