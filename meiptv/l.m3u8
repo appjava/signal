@@ -1,7 +1,4 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=464000,RESOLUTION=640X360,CODECS="avc1.77.30, mp4a.40.2",
-#https://jf1.naqsheala.com:999/hls/extremouno.m3u8?md5=sra5TdoVdq3j9kpJQ58VJg&expires=1739999814
-#https://d9.dunyapurkaraja.com:999/hls/bbtsp2.m3u8?md5=IKRmMRFCU5kecXjUbVKINQ&expires=1739999578
-#https://d7.dunyapurkaraja.com:999/hls/do2.m3u8?md5=VA1tTIIjeWqJyJyCLU1M-A&expires=1739999721
-https://jf1.naqsheala.com:999/hls/extremouno.m3u8?md5=lhPedB7Z-up9YDm0H4LKzg&expires=1740007159
+https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8?uid=xGIVwJUikPtn6pRz5JXemhteHIVavsRE&sid=vRd7tTxEqcPipP7vrk3yOucveGmQQ3uc&pid=SfO93npfgzUPlxw8QZ4O42s0SdfgEl2s&an=screen&at=web-app&av=v6.0.135&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=918x516&without_cookies=false&listenerid=&dnt=true&access_token=N5rw2Fq4en5aS8hblsQs07d9gMEwAokzCBl1Ps88y8AHCJUdJjvLI8LxGJ0wYHZBiObfPdB2yDV
