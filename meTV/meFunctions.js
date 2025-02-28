@@ -5,7 +5,7 @@ var channels = [];
 var localCHs = JSON.parse(localStorage.getItem('localCHs')) || [{
     id:     "",
     name:   "Load Something",
-    link:   "#",
+    link:   "#"
 }];
 
 function checkLocal(){
