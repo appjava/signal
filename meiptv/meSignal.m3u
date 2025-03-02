@@ -289,20 +289,12 @@ http://181.78.105.146:6060/play/a02x/index.m3u8
 #----------------------------
 #EXTINF:-1,ESPN (38)
 http://38.41.8.1:8000/play/a06r
-#EXTINF:-1,ESPN (4000)
-http://190.60.49.243:4000/play/a06v
 
 #EXTINF:-1,ESPN2 (38)
 http://38.41.8.1:8000/play/a05o
-#EXTINF:-1,ESPN2 (4000)
-http://190.60.49.243:4000/play/a072
+
 
 #--------------------------------------------------
 
 #EXTINF:-1,W+ live
 https://appjava.github.io/signal/meiptv/w.m3u8
-#EXTINF:-1,DS live
-https://appjava.github.io/signal/meiptv/d.m3u8
-#EXTINF:-1,LIVE Caracol
-#https://appjava.github.io/signal/meiptv/l.m3u8
-https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8?uid=xGIVwJUikPtn6pRz5JXemhteHIVavsRE&sid=vRd7tTxEqcPipP7vrk3yOucveGmQQ3uc&pid=SfO93npfgzUPlxw8QZ4O42s0SdfgEl2s&an=screen&at=web-app&av=v6.0.135&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=918x516&without_cookies=false&listenerid=&dnt=true&access_token=N5rw2Fq4en5aS8hblsQs07d9gMEwAokzCBl1Ps88y8AHCJUdJjvLI8LxGJ0wYHZBiObfPdB2yDV
