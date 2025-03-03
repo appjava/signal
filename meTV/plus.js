@@ -70,6 +70,8 @@ function selectFrame(id){
             } else if (id == "caracol"){
                 meframe.src = "https://embed.sdfgnksbounce.com/embed2/caracol.html";
                 //meframe.src = "https://la12hd.com/vivo/canal.php?stream=caracol";
+            } else if (id == "sonych"){
+                meframe.src = "https://embed.sdfgnksbounce.com/embed2/sony.html";
             } else{
                 meframe.src = "";
                 frame.style.borderRadius = "12px";
