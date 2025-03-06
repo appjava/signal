@@ -3,5 +3,20 @@
     "id": "ch0",
     "name": "Select Movie",
     "link": "#"
+  },
+  {
+    "id": "ch1",
+    "name": "I.S.S.",
+    "link": "https://lu1r85hg8m.premilkyway.com/hls2/01/08455/gdzlsvqhhzaq_n/master.m3u8?t=Y2c6BKQAbnxg7ZLnJF6wLgqFy6D9THPGDzG5SEvxyq4&s=1741299723&e=129600&f=42279763&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=13489"
+  },
+  {
+    "id": "ch2",
+    "name": "Un Lugar En Silencio: Día Uno",
+    "link": "https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/04528/rrwzwv69c2vm_n/master.m3u8?t=2aUXx0Cku2OijOJeQPjhHXqXafIqbs-N2ZZYsYEiRVw&s=1741299859&e=129600&f=22642038&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
+  },
+  {
+    "id": "ch3",
+    "name": " La Acompañante",
+    "link": "https://lu1r85hg8m.premilkyway.com/hls2/01/08579/v3uoge2a6i1s_n/master.m3u8?t=WGKUYQ7YGdCpMu_PKtywM9kYMIDQ5KAFjFCIZWOG2Q0&s=1741299915&e=129600&f=42895245&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=13489"
   }
 ]
