@@ -18,5 +18,10 @@
     "id": "ch3",
     "name": " La Acompañante",
     "link": "https://lu1r85hg8m.premilkyway.com/hls2/01/08579/v3uoge2a6i1s_n/master.m3u8?t=WGKUYQ7YGdCpMu_PKtywM9kYMIDQ5KAFjFCIZWOG2Q0&s=1741299915&e=129600&f=42895245&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=13489"
+  },
+  {
+    "id": "ch4",
+    "name": " Damaged",
+    "link": "https://82psw98llfa.premilkyway.com/hls2/01/03921/q0hus81t2nqd_n/master.m3u8?t=ix2P95Lt8SVGrZOq8HDbJ0Sc_dYGhSUCNviQ6QTCuqk&s=1741300501&e=129600&f=19605147&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=13489"
   }
 ]
