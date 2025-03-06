@@ -287,14 +287,10 @@ http://181.78.105.146:6060/play/a00q/index.m3u8
 http://181.78.105.146:6060/play/a02x/index.m3u8
 
 #----------------------------
-#EXTINF:-1,ESPN (38)
-http://38.41.8.1:8000/play/a06r
 
-#EXTINF:-1,ESPN2 (38)
-http://38.41.8.1:8000/play/a05o
-
-
-#--------------------------------------------------
-
-#EXTINF:-1,W+ live
+#EXTINF:-1,E1
+https://appjava.github.io/signal/meiptv/e1.m3u8
+#EXTINF:-1,E2
+https://appjava.github.io/signal/meiptv/e2.m3u8
+#EXTINF:-1,W+
 https://appjava.github.io/signal/meiptv/w.m3u8
