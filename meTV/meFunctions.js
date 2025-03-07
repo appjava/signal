@@ -63,7 +63,7 @@ function upMovs(){
     .then((text) => {
         localStorage.setItem('localCHs', text);
         channels = JSON.parse(localStorage.getItem('localCHs'));
-        selectCH();
+        selectCH(channels);
         document.getElementById('btnDown').style.display = "block";
         document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
@@ -76,7 +76,7 @@ function upChs(){
     .then((text) => {
         localStorage.setItem('localCHs', text);
         channels = JSON.parse(localStorage.getItem('localCHs'));
-        selectCH();
+        selectCH(channels);
         document.getElementById('btnDown').style.display = "block";
         document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
@@ -89,7 +89,7 @@ function upSomething(){
 let select = document.getElementById("channel-select");
 var ch = '';
 
-let selectCH = () => {
+let selectCH = (channels) => {
     document.getElementById('btnDel').style.display = "none";
     return (select.innerHTML = channels
       .map((x) => {
@@ -114,7 +114,7 @@ function played(){
     }
 }
 
-selectCH();
+selectCH(channels);
 
 function delCH(){
     let search = channels.find((x) => x.id === ch);
@@ -211,6 +211,6 @@ document.getElementById("time").innerHTML = showTime();
         months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
         days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
         //return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm;
-        return days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+hours+':'+minutes;
+        return days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()];
     }
 

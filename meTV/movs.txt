@@ -28,6 +28,11 @@
     "id": "ch5",
     "name": "Star Trek: Section 31",
     "link": "https://62lcxnbxr456.premilkyway.com/hls2/01/08189/p2mwiinbhq4t_n/master.m3u8?t=VlDl-YF6nCiJ58kH56Kx07YR-4YT3-nhYfzyJuJHfFU&s=1741318247&e=129600&f=40977191&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=13489"
+  },
+  {
+    "id": "ch6",
+    "name": "Los Juegos Del Hambre: Balada De Pájaros Cantores Y Serpientes",
+    "link": "https://2goita23a7njj.premilkyway.com/hls2/01/02579/65wd6jjxlhr1_n/master.m3u8?t=yRVELnvuJ1yvtVjSRTp__--bnBpXm2V-wjVGdAKLgtw&s=1741319144&e=129600&f=12897829&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=13489"
   }
 ]
 
