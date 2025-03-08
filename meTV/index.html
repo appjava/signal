@@ -11,7 +11,22 @@
   
 </head>
 <body class="index">
-  <div class="video">
+
+    <!-- Contenedor principal -->
+    <div id="app"></div>
+
+    <!-- Incluir el script de autenticación -->
+    <script src="auth.js"></script>
+  
+    <script>
+      // Obtener el contenedor principal
+      const app = document.getElementById("app");
+  
+      // Verificar si el usuario ya está autenticado
+      if (estaAutenticado()) {
+        // Mostrar el reproductor
+        app.innerHTML = `
+        <div class="video">
     <span id="labelTop" class="label"></span>
     <div class="selection">
       <span class="carga">
@@ -46,6 +61,16 @@
 
     <span id="labelTest" class="label"></span>
   </div>
+
+        `;
+      } else {
+        // Mostrar el formulario de autenticación
+        mostrarFormularioAutenticacion(app);
+      }
+  
+    </script>
+
+  
 
   <script src="meFunctions.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>

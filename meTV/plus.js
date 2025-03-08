@@ -2,7 +2,12 @@
 
 var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
-meframe.src = "";
+
+if (meframe){
+  meframe.src = "";  
+}
+
+
 
 //meframe.src = "https://youtube.com/embed/pKmSdY56VtY";
 //https://www.youtube.com/embed/ar-errnZPpQ";
@@ -82,58 +87,3 @@ function selectFrame(id){
             }
 }
 
-//-------------- KeyyPass ----------------------
-var key = "1984";
-
-var keyPass = localStorage.getItem('pass') || "";
-var plusPage = document.querySelector(".page");
-var bntPASS = document.getElementById("btnPass");
-var bntBACK = document.getElementById("btnBack");
-bntPASS.style.display = "none";
-
-function pass(){
-
-    keyPass = prompt("Please Enter Your PASS KEY: ");
-
-    if (keyPass === key){
-        //alert("Welcome!");
-        console.log("Welcome to plus page!");
-        localStorage.setItem("pass", keyPass);
-        plusPage.style.display = "block";
-        //bntBACK.style.display = "block";
-        bntPASS.style.display = "none";
-        console.log("KEPASS: if")
-        console.log(keyPass);
-
-    } else {
-        alert("Incorrect PASS KEY!");
-        
-        bntPASS.style.display = "block";
-        plusPage.style.display = "none";
-        //bntBACK.style.display = "none";
-        console.log("KEPASS: else")
-        console.log(keyPass);
-    }
-
-}
-
-function readPass(){
-    fetch("key.txt")
-    .then((res) => res.text())
-    .then((text) => {
-    // do something with "text"
-        key = text;
-        console.log("KEY: ")
-        console.log(key);
-        console.log("KEPASS: ")
-        console.log(keyPass);
-        return key;
-    })
-    .catch((e) => console.error(e));
-    
-}
-
-if (keyPass != key){
-    console.log("FUNCTION PASS");
-    pass();
- }

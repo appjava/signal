@@ -103,9 +103,36 @@
     "id": "ch20",
     "name": "LovePlanet",
     "link": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "id": "ch21",
+    "name": "Live1",
+    "link": "https://ca8s9.pricesaskeloadsc.com/global/dazn1/index.m3u8?token=780c52a1140f5be202891265974c0729e10f42b3-5c-1741468431-1741436031"
+  },
+  {
+    "id": "ch22",
+    "name": "Live2",
+    "link": "https://51a.pricesaskeloadsc.com/global/dazn1/index.m3u8?token=02026636add267136d281b118c9e3efc0611f2cf-9c-1741468613-1741436213"
+  },
+  {
+    "id": "ch23",
+    "name": "LIVE3",
+    "link": "https://jf3.naqsheala.com:999/hls/extremohuawei.m3u8?md5=wIipMra9EHVBBU4fIWCNLw&expires=1741452499"
+  },
+  {
+    "id": "ch24",
+    "name": "Live4",
+    "link": "https://227589964.cdncolony.net:8443/hls/zzf3ovfa.m3u8?s=dmvS95LpcJ9s8ASp1vqdYQ&e=1741467034"
+  },
+  {
+    "id": "ch25",
+    "name": "LIVE5",
+    "link": "https://director.taihotel.asia/v3/director/VE1ZGUzNmQ1Yzc3OTQ4LTBkMGItNzY1NC00ZmI3LTFlNjI4NzBl/master.m3u8?md5=i05jjYLpFtnKzcCbBWzhtg&expires=1741456279"
+  },
+  {
+    "id": "ch26",
+    "name": "LIVE6",
+    "link": "https://dg9wzq.fubohd.com/max2/mono.m3u8?token=4c4732c94a7a07acd5f551c96a242406ef33c2b6-5d-1741480782-1741444782"
   }
 
-  
-
-  
 ]
