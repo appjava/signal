@@ -120,7 +120,7 @@ function delCH(){
     let search = channels.find((x) => x.id === ch);
     channels.splice(channels.indexOf(search), 1);
     document.getElementById('labelTop').innerHTML = search.name.toUpperCase() +" "+ "Deleted";
-    selectCH();
+    selectCH(channels);
     ch = "";
     playCH(ch);
     localStorage.setItem('localCHs', JSON.stringify(channels));
