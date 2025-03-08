@@ -36,7 +36,7 @@ function mostrarFormularioAutenticacion(contenedor) {
   contenedor.innerHTML = `
     <div style="text-align: center; margin-top: 50px;">
       <h2>Acceso Restringido</h2>
-      <p>Por favor, ingresa la contraseña para acceder al contenido:</p>
+      <p style="width: 80%; margin: 0 auto">Por favor, ingresa la contraseña para acceder al contenido:</p>
       <input type="password" id="password-input" placeholder="Contraseña" style="padding: 10px; margin: 3px auto; width: 50%; text-align: center" />
       <button id="login-btn" style="padding: 10px 20px; margin: 3px auto; width: 120px">Ingresar</button>
       <p id="error-message" style="color: red; display: none;">Contraseña incorrecta. Inténtalo nuevamente.</p>
