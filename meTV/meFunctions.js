@@ -134,7 +134,7 @@ function delCH(){
         }];
         channels = localCHs;
         localStorage.setItem('localCHs', JSON.stringify(channels));
-        selectCH();
+        selectCH(channels);
     }
     
 }
@@ -154,7 +154,7 @@ function addCH(){
     document.getElementById('inCh').value = "";
     
     document.getElementById('btnDown').style.display = "block";
-    selectCH();
+    selectCH(channels);
     ch = "";
     //playCH(ch);
     document.getElementById('labelTest').innerHTML = chName + " " + "Added";
@@ -167,7 +167,7 @@ function testCH(){
     document.getElementById('labelTop').innerHTML = "";
     ch = document.getElementById('inCh').value;
     playCH(ch);
-    selectCH();
+    selectCH(channels);
 }
 
 function changeCH(){
