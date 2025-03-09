@@ -7,32 +7,27 @@
   {
     "id": "ch1",
     "name": "I.S.S.",
-    "link": "https://lu1r85hg8m.premilkyway.com/hls2/01/08455/gdzlsvqhhzaq_n/master.m3u8?t=Y2c6BKQAbnxg7ZLnJF6wLgqFy6D9THPGDzG5SEvxyq4&s=1741299723&e=129600&f=42279763&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=13489"
+    "link": "https://mx9skjnui4es.premilkyway.com/hls2/01/08455/gdzlsvqhhzaq_n/master.m3u8?t=Gko-KNBw3qq1T96_o3ftirEg-ihgXuCUHlo9wmPcNOo&s=1741481441&e=129600&f=42279763&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=13489"
   },
   {
     "id": "ch2",
     "name": "Un Lugar En Silencio: Día Uno",
-    "link": "https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/04528/rrwzwv69c2vm_n/master.m3u8?t=2aUXx0Cku2OijOJeQPjhHXqXafIqbs-N2ZZYsYEiRVw&s=1741299859&e=129600&f=22642038&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
+    "link": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04528/rrwzwv69c2vm_n/master.m3u8?t=Oimpbb-IhmS3DLog_e4Hpvn31z3K00u_H0-emVfq2Rg&s=1741481779&e=129600&f=22642038&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
   },
   {
     "id": "ch3",
     "name": "La Acompañante",
-    "link": "https://lu1r85hg8m.premilkyway.com/hls2/01/08579/v3uoge2a6i1s_n/master.m3u8?t=WGKUYQ7YGdCpMu_PKtywM9kYMIDQ5KAFjFCIZWOG2Q0&s=1741299915&e=129600&f=42895245&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=13489"
+    "link": "https://jturq6cd3wcv.premilkyway.com/hls2/01/08579/v3uoge2a6i1s_n/master.m3u8?t=7v6a1aN4nQxtXPT3VJO-B9xSPDGCDHbWvZArtukIu4w&s=1741481603&e=129600&f=42895245&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=13489"
   },
   {
     "id": "ch4",
     "name": "Damaged",
-    "link": "https://82psw98llfa.premilkyway.com/hls2/01/03921/q0hus81t2nqd_n/master.m3u8?t=ix2P95Lt8SVGrZOq8HDbJ0Sc_dYGhSUCNviQ6QTCuqk&s=1741300501&e=129600&f=19605147&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=13489"
+    "link": "https://cyyroro04xrqr.premilkyway.com/hls2/01/03921/q0hus81t2nqd_n/master.m3u8?t=PufbOyu4KF5SRUWM8-L5FtM76WM6BBYN7TcLkQxORhM&s=1741481653&e=129600&f=19605147&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=13489"
   },
   {
     "id": "ch5",
-    "name": "Star Trek: Section 31",
-    "link": "https://62lcxnbxr456.premilkyway.com/hls2/01/08189/p2mwiinbhq4t_n/master.m3u8?t=VlDl-YF6nCiJ58kH56Kx07YR-4YT3-nhYfzyJuJHfFU&s=1741318247&e=129600&f=40977191&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=13489"
-  },
-  {
-    "id": "ch6",
     "name": "Los Juegos Del Hambre: Balada De Pájaros Cantores Y Serpientes",
-    "link": "https://2goita23a7njj.premilkyway.com/hls2/01/02579/65wd6jjxlhr1_n/master.m3u8?t=yRVELnvuJ1yvtVjSRTp__--bnBpXm2V-wjVGdAKLgtw&s=1741319144&e=129600&f=12897829&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=13489"
+    "link": "https://g9hb6ahmf6ejy.premilkyway.com/hls2/01/02579/65wd6jjxlhr1_n/master.m3u8?t=7sTb2tuROg7i5Ruo3XM-uPagWQT4ZP_VSQoYwjU5npA&s=1741481707&e=129600&f=12897829&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=13489"
   }
 ]
 
