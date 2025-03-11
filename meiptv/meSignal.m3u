@@ -296,7 +296,7 @@ https://appjava.github.io/signal/meiptv/e2.m3u8
 https://appjava.github.io/signal/meiptv/w.m3u8
 
 #EXTINF:0,Camera 4 HD noPort
-rtsp://admin:ecohome1423@192.168.0.102/cam/realmonitor?channel=4&subtype=0
+rtsp://192.168.0.102/cam/realmonitor?channel=4&subtype=0&authbasic=YWRtaW46ZWNvaG9tZTE0MjM=
 
 #EXTINF:0,Camera 4 SD noPort
-rtsp://admin:ecohome1423@192.168.0.102/cam/realmonitor?channel=4&subtype=1
+rtsp://192.168.0.102/cam/realmonitor?channel=4&subtype=1&authbasic=YWRtaW46ZWNvaG9tZTE0MjM=
