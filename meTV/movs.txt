@@ -6,28 +6,28 @@
   },
   {
     "id": "ch1",
-    "name": "I.S.S.",
-    "link": "https://mx9skjnui4es.premilkyway.com/hls2/01/08455/gdzlsvqhhzaq_n/master.m3u8?t=Gko-KNBw3qq1T96_o3ftirEg-ihgXuCUHlo9wmPcNOo&s=1741481441&e=129600&f=42279763&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=13489"
+    "name": "Al Filo del Mañana",
+    "link": "https://dl.dropbox.com/scl/fi/ek7eiyzeo9xjvjxployya/1_4904692887838523875.mp4?rlkey=0u11lbea04adrlo0ehewincv4&st=m47bj3pk&dl=0"
   },
   {
     "id": "ch2",
-    "name": "Un Lugar En Silencio: Día Uno",
-    "link": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/04528/rrwzwv69c2vm_n/master.m3u8?t=Oimpbb-IhmS3DLog_e4Hpvn31z3K00u_H0-emVfq2Rg&s=1741481779&e=129600&f=22642038&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
+    "name": "El Justiciero",
+    "link": "https://dl.dropbox.com/scl/fi/k3keowv5cy43hg4pumv4f/JUST1C13R0-1.mp4?rlkey=dbk8nljy6mxa529b8y9kxa6so"
   },
   {
     "id": "ch3",
-    "name": "La Acompañante",
-    "link": "https://jturq6cd3wcv.premilkyway.com/hls2/01/08579/v3uoge2a6i1s_n/master.m3u8?t=7v6a1aN4nQxtXPT3VJO-B9xSPDGCDHbWvZArtukIu4w&s=1741481603&e=129600&f=42895245&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=13489"
+    "name": "Venom 1",
+    "link": "https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/Venom.1.mp4"
   },
   {
     "id": "ch4",
-    "name": "Damaged",
-    "link": "https://cyyroro04xrqr.premilkyway.com/hls2/01/03921/q0hus81t2nqd_n/master.m3u8?t=PufbOyu4KF5SRUWM8-L5FtM76WM6BBYN7TcLkQxORhM&s=1741481653&e=129600&f=19605147&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=13489"
+    "name": "Fast X",
+    "link": "https://dl.dropbox.com/s/0dushmny5bad43p/f45stX.mp4"
   },
   {
     "id": "ch5",
-    "name": "Los Juegos Del Hambre: Balada De Pájaros Cantores Y Serpientes",
-    "link": "https://g9hb6ahmf6ejy.premilkyway.com/hls2/01/02579/65wd6jjxlhr1_n/master.m3u8?t=7sTb2tuROg7i5Ruo3XM-uPagWQT4ZP_VSQoYwjU5npA&s=1741481707&e=129600&f=12897829&srv=rcw6bat4y3dx8&i=0.4&sp=500&p1=rcw6bat4y3dx8&p2=rcw6bat4y3dx8&asn=13489"
+    "name": "Piratas del Caribe 2",
+    "link": "https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4"
   }
 ]
 
