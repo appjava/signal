@@ -4,7 +4,7 @@ var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
 
 if (meframe){
-  meframe.src = "https://embed.sdfgnksbounce.com/embed/tntsports.html";  
+  meframe.src = "";  
 }
 
 
