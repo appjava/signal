@@ -300,3 +300,12 @@ rtsp://192.168.0.102/cam/realmonitor?channel=4&subtype=0&proto=Onvif
 
 #EXTINF:0,Camera 4 SD
 rtsp://192.168.0.102/cam/realmonitor?channel=4&subtype=1&proto=Onvif
+
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN SD
+http://38.41.8.1:8000/play/a06r
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN SD2
+http://38.41.8.1:8000/play/a07r
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN HD
+http://190.60.49.243:4000/play/a06v
+#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN HD2
+http://190.60.49.243:4000/play/a07d
