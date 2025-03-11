@@ -26,8 +26,38 @@
   },
   {
     "id": "ch5",
-    "name": "Piratas del Caribe 2",
-    "link": "https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4"
+    "name": "Piratas del Caribe",
+    "link": "https://ia601202.us.archive.org/15/items/p-3rl-la-n-3gr-r-4-2003-720p-lat-1-33-gb/P3rlLa%20N3grR4%20%282003%29%20720p%20LAT%201%2C33%20GB.mp4"
+  },
+  {
+    "id": "ch6",
+    "name": "The Hunger Games",
+    "link": "https://od.lk/s/NV8xODQ3NDE2NjRf/Los%20Juegos%20Del%20Hambre%202012.mp4"
+  },
+  {
+    "id": "ch7",
+    "name": "Búsqueda Implacable",
+    "link": "https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-6/Busqueda.Implacable.2008.HD.mp4"
+  },
+  {
+    "id": "ch8",
+    "name": "Furiosa: MadMax",
+    "link": "https://dl.dropbox.com/scl/fi/a40mw5j2zpz2z6knpvlx9/PS3MOVIE-..mp4?rlkey=flr1q2rqwrfc3vuqwelfn6ri1&dl=0"
+  },
+  {
+    "id": "ch9",
+    "name": "Mi Pobre Angelito",
+    "link": "https://ia802302.us.archive.org/1/items/m-1-p-0br-3-4ng-3l-1t-0-1080p-2-29-gb/M1%20p0br3%204ng3l1t0%201080p%202%2C29%20GB.mp4"
+  },
+  {
+    "id": "ch10",
+    "name": "Volver al Futuro",
+    "link": "https://ia903101.us.archive.org/0/items/volveralfuturo/Volver%20al%20Futuro.mp4"
+  },
+  {
+    "id": "ch11",
+    "name": "2012",
+    "link": "https://ia801408.us.archive.org/31/items/el-infierno/2012.ia.mp4"
   }
-]
 
+]

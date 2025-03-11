@@ -103,6 +103,13 @@
     "id": "ch20",
     "name": "LovePlanet",
     "link": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "id": "ch21",
+    "name": "LIVE1",
+    "link": "https://jf3.naqsheala.com:999/hls/extremohuawei.m3u8?md5=5YrVxFJ1BhaakX_aoimXDg&expires=1741724187"
   }
 
 ]
+
+https://jf3.naqsheala.com:999/hls/extremohuawei.m3u8?md5=5YrVxFJ1BhaakX_aoimXDg&expires=1741724187
