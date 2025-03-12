@@ -103,7 +103,20 @@
     "id": "ch20",
     "name": "LovePlanet",
     "link": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "id": "ch21",
+    "name": "Cine+",
+    "link": "https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8"
+  },
+  {
+    "id": "ch22",
+    "name": "Caracol",
+    "link": "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8"
   }
+
+
+  
 
 ]
 
