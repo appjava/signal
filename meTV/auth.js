@@ -1,3 +1,4 @@
+
 // auth.js - Control de acceso por contraseña
 
 /**

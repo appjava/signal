@@ -1,0 +1,22 @@
+{
+    "name":"meTV",
+    "short_name":"meTV",
+    "start_url": "/meTV",
+    "orientation": "portrait-primary",
+    "icons":
+        [
+            {
+                "src": "icons/web-app-manifest-192x192.png",
+                "sizes": "192x192",
+                "type": "image/png"
+            },
+            {
+                "src": "icons/web-app-manifest-512x512.png",
+                "sizes": "512x512",
+                "type": "image/png"
+              }
+        ],
+    "theme_color":"#ffffff",
+    "background_color":"#484848",
+    "display":"standalone"
+}
