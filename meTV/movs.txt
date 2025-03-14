@@ -63,6 +63,12 @@
     "id": "ch12",
     "name": "Resplandor",
     "link": "https://a99wtmgqgife.premilkyway.com/hls2/01/03230/pv6nujpa2994_,n,h,.urlset/master.m3u8?t=HfYbpsLny4S_iqSDfzOAaxILP-jAc-S2BgHAK5Vnv6E&s=1741985739&e=129600&f=16151421&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=13489"
+  },
+  {
+    "id": "ch13",
+    "name": "Resplandor v2",
+    "link": "https://s4.okhd.nu/hls2/01/00000/cqn8sb0ke22o_,l,h,x,.urlset/master.m3u8?t=Dcpu5RHSzYUk3NZhLqGazOIQZDUa60UsdibCPfFrpF8&s=1741986121&e=43200&f=4372&i=200.116&sp=0"
   }
+  
 
 ]
