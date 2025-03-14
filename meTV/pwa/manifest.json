@@ -1,7 +1,7 @@
 {
     "name":"meTV",
     "short_name":"meTV",
-    "start_url": "/meTV",
+    "start_url": "/",
     "orientation": "portrait-primary",
     "icons":
         [
