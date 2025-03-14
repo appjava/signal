@@ -1,4 +1,4 @@
-const staticPage = "meTV"
+const staticPage = "meTV+"
 const assets = [
   "/",
   "index.html"

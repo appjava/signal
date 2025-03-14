@@ -1,6 +1,6 @@
 {
-    "name":"meTV",
-    "short_name":"meTV",
+    "name":"meTV+",
+    "short_name":"meTV+",
     "start_url": "/",
     "orientation": "portrait-primary",
     "icons":
@@ -16,7 +16,7 @@
                 "type": "image/png"
               }
         ],
-    "theme_color":"#ffffff",
-    "background_color":"#484848",
+    "theme_color":"#fff",
+    "background_color":"#000",
     "display":"standalone"
 }

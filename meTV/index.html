@@ -6,20 +6,19 @@
   <meta http-equiv="Access-Control-Allow-Origin" content="*" />
   <!--<link rel="shortcut icon" href="favicon.ico">-->
   
-  <link rel="stylesheet" href="meDesign.css" >
+	<link rel="stylesheet" href="meDesign.css" >
 	<title>meTV </title>
 
   <!-------------PWA-------------->
-  <link rel="manifest" href="pwa/manifest.json">
-  <link rel="icon" type="image/png" href="pwa/icons/favicon-96x96.png" sizes="96x96" />
-  <link rel="icon" type="image/svg+xml" href="pwa/icons/favicon.svg" />
-  <link rel="shortcut icon" href="pwa/icons/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="pwa/icons/apple-touch-icon.png" />
-  <meta name="apple-mobile-web-app-title" content="meTV" />
-  <!------------------------------------------------------------->
+	<link rel="manifest" href="pwa/manifest.json">
+	<link rel="icon" type="image/png" href="pwa/icons/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="pwa/icons/favicon.svg" />
+	<link rel="shortcut icon" href="pwa/icons/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="pwa/icons/apple-touch-icon.png" />
+	
+	<meta name="apple-mobile-web-app-title" content="meTV" />
   
   <script>
-    //------------------- PWA -----------------------------//
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", function() {
       navigator.serviceWorker
@@ -28,8 +27,8 @@
         .catch(err => console.log("service worker not registered", err))
       })
     }
-    //----------------------------------------------------//
   </script>
+  <!------------------------------------------------------------->
   
 </head>
 <body class="index">
