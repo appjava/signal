@@ -68,8 +68,13 @@
     "id": "ch13",
     "name": "La Compañera Perfecta",
     "link": "https://sgtrnkvb1e.guardstorage.net/hls_3/sy2NrPxJrfw0jlsfxpVmQJCAeOUfTUx2rrWMnDsFflXVBxcJruqRMn9MZOQa7I7NIvnQ-VvDArnGmC7aaDyCww/master.m3u8?sig=8rIC4Ks-blWgjbEJZo7HzA&expires=1742004630"
+  },
+  {
+    "id": "ch14",
+    "name": "El Asesino del Calendario",
+    "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
   }
 
-
+https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0
 ]
 
