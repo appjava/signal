@@ -75,6 +75,5 @@
     "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
   }
 
-https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0
 ]
 
