@@ -5,6 +5,11 @@
     "link": "#"
   },
   {
+    "id": "ch17",
+    "name": "El Asesino del Calendario v2 EXPIRA",
+    "link": "https://rfognbc0mhhj.premilkyway.com/hls2/01/08035/myy0oaxpq6vi_,l,n,.urlset/master.m3u8?t=vDZdJ73JGXq3aorlZIWPT2zCccuPkudRQ6XAqReVxVA&s=1742000600&e=129600&f=40179107&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=13489"
+  },
+  {
     "id": "ch1",
     "name": "Al Filo del Mañana",
     "link": "https://dl.dropbox.com/scl/fi/ek7eiyzeo9xjvjxployya/1_4904692887838523875.mp4?rlkey=0u11lbea04adrlo0ehewincv4&st=m47bj3pk&dl=0"
@@ -61,19 +66,30 @@
   },
   {
     "id": "ch12",
-    "name": "Resplandor",
+    "name": "Resplandor EXPIRA",
     "link": "https://s4.okhd.nu/hls2/01/00000/cqn8sb0ke22o_,l,h,x,.urlset/master.m3u8?t=Dcpu5RHSzYUk3NZhLqGazOIQZDUa60UsdibCPfFrpF8&s=1741986121&e=43200&f=4372&i=200.116&sp=0"
   },
   {
     "id": "ch13",
-    "name": "La Compañera Perfecta",
+    "name": "La Compañera Perfecta EXPIRA",
     "link": "https://sgtrnkvb1e.guardstorage.net/hls_3/sy2NrPxJrfw0jlsfxpVmQJCAeOUfTUx2rrWMnDsFflXVBxcJruqRMn9MZOQa7I7NIvnQ-VvDArnGmC7aaDyCww/master.m3u8?sig=8rIC4Ks-blWgjbEJZo7HzA&expires=1742004630"
   },
   {
     "id": "ch14",
-    "name": "El Asesino del Calendario",
+    "name": "El Asesino del Calendario EXPIRA",
     "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
+  },
+  {
+    "id": "ch15",
+    "name": "Megalopolis EXPIRA",
+    "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
+  },
+  {
+    "id": "ch16",
+    "name": "Borderlands EXPIRA",
+    "link": "https://rfognbc0mhhj.premilkyway.com/hls2/01/05004/j1155ujdaep5_,l,n,.urlset/master.m3u8?t=UveimokrLkjAmL7wBxIYp8oMZMrfBo25dZdZul7xbG0&s=1741999950&e=129600&f=25022518&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
   }
+
 
 ]
 
