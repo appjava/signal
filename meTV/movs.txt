@@ -6,8 +6,8 @@
   },
   {
     "id": "ch17",
-    "name": "El Asesino del Calendario v2 EXPIRA",
-    "link": "https://rfognbc0mhhj.premilkyway.com/hls2/01/08035/myy0oaxpq6vi_,l,n,.urlset/master.m3u8?t=vDZdJ73JGXq3aorlZIWPT2zCccuPkudRQ6XAqReVxVA&s=1742000600&e=129600&f=40179107&srv=za19kpiaw6i&i=0.4&sp=500&p1=za19kpiaw6i&p2=za19kpiaw6i&asn=13489"
+    "name": "CLEOPATRA EXPIRA",
+    "link": "https://s39.fastream.to/hls2/06/00034/3eohfcbkebwf_,l,n,h,.urlset/master.m3u8?t=86i-LA8owXaghq7ZIT6hxjQKl-6jnyPownY5n8tvMVs&s=1742178307&e=43200&v=25551932&i=0.3&sp=0"
   },
   {
     "id": "ch1",
