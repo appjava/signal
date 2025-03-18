@@ -180,7 +180,7 @@ function changeCH(){
     playCH(search.link);
 }
 
-/*function playCH(ch){
+function playCH(ch){
     //document.getElementById('labelTest').innerHTML = ch;
     if (ch.includes("mp4")){
         video.src = ch;
@@ -199,26 +199,6 @@ function changeCH(){
           }
     }
 
-}*/
-function playCH(ch) {
-    const proxyUrl = `/api/proxy?url=${encodeURIComponent(ch)}`; // Usa el proxy
-
-    if (ch.includes("mp4")) {
-        video.src = proxyUrl; // Cambia a la URL del proxy
-        video.play();
-    } else {
-        if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            video.src = proxyUrl; // Cambia a la URL del proxy
-            video.play();
-        } else if (Hls.isSupported()) {
-            var hls = new Hls();
-            hls.loadSource(proxyUrl); // Cambia a la URL del proxy
-            hls.attachMedia(video);
-            hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                video.play();
-            });
-        }
-    }
 }
 
 
