@@ -5,9 +5,15 @@
     "link": "#"
   },
   {
+    "id": "ch18",
+    "name": "No Te Sueltes (lat) EXPIRA",
+    "link": "https://s6.okhd.nu/hls2/01/00001/vcvzw37qkjby_,l,h,x,.urlset/master.m3u8?t=_OlqsWwaxMNLnmM692Ed-nD5yw0-Nc1MSjloR9Efsss&s=1743473041&e=43200&f=7160&i=200.116&sp=0"
+    
+  },
+  {
     "id": "ch17",
-    "name": "CLEOPATRA EXPIRA",
-    "link": "https://s39.fastream.to/hls2/06/00034/3eohfcbkebwf_,l,n,h,.urlset/master.m3u8?t=86i-LA8owXaghq7ZIT6hxjQKl-6jnyPownY5n8tvMVs&s=1742178307&e=43200&v=25551932&i=0.3&sp=0"
+    "name": "Never Let GO (sub) EXPIRA",
+    "link": "https://s6.okhd.nu/hls2/01/00001/vcvzw37qkjby_,l,h,x,.urlset/master.m3u8?t=ulMzUzJJMl88rCVr3UNP6eS2Vw-kur_J0fClG4XGGZw&s=1743472849&e=43200&f=7160&i=200.116&sp=0"
   },
   {
     "id": "ch1",
@@ -63,31 +69,6 @@
     "id": "ch11",
     "name": "2012",
     "link": "https://ia801408.us.archive.org/31/items/el-infierno/2012.ia.mp4"
-  },
-  {
-    "id": "ch12",
-    "name": "Resplandor EXPIRA",
-    "link": "https://s4.okhd.nu/hls2/01/00000/cqn8sb0ke22o_,l,h,x,.urlset/master.m3u8?t=Dcpu5RHSzYUk3NZhLqGazOIQZDUa60UsdibCPfFrpF8&s=1741986121&e=43200&f=4372&i=200.116&sp=0"
-  },
-  {
-    "id": "ch13",
-    "name": "La Compañera Perfecta EXPIRA",
-    "link": "https://sgtrnkvb1e.guardstorage.net/hls_3/sy2NrPxJrfw0jlsfxpVmQJCAeOUfTUx2rrWMnDsFflXVBxcJruqRMn9MZOQa7I7NIvnQ-VvDArnGmC7aaDyCww/master.m3u8?sig=8rIC4Ks-blWgjbEJZo7HzA&expires=1742004630"
-  },
-  {
-    "id": "ch14",
-    "name": "El Asesino del Calendario EXPIRA",
-    "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
-  },
-  {
-    "id": "ch15",
-    "name": "Megalopolis EXPIRA",
-    "link": "https://s6.okhd.nu/hls2/01/00001/ymd5h3uyr746_,l,h,x,.urlset/master.m3u8?t=9aPWOqY8RjVVTeYSqXBoTbzFDesftAUHc9FtRgCmGpA&s=1741996868&e=43200&f=7962&i=200.116&sp=0"
-  },
-  {
-    "id": "ch16",
-    "name": "Borderlands EXPIRA",
-    "link": "https://rfognbc0mhhj.premilkyway.com/hls2/01/05004/j1155ujdaep5_,l,n,.urlset/master.m3u8?t=UveimokrLkjAmL7wBxIYp8oMZMrfBo25dZdZul7xbG0&s=1741999950&e=129600&f=25022518&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=13489"
   }
 
 
