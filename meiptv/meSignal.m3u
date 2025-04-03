@@ -23,7 +23,8 @@ http://38.41.8.1:8000/play/a06j
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
 
-
+#EXTINF:-1,Telepacífico SD
+http://190.60.49.243:4000/play/a00a
 #EXTINF:-1,Telepacífico
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1,Telepacífico (1)
