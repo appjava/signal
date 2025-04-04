@@ -313,8 +313,6 @@ http://190.60.49.243:4000/play/a072
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN",ESPN3 SD
 http://38.41.8.1:8000/play/a06a
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN",ESPN3 HD
-http://190.60.49.243:4000/play/a070
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN4.png" group-title="ESPN",ESPN4 SD
 http://181.78.105.146:8800/play/a08p
@@ -324,11 +322,5 @@ http://38.41.8.1:8000/play/a07b
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",ESPN6 SD
 http://200.115.120.1:8000/play/ca119/index.m3u8
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",ESPN6 HD
-http://190.60.49.243:4000/play/a071
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN7.png" group-title="ESPN",ESPN7 HD
-http://190.60.49.243:4000/play/a04c
 
-#EXTINF:-1, axn
-https://appjava.github.io/signal/meiptv/AXN.m3u8
