@@ -104,5 +104,10 @@
     "id": "ch20",
     "name": "LovePlanet",
     "link": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8"
+  },
+  {
+    "id": "ch21",
+    "name": "+Cine",
+    "link": "https://tv.streaming-chile.com:19360/8142/8142.m3u8"
   }
 ]
