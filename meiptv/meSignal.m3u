@@ -1,8 +1,8 @@
 #EXTM3U
 
 #-------------- TDT ----------------------
-#EXTINF:-1,Caracol HD (1280)
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+##EXTINF:-1,Caracol HD (1280)
+##https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/media_1800_20240906T223453_01086.ts
 #https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
 
@@ -11,6 +11,12 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1,Caracol SD
 http://38.41.8.1:8000/play/a06i
+
+#EXTINF:-1,Caracol SD2
+http://200.115.120.1:8000/play/ca067
+
+#EXTINF:-1,CaracolHD2
+http://190.60.49.243:4000/play/a08w
 
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
@@ -24,6 +30,7 @@ http://190.60.49.243:4000/play/a061
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
 
+
 #EXTINF:-1,Telepacífico SD
 http://190.60.49.243:4000/play/a00a
 #EXTINF:-1,Telepacífico
@@ -35,12 +42,12 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 ##EXTINF:-1,Telepacífico (1080)
 #https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Noticiero 90 Minutos (720)
-#https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-https://cdn.livewave.co:19360/90minutoslive/90minutoslive.m3u8
+##https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#https://cdn.livewave.co:19360/90minutoslive/90minutoslive.m3u8
 
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1,Cnal Uno SD
+#EXTINF:-1,Canal Uno SD
 http://190.60.49.243:4000/play/a002
 
 ##EXTINF:-1,RCN
@@ -74,8 +81,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 ##EXTINF:-1,Canal TRO
 #https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,Canal 8
-https://movil.ejeserver.com/live/canal8tv.m3u8
+##EXTINF:-1,Canal 8
+#https://movil.ejeserver.com/live/canal8tv.m3u8
 
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
@@ -83,20 +90,14 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 ##EXTINF:-1, AgroTendencias
 #https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1, AgroTV
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+##EXTINF:-1, AgroTV
+#https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 ##EXTINF:-1, Rural
 #https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
-##EXTINF:-1,CGTN Español
-#https://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-##EXTINF:-1,France24
-#https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1,Equipo Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
@@ -108,9 +109,6 @@ https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425
 
 #EXTINF:-1,AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
 ##EXTINF:-1,Comedia
 #https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
@@ -201,13 +199,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizio
 #EXTINF:-1,Tu Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
 
-#----------------------------- Klowd -------------------
-#EXTINF:-1,France 24 Espanol
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
-#EXTINF:-1,Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-
 #------------------------------ LG --------------------
 #EXTINF:-1,Brightside Spanish (CO)
 https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8
@@ -258,40 +249,6 @@ https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg0
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
-#------------------------ 6060:45000:8800:8000
-
-#EXTINF:-1,Sun Channel
-http://181.78.105.146:8800/play/a023
-
-#EXTINF:-1,Cine Familiar  HD
-http://181.78.23.26:45000/play/a03u
-
-#EXTINF:-1,Cine Hispano HD
-http://181.78.23.26:45000/play/a03v
-
-#EXTINF:-1,Cine Premium HD
-http://181.78.23.26:45000/play/a03x
-
-#EXTINF:-1,Xtrema Animal
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-
-
-#-------------- port 6060
-#EXTINF:-1,DHE
-http://181.78.105.146:6060/play/a00d/index.m3u8
-
-#EXTINF:-1,Multipremier
-http://181.78.105.146:6060/play/a048/index.m3u8
-
-#EXTINF:-1,Turbo
-http://181.78.105.146:6060/play/a03z/index.m3u8
-
-#EXTINF:-1,FX
-http://181.78.105.146:6060/play/a00q/index.m3u8
-
-#EXTINF:-1,Sony
-http://181.78.105.146:6060/play/a02x/index.m3u8
-
 #----------------------------
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN SD
 http://38.41.8.1:8000/play/a06r
@@ -323,4 +280,17 @@ http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",ESPN6 SD
 http://200.115.120.1:8000/play/ca119/index.m3u8
 
+#EXTINF:-1, Sky
+http://200.115.120.1:8000/play/ca124
 
+#EXTINF:-1, +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF:-1, Sony
+http://38.41.8.1:8000/play/a05w
+
+#EXTINF:-1,Space
+http://38.41.8.1:8000/play/a05y
+
+#EXTINF:-1,TNT SD
+http://38.41.8.1:8000/play/a04z
