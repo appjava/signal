@@ -13,7 +13,7 @@ var frame = document.querySelector("iframe");
 var meframe = document.getElementById('meframe');
 
 if (meframe){
-  meframe.src = "https://embed.sdfgnksbounce.com/embed/tnt.html";  
+  meframe.src = "https://www.sports-stream.click/ch/spsch.php?ch=skysme";  
 }
 
 
