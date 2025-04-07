@@ -1,3 +1,4 @@
+
 console.log("Welcome You!!");
 
 var video = document.getElementById('video');
@@ -5,7 +6,7 @@ var channels = [];
 var localCHs = JSON.parse(localStorage.getItem('localCHs')) || [{
     id:     "",
     name:   "Load Something",
-    link:   "#",
+    link:   "#"
 }];
 
 function checkLocal(){
@@ -63,7 +64,7 @@ function upMovs(){
     .then((text) => {
         localStorage.setItem('localCHs', text);
         channels = JSON.parse(localStorage.getItem('localCHs'));
-        selectCH();
+        selectCH(channels);
         document.getElementById('btnDown').style.display = "block";
         document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
@@ -76,7 +77,7 @@ function upChs(){
     .then((text) => {
         localStorage.setItem('localCHs', text);
         channels = JSON.parse(localStorage.getItem('localCHs'));
-        selectCH();
+        selectCH(channels);
         document.getElementById('btnDown').style.display = "block";
         document.getElementById('labelTest').innerHTML = "";
     }).catch((e) => console.error(e));
@@ -89,7 +90,7 @@ function upSomething(){
 let select = document.getElementById("channel-select");
 var ch = '';
 
-let selectCH = () => {
+let selectCH = (channels) => {
     document.getElementById('btnDel').style.display = "none";
     return (select.innerHTML = channels
       .map((x) => {
@@ -114,13 +115,13 @@ function played(){
     }
 }
 
-selectCH();
+selectCH(channels);
 
 function delCH(){
     let search = channels.find((x) => x.id === ch);
     channels.splice(channels.indexOf(search), 1);
     document.getElementById('labelTop').innerHTML = search.name.toUpperCase() +" "+ "Deleted";
-    selectCH();
+    selectCH(channels);
     ch = "";
     playCH(ch);
     localStorage.setItem('localCHs', JSON.stringify(channels));
@@ -134,7 +135,7 @@ function delCH(){
         }];
         channels = localCHs;
         localStorage.setItem('localCHs', JSON.stringify(channels));
-        selectCH();
+        selectCH(channels);
     }
     
 }
@@ -154,7 +155,7 @@ function addCH(){
     document.getElementById('inCh').value = "";
     
     document.getElementById('btnDown').style.display = "block";
-    selectCH();
+    selectCH(channels);
     ch = "";
     //playCH(ch);
     document.getElementById('labelTest').innerHTML = chName + " " + "Added";
@@ -167,7 +168,7 @@ function testCH(){
     document.getElementById('labelTop').innerHTML = "";
     ch = document.getElementById('inCh').value;
     playCH(ch);
-    selectCH();
+    selectCH(channels);
 }
 
 function changeCH(){
@@ -200,10 +201,11 @@ function playCH(ch){
 
 }
 
+
 // Show TIME
 document.getElementById("time").innerHTML = showTime();
 
-    function showTime() {
+function showTime() {
     var d = new Date(),
         minutes = d.getMinutes().toString().length == 1 ? '0'+d.getMinutes() : d.getMinutes(),
         hours = d.getHours().toString().length == 1 ? '0'+d.getHours() : d.getHours(),
@@ -211,6 +213,6 @@ document.getElementById("time").innerHTML = showTime();
         months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
         days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
         //return days[d.getDay()]+' '+months[d.getMonth()]+' '+d.getDate()+' '+d.getFullYear()+' '+hours+':'+minutes+ampm;
-        return days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+hours+':'+minutes;
+        return days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()];
     }
 

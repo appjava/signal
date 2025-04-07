@@ -1,17 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Access-Control-Allow-Origin" content="*" />
-  <link rel="shortcut icon" href="favicon.ico">
+  <!--<link rel="shortcut icon" href="favicon.ico">-->
   
-  <link rel="stylesheet" href="meDesign.css" >
-	<title>meTV </title>
+	<link rel="stylesheet" href="meDesign.css" >
+	<title>meTV</title>
+
+  <!-------------PWA-------------->
+	<link rel="manifest" href="pwa/manifest.json">
+	<link rel="icon" type="image/png" href="pwa/icons/favicon-96x96.png" sizes="96x96" />
+	<link rel="shortcut icon" href="pwa/icons/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="pwa/icons/apple-touch-icon.png" />
+	
+	<meta name="apple-mobile-web-app-title" content="meTV" />
+  
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function() {
+      navigator.serviceWorker
+        .register("pwa/serviceWorker.js")
+        .then(res => console.log("service worker registered"))
+        .catch(err => console.log("service worker not registered", err))
+      })
+    }
+  </script>
+  <!------------------------------------------------------------->
   
 </head>
 <body class="index">
-  <div class="video">
+
+    <!-- Contenedor principal -->
+    <div id="app"></div>
+
+    <!-- Incluir el script de autenticación -->
+    <script src="auth.js"></script>
+  
+    <script>
+      // Obtener el contenedor principal
+      const app = document.getElementById("app");
+  
+      // Verificar si el usuario ya está autenticado
+      //if (estaAutenticado()) {
+      if (true) {
+        // Mostrar el reproductor
+        app.innerHTML = `
+        <div class="video">
     <span id="labelTop" class="label"></span>
     <div class="selection">
       <span class="carga">
@@ -21,12 +57,14 @@
       </span>
       <select name="channels" id="channel-select" onchange="played()"></select>
       <span class="descarga">
-      <button id="btnDel" class="btn" onclick="delCH()">X</button>
+      <button id="btnDel" class="btn" onclick="delCH()">Del</button>
       <button id="btnDown" class="btn" onclick="downCHs()">Down</button>
       </span>
     </div>
     <fieldset>
-      <video id="video" poster="meSignal.png" playsinline controls loop></video>
+      
+        <video id="video" poster="meSignal.png" playsinline controls loop allow="encrypted-media; allow-same-origin"></video>
+    
     </fieldset>
     <section class="testArea">
       <input class="input" id="inCh" type="text" placeholder="https:// .m3u or .mp4" value=""/>
@@ -44,6 +82,16 @@
 
     <span id="labelTest" class="label"></span>
   </div>
+
+        `;
+      } else {
+        // Mostrar el formulario de autenticación
+        mostrarFormularioAutenticacion(app);
+      }
+  
+    </script>
+
+  
 
   <script src="meFunctions.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
