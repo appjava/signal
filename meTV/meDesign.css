@@ -143,7 +143,7 @@ video{
 
 	.video{
 		width: 100%;
-		max-width: 2100px;
+		max-width: 1800px;
 	}
 }
 @media screen and (max-width: 1900px){
