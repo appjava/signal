@@ -161,7 +161,6 @@ video{
 
 	.video{
 		width: 100%;
-		max-width: 850px;
 	}
 	.selection select{
 		width: 600px;
