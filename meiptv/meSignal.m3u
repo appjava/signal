@@ -15,11 +15,26 @@ http://181.78.74.69:8000/play/a06g/index.m3u8
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
 
+#EXTINF:-1,Caracol FHD
+http://190.61.42.218:9000/play/a02g
+
+#EXTINF:-1,Caracol (1024)
+http://179.49.163.34:45000/play/a032/index.m3u8
+
+#EXTINF:-1,Caracol (1920)
+http://181.78.14.26:8000/play/a00d
+
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
 
 #EXTINF:-1,RCN HD
 http://181.78.74.69:8000/play/a05l/index.m3u8
+
+#EXTINF:-1,RCN (720)
+http://200.59.188.3:8000/play/a03a
+
+#EXTINF:-1,RCN (1024)
+http://179.49.163.34:45000/play/a033/index.m3u8
 
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
@@ -247,3 +262,39 @@ http://181.205.130.194:4000/play/a07i
 
 #EXTINF:-1,ESPN6 SD
 http://200.115.120.1:8000/play/ca119/index.m3u8
+
+#EXTINF:-1,Wplus
+http://152.231.29.139:8000/play/a0cd/index.m3u8
+
+#EXTINF:-1,Cinemax SD
+http://38.180.133.31:8000/play/a0qb/index.m3u8
+
+#EXTINF:-1,Warner SD
+http://38.180.133.31:8000/play/a0op/index.m3u8
+
+#EXTINF:-1,Sony SD
+http://38.180.133.31:8000/play/a0oo/index.m3u8
+
+#EXTINF:-1,espn HD
+http://170.39.192.130:2095/56942505562play/060123play/316503
+
+#EXTINF:-1,espn (1280)
+http://190.60.33.237:1010/play/a0ee/index.m3u8
+#EXTINF:-1,win (1280)
+http://190.60.33.237:1010/play/a0eg/index.m3u8
+#EXTINF:-1,espn2 (1280)
+http://190.60.33.237:1010/play/a0en/index.m3u8
+
+#EXTINF:-1,espn (720)
+http://200.59.188.3:8000/play/a03i
+
+#EXTINF:-1,win (720)
+http://200.59.188.3:8000/play/a03y
+
+#EXTINF:-1,warner (720)
+http://200.60.124.19:29000/play/a013
+
+#EXTINF:-1,espn2 (720)
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1,espn (720)
+http://200.60.124.19:29000/play/a016

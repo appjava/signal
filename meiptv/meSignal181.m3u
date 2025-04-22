@@ -117,6 +117,40 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1,claro sport
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
-#---------- 181 
+#---------- 181 4000
+#EXTINF:-1,hbo family
+http://181.205.130.194:4000/play/a0dr
+#EXTINF:-1,tlc
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1,tcm
+http://181.205.130.194:4000/play/a06l
+#EXTINF:-1,cinecanal
+http://181.205.130.194:4000/play/a06e
+#EXTINF:-1,usa
+http://181.205.130.194:4000/play/a06v
+#EXTINF:-1,universal tv
+http://181.205.130.194:4000/play/a06f
+#EXTINF:-1,A&E
+http://181.205.130.194:4000/play/a07n
+#EXTINF:-1,TNT hd
+http://181.205.130.194:4000/play/a06n
+#EXTINF:-1,star channel
+http://181.205.130.194:4000/play/a06k
+#EXTINF:-1,ESPN
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1,espn1
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1,espn2
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,espn6
+http://181.205.130.194:4000/play/a07t
+#EXTINF:-1,espn7
+http://181.205.130.194:4000/play/a07s
+
+
+#------------- 181 8000
+#EXTINF:-1,HBO pop HD
+http://181.143.230.202:8000/play/a02p/index.m3u8
+
 
 
