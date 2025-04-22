@@ -1,0 +1,46 @@
+#EXTM3U
+
+#-------- 181 8000
+#EXTINF:-1,hbo
+http://181.78.74.69:8000/play/a05w/index.m3u8
+#EXTINF:-1,hbo2 hd
+http://181.78.74.69:8000/play/a07a/index.m3u8
+#EXTINF:-1,cinecanal hd
+http://181.78.74.69:8000/play/a05o/index.m3u8
+#EXTINF:-1,amc hd
+http://181.78.74.69:8000/play/a06n/index.m3u8
+#EXTINF:-1,warner hd
+http://181.78.74.69:8000/play/a05s/index.m3u8
+#EXTINF:-1,space
+http://181.78.74.69:8000/play/a05t/index.m3u8
+#EXTINF:-1,studio
+http://181.78.74.69:8000/play/a06k/index.m3u8
+#EXTINF:-1,fx hd1
+http://181.78.74.69:8000/play/a05z/index.m3u8
+#EXTINF:-1,fx hd2
+http://181.78.74.69:8000/play/a06b/index.m3u8
+#EXTINF:-1,tnt sd
+http://181.78.74.69:8000/play/a05c/index.m3u8
+#EXTINF:-1,tnt hd
+http://181.78.74.69:8000/play/a05e/index.m3u8
+#EXTINF:-1,caracol hd
+http://181.78.74.69:8000/play/a06g/index.m3u8
+#EXTINF:-1,rcn hd
+http://181.78.74.69:8000/play/a05l/index.m3u8
+#EXTINF:-1,star
+http://181.78.74.69:8000/play/a06e/index.m3u8
+#EXTINF:-1,disney
+http://181.78.74.69:8000/play/a05p/index.m3u8
+#EXTINF:-1,espn hd1
+http://181.78.74.69:8000/play/a060/index.m3u8
+#EXTINF:-1,espn hd2
+http://181.78.74.69:8000/play/a060/index.m3u8
+#EXTINF:-1,espn2 hd
+http://181.78.74.69:8000/play/a05x/index.m3u8
+#EXTINF:-1,espn5 hd
+http://181.78.74.69:8000/play/a05v/index.m3u8
+#EXTINF:-1,espn6 hd
+http://181.78.74.69:8000/play/a06q/index.m3u8
+
+
+#------- 181 
