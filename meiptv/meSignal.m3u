@@ -280,10 +280,21 @@ http://200.59.188.3:8000/play/a03y
 
 #EXTINF:-1,warner (720)
 http://200.60.124.19:29000/play/a013
-#EXTINF:-1,espn2 (720)
-http://200.60.124.19:29000/play/a015
 #EXTINF:-1,espn (720)
 http://200.60.124.19:29000/play/a016
+#EXTINF:-1,espn2 (720)
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1,espn3 (720)
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1,espn5 (720)
+http://200.60.124.19:29000/play/a04y
+#EXTINF:-1,espn6 (720)
+http://200.60.124.19:29000/play/a01f
+#EXTINF:-1,espn7 (720)
+http://200.60.124.19:29000/play/a01e
+#EXTINF:-1,FX (720)
+http://200.60.124.19:29000/play/a029
 
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
