@@ -43,4 +43,80 @@ http://181.78.74.69:8000/play/a05v/index.m3u8
 http://181.78.74.69:8000/play/a06q/index.m3u8
 
 
-#------- 181 
+#------- 181 9000
+#EXTINF:-1,hbo xtreme
+http://181.78.106.127:9000/play/ca069/index.m3u8
+#EXTINF:-1,hbo plus
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,golden
+http://181.78.106.127:9000/play/ca076/index.m3u8
+#EXTINF:-1,golden edge
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,golden plus
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,cinemax
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
+#EXTINF:-1,paramount
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1,warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,axn
+http://181.78.106.127:9000/play/ca085/index.m3u8
+#EXTINF:-1,space
+http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1,dePelicula
+http://181.78.106.127:9000/play/ca073/index.m3u8
+#EXTINF:-1,Universal
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1,Studio Universal
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1,Comedy central
+http://181.78.106.127:9000/play/ca050/index.m3u8
+#EXTINF:-1,a&e
+http://181.78.106.127:9000/play/ca086/index.m3u8
+#EXTINF:-1,Studio
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1,fx
+http://181.78.106.127:9000/play/ca075/index.m3u8
+#EXTINF:-1,disney
+http://181.78.106.127:9000/play/ca053/index.m3u8
+#EXTINF:-1,nickelodeon
+http://181.78.106.127:9000/play/ca052/index.m3u8
+#EXTINF:-1,dreamworks
+http://181.78.106.127:9000/play/ca054/index.m3u8
+#EXTINF:-1,espn
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1,espn2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1,espn3
+http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1,espn4
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1,Liga
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1,tudn
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,tigo sport
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1,Studio Universal2
+http://181.78.106.127:9000/play/ca088/index.m3u8
+#EXTINF:-1,fox sport
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,fox sport2
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1,sky sport
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1,sky sport2
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1,sky sport3
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1,fox sport mx
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,claro sport
+http://181.78.106.127:9000/play/ca038/index.m3u8
+
+#---------- 181 
+
+
