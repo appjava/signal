@@ -9,8 +9,8 @@
 #EXTINF:-1,Caracol Ahora (1280)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1,Caracol SD
-http://38.41.8.1:8000/play/a06i
+#EXTINF:-1,Caracol HD
+http://181.78.74.69:8000/play/a06g/index.m3u8
 
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
@@ -21,8 +21,8 @@ http://190.60.49.243:4000/play/a08w
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
 
-#EXTINF:-1,RCN SD
-http://38.41.8.1:8000/play/a06j
+#EXTINF:-1,RCN HD
+http://181.78.74.69:8000/play/a05l/index.m3u8
 
 #EXTINF:-1,RCN Internacional SD
 http://190.60.49.243:4000/play/a061
@@ -250,32 +250,19 @@ https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg0
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
 #----------------------------
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN SD
-http://38.41.8.1:8000/play/a06r
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN SD2
-http://38.41.8.1:8000/play/a07r
+
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN HD
 http://190.60.49.243:4000/play/a06v
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN.png" group-title="ESPN",ESPN HD2
 http://190.60.49.243:4000/play/a07d
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN",ESPN2 SD
-http://38.41.8.1:8000/play/a07q
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN",ESPN2 SD2
-http://38.41.8.1:8000/play/a05o
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN",ESPN2 HD
 http://190.60.49.243:4000/play/a06q
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN2.png" group-title="ESPN",ESPN2 HD2
 http://190.60.49.243:4000/play/a072
 
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN3.png" group-title="ESPN",ESPN3 SD
-http://38.41.8.1:8000/play/a06a
-
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN4.png" group-title="ESPN",ESPN4 SD
 http://181.78.105.146:8800/play/a08p
-
-#EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN5.png" group-title="ESPN",ESPN5 SD
-http://38.41.8.1:8000/play/a07b
 
 #EXTINF:-1 tvg-logo="https://appjava.github.io/signal/meiptv/logos/ESPN6.png" group-title="ESPN",ESPN6 SD
 http://200.115.120.1:8000/play/ca119/index.m3u8
@@ -285,12 +272,3 @@ http://200.115.120.1:8000/play/ca124
 
 #EXTINF:-1, Fox
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1, Sony
-http://38.41.8.1:8000/play/a05w
-
-#EXTINF:-1,Space
-http://38.41.8.1:8000/play/a05y
-
-#EXTINF:-1,TNT SD
-http://38.41.8.1:8000/play/a04z
