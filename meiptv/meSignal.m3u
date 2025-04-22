@@ -251,6 +251,8 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 
 #EXTINF:-1, Sky
 http://200.115.120.1:8000/play/ca124
+#EXTINF:-1,ESPN6 SD
+http://200.115.120.1:8000/play/ca119/index.m3u8
 
 #EXTINF:-1, Fox
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -260,41 +262,28 @@ http://181.205.130.194:4000/play/a07j
 #EXTINF:-1,ESPN2 HD
 http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1,ESPN6 SD
-http://200.115.120.1:8000/play/ca119/index.m3u8
-
 #EXTINF:-1,Wplus
 http://152.231.29.139:8000/play/a0cd/index.m3u8
-
-#EXTINF:-1,Cinemax SD
-http://38.180.133.31:8000/play/a0qb/index.m3u8
-
-#EXTINF:-1,Warner SD
-http://38.180.133.31:8000/play/a0op/index.m3u8
-
-#EXTINF:-1,Sony SD
-http://38.180.133.31:8000/play/a0oo/index.m3u8
 
 #EXTINF:-1,espn HD
 http://170.39.192.130:2095/56942505562play/060123play/316503
 
 #EXTINF:-1,espn (1280)
 http://190.60.33.237:1010/play/a0ee/index.m3u8
-#EXTINF:-1,win (1280)
-http://190.60.33.237:1010/play/a0eg/index.m3u8
 #EXTINF:-1,espn2 (1280)
 http://190.60.33.237:1010/play/a0en/index.m3u8
 
 #EXTINF:-1,espn (720)
 http://200.59.188.3:8000/play/a03i
-
 #EXTINF:-1,win (720)
 http://200.59.188.3:8000/play/a03y
 
 #EXTINF:-1,warner (720)
 http://200.60.124.19:29000/play/a013
-
 #EXTINF:-1,espn2 (720)
 http://200.60.124.19:29000/play/a015
 #EXTINF:-1,espn (720)
 http://200.60.124.19:29000/play/a016
+
+#EXTINF:-1,Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
