@@ -26,3 +26,16 @@ http://190.61.42.218:9000/play/a01a
 http://190.61.42.218:9000/play/a062
 #EXTINF:-1,ESPN7
 http://190.61.42.218:9000/play/a01j
+
+
+#-------- 190 8000
+#EXTINF:-1,espn (1280)
+http://190.60.33.237:1010/play/a0ee/index.m3u8
+#EXTINF:-1,espn2 (1280)
+http://190.60.33.237:1010/play/a0en/index.m3u8
+#EXTINF:-1,depelicula HD
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1,fox premium HD
+http://190.61.117.35:8000/play/a04a
+#EXTINF:-1,fox sport (1280)
+http://190.61.117.35:8000/play/a05n

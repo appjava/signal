@@ -262,6 +262,9 @@ http://181.205.130.194:4000/play/a07j
 #EXTINF:-1,ESPN2 HD
 http://181.205.130.194:4000/play/a07i
 
+#EXTINF:-1,ESPN2 (1280)
+http://206.62.161.192:8000/play/a0h8/index.m3u8
+
 #EXTINF:-1,Wplus
 http://152.231.29.139:8000/play/a0cd/index.m3u8
 
@@ -277,6 +280,10 @@ http://190.60.33.237:1010/play/a0en/index.m3u8
 http://200.59.188.3:8000/play/a03i
 #EXTINF:-1,win (720)
 http://200.59.188.3:8000/play/a03y
+#EXTINF:-1,cinemax (720)
+http://200.59.188.3:8000/play/a03s
+#EXTINF:-1,cinemax (1920)
+http://200.59.188.3:8000/play/a00h
 
 #EXTINF:-1,warner (720)
 http://200.60.124.19:29000/play/a013
@@ -298,3 +305,8 @@ http://200.60.124.19:29000/play/a029
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1,win 720
+http://190.60.33.237:1010/play/a0eg/index.m3u8
+
+#EXTINF:-1,cinemax (544)
+http://45.5.119.43:4000/play/a0il/index.m3u8

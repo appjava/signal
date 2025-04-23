@@ -67,3 +67,10 @@ http://38.41.8.1:8000/play/a07y
 http://38.41.8.1:8000/play/a03z
 #EXTINF:-1,TNT SD
 http://38.41.8.1:8000/play/a04z
+
+
+#-------- 38 8003
+#EXTINF:-1,cinemax (720)
+http://38.44.109.41:8003/play/a023/index.m3u8
+#EXTINF:-1,espn1 col (720)
+http://38.44.109.41:8003/play/a02v
