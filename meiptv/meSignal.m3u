@@ -261,12 +261,16 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 http://181.205.130.194:4000/play/a07j
 #EXTINF:-1,ESPN2 HD
 http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,TNT hd 720
+http://181.205.130.194:4000/play/a06n
 
 #EXTINF:-1,ESPN2 (1280)
 http://206.62.161.192:8000/play/a0h8/index.m3u8
 
 #EXTINF:-1,Wplus
 http://152.231.29.139:8000/play/a0cd/index.m3u8
+#EXTINF:-1,star 720
+http://152.231.29.139:8000/play/a0co/index.m3u8
 
 #EXTINF:-1,espn HD
 http://170.39.192.130:2095/56942505562play/060123play/316503
@@ -275,6 +279,7 @@ http://170.39.192.130:2095/56942505562play/060123play/316503
 http://190.60.33.237:1010/play/a0ee/index.m3u8
 #EXTINF:-1,espn2 (1280)
 http://190.60.33.237:1010/play/a0en/index.m3u8
+
 
 #EXTINF:-1,espn (720)
 http://200.59.188.3:8000/play/a03i
@@ -305,8 +310,5 @@ http://200.60.124.19:29000/play/a029
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1,win 720
-http://190.60.33.237:1010/play/a0eg/index.m3u8
-
-#EXTINF:-1,cinemax (544)
-http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1,Cinemax
+http://190.61.42.218:9000/play/a01q
