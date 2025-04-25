@@ -308,11 +308,3 @@ http://190.60.33.237:1010/play/a0en/index.m3u8
 #http://200.60.124.19:29000/play/a029
 
 
-#EXTINF:-1,FX SD
-http://181.78.105.146:6060/play/a00q/index.m3u8
-#EXTINF:-1,Space SD
-http://181.78.105.146:6060/play/a01q/index.m3u8
-#EXTINF:-1,Studio SD
-http://181.78.105.146:6060/play/a04b/index.m3u8
-#EXTINF:-1,TNT SD
-http://181.78.105.146:6060/play/a01z/index.m3u8
