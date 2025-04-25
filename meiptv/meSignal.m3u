@@ -248,7 +248,21 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 #https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
 #----------------------------
+#EXTINF:-1,Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1,cinemax (720)
+http://200.59.188.3:8000/play/a03s
+#EXTINF:-1,warner (1920?)
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1,D Turbo SD
+http://200.115.120.1:8000/play/ca117
+#EXTINF:-1,win (720)
+http://200.59.188.3:8000/play/a03y
+#EXTINF:-1,espn (720)
+http://200.59.188.3:8000/play/a03i
+
+#----------------------------
 #EXTINF:-1, Sky
 http://200.115.120.1:8000/play/ca124
 #EXTINF:-1,ESPN6 SD
@@ -276,21 +290,6 @@ http://190.60.33.237:1010/play/a0ee/index.m3u8
 #EXTINF:-1,espn2 (1280)
 http://190.60.33.237:1010/play/a0en/index.m3u8
 
-#EXTINF:-1,espn (720)
-http://200.59.188.3:8000/play/a03i
-#EXTINF:-1,win (720)
-http://200.59.188.3:8000/play/a03y
-#EXTINF:-1,cinemax (720)
-http://200.59.188.3:8000/play/a03s
-#EXTINF:-1,warner (1920?)
-http://200.59.188.3:8000/play/a00h
-#EXTINF:-1,FX SD
-http://200.115.120.1:8000/play/ca017/index.m3u8
-#EXTINF:-1,Warner SD
-http://200.115.120.1:8000/play/ca047/index.m3u8
-#EXTINF:-1,D Turbo SD
-http://200.115.120.1:8000/play/ca117
-
 ##EXTINF:-1,warner (720)
 #http://200.60.124.19:29000/play/a013
 ##EXTINF:-1,espn (720)
@@ -308,10 +307,12 @@ http://200.115.120.1:8000/play/ca117
 ##EXTINF:-1,FX (720)
 #http://200.60.124.19:29000/play/a029
 
-#EXTINF:-1,Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1,Cinemax
-http://190.61.42.218:9000/play/a01q
-#EXTINF:-1,Cinecanal HD
-http://190.61.42.218:9000/play/a00f
+#EXTINF:-1,FX SD
+http://181.78.105.146:6060/play/a00q/index.m3u8
+#EXTINF:-1,Space SD
+http://181.78.105.146:6060/play/a01q/index.m3u8
+#EXTINF:-1,Studio SD
+http://181.78.105.146:6060/play/a04b/index.m3u8
+#EXTINF:-1,TNT SD
+http://181.78.105.146:6060/play/a01z/index.m3u8
