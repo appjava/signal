@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1,hbo EXTREME
+http://152.231.29.139:8000/play/a0cf/index.m3u8
+#EXTINF:-1,hbo Family 
+http://152.231.29.139:8000/play/a0ce/index.m3u8
+#EXTINF:-1,Cinemax
+http://152.231.29.139:8000/play/a0bc/index.m3u8
+#EXTINF:-1,amc
+http://152.231.29.139:8000/play/a0ck/index.m3u8
+#EXTINF:-1,a&E
+http://152.231.29.139:8000/play/a0cj/index.m3u8
+#EXTINF:-1,fx
+http://152.231.29.139:8000/play/a0ab/index.m3u8
+#EXTINF:-1,star
+http://152.231.29.139:8000/play/a0co/index.m3u8
+#EXTINF:-1,sony
+http://152.231.29.139:8000/play/a0bd/index.m3u8
+#EXTINF:-1,win+
+http://152.231.29.139:8000/play/a0cd/index.m3u8

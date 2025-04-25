@@ -106,7 +106,34 @@
   },
   {
     "id": "ch21",
-    "name": "+Cine",
-    "link": "https://tv.streaming-chile.com:19360/8142/8142.m3u8"
+    "name": "canal9",
+    "link": "https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8"
+  },
+  {
+    "id": "ch22",
+    "name": "SonyCine",
+    "link": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+  },
+  {
+    "id": "ch23",
+    "name": "PelisTV",
+    "link": "https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0"
+  },
+  {
+    "id": "ch24",
+    "name": "Next",
+    "link": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+  },
+  {
+    "id": "ch25",
+    "name": "TvRetro",
+    "link": "https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8"
+  },
+  {
+    "id": "ch26",
+    "name": "SasTV",
+    "link": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
   }
+
+
 ]

@@ -108,7 +108,7 @@ video{
 	color: white;
 }
 #btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown{
-	width: 45px;
+	width: 90px;
 	height: auto;
 	padding: unset;
 	margin-left: 0px;
@@ -139,18 +139,28 @@ video{
 #time{
 	color: gray;
 }
+@media (min-width: 1900px) and (max-width: 2400px){
+
+	.video{
+		width: 100%;
+		max-width: 1800px;
+	}
+	#btnDel, #btnUpChs, #btnUpMovs, #btnUp, #btnDown{
+		width: 150px;
+	}
+}
 @media screen and (max-width: 1900px){
 
 	.video{
 		width: 100%;
-		max-width: 1500px;
+		max-width: 1100px;
 	}
+
 }
 @media screen and (max-width: 1200px){
 
 	.video{
 		width: 100%;
-		max-width: 1100px;
 	}
 	.selection select{
 		width: 600px;
