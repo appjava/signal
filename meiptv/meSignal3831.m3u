@@ -1,56 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1,hbo family
+#EXTINF:-1,hbo family fhd
 http://38.180.133.31:8000/play/a0le/index.m3u8
 
-#EXTINF:-1,hbo pop
+#EXTINF:-1,hbo pop fhd
 http://38.180.133.31:8000/play/a0t4/index.m3u8
 
-#EXTINF:-1,cinemax
+#EXTINF:-1,cinemax 544
 http://38.180.133.31:8000/play/a0qb/index.m3u8
 
-#EXTINF:-1,cinecanal
+#EXTINF:-1,cinecanal 544
 http://38.180.133.31:8000/play/a0qd/index.m3u8
 
-#EXTINF:-1,cinecanal hd
+#EXTINF:-1,cinecanal fhd
 http://38.180.133.31:8000/play/a0p4/index.m3u8
 
-#EXTINF:-1,amc
+#EXTINF:-1,amc 544
 http://38.180.133.31:8000/play/a0nj/index.m3u8
 
-#EXTINF:-1,warner sd
+#EXTINF:-1,warner 544
 http://38.180.133.31:8000/play/a0op/index.m3u8
 
-#EXTINF:-1,warner hd
+#EXTINF:-1,warner fhd
 http://38.180.133.31:8000/play/a0sz/index.m3u8
 
-#EXTINF:-1,SPACE
+#EXTINF:-1,SPACE fhd
 http://38.180.133.31:8000/play/a0qj/index.m3u8
 
-#EXTINF:-1,space
+#EXTINF:-1,space fhd
 http://38.180.133.31:8000/play/a0t1/index.m3u8
 
-#EXTINF:-1,cinelatino
+#EXTINF:-1,cinelatino 544
 http://38.180.133.31:8000/play/a0qa/index.m3u8
 
-#EXTINF:-1,a&e
+#EXTINF:-1,a&e 544
 http://38.180.133.31:8000/play/a0or/index.m3u8
 
-#EXTINF:-1,star
+#EXTINF:-1,star fhd
 http://38.180.133.31:8000/play/a0p1/index.m3u8
-#EXTINF:-1,sony hd
+#EXTINF:-1,sony fhd
 http://38.180.133.31:8000/play/a0p3/index.m3u8
-#EXTINF:-1,sony sd
+#EXTINF:-1,sony 544
 http://38.180.133.31:8000/play/a0oo/index.m3u8
-#EXTINF:-1,espn mx
+#EXTINF:-1,espn mx 720
 http://38.180.133.31:8000/play/a0ox/index.m3u8
-#EXTINF:-1,espn hd
+#EXTINF:-1,espn hd 1280
 http://38.180.133.31:8000/play/a0tb/index.m3u8
-#EXTINF:-1,espn2
+#EXTINF:-1,espn2 fhd
 http://38.180.133.31:8000/play/a0w4/index.m3u8
-#EXTINF:-1,espn2 HD
+#EXTINF:-1,espn2 HD 1280
 http://38.180.133.31:8000/play/a0t3/index.m3u8
-#EXTINF:-1,espn6
+#EXTINF:-1,espn6 fhd
 http://38.180.133.31:8000/play/a0qo/index.m3u8
-#EXTINF:-1,tigo sport
+#EXTINF:-1,tigo sport fhd
 http://38.180.133.31:8000/play/a0p5/index.m3u8
+
+
+#-------- 38 8003
+#EXTINF:-1,cinemax (720)
+http://38.44.109.41:8003/play/a023/index.m3u8
+#EXTINF:-1,espn1 col (720)
+http://38.44.109.41:8003/play/a02v

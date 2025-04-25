@@ -1,43 +1,43 @@
 #EXTM3U
 
 #-------- 181 45000
-#EXTINF:-1,RCN
+#EXTINF:-1,RCN 720
 http://181.78.23.26:45000/play/a02h
 
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E 720
 http://181.78.23.26:45000/play/a01m
 
-#EXTINF:-1,AXN (2) (Col0)
+#EXTINF:-1,AXN 720
 http://181.78.23.26:45000/play/a030
 
-#EXTINF:-1,City TV (Col0)
+#EXTINF:-1,City TV 720
 http://181.78.23.26:45000/play/a02v
 
-#EXTINF:-1,Life Time (2) HD (Col0)
+#EXTINF:-1,Life Time 720
 http://181.78.23.26:45000/play/a00e
 
-#EXTINF:-1,Sony Channel (2) (Col0)
+#EXTINF:-1,Sony Channel 720
 http://181.78.23.26:45000/play/a02z
 
-#EXTINF:-1,TLC (Col0)
+#EXTINF:-1,TLC 720
 http://181.78.23.26:45000/play/a01o
 
-#EXTINF:-1,Warner (3) (Col0)
+#EXTINF:-1,Warner 720
 http://181.78.23.26:45000/play/a01e
 
-#EXTINF:-1,Cine Canal (Col0)
+#EXTINF:-1,Cine Canal 720
 http://181.78.23.26:45000/play/a006
 
-#EXTINF:-1,Cine Familiar  HD (Col0)
+#EXTINF:-1,Cine Familiar  HD 1280
 http://181.78.23.26:45000/play/a03u
 
-#EXTINF:-1,Cine Hispano HD (Col0)
+#EXTINF:-1,Cine Hispano HD 1280
 http://181.78.23.26:45000/play/a03v
 
-#EXTINF:-1,Cine Premium HD (Col0)
+#EXTINF:-1,Cine Premium HD 1280
 http://181.78.23.26:45000/play/a03x
 
-#EXTINF:-1,TyC Sports (Col0)
+#EXTINF:-1,TyC Sports 720
 http://181.78.23.26:45000/play/a04m
 
 #---------- 179 45000

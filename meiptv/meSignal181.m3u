@@ -1,155 +1,153 @@
 #EXTM3U
 
 #-------- 181 8000
-#EXTINF:-1,hbo
+#EXTINF:-1,hbo fhd
 http://181.78.74.69:8000/play/a05w/index.m3u8
-#EXTINF:-1,hbo2 hd
+#EXTINF:-1,hbo2 fhd
 http://181.78.74.69:8000/play/a07a/index.m3u8
-#EXTINF:-1,cinecanal hd
+#EXTINF:-1,cinecanal fhd
 http://181.78.74.69:8000/play/a05o/index.m3u8
-#EXTINF:-1,amc hd
+#EXTINF:-1,amc fhd
 http://181.78.74.69:8000/play/a06n/index.m3u8
-#EXTINF:-1,warner hd
+#EXTINF:-1,warner fhd
 http://181.78.74.69:8000/play/a05s/index.m3u8
-#EXTINF:-1,space
+#EXTINF:-1,space fhd
 http://181.78.74.69:8000/play/a05t/index.m3u8
-#EXTINF:-1,studio
+#EXTINF:-1,studio fhd
 http://181.78.74.69:8000/play/a06k/index.m3u8
-#EXTINF:-1,fx hd1
+#EXTINF:-1,fx fhd1
 http://181.78.74.69:8000/play/a05z/index.m3u8
-#EXTINF:-1,fx hd2
+#EXTINF:-1,fx fhd2
 http://181.78.74.69:8000/play/a06b/index.m3u8
-#EXTINF:-1,tnt sd
+#EXTINF:-1,tnt 720
 http://181.78.74.69:8000/play/a05c/index.m3u8
-#EXTINF:-1,tnt hd
+#EXTINF:-1,tnt fhd
 http://181.78.74.69:8000/play/a05e/index.m3u8
-#EXTINF:-1,caracol hd
+#EXTINF:-1,caracol fhd
 http://181.78.74.69:8000/play/a06g/index.m3u8
-#EXTINF:-1,rcn hd
+#EXTINF:-1,rcn fhd
 http://181.78.74.69:8000/play/a05l/index.m3u8
-#EXTINF:-1,star
+#EXTINF:-1,starfhd
 http://181.78.74.69:8000/play/a06e/index.m3u8
-#EXTINF:-1,disney
+#EXTINF:-1,disneyfhd
 http://181.78.74.69:8000/play/a05p/index.m3u8
-#EXTINF:-1,espn hd1
+#EXTINF:-1,espn hd 1280
 http://181.78.74.69:8000/play/a060/index.m3u8
-#EXTINF:-1,espn hd2
-http://181.78.74.69:8000/play/a060/index.m3u8
-#EXTINF:-1,espn2 hd
+#EXTINF:-1,espn2 hd 1280
 http://181.78.74.69:8000/play/a05x/index.m3u8
-#EXTINF:-1,espn5 hd
+#EXTINF:-1,espn5 fhd
 http://181.78.74.69:8000/play/a05v/index.m3u8
-#EXTINF:-1,espn6 hd
+#EXTINF:-1,espn6 fhd
 http://181.78.74.69:8000/play/a06q/index.m3u8
 
 
 #------- 181 9000
-#EXTINF:-1,hbo xtreme
+#EXTINF:-1,hbo xtreme fhd
 http://181.78.106.127:9000/play/ca069/index.m3u8
-#EXTINF:-1,hbo plus
+#EXTINF:-1,hbo plus fhd
 http://181.78.106.127:9000/play/ca070/index.m3u8
-#EXTINF:-1,golden
+#EXTINF:-1,golden 544
 http://181.78.106.127:9000/play/ca076/index.m3u8
-#EXTINF:-1,golden edge
+#EXTINF:-1,golden edge 720
 http://181.78.106.127:9000/play/ca078/index.m3u8
-#EXTINF:-1,golden plus
+#EXTINF:-1,golden plus 720
 http://181.78.106.127:9000/play/ca078/index.m3u8
-#EXTINF:-1,cinemax
+#EXTINF:-1,cinemax 544
 http://181.78.106.127:9000/play/ca079/index.m3u8
-#EXTINF:-1,multipremier
+#EXTINF:-1,multipremier 544
 http://181.78.106.127:9000/play/ca087/index.m3u8
-#EXTINF:-1,paramount
+#EXTINF:-1,paramount fhd
 http://181.78.106.127:9000/play/ca082/index.m3u8
-#EXTINF:-1,warner
+#EXTINF:-1,warner fhd
 http://181.78.106.127:9000/play/ca071/index.m3u8
-#EXTINF:-1,axn
+#EXTINF:-1,axn fhd
 http://181.78.106.127:9000/play/ca085/index.m3u8
-#EXTINF:-1,space
+#EXTINF:-1,space fhd
 http://181.78.106.127:9000/play/ca072/index.m3u8
-#EXTINF:-1,dePelicula
+#EXTINF:-1,dePelicula hd 960
 http://181.78.106.127:9000/play/ca073/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1,Universal fhd
 http://181.78.106.127:9000/play/ca083/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1,Studio Universal fhd
 http://181.78.106.127:9000/play/ca074/index.m3u8
-#EXTINF:-1,Comedy central
+#EXTINF:-1,Comedy central fhd
 http://181.78.106.127:9000/play/ca050/index.m3u8
-#EXTINF:-1,a&e
+#EXTINF:-1,a&e fhd
 http://181.78.106.127:9000/play/ca086/index.m3u8
-#EXTINF:-1,Studio
+#EXTINF:-1,Studio fhd
 http://181.78.106.127:9000/play/ca074/index.m3u8
-#EXTINF:-1,fx
+#EXTINF:-1,fx sd 544
 http://181.78.106.127:9000/play/ca075/index.m3u8
-#EXTINF:-1,disney
+#EXTINF:-1,disney sd 544
 http://181.78.106.127:9000/play/ca053/index.m3u8
-#EXTINF:-1,nickelodeon
+#EXTINF:-1,nickelodeon sd 544
 http://181.78.106.127:9000/play/ca052/index.m3u8
-#EXTINF:-1,dreamworks
+#EXTINF:-1,dreamworks hd 1280
 http://181.78.106.127:9000/play/ca054/index.m3u8
-#EXTINF:-1,espn
+#EXTINF:-1,espn fhd
 http://181.78.106.127:9000/play/ca033/index.m3u8
-#EXTINF:-1,espn2
+#EXTINF:-1,espn2 fhd
 http://181.78.106.127:9000/play/ca034/index.m3u8
-#EXTINF:-1,espn3
+#EXTINF:-1,espn3 fhd
 http://181.78.106.127:9000/play/ca035/index.m3u8
-#EXTINF:-1,espn4
+#EXTINF:-1,espn4 fhd
 http://181.78.106.127:9000/play/ca036/index.m3u8
 #EXTINF:-1,Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
-#EXTINF:-1,tudn
+#EXTINF:-1,tudn 1280
 http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1,tigo sport
 http://181.78.106.127:9000/play/ca038/index.m3u8
-#EXTINF:-1,Studio Universal2
+#EXTINF:-1,Studio Universal sd 544
 http://181.78.106.127:9000/play/ca088/index.m3u8
-#EXTINF:-1,fox sport
+#EXTINF:-1,fox sport sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1,fox sport2
+#EXTINF:-1,fox sport2 hd 1280
 http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:-1,sky sport
+#EXTINF:-1,sky sport 1280
 http://181.78.106.127:9000/play/ca028/index.m3u8
-#EXTINF:-1,sky sport2
+#EXTINF:-1,sky sport2 fhd
 http://181.78.106.127:9000/play/ca029/index.m3u8
-#EXTINF:-1,sky sport3
+#EXTINF:-1,sky sport3 fhd
 http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1,fox sport mx
+#EXTINF:-1,fox sport mx sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1,claro sport
+#EXTINF:-1,claro sport 
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
 #---------- 181 4000
-#EXTINF:-1,hbo family
+#EXTINF:-1,hbo family 720
 http://181.205.130.194:4000/play/a0dr
-#EXTINF:-1,tlc
+#EXTINF:-1,tlc 720
 http://181.205.130.194:4000/play/a07p
-#EXTINF:-1,tcm
+#EXTINF:-1,tcm 720
 http://181.205.130.194:4000/play/a06l
-#EXTINF:-1,cinecanal
+#EXTINF:-1,cinecanal 720
 http://181.205.130.194:4000/play/a06e
-#EXTINF:-1,usa
+#EXTINF:-1,usa 720
 http://181.205.130.194:4000/play/a06v
-#EXTINF:-1,universal tv
+#EXTINF:-1,universal tv 720
 http://181.205.130.194:4000/play/a06f
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E 720
 http://181.205.130.194:4000/play/a07n
-#EXTINF:-1,TNT hd
+#EXTINF:-1,TNT hd 720
 http://181.205.130.194:4000/play/a06n
-#EXTINF:-1,star channel
+#EXTINF:-1,star channel 720
 http://181.205.130.194:4000/play/a06k
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN 720
 http://181.205.130.194:4000/play/a08n
-#EXTINF:-1,espn1
+#EXTINF:-1,espn1 720
 http://181.205.130.194:4000/play/a07j
-#EXTINF:-1,espn2
+#EXTINF:-1,espn2 720
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1,espn6
+#EXTINF:-1,espn6 720
 http://181.205.130.194:4000/play/a07t
-#EXTINF:-1,espn7
+#EXTINF:-1,espn7 720
 http://181.205.130.194:4000/play/a07s
 
 
 #------------- 181 8000
-#EXTINF:-1,HBO pop HD
+#EXTINF:-1,HBO pop FHD
 http://181.143.230.202:8000/play/a02p/index.m3u8
 
 
