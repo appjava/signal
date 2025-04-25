@@ -1,24 +1,21 @@
-# Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA)
+MIT License
 
-Copyright (c) 2024 appjavadev
+Copyright (c) [2025] [appjava]
 
-Este trabajo está bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el "Software"),
+para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos
+a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y a permitir a las personas a las que se les proporcione el
+Software a hacer lo mismo, sujeto a las siguientes condiciones:
 
-## Permisos
+1. El aviso de copyright anterior y este aviso de permiso deben incluirse en todas
+   las copias o partes sustanciales del Software.
 
-Se permite a otros:
+2. EL SOFTWARE SE PROVEE "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA,
+   INCLUYENDO PERO NO LIMITÁNDOSE A LAS GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA
+   UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL
+   COPYRIGHT SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD,
+   YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA TEORÍA, QUE SURJA DE O
+   EN CONEXIÓN CON EL SOFTWARE O EL USO O OTRO TIPO DE ACCIONES EN EL SOFTWARE.
 
-- **Compartir**: Copiar y redistribuir el material en cualquier medio o formato.
-- **Adaptar**: Transformar y construir a partir del material.
-
-## Condiciones
-
-- **Atribución**: Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tienes el apoyo del licenciante o que lo usas de manera que no está permitido.
-  
-- **No Comercial**: No puedes utilizar el material para fines comerciales. Esto significa que no puedes vender el trabajo ni utilizarlo en un contexto que genere ingresos.
-
-- **Compartir Igual**: Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia que el original.
-
-## No hay garantías
-
-Este trabajo se proporciona "tal cual", sin garantías de ningún tipo, ya sean expresas o implícitas, incluyendo, pero no limitándose a, garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. En ningún caso el autor o los titulares de derechos de autor serán responsables por cualquier reclamación, daño o cualquier otra responsabilidad, ya sea en una acción de contrato, agravio o cualquier otra acción, que surja de o en conexión con el trabajo o el uso o cualquier otra operación en el trabajo.
