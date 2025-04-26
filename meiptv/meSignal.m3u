@@ -307,4 +307,11 @@ http://190.60.33.237:1010/play/a0en/index.m3u8
 ##EXTINF:-1,FX (720)
 #http://200.60.124.19:29000/play/a029
 
+#EXTINF:-1,La 1 op1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
+#EXTINF:-1,La 1 op2
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1,La 1 op3
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
