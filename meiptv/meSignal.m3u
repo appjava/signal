@@ -280,8 +280,10 @@ http://200.59.188.3:8000/play/a03w
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT
 http://200.59.188.3:8000/play/a010
-#EXTINF:-1,warner
+#EXTINF:-1,Warner
 http://200.59.188.3:8000/play/a070
+#EXTINF:-1,Cinecanal
+http://200.59.188.3:8000/play/a059
 
 #----------------------------
 #EXTINF:-1, Sky
