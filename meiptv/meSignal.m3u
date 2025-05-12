@@ -253,7 +253,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1,cinemax (720)
 http://200.59.188.3:8000/play/a03s
-#EXTINF:-1,warner (1920?)
+#EXTINF:-1,warner HD
 http://200.59.188.3:8000/play/a00h
 #EXTINF:-1,D Turbo SD
 http://200.115.120.1:8000/play/ca117
@@ -264,6 +264,8 @@ http://200.59.188.3:8000/play/a03i
 
 #EXTINF:-1,HBO
 http://200.59.188.3:8000/play/a03r
+#EXTINF:-1,HBO+
+http://200.59.188.3:8000/play/a06m
 #EXTINF:-1,HBO FAMILY
 http://200.59.188.3:8000/play/a06o
 #EXTINF:-1,A&E
@@ -272,6 +274,14 @@ http://200.59.188.3:8000/play/a078
 http://200.59.188.3:8000/play/a039
 #EXTINF:-1,RCN
 http://200.59.188.3:8000/play/a03a
+#EXTINF:-1,FX
+http://200.59.188.3:8000/play/a03w
+#EXTINF:-1,Studio
+http://200.59.188.3:8000/play/a06r
+#EXTINF:-1,TNT
+http://200.59.188.3:8000/play/a010
+#EXTINF:-1,warner
+http://200.59.188.3:8000/play/a070
 
 #----------------------------
 #EXTINF:-1, Sky
