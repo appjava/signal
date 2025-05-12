@@ -262,11 +262,11 @@ http://200.59.188.3:8000/play/a03y
 #EXTINF:-1,espn (720)
 http://200.59.188.3:8000/play/a03i
 
-#EXTINF:-1,HBO
+#EXTINF:-1,H
 http://200.59.188.3:8000/play/a03r
-#EXTINF:-1,HBO+
+#EXTINF:-1,H+
 http://200.59.188.3:8000/play/a06m
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1,Hfamily
 http://200.59.188.3:8000/play/a06o
 #EXTINF:-1,A&E
 http://200.59.188.3:8000/play/a078
