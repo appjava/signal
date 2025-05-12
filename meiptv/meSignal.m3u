@@ -261,19 +261,17 @@ http://200.115.120.1:8000/play/ca117
 http://200.59.188.3:8000/play/a03y
 #EXTINF:-1,espn (720)
 http://200.59.188.3:8000/play/a03i
-#EXTINF:-1,SPACE HD
-http://200.59.188.3:8000/play/a00j
-#EXTINF:-1 ,ESPN HD
-http://200.59.188.3:8000/play/a01p
-#EXTINF:-1 ,ESPN3 HD
-http://200.59.188.3:8000/play/a011
 
 #EXTINF:-1,HBO
 http://200.59.188.3:8000/play/a03r
-#EXTINF:-1,HBO2
-http://200.59.188.3:8000/play/a0ks
 #EXTINF:-1,HBO FAMILY
 http://200.59.188.3:8000/play/a06o
+#EXTINF:-1,A&E
+http://200.59.188.3:8000/play/a078
+#EXTINF:-1,Caracol
+http://200.59.188.3:8000/play/a039
+#EXTINF:-1,RCN
+http://200.59.188.3:8000/play/a03a
 
 #----------------------------
 #EXTINF:-1, Sky
@@ -328,3 +326,8 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1,La 1 op3
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1,W+
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
+#EXTINF:-1,W+ HD
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78697
