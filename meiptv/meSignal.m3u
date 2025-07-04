@@ -6,8 +6,9 @@
 #https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/media_1800_20240906T223453_01086.ts
 #https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
 
-#EXTINF:-1,Caracol Ahora (1280)
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1,Caracol Ahora (Temporal)
+#https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=NwFi2wRLgHr5tpTojsmeHYoWDut2cQo2&sid=8jXN99DdP3XNRXoajvJqhFJyfgIhQ7BT&pid=GGNgDsWPbsDVPWXMCYazXObe2iSmQvLW&pid_dvr=VvoEleOxqE40IWPePTCWzfULD1scL6qK&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=992x524&without_cookies=false&listenerid=&dnt=true&access_token=79BqvW21SikP2kf8Mawp05jaIwPet4AIDyAm0PXUZXKpEow5EbRJadjkbRuN9ps25h9C5XV83hg&adInsertionGoogleStreamId=d94f9094-24fb-45c1-a195-0a7b83bac371:MRN2
 
 #EXTINF:-1,Caracol HD
 http://181.78.74.69:8000/play/a06g/index.m3u8
