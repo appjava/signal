@@ -267,6 +267,7 @@ button:hover{
 }
 .page{
 	display: block;
+	margin-bottom: 60px;
 }
 .meframe{
 	overflow: hidden;
@@ -274,7 +275,7 @@ button:hover{
   	padding-top: 56.25%;
 	position: relative;
 	background: none;
-	margin: 3px auto;
+	margin: 12px auto;
 	border: 1px dotted rgb(48, 48, 48);
 	align-items: center;
 	
@@ -307,12 +308,12 @@ button{
 }
 
 .typewriter {
-	width: 18ch;
+	width: 60ch;
 	white-space: nowrap;
 	overflow: hidden;
-	border-right: 3px solid white;
+	border-right: 1px solid white;
 	animation: cursor 1s step-start infinite, 
-	text 3s steps(18) alternate infinite;
+	text 3s steps(30) alternate infinite;
 }
 .back{
 	display: block;
