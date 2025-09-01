@@ -190,6 +190,12 @@ http://200.115.120.1:8000/play/ca059
 http://181.205.130.194:4000/play/a07p
 #EXTINF:-1,tcm 720
 http://181.205.130.194:4000/play/a06l
+#EXTINF:-1,two  720
+http://181.205.130.194:4000/play/a0do
+#EXTINF:-1,plus 720
+http://181.205.130.194:4000/play/a0dp
+#EXTINF:-1,xtreme 720
+http://181.205.130.194:4000/play/a0dq
 #EXTINF:-1,family 720
 http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1,cinecanal 720
