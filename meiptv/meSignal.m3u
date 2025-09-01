@@ -6,11 +6,6 @@
 #https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/media_1800_20240906T223453_01086.ts
 #https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
 
-##EXTINF:-1,Caracol Ahora (Temporal2)
-#https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=NwFi2wRLgHr5tpTojsmeHYoWDut2cQo2&sid=8jXN99DdP3XNRXoajvJqhFJyfgIhQ7BT&pid=GGNgDsWPbsDVPWXMCYazXObe2iSmQvLW&pid_dvr=VvoEleOxqE40IWPePTCWzfULD1scL6qK&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=992x524&without_cookies=false&listenerid=&dnt=true&access_token=79BqvW21SikP2kf8Mawp05jaIwPet4AIDyAm0PXUZXKpEow5EbRJadjkbRuN9ps25h9C5XV83hg&adInsertionGoogleStreamId=d94f9094-24fb-45c1-a195-0a7b83bac371:MRN2
-#https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=SA1ouQEoGbYHoQLljSmiyM3SNBu9KxBE&sid=2LHmJqBVhGVqExMuZt1jDNp3127QaxTg&pid=4yiHSApTGdokN6vFauvrh1sUZ7SmY8jc&pid_dvr=REEgmXbYsQvWsjJ63a4w3anYbOeV9rFS&an=screen&at=web-app&av=v6.0.176&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=992x450&without_cookies=false&listenerid=&dnt=true&access_token=xHo3Yjy7pCeLffPjUBx3olqmiIJlfuvojaFWBltKkOIvCP7BwLZ5CO0vsFqSX8IYe8xoVNXnq6x
-
 ##EXTINF:-1,Caracol HD
 #http://181.78.74.69:8000/play/a06g/index.m3u8
 
@@ -41,8 +36,8 @@ http://179.49.163.34:45000/play/a033/index.m3u8
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
 
-#EXTINF:-1,Telepacífico
-https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+##EXTINF:-1,Telepacífico
+#https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 ##EXTINF:-1,Telepacífico
@@ -67,38 +62,11 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-##EXTINF:-1,CableNoticias
-#https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-##EXTINF:-1,TeleMedellín
-#https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-
-##EXTINF:-1,TeleAntioquia
-#https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
-
-##EXTINF:-1,Canal Capital
-#https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-##EXTINF:-1,Canal TRO
-#https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-
-##EXTINF:-1,Canal 8
-#https://movil.ejeserver.com/live/canal8tv.m3u8
-
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
-##EXTINF:-1, AgroTendencias
-#https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-
-##EXTINF:-1, AgroTV
-#https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
-##EXTINF:-1, Rural
-#https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -119,14 +87,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#----------- FreeTV ----------
-##EXTINF:-1,ActionFree
-#https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
-##EXTINF:-1,TerrorFree
-#https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
-##EXTINF:-1,FamiliaFree
-##https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8
 
 #-------------------------------------------------------------
 
@@ -192,21 +152,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #------------------------------ Vizio ---------------
 #EXTINF:-1,AMC en Espanol
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
-##EXTINF:-1,Sony Canal Comedias
-#https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
-##EXTINF:-1,Cine Real
-#https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
-##EXTINF:-1,Tu Cine
-#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
-
-#------------------------------ LG --------------------
-##EXTINF:-1,Brightside Spanish (CO)
-#https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8
-##EXTINF:-1,Sabermas (CO)
-#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/playlist.m3u8
-##EXTINF:-1,The Pet Collective (CO)
-#https://jukin-thepetcollective-1-co.lg.wurl.tv/playlist.m3u8
-
 
 #----------------------------- Distro -------------
 #EXTINF:-1,CGTN Español
@@ -219,90 +164,20 @@ https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #----------------------------- cxtvenvivo ----------
 
-##EXTINF:-1,Cinema Canela
-#https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
 #EXTINF:-1,Autos PowerNation
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
 #EXTINF:-1,CaliTV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1,Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
-##EXTINF:-1,Cinema 3 Canela
-#https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
-
-##EXTINF:-1,Live FreeTV
-#https://chiquilines-freetv.amagi.tv/Chiquilines-plex/master_4.m3u8
-##EXTINF:-1,Estelar FreeTV
-#https://tucinelatam-freetv.amagi.tv/TuCine-xumo/master_4.m3u8
-##EXTINF:-1,Acción FreeTV
-#https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
-##EXTINF:-1,Juntos FreeTV
-#https://juntos-freetv.amagi.tv/Juntos-roku/master_4.m3u8
-
-#https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_4.m3u8
-#https://olympusamagi.pc.cdn.bitgravity.com/TuCine-xumo/master_4.m3u8
-#https://olympusamagi.pc.cdn.bitgravity.com/Chiquilines-plex/master_4.m3u8
-#https://olympusamagi.pc.cdn.bitgravity.com/TopCineLATAMx/master_4.m3u8
-#https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
-#https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_4.m3u8
-
-#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-vizio/CDN/playlist.m3u8
-#https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
 
 #----------------------------
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#----------------------------
 #EXTINF:-1,D Turbo SD
 http://200.115.120.1:8000/play/ca117
-
-##EXTINF:-1,cinemax (720)
-#http://200.59.188.3:8000/play/a03s
-##EXTINF:-1,warner HD
-#http://200.59.188.3:8000/play/a00h
-##EXTINF:-1,win (720)
-#http://200.59.188.3:8000/play/a03y
-##EXTINF:-1,espn (720)
-#http://200.59.188.3:8000/play/a03i
-##EXTINF:-1,H
-#http://200.59.188.3:8000/play/a03r
-##EXTINF:-1,H+
-#http://200.59.188.3:8000/play/a06m
-##EXTINF:-1,Hfamily
-#http://200.59.188.3:8000/play/a06o
-##EXTINF:-1,A&E
-#http://200.59.188.3:8000/play/a078
-##EXTINF:-1,Caracol
-#http://200.59.188.3:8000/play/a039
-##EXTINF:-1,RCN
-#http://200.59.188.3:8000/play/a03a
-##EXTINF:-1,FX
-#http://200.59.188.3:8000/play/a03w
-##EXTINF:-1,Studio
-#http://200.59.188.3:8000/play/a06r
-##EXTINF:-1,TNT
-#http://200.59.188.3:8000/play/a010
-##EXTINF:-1,Warner
-#http://200.59.188.3:8000/play/a070
-##EXTINF:-1,Cinecanal
-#http://200.59.188.3:8000/play/a059
-
-#----------------------------
-#EXTINF:-1, Fox
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1, Sky
-http://200.115.120.1:8000/play/ca124
-#EXTINF:-1,ESPN6 SD
-http://200.115.120.1:8000/play/ca119/index.m3u8
-#EXTINF:-1,FX SD
-http://200.115.120.1:8000/play/ca017/index.m3u8
-#EXTINF:-1,Warner SD
-http://200.115.120.1:8000/play/ca047/index.m3u8
-#EXTINF:-1,Discovery HD
-http://200.115.120.1:8000/play/ca052
-#EXTINF:-1,D Science SD
-http://200.115.120.1:8000/play/ca054
 #EXTINF:-1,Love Natures SD
 http://200.115.120.1:8000/play/ca059
 
@@ -331,45 +206,26 @@ http://181.205.130.194:4000/play/a07t
 #EXTINF:-1,ESPN7 HD
 http://181.205.130.194:4000/play/a07s
 
-##EXTINF:-1,espn HD
-#http://170.39.192.130:2095/56942505562play/060123play/316503
 
-##EXTINF:-1,ESPN2 (1280)
-#http://206.62.161.192:8000/play/a0h8/index.m3u8
-
-##EXTINF:-1,Wplus
-#http://152.231.29.139:8000/play/a0cd/index.m3u8
-
-##EXTINF:-1,espn (1280)
-#http://190.60.33.237:1010/play/a0ee/index.m3u8
-##EXTINF:-1,espn2 (1280)
-#http://190.60.33.237:1010/play/a0en/index.m3u8
-
-##EXTINF:-1,warner (720)
-#http://200.60.124.19:29000/play/a013
-##EXTINF:-1,espn (720)
-#http://200.60.124.19:29000/play/a016
-##EXTINF:-1,espn2 (720)
-#http://200.60.124.19:29000/play/a015
-##EXTINF:-1,espn3 (720)
-#http://200.60.124.19:29000/play/a02e
-##EXTINF:-1,espn5 (720)
-#http://200.60.124.19:29000/play/a04y
-##EXTINF:-1,espn6 (720)
-#http://200.60.124.19:29000/play/a01f
-##EXTINF:-1,espn7 (720)
-#http://200.60.124.19:29000/play/a01e
-##EXTINF:-1,FX (720)
-#http://200.60.124.19:29000/play/a029
+#EXTINF:-1,warner (720)
+http://200.60.124.19:29000/play/a013
+#EXTINF:-1,FX (720)
+http://200.60.124.19:29000/play/a029
+#EXTINF:-1,espn (720)
+http://200.60.124.19:29000/play/a016
+#EXTINF:-1,espn2 (720)
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1,espn3 (720)
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1,espn5 (720)
+http://200.60.124.19:29000/play/a04y
+#EXTINF:-1,espn6 (720)
+http://200.60.124.19:29000/play/a01f
+#EXTINF:-1,espn7 (720)
+http://200.60.124.19:29000/play/a01e
 
 #EXTINF:-1,La 1 op1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-##EXTINF:-1,La 1 op2
-#https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
-##EXTINF:-1,La 1 op3
-#https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
 #EXTINF:-1,W+
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
