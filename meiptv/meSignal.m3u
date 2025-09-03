@@ -181,19 +181,22 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1,Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 
-#----------------------------
+#-----------------------------------
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#----------------------------
+#-----------------------------------
 #EXTINF:-1,D Turbo SD
 http://200.115.120.1:8000/play/ca117
 #EXTINF:-1,Love Natures SD
 http://200.115.120.1:8000/play/ca059
 
-#EXTINF:-1,NatGeo 720
+#------------------------------------
+#EXTINF:-1,caracol 720
+http://181.205.130.194:4000/play/a0ck
+#EXTINF:-1,natgeo 720
 http://181.205.130.194:4000/play/a06c
-#EXTINF:-1,History 720
+#EXTINF:-1,history 720
 http://181.205.130.194:4000/play/a06d
 #EXTINF:-1,tlc 720
 http://181.205.130.194:4000/play/a07p
@@ -211,53 +214,55 @@ http://181.205.130.194:4000/play/a0dq
 http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1,cinecanal 720
 http://181.205.130.194:4000/play/a06e
-#EXTINF:-1,A&E 720
-http://181.205.130.194:4000/play/a07n
-#EXTINF:-1,TNT 720
+#EXTINF:-1,tnt 720
 http://181.205.130.194:4000/play/a06n
-#EXTINF:-1,Studio 720
+#EXTINF:-1,studio 720
 http://181.205.130.194:4000/play/a0aq
-#EXTINF:-1,Paramount FHD
+#EXTINF:-1,paramount FHD
 http://181.205.130.194:4000/play/a0ei
 #EXTINF:-1,star channel 720
 http://181.205.130.194:4000/play/a06k
-#EXTINF:-1,ESPN1 COL HD
+#EXTINF:-1,a&e 720
+http://181.205.130.194:4000/play/a07n
+#EXTINF:-1,espn COL HD
 http://181.205.130.194:4000/play/a08n
-#EXTINF:-1,ESPN1 HD
+#EXTINF:-1,espn1 HD
 http://181.205.130.194:4000/play/a07j
-#EXTINF:-1,ESPN2 HD
+#EXTINF:-1,espn2 HD
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1,ESPN6 HD
+#EXTINF:-1,espn6 HD
 http://181.205.130.194:4000/play/a07t
-#EXTINF:-1,ESPN7 HD
+#EXTINF:-1,espn7 HD
 http://181.205.130.194:4000/play/a07s
-#EXTINF:-1,Caracol 720
-http://181.205.130.194:4000/play/a0ck
+
+#-------------------------------------
 
 #EXTINF:-1,Turbo 720
 http://200.60.124.19:29000/play/a02d
-#EXTINF:-1,warner (720)
+#EXTINF:-1,Warner (720)
 http://200.60.124.19:29000/play/a013
-#EXTINF:-1,fx (720)
+#EXTINF:-1,Fx (720)
 http://200.60.124.19:29000/play/a029
-#EXTINF:-1,space 720
+#EXTINF:-1,Space 720
 http://200.60.124.19:29000/play/a028
-#EXTINF:-1,cinemax 720
+#EXTINF:-1,Cinemax 720
 http://200.60.124.19:29000/play/a025
-#EXTINF:-1,espn (720)
+#EXTINF:-1,Espn (720)
 http://200.60.124.19:29000/play/a016
-#EXTINF:-1,espn2 (720)
+#EXTINF:-1,Espn2 (720)
 http://200.60.124.19:29000/play/a015
-#EXTINF:-1,espn3 (720)
+#EXTINF:-1,Espn3 (720)
 http://200.60.124.19:29000/play/a02e
-#EXTINF:-1,espn5 (720)
+#EXTINF:-1,Espn5 (720)
 http://200.60.124.19:29000/play/a04y
-#EXTINF:-1,espn6 (720)
+#EXTINF:-1,Espn6 (720)
 http://200.60.124.19:29000/play/a01f
-#EXTINF:-1,espn7 (720)
+#EXTINF:-1,Espn7 (720)
 http://200.60.124.19:29000/play/a01e
 
-#EXTINF:-1,La 1 op1
+#---------------------------------------
+
+#EXTINF:-1,La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1,W+
