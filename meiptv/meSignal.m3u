@@ -372,7 +372,10 @@ http://45.228.234.30:16000/play/a01y
 http://45.228.234.30:16000/play/a02x
 #EXTINF:-1,Golden FHD
 http://45.228.234.30:16000/play/a03c
-
+#EXTINF:-1,GEdge FHD
+http://45.228.234.30:16000/play/a03d
+#EXTINF:-1,SkySport FHD
+http://45.228.234.30:16000/play/a03h
 
 
 
