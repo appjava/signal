@@ -330,6 +330,8 @@ http://45.228.234.30:16000/play/a01p
 http://45.228.234.30:16000/play/a02e
 #EXTINF:-1,Star FHD
 http://45.228.234.30:16000/play/a01n
+#EXTINF:-1,Warner FHD
+http://45.228.234.30:16000/play/a01o
 #EXTINF:-1,Swing SD
 http://45.228.234.30:16000/play/a00k
 #EXTINF:-1,Space SD
@@ -344,6 +346,28 @@ http://45.228.234.30:16000/play/a00u
 http://45.228.234.30:16000/play/a00v
 #EXTINF:-1,Cnn SD
 http://45.228.234.30:16000/play/a00x
+#EXTINF:-1,SonyChannel SD
+http://45.228.234.30:16000/play/a01b
+#EXTINF:-1,A&E SD
+http://45.228.234.30:16000/play/a01e
+#EXTINF:-1,Discovery SD
+http://45.228.234.30:16000/play/a01g
+#EXTINF:-1,AnimalPlanet SD
+http://45.228.234.30:16000/play/a01h
+#EXTINF:-1,History SD
+http://45.228.234.30:16000/play/a01i
+#EXTINF:-1,Tlc SD
+http://45.228.234.30:16000/play/a01j
+#EXTINF:-1,Espn HD
+http://45.228.234.30:16000/play/a01k
+#EXTINF:-1,Espn2 HD
+http://45.228.234.30:16000/play/a01l
+#EXTINF:-1,Turbo SD
+http://45.228.234.30:16000/play/a01w
+#EXTINF:-1,H&h SD
+http://45.228.234.30:16000/play/a01x
+#EXTINF:-1,Dinvestigation SD
+http://45.228.234.30:16000/play/a01y
 
 
 
