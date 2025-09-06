@@ -185,12 +185,6 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#-----------------------------------
-#EXTINF:-1,D Turbo SD
-http://200.115.120.1:8000/play/ca117
-#EXTINF:-1,Love Natures SD
-http://200.115.120.1:8000/play/ca059
-
 #------------------------------------
 #EXTINF:-1,caracol 720
 http://181.205.130.194:4000/play/a0ck
@@ -239,6 +233,11 @@ http://181.205.130.194:4000/play/a07s
 
 #EXTINF:-1,Turbo 720
 http://200.60.124.19:29000/play/a02d
+#EXTINF:-1,Investigación 720
+http://200.60.124.19:29000/play/a04v
+#EXTINF:-1,H&H 720
+http://200.60.124.19:29000/play/a04x
+
 #EXTINF:-1,Warner (720)
 http://200.60.124.19:29000/play/a013
 #EXTINF:-1,Fx (720)
@@ -269,3 +268,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
 #EXTINF:-1,W+ HD
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78697
+
+#EXTINF:-1,adultswing
+http://200.92.227.238:8000/play/a0lj
+#EXTINF:-1,DHD
+http://200.92.227.238:8000/play/a0mh

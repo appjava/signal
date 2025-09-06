@@ -181,7 +181,7 @@ http://181.205.130.194:4000/play/a08k
 http://181.205.130.194:4000/play/a08n
 
 
-#EXTINF:-1,Win+ 720
+#EXTINF:-1,Caracol2 720
 http://181.205.130.194:4000/play/a0ck
 
 #EXTINF:-1,Nickelodeon FHD
@@ -216,6 +216,8 @@ http://181.205.130.194:4000/play/a0aq
 #EXTINF:-1,CanalUno 720
 http://181.205.130.194:4000/play/a0az
 
+#EXTINF:-1,Discovery 720
+http://181.205.130.194:4000/play/a0b6
 
 
 

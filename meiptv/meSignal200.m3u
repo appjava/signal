@@ -71,16 +71,92 @@ http://200.115.120.1:8000/play/ca120
 http://200.115.120.1:8000/play/ca124
 #EXTINF:-1,Fox Sport2 SD
 http://200.115.120.1:8000/play/ca126
-#EXTINF:-1,
 
-#EXTINF:-1,
+#---------------SD
+#EXTINF:-1,cartoonnetwork
+http://200.92.227.238:8000/play/a0le
+#EXTINF:-1,nickjunior
+http://200.92.227.238:8000/play/a0lf
+#EXTINF:-1,cartoonito
+http://200.92.227.238:8000/play/a0lg
+#EXTINF:-1,adultswing
+http://200.92.227.238:8000/play/a0lj
+#EXTINF:-1,space
+http://200.92.227.238:8000/play/a0lm
+#EXTINF:-1,natgeo
+http://200.92.227.238:8000/play/a0lp
+#EXTINF:-1,lifetime
+http://200.92.227.238:8000/play/a0lq
+#EXTINF:-1,espn6
+http://200.92.227.238:8000/play/a0lr
+#EXTINF:-1,axn
+http://200.92.227.238:8000/play/a0lu
+#EXTINF:-1,tnt
+http://200.92.227.238:8000/play/a0lv
+#EXTINF:-1,amc
+http://200.92.227.238:8000/play/a0lw
+#EXTINF:-1,cnn
+http://200.92.227.238:8000/play/a0lx
+#EXTINF:-1,bbc
+http://200.92.227.238:8000/play/a0ly
+#EXTINF:-1,france24
+http://200.92.227.238:8000/play/a0lz
 
-#EXTINF:-1,
+#EXTINF:-1,espn3
+http://200.92.227.238:8000/play/a0nb
+#EXTINF:-1,golden
+http://200.92.227.238:8000/play/a0nh
+#EXTINF:-1,tcm
+http://200.92.227.238:8000/play/a0ni
+#EXTINF:-1,ven
+http://200.92.227.238:8000/play/a0nn
+#EXTINF:-1,tooncast
+http://200.92.227.238:8000/play/a0nv
+#EXTINF:-1,sonychannel
+http://200.92.227.238:8000/play/a0nx
+#EXTINF:-1,warner
+http://200.92.227.238:8000/play/a0ny
 
-#EXTINF:-1,
 
-#EXTINF:-1,
+#--- FHD
+#EXTINF:-1,A&E
+http://200.92.227.238:8000/play/a0mb
+#EXTINF:-1,Amc
+http://200.92.227.238:8000/play/a0mc
+#EXTINF:-1,Fx
+http://200.92.227.238:8000/play/a0me
+#EXTINF:-1,eE
+http://200.92.227.238:8000/play/a0mf
+#EXTINF:-1,SonyMovies
+http://200.92.227.238:8000/play/a0mg
+#EXTINF:-1,DHD
+http://200.92.227.238:8000/play/a0mh
+#EXTINF:-1,Star tve
+http://200.92.227.238:8000/play/a0mj
+#EXTINF:-1,Golf
+http://200.92.227.238:8000/play/a0mk
+#EXTINF:-1,History
+http://200.92.227.238:8000/play/a0ml
+#EXTINF:-1,CartoonNetwork
+http://200.92.227.238:8000/play/a0mp
+#EXTINF:-1,hbo
+http://200.92.227.238:8000/play/a0mq
+#EXTINF:-1,hbo plus
+http://200.92.227.238:8000/play/a0ms
+#EXTINF:-1,hbo family
+http://200.92.227.238:8000/play/a0mt
+#EXTINF:-1,hbo xtreme
+http://200.92.227.238:8000/play/a0mu
+#EXTINF:-1,play
+http://200.92.227.238:8000/play/a0mv
+#EXTINF:-1,canal13
+http://200.92.227.238:8000/play/a0my
+#EXTINF:-1,canal11
+http://200.92.227.238:8000/play/a0mz
 
+#EXTINF:-1,Star
+http://200.92.227.238:8000/play/a0oa
+#------------------------------------
 #EXTINF:-1,
 
 #EXTINF:-1,
