@@ -269,7 +269,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
 #EXTINF:-1,W+ HD
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78697
 
-#EXTINF:-1,adultswing
+#EXTINF:-1,Swing
 http://200.92.227.238:8000/play/a0lj
 #EXTINF:-1,DHD
 http://200.92.227.238:8000/play/a0mh
@@ -299,3 +299,12 @@ http://190.60.38.45:8000/play/a0eh
 http://190.60.38.45:8000/play/a0ei
 #EXTINF:-1,TntSport+ FHD
 http://190.60.38.45:8000/play/a0em
+
+#EXTINF:-1,Hbo FHD
+http://45.228.234.30:16000/play/a008
+#EXTINF:-1,Hbo2 FHD
+http://45.228.234.30:16000/play/a009
+#EXTINF:-1,Paramount SD
+http://45.228.234.30:16000/play/a004
+#EXTINF:-1,Dhe SD
+http://45.228.234.30:16000/play/a003
