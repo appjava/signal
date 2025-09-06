@@ -368,9 +368,10 @@ http://45.228.234.30:16000/play/a01w
 http://45.228.234.30:16000/play/a01x
 #EXTINF:-1,Dinvestigation SD
 http://45.228.234.30:16000/play/a01y
-
-
-
+#EXTINF:-1,TUDN FHD
+http://45.228.234.30:16000/play/a02x
+#EXTINF:-1,Golden FHD
+http://45.228.234.30:16000/play/a03c
 
 
 
