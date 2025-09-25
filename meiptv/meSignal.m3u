@@ -433,6 +433,7 @@ http://45.228.234.30:16000/play/a03h
 http://45.228.234.30:16000/play/a03i
 
 #------------------------------------
-
-
-
+#EXTINF:-1,SkySport Liga FHD
+http://190.92.10.66:4000/play/a001
+#EXTINF:-1,ONCE
+https://d4.merichunidya.com:1686/hls/capodeportes4.m3u8?md5=qgnoFFrtkXJdFCPjOEO8Tw&expires=1758770237
