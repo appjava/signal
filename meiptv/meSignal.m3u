@@ -1,128 +1,50 @@
 #EXTM3U
-
-#-------------- TDT ----------------------
-##EXTINF:-1,Caracol HD (1280)
-##https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/media_1800_20240906T223453_01086.ts
-#https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
-
-##EXTINF:-1,Caracol HD
-#http://181.78.74.69:8000/play/a06g/index.m3u8
+# Creado por el Purgador de Listas de appjava.dev
 
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
-
-##EXTINF:-1,Caracol FHD
-#http://190.61.42.218:9000/play/a02g
-
 #EXTINF:-1,Caracol (1024)
 http://179.49.163.34:45000/play/a032/index.m3u8
-
-#EXTINF:-1,Caracol (1920)
-http://181.78.14.26:8000/play/a00d
-
 #EXTINF:-1,Caracol 720
 http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1,RCN FHD
 http://181.205.130.194:4000/play/a0dl
 #EXTINF:-1,RCN 720
 http://181.205.130.194:4000/play/a08f
-
 #EXTINF:-1,RCN
 http://181.78.23.26:45000/play/a02h
-
-##EXTINF:-1,RCN HD
-#http://181.78.74.69:8000/play/a05l/index.m3u8
-
-##EXTINF:-1,RCN (720)
-#http://200.59.188.3:8000/play/a03a
-
 #EXTINF:-1,RCN (1024)
 http://179.49.163.34:45000/play/a033/index.m3u8
-
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
-
-##EXTINF:-1,Telepacífico
-#https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-##EXTINF:-1,Telepacífico
-#https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
-##EXTINF:-1,Telepacífico (1080)
-#https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Noticiero 90 Minutos (720)
-##https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#https://cdn.livewave.co:19360/90minutoslive/90minutoslive.m3u8
-
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-
 #EXTINF:-1,CanalUno 720
 http://181.205.130.194:4000/play/a0az
-
-##EXTINF:-1,RCN
-#https://live-b2.cf.dmcdn.net/sec2(-YD44YBPmFFKXrvshrTDQLQ8Z0rFPQtk7wdOdLjHbtoek7gGO326-XNqqi33ZzlUXPJIDZYrEv_BDn3wTkykPoULQ9jhp-QlM-F7JRLMPiQ)/cloud/3/x7vyv0z/s/live-380.m3u8
-#https://live-b2.cf.dmcdn.net/sec2(1nX30a4YRTXzT9W0mgkU_FwH2hd2nMXqGyPGlgDwY9zPE1BVspsWCjsIJxEFXP1_y5VGTFJEKIB80yo-gcu9btjF_IVjJUfHELYCZFoNweY)/cloud/3/x7vyv0z/s/live-380.m3u8
-##EXTINF:-1,RCN HD2
-#https://live-c2.cf.dmcdn.net/sec2(CYGhYT3QNwDna2pfmg1OtpAS5lzY0o7OG5hn8B8V0aolir1aorr5021Wl1h6yjOdz9w7SbxNeGocLYHTwxhF6yQn0bmo6zCKJQyFa0yJbxw)/cloud/3/x7wkq7p/s/live-240.m3u8
-##EXTINF:-1,RCN+
-#https://rcntv-rcnmas-1-us.plex.wurl.tv/1200.m3u8
-
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
 #EXTINF::-1,Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-##EXTINF:-1,Equipo Investigación
-#https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-##EXTINF:-1,ANHQV
-#https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-
-##EXTINF:-1,ZAZ Tv
-#https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-
-##EXTINF:-1,AnimeStation
-#https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-
-##EXTINF:-1,Comedia
-#https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-#-------------------------------------------------------------
-
-#---------------------------------PlutoTV---------------------
-
 #EXTINF:-1,Pluto TV Cine Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
 #EXTINF:-1,Pluto TV Cine Estelar (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1,Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Estrellas de Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1,Pluto TV Ciencia (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Historia (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Naturaleza (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 #EXTINF:-1,Pluto TV Velocidad​ (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1,Pluto Mundo Geek
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812301a-61bc-11ef-afe4-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e713048-84ce-4fab-b243-4a7e7b903425&userId=&serverSideAds=true
 #EXTINF:-1,Mundo viajero Pluto
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:-1,Encantador de Perros Pluto
@@ -131,8 +53,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Pluto TV Naturaleza
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Animales
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Obsesión por los Autos Pluto
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Mi Coche Clásico Pluto
@@ -141,51 +61,26 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
 #EXTINF:0, Smithsonian Channel Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Ciencia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-
-
 #EXTINF:-1,Cine Premiere Pluto
-#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3600&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812179c-61bc-11ef-afe6-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87d0c898-0a70-4d39-9887-d53430f887f5&userId=&serverSideAds=true
-
 #EXTINF:-1,Cine adrenalina Pluto
-#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3640&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=58121a1c-61bc-11ef-aa8e-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da3f56bc-cd4e-4068-a55c-d5a4b476af0f&userId=&serverSideAds=true
-
 #EXTINF:-1,Pelis y Popcorn Pluto
-#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=3630&deviceId=60fb2f47c133270007327375&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
-
-#-------------------------
-
-#------------------------------ Vizio ---------------
 #EXTINF:-1,AMC en Espanol
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
-
-#----------------------------- Distro -------------
 #EXTINF:-1,CGTN Español
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1&ads.streamtype=live
-
-
-#----------------------------- Xiaomi --------------
 #EXTINF:-1,Sonyone Sharktank (MX)
 https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
-
-#----------------------------- cxtvenvivo ----------
-
 #EXTINF:-1,Autos PowerNation
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
 #EXTINF:-1,CaliTV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1,Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
-
-#-----------------------------------
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#------------------------------------
 #EXTINF:-1,caracol 720
 http://181.205.130.194:4000/play/a0ck
 #EXTINF:-1,natgeo 720
@@ -228,16 +123,12 @@ http://181.205.130.194:4000/play/a07i
 http://181.205.130.194:4000/play/a07t
 #EXTINF:-1,espn7 HD
 http://181.205.130.194:4000/play/a07s
-
-#-------------------------------------
-
 #EXTINF:-1,Turbo 720
 http://200.60.124.19:29000/play/a02d
 #EXTINF:-1,Investigación 720
 http://200.60.124.19:29000/play/a04v
 #EXTINF:-1,H&H 720
 http://200.60.124.19:29000/play/a04x
-
 #EXTINF:-1,Warner (720)
 http://200.60.124.19:29000/play/a013
 #EXTINF:-1,Fx (720)
@@ -258,31 +149,16 @@ http://200.60.124.19:29000/play/a04y
 http://200.60.124.19:29000/play/a01f
 #EXTINF:-1,Espn7 (720)
 http://200.60.124.19:29000/play/a01e
-
-#---------------------------------------
-
-#EXTINF:-1,La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
 #EXTINF:-1,W+
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78717
 #EXTINF:-1,W+ HD
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78697
-
-#---------------------------------------
 #EXTINF:-1,Swing
 http://200.92.227.238:8000/play/a0lj
 #EXTINF:-1,DHD
 http://200.92.227.238:8000/play/a0mh
 #EXTINF:-1,SonyMovies
 http://200.92.227.238:8000/play/a0mg
-
-#---------------------------------------
-
-#EXTINF:-1,DS1
-http://179.63.6.17:9000/play/a08e
-
-#--------------------------------------
 #EXTINF:-1,Ds1
 http://190.117.20.37:8000/play/a08d
 #EXTINF:-1,LifetimeSD
@@ -319,8 +195,6 @@ http://190.117.20.37:8000/play/a05u
 http://190.117.20.37:8000/play/a05v
 #EXTINF:-1,A&eSD
 http://190.117.20.37:8000/play/a05z
-
-#--------------------------------------
 #EXTINF:-1,Ds2
 http://181.78.106.127:9000/play/ca026
 #EXTINF:-1,SkySport1
@@ -333,26 +207,6 @@ http://181.78.106.127:9000/play/ca030
 http://181.78.106.127:9000/play/ca031
 #EXTINF:-1,FoxSport2
 http://181.78.106.127:9000/play/ca032
-
-#----------------------------------------
-#EXTINF:-1,W SD
-http://190.60.38.45:8000/play/a0hz
-#EXTINF:-1,History2 SD
-http://190.60.38.45:8000/play/a0hg
-#EXTINF:-1,Rcn FHD
-http://190.60.38.45:8000/play/a0ec
-#EXTINF:-1,Caracol FHD
-http://190.60.38.45:8000/play/a0ed
-#EXTINF:-1,?? FHD
-http://190.60.38.45:8000/play/a0eg
-#EXTINF:-1,??? FHD
-http://190.60.38.45:8000/play/a0eh
-#EXTINF:-1,Dtheater FHD
-http://190.60.38.45:8000/play/a0ei
-#EXTINF:-1,TntSport+ FHD
-http://190.60.38.45:8000/play/a0em
-
-#------------------------------------
 #EXTINF:-1,Hbo FHD
 http://45.228.234.30:16000/play/a008
 #EXTINF:-1,Hbo2 FHD
@@ -431,9 +285,5 @@ http://45.228.234.30:16000/play/a03d
 http://45.228.234.30:16000/play/a03h
 #EXTINF:-1,Espn4 FHD
 http://45.228.234.30:16000/play/a03i
-
-#------------------------------------
 #EXTINF:-1,SkySport Liga FHD
 http://190.92.10.66:4000/play/a001
-#EXTINF:-1,ONCE
-https://d4.merichunidya.com:1686/hls/capodeportes4.m3u8?md5=qgnoFFrtkXJdFCPjOEO8Tw&expires=1758770237
