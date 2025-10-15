@@ -367,8 +367,6 @@ http://200.92.227.238:8000/play/a0nb
 http://200.92.227.238:8000/play/a0nh
 #EXTINF:-1,tcm
 http://200.92.227.238:8000/play/a0ni
-#EXTINF:-1,ven
-http://200.92.227.238:8000/play/a0nn
 #EXTINF:-1,tooncast
 http://200.92.227.238:8000/play/a0nv
 #EXTINF:-1,sonychannel
@@ -403,8 +401,6 @@ http://200.92.227.238:8000/play/a0ms
 http://200.92.227.238:8000/play/a0mt
 #EXTINF:-1,hbo xtreme
 http://200.92.227.238:8000/play/a0mu
-#EXTINF:-1,play
-http://200.92.227.238:8000/play/a0mv
 #EXTINF:-1,canal13
 http://200.92.227.238:8000/play/a0my
 #EXTINF:-1,canal11
@@ -830,7 +826,7 @@ http://190.60.42.86:8000/play/a01y
 http://190.60.42.86:8000/play/a02y
 #EXTINF:-1, azteca Inter
 http://190.60.42.86:8000/play/a03y
-#EXTINF:-1, ???
+#EXTINF:-1, History
 http://190.60.42.86:8000/play/a01z
 #EXTINF:-1, HBO+
 http://190.60.42.86:8000/play/a03z
