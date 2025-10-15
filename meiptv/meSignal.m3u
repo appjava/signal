@@ -17,6 +17,8 @@ http://181.78.23.26:45000/play/a02h
 http://179.49.163.34:45000/play/a033/index.m3u8
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
+#EXTINF:-1, TVagro
+http://190.60.42.86:8000/play/a01h
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1,Canal Uno
