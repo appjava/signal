@@ -66,6 +66,10 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #1814000
+#EXTINF:-1,H&H
+http://181.205.130.194:4000/play/a080
+#EXTINF:-1,ESPN5
+http://181.205.130.194:4000/play/a085
 #EXTINF:-1,RCN FHD
 http://181.205.130.194:4000/play/a0dl
 #EXTINF:-1,hbo2  720
