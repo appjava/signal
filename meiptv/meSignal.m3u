@@ -3,8 +3,12 @@
 
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
+#EXTINF:-1,Caracol (800)
+http://179.49.163.34:45000/play/a031
 #EXTINF:-1,Caracol (1024)
-http://179.49.163.34:45000/play/a032/index.m3u8
+http://179.49.163.34:45000/play/a032
+#EXTINF:-1,Caracol (850)
+http://179.49.163.34:45000/play/a03a
 #EXTINF:-1,Caracol 720
 http://181.205.130.194:4000/play/a0dz
 #EXTINF:-1,RCN FHD

@@ -1,6 +1,7 @@
 #EXTM3U
 
 #HTTPS
+
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1,Canal Uno
@@ -541,6 +542,10 @@ http://179.49.163.34:45000/play/a013/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 #EXTINF:-1,sony (1024)
 http://179.49.163.34:45000/play/a020/index.m3u8
+#EXTINF:-1,Caracol (1024)
+http://179.49.163.34:45000/play/a032/index.m3u8
+#EXTINF:-1,RCN (1024)
+http://179.49.163.34:45000/play/a033/index.m3u8
 
 #16
 #EXTINF:-1,Hbo FHD
