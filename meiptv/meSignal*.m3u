@@ -1,11 +1,36 @@
 #EXTM3U
+# Creado por el Purgador de Listas de appjava.dev
 
-#HTTPS
-
+#EXTINF:-1,Caracol SD2
+http://200.115.120.1:8000/play/ca067
+#EXTINF:-1,Caracol (800)
+http://179.49.163.34:45000/play/a031
+#EXTINF:-1,Caracol (1024)
+http://179.49.163.34:45000/play/a032
+#EXTINF:-1,Caracol (850)
+http://179.49.163.34:45000/play/a03a
+#EXTINF:-1,Caracol 720
+http://181.205.130.194:4000/play/a0dz
+#EXTINF:-1,RCN FHD
+http://181.205.130.194:4000/play/a0dl
+#EXTINF:-1,RCN 720
+http://181.205.130.194:4000/play/a08f
+#EXTINF:-1,RCN
+http://181.78.23.26:45000/play/a02h
+#EXTINF:-1,RCN (1024)
+http://179.49.163.34:45000/play/a033/index.m3u8
+#EXTINF:-1,TV Agro HD
+http://200.115.120.1:8000/play/ca049
+#EXTINF:-1, TVagro
+http://190.60.42.86:8000/play/a01h
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1,Telepacífico
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78729
 #EXTINF:-1,Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1,CanalUno 720
+http://181.205.130.194:4000/play/a0az
 #EXTINF:-1,Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Canal Institucional
@@ -64,8 +89,6 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 #EXTINF:-1,Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#1814000
 #EXTINF:-1,H&H
 http://181.205.130.194:4000/play/a080
 #EXTINF:-1,ESPN5
@@ -162,8 +185,6 @@ http://181.205.130.194:4000/play/a0ao
 http://181.205.130.194:4000/play/a0aq
 #EXTINF:-1,CanalUno 720
 http://181.205.130.194:4000/play/a0az
-
-#3831
 #EXTINF:-1,hbo family fhd
 http://38.180.133.31:8000/play/a0le/index.m3u8
 #EXTINF:-1,cinecanal 544
@@ -198,8 +219,6 @@ http://38.180.133.31:8000/play/a0p5/index.m3u8
 http://38.44.109.41:8003/play/a023/index.m3u8
 #EXTINF:-1,espn1 col (720)
 http://38.44.109.41:8003/play/a02v
-
-#290
 #EXTINF:-1,DisneyChannel 720
 http://200.60.124.19:29000/play/a010
 #EXTINF:-1,AnimalPlanet 720
@@ -264,8 +283,6 @@ http://200.60.124.19:29000/play/a04w
 http://200.60.124.19:29000/play/a04x
 #EXTINF:-1,espn5 720
 http://200.60.124.19:29000/play/a04y
-
-#800
 #EXTINF:-1,FX SD
 http://200.115.120.1:8000/play/ca017
 #EXTINF:-1,Warner SD
@@ -336,8 +353,6 @@ http://200.115.120.1:8000/play/ca047
 http://200.115.120.1:8000/play/ca032
 #EXTINF:-1,Golden Edge HD (Gua1)
 http://200.115.120.1:8000/play/ca037
-
-#238
 #EXTINF:-1,cartoonnetwork
 http://200.92.227.238:8000/play/a0le
 #EXTINF:-1,nickjunior
@@ -432,8 +447,6 @@ http://200.92.227.238:8000/play/a0on
 http://200.92.227.238:8000/play/a0oq
 #EXTINF:-1,UniversalPremier2
 http://200.92.227.238:8000/play/a0or
-
-#181
 #EXTINF:-1,hbo xtreme fhd
 http://181.78.106.127:9000/play/ca069
 #EXTINF:-1,hbo plus fhd
@@ -506,12 +519,6 @@ http://181.78.106.127:9000/play/ca030
 http://181.78.106.127:9000/play/ca031
 #EXTINF:-1,claro sport
 http://181.78.106.127:9000/play/ca038
-
-#1818000
-#EXTINF:-1,HBO pop FHD
-http://181.143.230.202:8000/play/a02p
-
-#45
 #EXTINF:-1,RCN 720
 http://181.78.23.26:45000/play/a02h
 #EXTINF:-1,A&E 720
@@ -552,8 +559,6 @@ http://179.49.163.34:45000/play/a020/index.m3u8
 http://179.49.163.34:45000/play/a032/index.m3u8
 #EXTINF:-1,RCN (1024)
 http://179.49.163.34:45000/play/a033/index.m3u8
-
-#16
 #EXTINF:-1,Hbo FHD
 http://45.228.234.30:16000/play/a008
 #EXTINF:-1,Hbo2 FHD
@@ -632,8 +637,6 @@ http://45.228.234.30:16000/play/a03d
 http://45.228.234.30:16000/play/a03h
 #EXTINF:-1,Espn4 FHD
 http://45.228.234.30:16000/play/a03i
-
-#190
 #EXTINF:-1, Dtheater
 http://190.60.42.86:8000/play/a002
 #EXTINF:-1, STAR
