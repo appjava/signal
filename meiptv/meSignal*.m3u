@@ -1,8 +1,8 @@
 #EXTM3U
 # Creado por el Purgador de Listas de appjava.dev
 
-#EXTINF:-1,BackTrack
-https://s19.fastream.to/hls2/05/00010/fevmelr545cp_l/master.m3u8?t=c9XcWJaohMTOHrJC_0f0wMi7FEfhRFppfF2W_b0uwqU&s=1763852481&e=43200&v=3531356&i=0.3&sp=0
+#EXTINF:-1,bactrack
+https://s19.fastream.to/hls2/04/00010/ki3ri9xnbcu9_l/master.m3u8?t=lf8E87oY7g8kHEyekiiYeppH-dbgWlCv7WtBlEXiTrU&s=1763853157&e=43200&v=3531314&i=0.3&sp=0
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
 #EXTINF:-1,Caracol (800)
