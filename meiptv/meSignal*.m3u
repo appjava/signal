@@ -1,11 +1,6 @@
 #EXTM3U
 # Creado por el Purgador de Listas de appjava.dev
 
-#EXTINF:-1,La Hermanastra Fea (2025)
-https://s8.vimeos.net/hls2/03/00007/dp8j0qcm1k34_h/master.m3u8?t=783Nqyu6fdB4kbc_ZE1IHNgmJCt9flg4wQrhQOioZUk&s=1770511723&e=43200&v=110730350&i=0.0&sp=0&fr=dp8j0qcm1k34&r=e
-#EXTINF:-1,A través del Fuego (2025)
-https://p3.vimeos.zip/hls2/02/00005/427ti7qei95w_h/index-v1-a1.m3u8?t=Lq36jGQHV-rrxG5JGz_CtjVWgZFNI0wRpacOWuzjaNY&s=1770512494&e=43200&v=110744927&srv=s12&i=0.3&sp=0&fr=427ti7qei95w&r=e
-
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
 #EXTINF:-1,Caracol (800)
@@ -26,8 +21,6 @@ http://181.78.23.26:45000/play/a02h
 http://179.49.163.34:45000/play/a033/index.m3u8
 #EXTINF:-1,TV Agro HD
 http://200.115.120.1:8000/play/ca049
-#EXTINF:-1, TVagro
-http://190.60.42.86:8000/play/a01h
 #EXTINF:-1,Telepacífico (1)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1,Telepacífico
@@ -40,46 +33,10 @@ http://181.205.130.194:4000/play/a0az
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF::-1,Red+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Pluto TV Cine Acción (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-#EXTINF:-1,Pluto TV Cine Estelar (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Cine Suspenso (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Estrellas de Acción (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Historia (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Velocidad​ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Mundo viajero Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:-1,Encantador de Perros Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, MacGyver Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Naturaleza
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Obsesión por los Autos Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Mi Coche Clásico Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Historias de Ultratumba Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:0, Smithsonian Channel Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0a5bc850-66f7-11ef-990f-c236ff993484&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dadb5ed1-9bf3-46f6-a2b7-01e9b9abb5c4&userId=&serverSideAds=true
-#EXTINF:-1,Cine Premiere Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812179c-61bc-11ef-afe6-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87d0c898-0a70-4d39-9887-d53430f887f5&userId=&serverSideAds=true
-#EXTINF:-1,Cine adrenalina Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=58121a1c-61bc-11ef-aa8e-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da3f56bc-cd4e-4068-a55c-d5a4b476af0f&userId=&serverSideAds=true
-#EXTINF:-1,Pelis y Popcorn Pluto
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5812194a-61bc-11ef-bae2-0faa828064d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3729dd5-675a-4cf4-9ac3-4d76fb16d2b5&userId=&serverSideAds=true
 #EXTINF:-1,AMC en Espanol
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,CGTN Español
@@ -110,10 +67,6 @@ http://181.205.130.194:4000/play/a0dq
 http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1,Caracol 720
 http://181.205.130.194:4000/play/a0dz
-#EXTINF:-1,NatGeo 720
-http://181.205.130.194:4000/play/a06c
-#EXTINF:-1,History 720
-http://181.205.130.194:4000/play/a06d
 #EXTINF:-1,cinecanal 720
 http://181.205.130.194:4000/play/a06e
 #EXTINF:-1,universal tv 720
@@ -138,8 +91,6 @@ http://181.205.130.194:4000/play/a06u
 http://181.205.130.194:4000/play/a06v
 #EXTINF:-1,DisneyChannel 720
 http://181.205.130.194:4000/play/a07c
-#EXTINF:-1,AnimalPlanet 720
-http://181.205.130.194:4000/play/a07e
 #EXTINF:-1,espn2 720
 http://181.205.130.194:4000/play/a07i
 #EXTINF:-1,espn1 720
@@ -164,8 +115,6 @@ http://181.205.130.194:4000/play/a0ck
 http://181.205.130.194:4000/play/a0ea
 #EXTINF:-1,Espn6 FHD
 http://181.205.130.194:4000/play/a0eh
-#EXTINF:-1,Paramount FHD
-http://181.205.130.194:4000/play/a0ei
 #EXTINF:-1,A&E FHD
 http://181.205.130.194:4000/play/a0em
 #EXTINF:-1,ComedyCentral FHD
@@ -190,104 +139,8 @@ http://181.205.130.194:4000/play/a0ao
 http://181.205.130.194:4000/play/a0aq
 #EXTINF:-1,CanalUno 720
 http://181.205.130.194:4000/play/a0az
-#EXTINF:-1,hbo family fhd
-http://38.180.133.31:8000/play/a0le/index.m3u8
-#EXTINF:-1,cinecanal 544
-http://38.180.133.31:8000/play/a0qd/index.m3u8
-#EXTINF:-1,cinecanal fhd
-http://38.180.133.31:8000/play/a0p4/index.m3u8
-#EXTINF:-1,amc 544
-http://38.180.133.31:8000/play/a0nj/index.m3u8
-#EXTINF:-1,warner 544
-http://38.180.133.31:8000/play/a0op/index.m3u8
-#EXTINF:-1,SPACE fhd
-http://38.180.133.31:8000/play/a0qj/index.m3u8
-#EXTINF:-1,cinelatino 544
-http://38.180.133.31:8000/play/a0qa/index.m3u8
-#EXTINF:-1,a&e 544
-http://38.180.133.31:8000/play/a0or/index.m3u8
-#EXTINF:-1,star fhd
-http://38.180.133.31:8000/play/a0p1/index.m3u8
-#EXTINF:-1,sony fhd
-http://38.180.133.31:8000/play/a0p3/index.m3u8
-#EXTINF:-1,sony 544
-http://38.180.133.31:8000/play/a0oo/index.m3u8
-#EXTINF:-1,espn mx 720
-http://38.180.133.31:8000/play/a0ox/index.m3u8
-#EXTINF:-1,espn2 fhd
-http://38.180.133.31:8000/play/a0w4/index.m3u8
-#EXTINF:-1,espn6 fhd
-http://38.180.133.31:8000/play/a0qo/index.m3u8
-#EXTINF:-1,tigo sport fhd
-http://38.180.133.31:8000/play/a0p5/index.m3u8
 #EXTINF:-1,cinemax (720)
 http://38.44.109.41:8003/play/a023/index.m3u8
-#EXTINF:-1,espn1 col (720)
-http://38.44.109.41:8003/play/a02v
-#EXTINF:-1,DisneyChannel 720
-http://200.60.124.19:29000/play/a010
-#EXTINF:-1,AnimalPlanet 720
-http://200.60.124.19:29000/play/a012
-#EXTINF:-1,warner 720
-http://200.60.124.19:29000/play/a013
-#EXTINF:-1,espn2 720
-http://200.60.124.19:29000/play/a015
-#EXTINF:-1,espn 720
-http://200.60.124.19:29000/play/a016
-#EXTINF:-1,TyC sport 720
-http://200.60.124.19:29000/play/a017
-#EXTINF:-1,A&E 720
-http://200.60.124.19:29000/play/a019
-#EXTINF:-1,LifeTime 720
-http://200.60.124.19:29000/play/a021
-#EXTINF:-1,Usa 720
-http://200.60.124.19:29000/play/a022
-#EXTINF:-1,cinemax 720
-http://200.60.124.19:29000/play/a025
-#EXTINF:-1,sony 720
-http://200.60.124.19:29000/play/a026
-#EXTINF:-1,axn 720
-http://200.60.124.19:29000/play/a027
-#EXTINF:-1,space 720
-http://200.60.124.19:29000/play/a028
-#EXTINF:-1,fx 720
-http://200.60.124.19:29000/play/a029
-#EXTINF:-1,tlc 720
-http://200.60.124.19:29000/play/a01b
-#EXTINF:-1,espn7 720
-http://200.60.124.19:29000/play/a01e
-#EXTINF:-1,espn6 720
-http://200.60.124.19:29000/play/a01f
-#EXTINF:-1,Nickelodeon 720
-http://200.60.124.19:29000/play/a01i
-#EXTINF:-1,cinecanal 720
-http://200.60.124.19:29000/play/a01l
-#EXTINF:-1,universal 720
-http://200.60.124.19:29000/play/a01m
-#EXTINF:-1,star 720
-http://200.60.124.19:29000/play/a01r
-#EXTINF:-1,tcm 720
-http://200.60.124.19:29000/play/a01s
-#EXTINF:-1,tnt 720
-http://200.60.124.19:29000/play/a01u
-#EXTINF:-1,tve 720
-http://200.60.124.19:29000/play/a01z
-#EXTINF:-1,ClaroCinema 720
-http://200.60.124.19:29000/play/a02b
-#EXTINF:-1,NickJunior 720
-http://200.60.124.19:29000/play/a02c
-#EXTINF:-1,Turbo 720
-http://200.60.124.19:29000/play/a02d
-#EXTINF:-1,Espn3 720
-http://200.60.124.19:29000/play/a02e
-#EXTINF:-1,D Investigación 720
-http://200.60.124.19:29000/play/a04v
-#EXTINF:-1,CanalClaro 720
-http://200.60.124.19:29000/play/a04w
-#EXTINF:-1,H&H 720
-http://200.60.124.19:29000/play/a04x
-#EXTINF:-1,espn5 720
-http://200.60.124.19:29000/play/a04y
 #EXTINF:-1,FX SD
 http://200.115.120.1:8000/play/ca017
 #EXTINF:-1,Warner SD
@@ -360,8 +213,6 @@ http://200.115.120.1:8000/play/ca032
 http://200.115.120.1:8000/play/ca037
 #EXTINF:-1,cartoonnetwork
 http://200.92.227.238:8000/play/a0le
-#EXTINF:-1,nickjunior
-http://200.92.227.238:8000/play/a0lf
 #EXTINF:-1,cartoonito
 http://200.92.227.238:8000/play/a0lg
 #EXTINF:-1,adultswim
@@ -438,8 +289,6 @@ http://200.92.227.238:8000/play/a0ob
 http://200.92.227.238:8000/play/a0oc
 #EXTINF:-1,CineCanal
 http://200.92.227.238:8000/play/a0od
-#EXTINF:-1,Nickelodeon
-http://200.92.227.238:8000/play/a0oh
 #EXTINF:-1,TNT
 http://200.92.227.238:8000/play/a0oj
 #EXTINF:-1,D Theater
@@ -452,78 +301,6 @@ http://200.92.227.238:8000/play/a0on
 http://200.92.227.238:8000/play/a0oq
 #EXTINF:-1,UniversalPremier2
 http://200.92.227.238:8000/play/a0or
-#EXTINF:-1,hbo xtreme fhd
-http://181.78.106.127:9000/play/ca069
-#EXTINF:-1,hbo plus fhd
-http://181.78.106.127:9000/play/ca070
-#EXTINF:-1,golden 544
-http://181.78.106.127:9000/play/ca076
-#EXTINF:-1,golden edge 720
-http://181.78.106.127:9000/play/ca078
-#EXTINF:-1,golden plus 720
-http://181.78.106.127:9000/play/ca078
-#EXTINF:-1,cinemax 544
-http://181.78.106.127:9000/play/ca079
-#EXTINF:-1,multipremier 544
-http://181.78.106.127:9000/play/ca087
-#EXTINF:-1,paramount fhd
-http://181.78.106.127:9000/play/ca082
-#EXTINF:-1,warner fhd
-http://181.78.106.127:9000/play/ca071
-#EXTINF:-1,axn fhd
-http://181.78.106.127:9000/play/ca085
-#EXTINF:-1,space fhd
-http://181.78.106.127:9000/play/ca072
-#EXTINF:-1,dePelicula hd 960
-http://181.78.106.127:9000/play/ca073
-#EXTINF:-1,Universal fhd
-http://181.78.106.127:9000/play/ca083
-#EXTINF:-1,Studio Universal fhd
-http://181.78.106.127:9000/play/ca074
-#EXTINF:-1,Comedy central fhd
-http://181.78.106.127:9000/play/ca050
-#EXTINF:-1,a&e fhd
-http://181.78.106.127:9000/play/ca086
-#EXTINF:-1,Studio fhd
-http://181.78.106.127:9000/play/ca074
-#EXTINF:-1,fx sd 544
-http://181.78.106.127:9000/play/ca075
-#EXTINF:-1,disney sd 544
-http://181.78.106.127:9000/play/ca053
-#EXTINF:-1,nickelodeon sd 544
-http://181.78.106.127:9000/play/ca052
-#EXTINF:-1,dreamworks hd 1280
-http://181.78.106.127:9000/play/ca054
-#EXTINF:-1,espn fhd
-http://181.78.106.127:9000/play/ca033
-#EXTINF:-1,espn2 fhd
-http://181.78.106.127:9000/play/ca034
-#EXTINF:-1,espn3 fhd
-http://181.78.106.127:9000/play/ca035
-#EXTINF:-1,espn4 fhd
-http://181.78.106.127:9000/play/ca036
-#EXTINF:-1,Liga
-http://181.78.106.127:9000/play/ca027
-#EXTINF:-1,tudn 1280
-http://181.78.106.127:9000/play/ca025
-#EXTINF:-1,tigo sport
-http://181.78.106.127:9000/play/ca038
-#EXTINF:-1,Studio Universal sd 544
-http://181.78.106.127:9000/play/ca088
-#EXTINF:-1,fox sport sd 640
-http://181.78.106.127:9000/play/ca031
-#EXTINF:-1,fox sport2 hd 1280
-http://181.78.106.127:9000/play/ca032
-#EXTINF:-1,sky sport 1280
-http://181.78.106.127:9000/play/ca028
-#EXTINF:-1,sky sport2 fhd
-http://181.78.106.127:9000/play/ca029
-#EXTINF:-1,sky sport3 fhd
-http://181.78.106.127:9000/play/ca030
-#EXTINF:-1,fox sport mx sd 640
-http://181.78.106.127:9000/play/ca031
-#EXTINF:-1,claro sport
-http://181.78.106.127:9000/play/ca038
 #EXTINF:-1,RCN 720
 http://181.78.23.26:45000/play/a02h
 #EXTINF:-1,A&E 720
@@ -596,10 +373,6 @@ http://45.228.234.30:16000/play/a02e
 http://45.228.234.30:16000/play/a01n
 #EXTINF:-1,Warner FHD
 http://45.228.234.30:16000/play/a01o
-#EXTINF:-1,Swing SD
-http://45.228.234.30:16000/play/a00k
-#EXTINF:-1,Space SD
-http://45.228.234.30:16000/play/a00n
 #EXTINF:-1,Natgeo SD
 http://45.228.234.30:16000/play/a00q
 #EXTINF:-1,Espn6 SD
@@ -636,215 +409,7 @@ http://45.228.234.30:16000/play/a01y
 http://45.228.234.30:16000/play/a02x
 #EXTINF:-1,Golden FHD
 http://45.228.234.30:16000/play/a03c
-#EXTINF:-1,GEdge FHD
-http://45.228.234.30:16000/play/a03d
 #EXTINF:-1,SkySport FHD
 http://45.228.234.30:16000/play/a03h
 #EXTINF:-1,Espn4 FHD
 http://45.228.234.30:16000/play/a03i
-#EXTINF:-1, Dtheater
-http://190.60.42.86:8000/play/a002
-#EXTINF:-1, STAR
-http://190.60.42.86:8000/play/a004
-#EXTINF:-1, TNT
-http://190.60.42.86:8000/play/a005
-#EXTINF:-1, STUDIO
-http://190.60.42.86:8000/play/a007
-#EXTINF:-1, Kids
-http://190.60.42.86:8000/play/a009
-#EXTINF:-1, LifeTime
-http://190.60.42.86:8000/play/a010
-#EXTINF:-1, DreamsWorks
-http://190.60.42.86:8000/play/a011
-#EXTINF:-1, Dpelicula
-http://190.60.42.86:8000/play/a013
-#EXTINF:-1, Multipremier
-http://190.60.42.86:8000/play/a016
-#EXTINF:-1, Natgeo
-http://190.60.42.86:8000/play/a017
-#EXTINF:-1, DChannel
-http://190.60.42.86:8000/play/a018
-#EXTINF:-1, TLC
-http://190.60.42.86:8000/play/a019
-#EXTINF:-1, SonyCH
-http://190.60.42.86:8000/play/a020
-#EXTINF:-1, History2
-http://190.60.42.86:8000/play/a022
-#EXTINF:-1, CNN
-http://190.60.42.86:8000/play/a036
-#EXTINF:-1, HBO
-http://190.60.42.86:8000/play/a044
-#EXTINF:-1, TeleAmiga
-http://190.60.42.86:8000/play/a045
-#EXTINF:-1, TCM
-http://190.60.42.86:8000/play/a047
-#EXTINF:-1, TNT Novelas
-http://190.60.42.86:8000/play/a048
-#EXTINF:-1, TVazteca
-http://190.60.42.86:8000/play/a049
-#EXTINF:-1, DisneyJR
-http://190.60.42.86:8000/play/a00a
-#EXTINF:-1, Turbo
-http://190.60.42.86:8000/play/a01a
-#EXTINF:-1, ESPN5
-http://190.60.42.86:8000/play/a02a
-#EXTINF:-1, FMHkids
-http://190.60.42.86:8000/play/a03a
-#EXTINF:-1, HolaTV
-http://190.60.42.86:8000/play/a04a
-#EXTINF:-1, DisneyCH
-http://190.60.42.86:8000/play/a00b
-#EXTINF:-1, H&H
-http://190.60.42.86:8000/play/a01b
-#EXTINF:-1, SonyMovs
-http://190.60.42.86:8000/play/a02b
-#EXTINF:-1, FMHmovies
-http://190.60.42.86:8000/play/a03b
-#EXTINF:-1, TeleVid
-http://190.60.42.86:8000/play/a04b
-#EXTINF:-1, Dscience
-http://190.60.42.86:8000/play/a01c
-#EXTINF:-1, A&E
-http://190.60.42.86:8000/play/a02c
-#EXTINF:-1, iM
-http://190.60.42.86:8000/play/a03c
-#EXTINF:-1, Tln Novelas
-http://190.60.42.86:8000/play/a00d
-#EXTINF:-1, Dinvestigation
-http://190.60.42.86:8000/play/a01d
-#EXTINF:-1, tvAzteca
-http://190.60.42.86:8000/play/a02d
-#EXTINF:-1, Atlas
-http://190.60.42.86:8000/play/a03d
-#EXTINF:-1, LasEstrellas
-http://190.60.42.86:8000/play/a00e
-#EXTINF:-1, AnimalPlanet
-http://190.60.42.86:8000/play/a01e
-#EXTINF:-1, iEntertainament
-http://190.60.42.86:8000/play/a02e
-#EXTINF:-1, FMHfamily
-http://190.60.42.86:8000/play/a03e
-#EXTINF:-1, Tln
-http://190.60.42.86:8000/play/a00d
-#EXTINF:-1, DInvestigation
-http://190.60.42.86:8000/play/a01d
-#EXTINF:-1, Cinema
-http://190.60.42.86:8000/play/a02d
-#EXTINF:-1, ATLAS
-http://190.60.42.86:8000/play/a03d
-#EXTINF:-1, Pasiones
-http://190.60.42.86:8000/play/a00f
-#EXTINF:-1, HogarTV
-http://190.60.42.86:8000/play/a01f
-#EXTINF:-1, DistritoComedia
-http://190.60.42.86:8000/play/a02f
-#EXTINF:-1, reWind
-http://190.60.42.86:8000/play/a03f
-#EXTINF:-1, HGTV
-http://190.60.42.86:8000/play/a01g
-#EXTINF:-1, Kizz
-http://190.60.42.86:8000/play/a03g
-#EXTINF:-1, TvAzteca
-http://190.60.42.86:8000/play/a00h
-#EXTINF:-1, TVagro
-http://190.60.42.86:8000/play/a01h
-#EXTINF:-1, Canal Congreso
-http://190.60.42.86:8000/play/a03h
-#EXTINF:-1, CineFamiliar
-http://190.60.42.86:8000/play/a01i
-#EXTINF:-1, FoodNetwork
-http://190.60.42.86:8000/play/a02i
-#EXTINF:-1, Bandamax
-http://190.60.42.86:8000/play/a03i
-#EXTINF:-1, espn4
-http://190.60.42.86:8000/play/a00j
-#EXTINF:-1, tvazteca
-http://190.60.42.86:8000/play/a02j
-#EXTINF:-1, BITME
-http://190.60.42.86:8000/play/a03j
-#EXTINF:-1, espn7
-http://190.60.42.86:8000/play/a00k
-#EXTINF:-1, Telemundo
-http://190.60.42.86:8000/play/a02k
-#EXTINF:-1, Telehit
-http://190.60.42.86:8000/play/a03k
-#EXTINF:-1, Rumbatv
-http://190.60.42.86:8000/play/a01l
-#EXTINF:-1, Telemedellin
-http://190.60.42.86:8000/play/a03l
-#EXTINF:-1, espn2
-http://190.60.42.86:8000/play/a00m
-#EXTINF:-1, TelemundoAccion
-http://190.60.42.86:8000/play/a03m
-#EXTINF:-1, espn3
-http://190.60.42.86:8000/play/a00n
-#EXTINF:-1, WarnerTV
-http://190.60.42.86:8000/play/a02n
-#EXTINF:-1, Cinemax
-http://190.60.42.86:8000/play/a03n
-#EXTINF:-1, dhe
-http://190.60.42.86:8000/play/a00o
-#EXTINF:-1, MemoriasTropical
-http://190.60.42.86:8000/play/a01o
-#EXTINF:-1, adult swim
-http://190.60.42.86:8000/play/a03o
-#EXTINF:-1, dw
-http://190.60.42.86:8000/play/a01p
-#EXTINF:-1, telehit Music
-http://190.60.42.86:8000/play/a03p
-#EXTINF:-1, D?
-http://190.60.42.86:8000/play/a00q
-#EXTINF:-1, espn
-http://190.60.42.86:8000/play/a01q
-#EXTINF:-1, CineCartoon
-http://190.60.42.86:8000/play/a02q
-#EXTINF:-1, tuenTV
-http://190.60.42.86:8000/play/a05q
-#EXTINF:-1, ?
-http://190.60.42.86:8000/play/a00r
-#EXTINF:-1, MemoriasToons
-http://190.60.42.86:8000/play/a02r
-#EXTINF:-1, tnt series
-http://190.60.42.86:8000/play/a03r
-#EXTINF:-1, ??
-http://190.60.42.86:8000/play/a00s
-#EXTINF:-1, espn6
-http://190.60.42.86:8000/play/a01s
-#EXTINF:-1, cablenoticias
-http://190.60.42.86:8000/play/a01t
-#EXTINF:-1, sonyCine
-http://190.60.42.86:8000/play/a02t
-#EXTINF:-1, A3S
-http://190.60.42.86:8000/play/a03t
-#EXTINF:-1, golden
-http://190.60.42.86:8000/play/a00u
-#EXTINF:-1, CinePremium
-http://190.60.42.86:8000/play/a01u
-#EXTINF:-1, SPACE
-http://190.60.42.86:8000/play/a03u
-#EXTINF:-1, Gedge
-http://190.60.42.86:8000/play/a00v
-#EXTINF:-1, babyTV
-http://190.60.42.86:8000/play/a01v
-#EXTINF:-1, amc
-http://190.60.42.86:8000/play/a03v
-#EXTINF:-1, MC
-http://190.60.42.86:8000/play/a01w
-#EXTINF:-1, France24
-http://190.60.42.86:8000/play/a03w
-#EXTINF:-1, universalTV
-http://190.60.42.86:8000/play/a00x
-#EXTINF:-1, HBOextreme
-http://190.60.42.86:8000/play/a03x
-#EXTINF:-1, USA
-http://190.60.42.86:8000/play/a00y
-#EXTINF:-1, AXN
-http://190.60.42.86:8000/play/a01y
-#EXTINF:-1, laKalleTV
-http://190.60.42.86:8000/play/a02y
-#EXTINF:-1, azteca Inter
-http://190.60.42.86:8000/play/a03y
-#EXTINF:-1, History
-http://190.60.42.86:8000/play/a01z
-#EXTINF:-1, HBO+
-http://190.60.42.86:8000/play/a03z
