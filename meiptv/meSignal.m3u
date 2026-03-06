@@ -1,6 +1,8 @@
 #EXTM3U
 # Creado por el Purgador de Listas de appjava.dev
 
+#EXTINF:-1,LIVE
+https://2smh3wve.58103793.net:8443/hls/4jva7tj642f9b.m3u8?s=_n8lCUy6uNjF7qsXdsCO9g&e=1772779708
 #EXTINF:-1,Caracol SD2
 http://200.115.120.1:8000/play/ca067
 #EXTINF:-1,Caracol (800)
