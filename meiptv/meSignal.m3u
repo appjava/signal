@@ -1,6 +1,11 @@
 #EXTM3U
 # Creado por el Purgador de Listas de appjava.dev
 
+#EXTINF:-1,W+
+https://6g4q11n3wstw.54434687.net:8443/hls/h5m4gyv36vtc.m3u8?s=cmCeJzVE2ILppTDY29YGQQ&e=1777181274
+#EXTINF:-1,Wplus GEO
+https://wp9xqedt.fubohd.com/winsportsplus/mono.m3u8?token=cd638e3f43ac36f1c62a79df62d73b7ed22de7d2-9b-1777179317-1777161317
+
 #EXTINF:-1,Xtreme
 http://201.230.137.204:8000/play/a0f7/index.m3u8
 #EXTINF:-1,ESPN4
