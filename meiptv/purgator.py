@@ -44,7 +44,7 @@ def purgar_lista_m3u_final(archivo_entrada_m3u, archivo_salida_m3u):
             print(f"({idx}/{total_canales}) Verificando: {url}")
             try:
                 resultado = subprocess.run(
-                    ['curl', '-I', '-L', '--connect-timeout', '10', url],
+                    ['curl', '-I', '-L', '--connect-timeout', '3', url],
                     capture_output=True, text=True, check=False, errors='ignore'
                 )
 
