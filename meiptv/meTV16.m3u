@@ -1,8 +1,11 @@
 #EXTM3U
 
 #-------------- Canales Activos
-#EXTINF:-1,Caracol Señal HD
-https://vid.tdtcloud.xyz/hls/CarSD1ok/index.m3u8?token=2jPXfm1tbTeHNmPbIqdQQg&expires=1792733298
+#EXTINF:-1,Caracol TV
+http://190.121.140.222:8081/CARACOL/index.m3u8
+##EXTINF:-1,Caracol Señal HD
+#https://vid.tdtcloud.xyz/hls/CarSD1ok/index.m3u8?token=FGEuQ-y0DDxLQ1LIs_DmLA&expires=1792780799
+
 #EXTINF:-1, Film&Arts
 http://45.228.234.30:16000/play/a002
 #EXTINF:-1, DHE
