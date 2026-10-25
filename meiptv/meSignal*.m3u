@@ -1,5 +1,17 @@
 #EXTM3U
 # Creado por el Purgador de Listas de appjava.dev
+#EXTINF:-1,Madre Siniestra 2026 (CAM)
+https://morencius.com/stream/B82U4VlJtC4C3JvnpihGlw/hjkrhuihghfvu/1793005279/43484281/index-v1-a1.m3u8
+
+#EXTINF:-1,Resident Evil 2026 (CAM) op1
+https://s40.fastream.to/hls2/09/00084/yfqwbmdslxe1_,l,n,.urlset/master.m3u8?t=0rd_oKKu8m2hRvBHfzlI4dyJaODRzys6_0ralajjwus&s=1792962210&e=43200&v=665818&i=0.3&sp=0
+#EXTINF:-1,Resident Evil 2026 (CAM) op2
+https://s40.fastream.to/hls2/09/00084/yfqwbmdslxe1_n/index-v1-a1.m3u8?t=0rd_oKKu8m2hRvBHfzlI4dyJaODRzys6_0ralajjwus&s=1792962210&e=43200&v=665818&i=0.3&sp=0
+
+#EXTINF:-1,ClayFace 2026 (CAM) op1
+https://rnzt2t4xvku08.l5b3rd55p9.shop/5TICbOQKpSaA/hls3/01/08741/ft0ukvhreid7_n/master.txt
+#EXTINF:-1,ClayFace 2026 (CAM) op2
+https://rnzt2t4xvku08.l5b3rd55p9.shop/5TICbOQKpSaA/hls3/01/08741/ft0ukvhreid7_n/index-v1-a1.txt
 
 #EXTINF:-1,Caracol Señal HD
 https://vid.tdtcloud.xyz/hls/CarSD1ok/index.m3u8?token=2jPXfm1tbTeHNmPbIqdQQg&expires=1792733298
